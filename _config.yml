@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   compartilhar e construir seu conhecimento. Esse site oferece aos educadores um leque de tecnologias 
   e novos modelos para que possam ampliar seus horizontes.
 baseurl: "" # the subpath of your site, e.g. /blog http://soraianovaes.com/blog
-url: "codecamp.com.br" # the base hostname & protocol for your site
+url: "http://codecamp.com.br" # the base hostname & protocol for your site
 twitter_username: edtecnova
 github_username:  snvas
 
