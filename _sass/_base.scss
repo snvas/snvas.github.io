@@ -234,7 +234,11 @@ img {
   margin: 0 0 1rem;
   border-radius: 5px;
 }
-
+.logo img{
+    display: normal;
+    max-width: 300px;
+    float: left;
+    }
 table {
   margin-bottom: 1rem;
   width: 100%;
