@@ -9,8 +9,9 @@ Aqui você vai encontrar recursos digitais para educação. Nosso foco são as t
 <div style="max-width: 30% !important; float: left;">
 <img src="http://edtecnova.com.br/ebook/images/book-mockup.png" alt="" width="100%" /></div>
 
-Em cada post, vamos trazer uma das tecnologias classificadas no livro [Tecnologias para Inovação nas Escolas](https://www.edtecnova.com.br/ebook)
-Esperamos criar aquie um espaço de troca de ideias de uso dos recursos gratuitos mais inovadores disponíveis na web.
+Em cada post, vamos trazer uma das tecnologias classificadas no livro [Tecnologias para Inovação nas Escolas](https://www.edtecnova.com.br/ebook).
+
+Esperamos criar aqui um espaço de troca de ideias de uso dos recursos gratuitos mais inovadores que encontramos na web.
 
 Quando se fala em tecnologia para educação sempre nos preocupamos com as limitações de recursos enfrentadas no dia a dia das escolas, eles existem e são muitos, mas precisamos fazer o que for possível sempre. 
 
