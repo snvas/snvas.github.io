@@ -1,7 +1,7 @@
 ---
 title: "Vamos Reinventar a Educação"
 layout: post
-date: 2016-05-22 05:34:42
+date: 2016-05-21 05:34:42
 tags: 
  - edtech 
  - education 

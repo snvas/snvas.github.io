@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Educação + Tecnologia = Inovação"
-date:   2016-05-20 01:55:36 -0300
+date:   2016-05-19 01:55:36 -0300
 tags: 
  - edtech 
  - education 

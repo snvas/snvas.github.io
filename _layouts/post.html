@@ -11,6 +11,14 @@ layout: default
     </div>
 
     {{ content }}
+ 
+  <p class="post-date" style="text-align: right">
+{% if page.next %}
+  <a href="{{ site.url }}{{ page.next.url }}">
+   Próximo
+  </a> 
+{% endif %}</p>
+
  <div id="disqus_thread"></div>
 <script>
 	var disqus_config = function () {
