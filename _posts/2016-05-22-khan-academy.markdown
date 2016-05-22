@@ -1,5 +1,5 @@
 ---
-title: "Edmodo"
+title: "Khan Academy"
 layout: post
 date: 2016-05-22 05:34:42
 categories: edtech education innovation
