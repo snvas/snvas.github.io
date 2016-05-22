@@ -1,9 +1,12 @@
 ---
+title: "Edmodo"
 layout: post
-title:  "Khan Academy"
-date:   2016-05-21 02:25:36 -0300
+date: 2016-05-22 05:34:42
 categories: edtech education innovation
 ---
+
+Quando assisti esse vídeo percebi que estava diante da maior inovação para educação na internet que eu já tinha visto.
+
 
 A plataforma mais divertida e eficiente para aprender matemática já inventada.
 
