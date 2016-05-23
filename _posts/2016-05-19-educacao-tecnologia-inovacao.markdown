@@ -2,6 +2,7 @@
 layout: post
 title:  "Educação + Tecnologia = Inovação"
 date:   2016-05-19 01:55:36 -0300
+author: soraia
 tags: 
  - edtech 
  - education 
