@@ -1,8 +1,8 @@
 ---
-title: "Vamos Reinventar a Educação"
+title: "Vamos Reinventar a Educação?"
 layout: post
 date: 2016-05-21 05:34:42
-author: dave
+author: soraia
 tags: 
  - edtech 
  - education 
@@ -10,8 +10,7 @@ tags:
  - professores
 ---
 
-Quando assisti esse vídeo percebi que estava diante da maior inovação para educação que eu já tinha visto na internet. Entendi, logo que comecei a usar, que era a plataforma mais divertida e eficiente para aprender matemática que eu já tinha usado. O que eram aqueles avatares fofos, evoluindo e ganhando medalhas com nomes super criativos?? Simplesmente adorei!!
-Era março de 2011 e a Khan Academy estava quase toda em Inglês ainda.
+Quando eu assisti esse vídeo pela primeira vez, percebi que estava diante da maior inovação para educação que eu já tinha visto na internet. Entendi, logo que comecei a usar, que era a plataforma mais divertida e eficiente para aprender matemática que eu já tinha experimentado. O que eram aqueles avatares fofos, evoluindo e ganhando medalhas com nomes super criativos?? Simplesmente adorei!! Era março de 2011 e a Khan Academy estava quase toda em Inglês ainda.
 
 Salman Khan fala sobre como e por que ele criou a notável Khan Academy, uma série cuidadosamente estruturada de vídeos educativos que oferecem currículo completo de matemática e, agora, de outros assuntos. Ele mostra o poder dos exercícios interativos e apela para que os professores considerem inverter o formato tradicional da sala de aula - dar aos alunos aulas em vídeo para assistir em casa, e fazer "lição de casa" na sala de aula com o professor disponível para ajudar.
 
@@ -32,4 +31,3 @@ E milhões de estudantes e professores do mundo todo estão descobrindo
 
 O que a Khan Academy faz é espetacular! O que Salman Khan criou nos dá a esperança de que uma revolução na educação está próxima.
 
- 

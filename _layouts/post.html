@@ -6,17 +6,14 @@ layout: default
 <article class="content post">
 	<h1 class="post-title">{{ page.title }}</h1>
     <div class="post-date">
-    	<time>{{ page.date | date_to_string }}</time>
-    	<span class="reading-time"> - {{minutesText}}</span>
-    </div>
-    <div class="author">
      {% assign author = site.data.people[page.author] %}
-        <a rel="author"
-         href="{{ author.twitter }}"
+        <a class="reading-time" rel="author"
+         href="/about/"
          title="{{ author.name }}">
      {{ author.name }}
-        </a>
-    </div>
+        </a> | <time>{{ page.date | date_to_string }}</time>
+    	<span class="reading-time"> | {{minutesText}}</span>
+   </div>
 
     {{ content }}
  
