@@ -6,6 +6,7 @@ tags:
  - edtech 
  - education 
  - innovation
+---
 
 A inovação só acontece quando existe um beníficio, um valor real, para quem usa o que foi inventado. Gosto de definir a **INOVAÇÃO**, como **Uma Nova Ação** para se viver melhor. A escola deve ser um lugar agradável e inspirador para todas as crianças. 
 

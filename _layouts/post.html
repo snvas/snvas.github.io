@@ -12,29 +12,23 @@ layout: default
 
     {{ content }}
  
-  <p class="post-date" style="text-align: right">
-{% if page.next %}
-  <a href="{{ site.url }}{{ page.next.url }}">
-   Próximo
-  </a> 
-{% endif %}</p>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{ paginator.next_page }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{ paginator.previous_page }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+  
+	<div class="pagination">
+  	{% if paginator.next_page %}
+    	<a class="post-date" href="page.url{{ paginator.next_page }}">Anterior</a>
+  	{% else %}
+    	<span class="post-date">Anterior</span>
+  	{% endif %}
+  	{% if paginator.previous_page %}
+    	{% if paginator.page == 1 %}
+      <a class="post-date" href="/">Próximo</a>
+    	{% else %}
+      <a class="post-date" href="page.url{{ paginator.previous_page }}">Próximo</a>
+    	{% endif %}
+  	{% else %}
+    <span class="post-date">Próximo</span>
+  	{% endif %}
+	</div>
 
  <div id="disqus_thread"></div>
 <script>
@@ -53,4 +47,11 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<p class="post-date" style="text-align: right">
+{% if page.next %}
+  <a href="{{ page.next.url }}">
+   Próximo
+  </a> 
+{% endif %}</p>
 </article>

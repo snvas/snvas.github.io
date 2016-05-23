@@ -7,6 +7,7 @@ tags:
  - education 
  - innovation
 ---
+
 Aqui você vai encontrar recursos digitais para educação. Nosso foco são as tecnologias gratuitas que podem ampliar a democratização do acesso à educação de qualidade.
 
 <div style="max-width: 30% !important; float: left;">
