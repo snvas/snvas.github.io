@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Recado para as Escolas direto do Campus São Paulo"
-date:   2016-08-25 20:55:36 -0300
+title:  "Recado para as Escolas direto do Campus Madri"
+date:   2016-09-02 20:55:36 -0300
 author: soraia
 tags: 
  - edtech 
@@ -15,7 +15,7 @@ As escolas públicas ou privadas tem direito a uma conta educacional do Google A
 <iframe 
   width="100%" 
   height="455" 
-  src="http://www.youtube.com/embed/AUsU0YBfheE" 
+  src="http://www.youtube.com/embed/lOxyUOQR2is" 
   frameborder="0" 
   allowfullscreen>
 </iframe>
