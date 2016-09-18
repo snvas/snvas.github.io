@@ -17,4 +17,4 @@ As ferramentas foram analisadas para entendermos como funcionam e para quem se a
 
 A ideia é desenvolver habilidades e competências, melhorar o processo ensino-aprendizagem, contribuir para qualificação profissional dos jovens e formar multiplicadores na rede de ensino. Esperamos ver cada vez mais profissionais da educação capacitados no uso de tecnologias digitais que facilitam a aprendizagem. 
 
-Saiba mais sobre as ferramentas digitais no e-book  [Tecnologias para Inovação nas Escolas](https://www.edtecnova.com.br/ebook).
+Saiba mais sobre as ferramentas digitais no e-book  [Tecnologias para Inovação nas Escolas](http://www.edtecnova.com.br/ebook).
