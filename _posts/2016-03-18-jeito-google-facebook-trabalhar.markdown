@@ -27,9 +27,13 @@ Voltei para o Maringá, e depois de 7 anos que ela estava lá, consegui visitá-
 As duas gigantes da internet são bons exemplos de como a gestão de pessoas mudou!
 
 Vejamos alguns dados sobre as 100 melhores empresas para trabalhar
+
 38% dos funcionários tem até 25 anos
+
 37% tem entre 25 e 34 anos
+
 56% das empresas premiadas oferecem mais de 50 horas de treinamento por ano por funcionário
+
 48% investem mais de 5% da folha de pagamento em treinamento
 
 Voltando para o Vale do Silício, começamos explorando o GooglePlex, o quartel general da Google, em Montain View
