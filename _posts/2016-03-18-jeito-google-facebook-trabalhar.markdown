@@ -35,7 +35,7 @@ Vejamos alguns dados sobre as 100 melhores empresas para trabalhar
 Voltando para o Vale do Silício, começamos explorando o GooglePlex, o quartel general da Google, em Montain View
 Em uma área de 32 hectares
 
-<iframe src="https://docs.google.com/presentation/d/1rT17I-lcevVxLAxVVTb2WNvKaTiMFq2tKBAOtultN3E/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1rT17I-lcevVxLAxVVTb2WNvKaTiMFq2tKBAOtultN3E/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="489" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Androids gigantes para nos dar as boas vindas
 
@@ -160,6 +160,7 @@ Tudo para você ficar confortável e altamente produtivo.
   allowfullscreen>
 </iframe>
 
-Mesa do Mark Zuckerberg, o 16o. mais rico do mundo na lista da Forbes, com patrimônio de 46,4 bilhões de dólares
+Mesa do Mark Zuckerberg, o 16o. mais rico do mundo na lista da Forbes, com patrimônio de 46,4 bilhões de dólares e sua Sala de apoio
 
-Sala de apoio do Mark Zuckerberg
+Você tem uma ideia de tudo que tem na google, dá uma olhada nesse [mapa mental](http://professoragoogle.com.br/produtos/voce-sabe-tudo-que-tem-na-google/).
+
