@@ -31,4 +31,4 @@ Saiba mais sobre o trabalho dos Innovators assistindo a playlist:
   allowfullscreen>
 </iframe>
 
-Acompanhe as novidades dos Innovators em Ação seguindo a gente no [Facebook](https://www.facebook.com/innovatorsbr/) e se inscrevendo no canal no [YouTube](https://www.youtube.com/channel/UCC_3J1-F5Jj9t0dikFSS5bw). 
+Acompanhe as novidades dos Innovators em ação seguindo no [Facebook](https://www.facebook.com/innovatorsbr/) e se inscrevendo no canal no [YouTube](https://www.youtube.com/channel/UCC_3J1-F5Jj9t0dikFSS5bw). Saiba mais pelo site [Innovators Brasil](http://www.innovatorbrasil.com/)
