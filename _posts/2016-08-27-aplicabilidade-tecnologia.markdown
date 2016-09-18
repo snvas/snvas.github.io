@@ -23,5 +23,3 @@ Um debate sobre a aplicação de tecnologia dentro de conteúdos educacionais. P
   allowfullscreen>
 </iframe>
 
-
-[Google em Tempo Real]![Google em Tempo Real](https://www.buddyloans.com/blog/wp-content/uploads/2014/07/real-time.jpg) (https://www.buddyloans.com/blog/google-in-realtime/)
