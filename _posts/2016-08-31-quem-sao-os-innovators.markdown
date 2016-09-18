@@ -13,11 +13,11 @@ tags:
 
 ### Professores Inovadores Google
 
-####Na visão do Google
+#### Na visão do Google
 
 Os Google Innovators são educadores selecionados e certificados pelo Google que demonstraram ser embaixadores da mudança e empoderamento de professores e alunos de forma a fomentar uma cultura de inovação próspera dentro da sala de aula, escola e organizações de ensino.
 
-####Na nossa visão
+#### Na nossa visão
 
 Multicultural, donos de multiplicidades. Únicos. Sonhadores. Nerds. Geeks. Antenados. Apaixonados. Super persistentes. Resilientes sempre. Amantes da tecnologia centrada no ser humano. Educadores. Visionários. Inovadores. De todas as tribos. Incansáveis. Estes aqui são os Google Innovators.
 
