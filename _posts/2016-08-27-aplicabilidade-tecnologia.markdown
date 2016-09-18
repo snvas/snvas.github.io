@@ -17,7 +17,7 @@ Um debate sobre a aplicação de tecnologia dentro de conteúdos educacionais. P
 
 <iframe 
   width="100%" 
-  height="515" 
+  height="455" 
   src="http://www.youtube.com/embed/zIzkV2xIfZA" 
   frameborder="0" 
   allowfullscreen>

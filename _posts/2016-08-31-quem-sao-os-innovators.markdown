@@ -25,7 +25,7 @@ Saiba mais sobre o trabalho dos Innovators assistindo a playlist:
 
 <iframe 
   width="100%" 
-  height="315" 
+  height="455" 
   src="https://www.youtube.com/embed/Od8ODCb21jc?list=PLBXpnsR1Z9bAqBO2VEi4eT5L0dkJO_YMq&amp;showinfo=0" 
   frameborder="0" 
   allowfullscreen>
