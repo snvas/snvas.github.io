@@ -12,6 +12,22 @@ tags:
 
 As escolas públicas ou privadas tem direito a uma conta educacional do Google Apps. Se a sua escola ainda não usa, se liga no recado e [saiba mais](http://professoragoogle.com.br).
 
+Acesse o [formulário de inscrição do Google Apps for Education](https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU#0). 
+
+Forneça informações sobre você e sua instituição.
+
+Clique em Próxima.
+
+Forneça o domínio da sua instituição.
+
+Clique em Próxima.
+
+Forneça informações para criar uma conta de administrador. Essa é a conta que você usará para fazer login na sua conta do Google Apps for Education. 
+
+Você deve ler e concordar com o contrato do Google Apps for Education.
+
+Clique em Aceitar e inscrever-se. Você receberá um e-mail com informações sobre a nova conta.
+
 <iframe 
   width="100%" 
   height="455" 
