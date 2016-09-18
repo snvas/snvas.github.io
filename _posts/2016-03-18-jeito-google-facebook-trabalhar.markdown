@@ -12,14 +12,14 @@ tags:
 
 Hello!
 
-<div style="max-width: 30% !important; float: left;">
+<div style="max-width: 100% !important; float: left;">
 <img src="http://edtecnova.com.br/images/fichario.jpg" alt="" width="100%" /></div>
 Sou do tempo em que para se fazer uma pesquisa era preciso muita paciência e persistência
-<div style="max-width: 30% !important; float: left;">
+<div style="max-width: 100% !important; float: left;">
 <img src="http://edtecnova.com.br/images/oldredes.jpg" alt="" width="100%" /></div>
 Quando as redes sociais nos conectavam a um mundo sem internet
-<div style="max-width: 30% !important; float: left;">
-<img src="http://edtecnova.com.br/images/opera.jpg" alt="" width="100%" /></div>
+![Ópera de Arame em Curitiba](http://edtecnova.com.br/images/opera.jpg)
+
 Em 1998 quando a Google foi criada, eu já estudava Comunicação na capital e fiquei muita amiga de uma curitibana que depois da faculdade resolveu morar na califórnia.
 
 Voltei para o Maringá, e depois de 7 anos que ela estava lá, consegui visitá-la pela primeira vez, para enfim conhecer o famoso Vale do Silício. Lá aprendi que quem tem amigo não morre de fome. No mesmo dia, almoçamos na Google e jantamos no Facebook. E é sobre o que descobrimos naquele dia que vou compartilhar com vocês hoje.
