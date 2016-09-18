@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Por que não usar o Office 365"
-date:   2016-05-19 01:55:36 -0300
+date:   2016-05-23 14:55:36 -0300
 author: soraia
 tags: 
  - edtech 
@@ -9,7 +9,7 @@ tags:
  - innovation
 ---
 
-Quando um processo de trabalho usando tecnologia se torna um retrabalho é triste. O conceito de compartilhamento e os processos de trabalho na nuvem mudam completamente nossa forma de interagir com a tecnologia e aumentam a produtividade.
+Quando um processo de trabalho usando tecnologia se torna um retrabalho é triste. O conceito de compartilhamento e os processos de trabalho na nuvem mudam completamente nossa forma de interagir com a tecnologia e aumentam a produtividade. Saiba mais sobre [O Poder da colaboração com Google Apps](http://googletrainer.teachable.com/p/como-usar-google-apps) no curso online.
 
 <iframe 
   width="100%" 
