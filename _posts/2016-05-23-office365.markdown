@@ -9,7 +9,7 @@ tags:
  - innovation
 ---
 
-Quando um processo de trabalho usando tecnologia se torna um retrabalho é triste. O conceito de compartilhamento e os processos de trabalho na nuvem mudam completamente nossa forma de interagir com a tecnologia e aumentam a produtividade. Saiba mais sobre [O Poder da colaboração com Google Apps](http://googletrainer.teachable.com/p/como-usar-google-apps) no curso online.
+Quando um processo de trabalho usando tecnologia se torna um retrabalho é triste. O conceito de compartilhamento e os processos de trabalho na nuvem mudam completamente nossa forma de interagir com a tecnologia e aumentam a produtividade. Saiba mais sobre [O Poder da colaboração com Google Apps](http://googletrainer.teachable.com/p/como-usar-google-apps) no curso online e pare de sofrer com ferramentas precárias.
 
 <iframe 
   width="100%" 
