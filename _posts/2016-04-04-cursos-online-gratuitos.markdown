@@ -206,4 +206,70 @@ Soluções de mobilidade para empresas - 1 h/a
 
 Soluções de segurança em camadas da Dell - 1 h/a
 
-<a class="btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/DELL+TRAINING+CENTER/" target="_blank">Saiba Mais</a>
+<a class="button btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/DELL+TRAINING+CENTER/" target="_blank">Saiba Mais</a>
+
+<div id="ciee"></div>
+ATENDIMENTO AO CLIENTE - 5 h/a
+
+COMUNICAÇÃO VIRTUAL NO AMBIENTE CORPORATIVO - 3 h/a
+
+PRODUÇÃO DE TEXTOS E REDAÇÃO EMPRESARIAL - 12 h/a
+
+ATUALIZAÇÃO GRAMATICAL - 12 h/a
+
+INGLÊS - ELEMENTARY I - 45 h/a
+
+LÓGICA E CRIATIVIDADE - 3 h/a
+
+MÉTODOS E TÉCNICAS DE PESQUISA - 3 h/a
+
+PROFISSÕES DO FUTURO - 5 h/a
+
+COMO ADMINISTRAR SUAS FINANÇAS - 5 h/a
+
+AÇÕES ESTRATÉGICAS PARA ESCOLHA PROFISSIONAL - 5 h/a
+
+ADMINISTRAÇÃO DO TEMPO - 3 h/a
+
+ATENÇÃO CONCENTRADA - 3 h/a
+
+ATITUDE EMPREENDEDORA - 3 h/a
+
+COMO SE ORGANIZAR NO AMBIENTE DE TRABALHO - 3 h/a
+
+CURRÍCULO SEM SEGREDO - 5 h/a
+
+DIN MICAS E TESTES NA SELEÇÃO - 3 h/a
+
+ENTREVISTA: COMO ENCARÁ-LA! - 3 h/a
+
+ORIENTAÇÃO E INFORMAÇÃO PROFISSIONAL - 3 h/a
+
+POSTURA E IMAGEM PROFISSIONAL - 5 h/a
+
+RELACIONAMENTO INTERPESSOAL: DA INTELIGÊNCIA EMOCIONAL À NEGOCIAÇÃO - 3 h/a
+
+RESOLUÇÃO DE PROBLEMAS - 3 h/a
+
+INTRODUÇÃO A PROJETOS - 3 h/a
+
+MATEMÁTICA BÁSICA I - 7 h/a
+
+MATEMÁTICA FINANCEIRA I - 20 h/a
+
+MATEMÁTICA FINANCEIRA II - 20 h/a
+
+EDUCAÇÃO FISCAL - 40 h/a
+
+CIDADANIA E MEIO AMBIENTE - 5 h/a
+
+APRESENTAÇÕES EM POWERPOINT - 1 h/a
+
+FUNDAMENTOS DE REDE I - 8 h/a
+
+FUNDAMENTOS DE REDE II - 8 h/a
+
+SMARTPHONE - 2 h/a
+
+<a class="button btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/ead+ciee/" target="_blank">Saiba Mais</a>
+
