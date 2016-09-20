@@ -149,7 +149,7 @@ Sistemas de Conectividade - 40 h/a
 
 Sistemas Operacionais - 4 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/brasil+TI+Maior/" target="_blank"><button>Saiba Mais</button></a>
+<a class="btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/brasil+TI+Maior/" target="_blank">Saiba Mais</a>
 
 <div id="codestudio"></div>
 Hora do Código Angry Birds - 1 h/a
@@ -173,6 +173,9 @@ Curso 2 Code - 5 h/a
 Curso 3 Code - 5 h/a
 
 Curso 4 Code - 5 h/a
+
+<a class="btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/CODE+STUDIO/" target="_blank">Saiba Mais</a>
+
 
 <div id="dell"></div>
 Computação em Nuvem - 1 h/a
@@ -202,3 +205,5 @@ PowerEdge VRTX - 1 h/a
 Soluções de mobilidade para empresas - 1 h/a
 
 Soluções de segurança em camadas da Dell - 1 h/a
+
+<a class="btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/DELL+TRAINING+CENTER/" target="_blank">Saiba Mais</a>
