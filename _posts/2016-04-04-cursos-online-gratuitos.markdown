@@ -64,6 +64,9 @@ Garimpamos na internet mais de 600 cursos online em português GRATUITOS ofereci
 ### Fundação Bradesco 
 [48 cursos online](#bradesco)
 
+### Google Trainer Soraia Novaes
+[5 cursos](#trainer)
+
 ### HP LIFE
 [25 cursos online](#hp)
 
@@ -916,6 +919,21 @@ Segurança da Informação - 23 h/a
 
 <a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/Funda%E7%E3o+Bradesco/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
 
+<div id="trainer"></div>
+
+### Google Trainer Soraia Novaes
+
+<a href="http://googletrainer.teachable.com/p/como-usar-seu-smartphone-para-trabalhar" target="_blank">Como Usar seu Smartphone para Trabalhar</a>
+
+<a href="http://googletrainer.teachable.com/p/como-usar-google-apps" target="_blank">O Poder da Colaboração com Google Apps</a>
+
+<a href="http://googletrainer.teachable.com/p/como-usar-a-khan-academy" target="_blank">Como Usar a Khan Academy</a>
+
+<a href="http://googletrainer.teachable.com/p/criacao-de-conteudo-com-google-sites" target="_blank">Como Criar Sites com Google Sites</a>
+
+<a href="http://googletrainer.teachable.com/p/novidades-tecnologicas" target="_blank">Novidades Tecnológias</a>
+
+
 <div id="hp"></div>
 
 ### HP LIFE
@@ -1635,3 +1653,4 @@ Você também pode encontrar + 600 cursos online gratuitos organizados por área
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_T%EAxtil+e+Vestu%E1rio/#cursos" target="_blank">Têxtil e Vestuário</a>
 
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Transportes/#cursos" target="_blank">Transportes</a>
+
