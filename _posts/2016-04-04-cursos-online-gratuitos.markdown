@@ -215,7 +215,7 @@ Soluções de mobilidade para empresas - 1 h/a
 
 Soluções de segurança em camadas da Dell - 1 h/a
 
-<a class="button btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/DELL+TRAINING+CENTER/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a class="button btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/DELL+TRAINING+CENTER/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="ciee"></div>
 
@@ -283,7 +283,7 @@ FUNDAMENTOS DE REDE II - 8 h/a
 
 SMARTPHONE - 2 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/ead+ciee/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/ead+ciee/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="sebrae"></div>
 
@@ -335,7 +335,7 @@ Gestão da Qualidade: Visão Estratégica - 20 h/a
 
 D-Olho na Qualidade: 5Ss para os pequenos negócios - 16 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SEBRAE/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SEBRAE/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="senai"></div>
 
@@ -367,7 +367,7 @@ Tecnologia da Informação e Comunicação - 14 h/a
 
 Lógica de Programação - 14 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SENAI/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SENAI/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="senado"></div>
 
@@ -421,7 +421,7 @@ Processo Legislativo Federal - 45 h/a
 
 Relações Internacionais: Teoria e História - 60 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SENADO+FEDERAL/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SENADO+FEDERAL/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="sesipr"></div>
 
@@ -469,7 +469,7 @@ SAÚDE VOCAL - 12 h/a
 
 TEAR, MÁQUINA DE COSTURA RETA E CORTE DE TECIDOS - 10 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SESI+PR/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SESI+PR/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="sestsenat"></div>
 
@@ -511,7 +511,7 @@ Irfanview
 
 Tecnologia XML 
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+Educa%E7%E3o+a+Dist%E2ncia+do+Centro+de+Computa%E7%E3o+da+Unicamp/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+Educa%E7%E3o+a+Dist%E2ncia+do+Centro+de+Computa%E7%E3o+da+Unicamp/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="usp"></div>
 
@@ -641,7 +641,7 @@ Construção do Projeto Político Pedagógico Inserida numa Gestão Democrática
 
 Leitura em Inglês - 2 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EDAD+UTFPR/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EDAD+UTFPR/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="endeavor"></div>
 
@@ -656,7 +656,7 @@ Como aumentar e gerenciar suas vendas - 4 h/a
 Ferramentas práticas de Inovação: inovar para se diferenciar - 3 h/a
 
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/endeavor/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/endeavor/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="espm"></div>
 
@@ -676,7 +676,7 @@ EMPREENDEDORIMO - 16 h/a
 
 LIDERANÇA DE EQUIPES - 6 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/ESPM+Online/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/ESPM+Online/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="fgv"></div>
 
@@ -774,7 +774,7 @@ SUSTENTABILIDADE, UM VALOR PARA A NOVA GERAÇÃO: ORIENTAÇÕES PARA O PROFESSOR
 
 SUSTENTABILIDADE APLICADA AOS NEGÓCIOS: ORIENTAÇÕES PARA GESTORES - 10 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FGV+Online/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FGV+Online/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="fiap"></div>
 
@@ -812,7 +812,7 @@ Azure Web Apps - 1 h/a
 
 Gestão de Projetos - 1 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FIAP+X/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FIAP+X/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="bradesco"></div>
 
@@ -914,7 +914,7 @@ Fundamentos de Rede - 35 h/a
 
 Segurança da Informação - 23 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/Funda%E7%E3o+Bradesco/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/Funda%E7%E3o+Bradesco/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="hp"></div>
 
@@ -970,7 +970,7 @@ Benefícios de marketing versus características
 
 Eficiência energética: Fazer mais por menos
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/HP+LIFE/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/HP+LIFE/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="intel"></div>
 
@@ -1054,7 +1054,7 @@ Segurança para a consumerização - 7 h/a
 
 Storage - 8 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/INTEL+Di%E1logo+TI/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/INTEL+Di%E1logo+TI/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="khan"></div>
 
@@ -1182,7 +1182,7 @@ Hora do Código Aprenda a Criar Páginas Web Khan Academy - 1 h/a
 
 Hora do Código Banco de Dados Khan Academy - 1 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/KHAN+ACADEMY/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/KHAN+ACADEMY/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="microsoft"></div>
 
@@ -1340,7 +1340,7 @@ Interoperabilidade e Cloud Computing - 1 h/a
 
 Proteção de informações com Azure RMS - 1 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/MICROSOFT+VIRTUAL+ACADEMY/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/MICROSOFT+VIRTUAL+ACADEMY/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="tim"></div>
 
@@ -1380,7 +1380,7 @@ Introdução à programação em linguagem JAVA - 1 h/a
 
 Produção de Vídeos Educacionais para Web - 1 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/TIM+TEC/" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/TIM+TEC/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="univesp"></div>
 
@@ -1464,7 +1464,7 @@ Qualidade da Democracia - 9 h/a
 
 Química Geral e Inorgânica Básica - 12 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/UNIVESP+TV" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/UNIVESP+TV" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="veduca"></div>
 
@@ -1520,7 +1520,7 @@ Princípios de sustentabilidade e tecnologias portadoras de inovação
 
 Energia Renováveis - 60 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/VEDUCA" target="_blank">Saiba Mais</a>    [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/VEDUCA" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
 
 <div id="horadocodigo"></div>
 
@@ -1560,4 +1560,4 @@ Hora do Código Make School - 1 h/a
 
 Hora do Código Blockly Games - 1 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_nome/Hora+do+C%F3digo/" target="_blank">Saiba Mais</a>   [voltar lista](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_nome/Hora+do+C%F3digo/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar lista](#cursosonline)
