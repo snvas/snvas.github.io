@@ -4,7 +4,7 @@ title: Cursos Online
 permalink: /cursos/
 ---
 
-### Cursos Online Gratuitos
+### Gratuitos
 
 [Como Usar seu Smartphone para Trabalhar](http://googletrainer.teachable.com/p/como-usar-seu-smartphone-para-trabalhar)
 
@@ -22,10 +22,35 @@ A Khan Academy é a maior plataforma do mundo para estudar matemática. Completa
 
 Websites fáceis de criar! Crie uma Intranet para sua empresa, um site de projeto para sua equipe ou um portal para clientes por meio de nosso criador de sites. Tudo isso sem precisar escrever uma única linha de código.
 
-[Novidades Tecnológias](http://googletrainer.teachable.com/p/novidades-tecnologicas)
+[Novidades Tecnológicas](http://googletrainer.teachable.com/p/novidades-tecnologicas)
 
 Inovações tecnológicas expostas em 2016 na feira de Hanover na Alemanha. Veja de perto o que já tem disponível do mercado. Inovações que podem revolucionar os modos de produção. Automação Industrial e Residencial, Robótica, Impressão 3D, Realidade Virtual e Inteligência Artificial
 
-### Tutoria
 
-[Tutor para o Desafio do Código](http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/)
+### Faça uma doação
+
+Produzir os conteúdos demanda muito tempo, esforço e trabalho. Para garantir a maior acessibilidade possível, oferecemos tudo isso gratuitamente. Contamos com o seu apoio para podermos oferecer novos conteúdos de valor e conseguirmos alcançar ainda mais pessoas.
+
+Colabore com esse movimento AGORA, com um simples gesto de generosidade, qualquer valor ajuda.
+
+<div style="width: 100%; margin-left: auto; margin-right: auto;">
+<p>&nbsp;</p>
+<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html?iot=button" method="post">
+	<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+	<input type="hidden" name="currency" value="BRL">
+	<input type="hidden" name="receiverEmail" value="sonovaes511@gmail.com">
+	<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/205x30-doar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+</form>
+<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html?iot=button" method="post"><br/>
+</form>
+<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html?iot=button" method="post"><br/>
+</form> 
+<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="8Q3FANTXSE8FY">
+	<input type="image" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - A maneira fácil e segura de enviar pagamentos online!">
+	<img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
+</form>
+              </div>   
+

@@ -931,7 +931,7 @@ Segurança da Informação - 23 h/a
 
 <a href="http://googletrainer.teachable.com/p/criacao-de-conteudo-com-google-sites" target="_blank">Como Criar Sites com Google Sites</a>
 
-<a href="http://googletrainer.teachable.com/p/novidades-tecnologicas" target="_blank">Novidades Tecnológias</a>
+<a href="http://googletrainer.teachable.com/p/novidades-tecnologicas" target="_blank">Novidades Tecnológicas</a>
 
 
 <div id="hp"></div>
