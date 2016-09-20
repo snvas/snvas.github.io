@@ -12,6 +12,7 @@ tags:
 Garimpamos na internet mais de 600 cursos online gratuitos oferecidos por diferentes instituições. Confira a lista das plataformas: 
 
 <div id="cursosonline"></div>
+
 ### BRASIL TI MAIOR
 [30 cursos](#brasiltimaior)
 
@@ -88,6 +89,7 @@ Garimpamos na internet mais de 600 cursos online gratuitos oferecidos por difere
 [17 cursos](#horadocodigo)
 
 <div id="brasiltimaior"></div>
+
 ### BRASIL TI MAIOR
 
 Língua Inglesa - 40 h/a
@@ -150,9 +152,10 @@ Sistemas de Conectividade - 40 h/a
 
 Sistemas Operacionais - 4 h/a
 
-<a class="btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/brasil+TI+Maior/" target="_blank">Saiba Mais</a>
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/brasil+TI+Maior/" target="_blank">Saiba Mais</a>
 
 <div id="codestudio"></div>
+
 ### CODE STUDIO
 
 Hora do Código Angry Birds - 1 h/a
@@ -181,6 +184,7 @@ Curso 4 Code - 5 h/a
 
 
 <div id="dell"></div>
+
 ### DELL TRAINING CENTER
 
 Computação em Nuvem - 1 h/a
@@ -214,6 +218,7 @@ Soluções de segurança em camadas da Dell - 1 h/a
 <a class="button btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/DELL+TRAINING+CENTER/" target="_blank">Saiba Mais</a>
 
 <div id="ciee"></div>
+
 ### EAD CIEE
 
 ATENDIMENTO AO CLIENTE - 5 h/a
@@ -278,9 +283,10 @@ FUNDAMENTOS DE REDE II - 8 h/a
 
 SMARTPHONE - 2 h/a
 
-<button class="btn btn-default"><a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/ead+ciee/" target="_blank">Saiba Mais</a></button>
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/ead+ciee/" target="_blank">Saiba Mais</a>
 
 <div id="sebrae"></div>
+
 ### EAD SEBRAE
 
 Programa Varejo Fácil – Atendimento ao Cliente - 15 h/a
@@ -329,6 +335,94 @@ Gestão da Qualidade: Visão Estratégica - 20 h/a
 
 D-Olho na Qualidade: 5Ss para os pequenos negócios - 16 h/a
 
-<button class="btn btn-default"><a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SEBRAE/" target="_blank">Saiba Mais</a></button>
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SEBRAE/" target="_blank">Saiba Mais</a>
 
+<div id="senai"></div>
 
+### EAD SENAI 
+
+Noções Básicas de Mecânica Automotiva - 14 h/a
+
+Desenho Arquitetônico - 14 h/a
+
+Finanças Pessoais - 14 h/a
+
+Legislação Trabalhista - 14 h/a
+
+Empreendedorismo - 14 h/a
+
+Propriedade Intelectual - 14 h/a
+
+Fundamentos de Logística - 14 h/a
+
+Educação Ambiental - 14 h/a
+
+Consumo Consciente de Energia - 14 h/a
+
+Metrologia - 14 h/a
+
+Segurança do Trabalho - 14 h/a
+
+Tecnologia da Informação e Comunicação - 14 h/a
+
+Lógica de Programação - 14 h/a
+
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SENAI/" target="_blank">Saiba Mais</a>
+
+<div id="senado"></div>
+
+### EAD SENADO FEDERAL 
+
+Excelência no Atendimento - 20 h/a
+
+Direito Administrativo para Gerentes no Setor Público - 35 h/a
+
+Introdução ao Direito Constitucional - 40 h/a
+
+Introdução ao Direito do Consumidor - 40 h/a
+
+Lei de Acesso à Informação - 12 h/a
+
+Conhecendo o Novo Acordo Ortográfico - 20 h/a
+
+Desenvolvimento de Equipes - 10 h/a
+
+Cerimonial no Ambiente Legislativo - 40 h/a
+
+Deveres, Proibições e Responsabilidades do Servidor Público Federal - 60 h/a
+
+Doutrina Política: Liberalismo - 20 h/a
+
+Doutrina Política: Novas Esquerdas - 20 h/a
+
+Doutrina Política: Social-Democracia - 20 h/a
+
+Doutrina Política: Socialismo - 20 h/a
+
+Ética e Administração Pública - 40 h/a
+
+Fundamentos da Integração Regional: O Mercosul - 40 h/a
+
+Gestão Estratégica com foco na Administração Pública - 40 h/a
+
+Introdução ao Orçamento Público - 40 h/a
+
+Modalidades, Tipos e Fases da Licitação - 40 h/a
+
+O Poder Legislativo - 40 h/a
+
+Ouvidoria na Administração Pública - 20 h/a
+
+Ouvidoria no Ambiente Legislativo Municipal - 20 h/a
+
+Política Contemporânea - 60 h/a
+
+Processo Legislativo Federal - 45 h/a
+
+Relações Internacionais: Teoria e História - 60 h/a
+
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EAD+SENADO+FEDERAL/" target="_blank">Saiba Mais</a>
+
+<div id="sesipr"></div>
+
+### EAD SESI PR
