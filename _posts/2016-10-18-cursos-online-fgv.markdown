@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "25 Cursos Online Gratuitos da HP"
-date:   2016-10-18 19:55:36 -0300
+title:  "Mais de 40 Cursos Online Gratuitos da FGV"
+date:   2016-10-18 13:55:36 -0300
 author: soraia
 tags: 
  - edtech 
@@ -9,62 +9,105 @@ tags:
  - professores
 ---
 
-Garimpamos na internet os cursos online GRATUITOS oferecidos pela HP. Confira a lista dos cursos: 
+Garimpamos na internet os cursos online GRATUITOS oferecidos pela FGV. Confira a lista dos cursos: 
 
-<div id="hp"></div>
+<div id="fgv"></div>
 
-### HP LIFE
+### FGV Online
 
-Seu público-alvo 
+Argumentação Jurídica - 5 h/a
 
-Gerenciando informações de contato 
+Aspectos gerais da arbitragem - 5 h/a
 
-Apresentações eficientes 
+Conceitos e Princípios Fundamentais do Direito Tributário - 5 h/a
 
-E-mail comercial 
+Contratação de Trabalhadores - 5 h/a
 
-Gestão de relacionamento com clientes (CRM) 
+Investigação Criminal e Instauração da Ação Penal - 5 h/a
 
-Apresentação de dados 
+Reforma no CPP - 10 h/a
 
-Sites de negócios eficazes 
+Projeto Ensino Participativo - Teoria e Prática - 10 h/a
 
-Empreendedorismo social 
+Patentes e bases legais - 5 h/a
 
-Obtenção de financiamento 
+O Juiz e a Ética - 10 h/a
 
-Princípios básicos de finanças 
+Introdução ao Direito Imobiliário - 5 h/a
 
-Lucros e prejuízos 
+Gestão do Poder Judiciário - 10 h/a
 
-Fluxo de caixa 
+Formação Docente para Professores de Direito - 10 h/a
 
-Contratação de pessoal 
+Intermediação em Investimentos Financeiros - 5 h/a
 
-Liderança eficaz 
+Sociologia - 30 h/a
 
-Maximização da capacidade 
+Quiz : Jogo das Novas Regras Ortográficas - Reconhecendo Texto e Contexto - 15 h/a
 
-Gestão de estoque 
+Filosofia - 30 h/a
 
-TI para o sucesso nos negócios 
+Espaço da Universidade na Sociedade - 5 h/a
 
-Planejamento estratégico 
+INTRODUÇÃO AO PRIVATE EQUITY E VENTURE CAPITAL PARA EMPREENDEDORES - 40 h/a
 
-Vendas on-line 
+COMO FAZER INVESTIMENTOS - BÁSICO - 12 h/a
 
-Definição de preços 
+COMO PLANEJAR A APOSENTADORIA - 10 h/a
 
-Marketing em mídias sociais 
+COMO FAZER INVESTIMENTOS - AVANÇADO - 8 h/a
 
-Proposta de valor exclusivo 
+COMO GASTAR CONSCIENTEMENTE - 8 h/a
 
-Previsão de vendas 
+Motivação nas Organizações - 5 h/a
 
-Benefícios de marketing versus características 
+Recursos Humanos - 15 h/a
 
-Eficiência energética: Fazer mais por menos 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/hp+life/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
+Processo de Comunicação e Comunicação Institucional - 5 h/a
+
+Balanced Scorecard - 5 h/a
+
+Ciência e Tecnologia - 15 h/a
+
+Condutas Anticompetitivas - 5 h/a
+
+Conhecimento, Saber e Ciência - 5 h/a
+
+Direitos Autorais e Sociedade - 5 h/a
+
+Diversidade nas Organizações - 15 h/a
+
+Solução de controvérsias privadas - 5 h/a
+
+Qualidade em Serviços - 15 h/a
+
+Produto, Marca e Serviços - 5 h/a
+
+Introdução à Gestão de Serviços com Foco no Envelhecimento - 2 h/a
+
+Introdução à Administração Estratégica - 5 h/a
+
+Gerenciamento do Escopo de Projetos - 5 h/a
+
+Fundamentos da Gestão de TI - 5 h/a
+
+Fundamentos da Gestão de Custos - 5 h/a
+
+Ética Empresarial - 5 h/a
+
+Era Vargas: dos anos 20 à Revolução de 30 - 30 h/a
+
+Era Vargas: do Estado Novo a 54 - 30 h/a
+
+Relevância das Questões Ambientais - 5 h/a
+
+SUSTENTABILIDADE NO DIA A DIA: ORIENTAÇÕES PARA O CIDADÃO - 12 h/a
+
+SUSTENTABILIDADE, UM VALOR PARA A NOVA GERAÇÃO: ORIENTAÇÕES PARA O PROFESSOR DE ENSINO FUNDAMENTAL - 15 h/a
+
+SUSTENTABILIDADE APLICADA AOS NEGÓCIOS: ORIENTAÇÕES PARA GESTORES - 10 h/a
+
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FGV+Online/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
 
 Você também pode encontrar + 600 cursos online gratuitos organizados por área:
 
