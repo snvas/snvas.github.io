@@ -64,7 +64,7 @@ Previsão de vendas
 Benefícios de marketing versus características 
 
 Eficiência energética: Fazer mais por menos 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/hp+life/" target="_blank" class="btn">Saiba Mais</a>
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/hp+life/" target="_blank"><button class="btn">Saiba Mais</button></a>
 
 Você também pode encontrar + 600 cursos online gratuitos organizados por área:
 
