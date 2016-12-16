@@ -183,7 +183,7 @@ Curso 3 Code - 5 h/a
 
 Curso 4 Code - 5 h/a
 
-<a class="btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/CODE+STUDIO/" target="_blank"><button class="btn">Saiba Mais</button></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/CODE+STUDIO/" target="_blank"><button class="btn">Saiba Mais</button></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
 
 
 <div id="dell"></div>
@@ -218,7 +218,7 @@ Soluções de mobilidade para empresas - 1 h/a
 
 Soluções de segurança em camadas da Dell - 1 h/a
 
-<a class="button btn btn-default" href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/DELL+TRAINING+CENTER/" target="_blank"><button class="btn">Saiba Mais</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/DELL+TRAINING+CENTER/" target="_blank"><button class="btn">Saiba Mais</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
 
 <div id="ciee"></div>
 
