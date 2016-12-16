@@ -9,7 +9,7 @@ tags:
  - professores
 ---
 
-Garimpamos na internet os cursos online GRATUITOS oferecidos pela Microsoft. Confira a lista dos cursos: 
+Garimpamos na internet os cursos online GRATUITOS oferecidos pela Intel. Confira a lista dos cursos: 
 
 <div id="intel"></div>
 
