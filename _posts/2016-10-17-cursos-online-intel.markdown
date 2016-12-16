@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mais de 70 Cursos Online Gratuitos da Microfoft"
-date:   2016-10-16 20:55:36 -0300
+title:  "Mais de 30 Cursos Online Gratuitos da Intel"
+date:   2016-10-17 15:55:36 -0300
 author: soraia
 tags: 
  - edtech 
@@ -11,163 +11,89 @@ tags:
 
 Garimpamos na internet os cursos online GRATUITOS oferecidos pela Microsoft. Confira a lista dos cursos: 
 
-<div id="microsoft"></div>
+<div id="intel"></div>
 
-### MICROSOFT VIRTUAL ACADEMY
+### INTEL Diálogo TI
 
-Aprendendo a Programar - 12 h/a
+Negociação 
 
-Interoperabilidade e Cloud Computing - 1 h/a
+Administração da TI - 13 h/a
 
-5 dicas para gerar negócios com Azure - 1 h/a
+Administração integrada - 4 h/a
 
-Cloud SureStep - 1 h/a
+Business Value - 8 h/a
 
-Starter Kits e os Arquitetos na Nuvem - 1 h/a
+ROI em TI - 5 h/a
 
-Consumo: A nova moeda do mercado - 1 h/a
+ROI e Business Value - 6 h/a
 
-Ofertas e Cenários de Venda do Microsoft Azure - 1 h/a
+Terceirização de TI - 5 h/a
 
-O Programa MPN - Microsoft Partner Network - 1 h/a
+TI socialmente responsável - 4 h/a
 
-O Novo Modelo Financeiro - 1 h/a
+Programa de implementação de negócios e de sistemas da informação - 60 h/a
 
-A Importância de Marketing na Transformação do seu Negócio - 1 h/a
+Programa de conceitos essenciais de management - 65 h/a
 
-Dynamics CRM Online e a Era do Cliente - 1 h/a
+e-Business - 3 h/a
 
-Recursos de Vendas de Office 365 - 1 h/a
+Empresa digital - 5 h/a
 
-O Caminho Para as Competências de Cloud - 1 h/a
+ERP - 7 h/a
 
-Transformando Seu Negócio Para a Nuvem - Introdução - 1 h/a
+Liderança - 8 h/a
 
-Iniciando no Microsoft Azure - 1 h/a
+Introdução ao Marketing para PMEs - 8 h/a
 
-Proteção de informações com Azure RMS - 1 h/a
+Plano de Marketing. Guia de Implementação - 4 h/a
 
-Primeiros cenários de uso do Azure - 1 h/a
+Variáveis controláveis de Marketing para PMEs - 8 h/a
 
-Visão geral do Azure Media services - 1 h/a
+Metodologia para empreender - 4 h/a
 
-Plano de Continuidade de Negócios com System Center e Azure - 1 h/a
+Trabalho em equipe - 7 h/a
 
-Publicando aplicações via Azure Active Directory - 1 h/a
+Economia de energia - 5 h/a
 
-Migrando Web Sites locais para o Azure Web Sites - 1 h/a
+Mobilidade - 8 h/a
 
-Fundamentos de mobilidade empresarial - 1 h/a
+Trabalho remoto - 6 h/a
 
-Introdução ao Microsoft Azure Mobile Services - 1 h/a
+Big Data - 8 h/a
 
-Fundamentos de Computação em Nuvem - 1 h/a
+Cloud Computing - 5 h/a
 
-VPN no Microsoft Azure - 1 h/a
+Software como serviço (Software as a Service/SaaS) - 3 h/a
 
-Proteção de Dados no Microsoft Azure - 1 h/a
+Programa de Data mining e Cloud Computing - 71 h/a
 
-Dicas e truques do Azure – serie 2 - 1 h/a
+Programa de segurança da informação - 50 h/a
 
-Dicas e truques do Azure – serie 1 - 1 h/a
+Programa de tecnologia da informação - 60 h/a
 
-Otimizando a Infraestrutura de TI com o Microsoft Azure - 1 h/a
+Business Intelligence - 9 h/a
 
-Hospedando um site PHP MySQL no Azure Web Sites - 1 h/a
+CRM - 10 h/a
 
-Wordpress no Microsoft Azure - 1 h/a
+Segurança da informação I - 6 h/a
 
-Fundamentos de Devops - 1 h/a
+Certificação digital - 2 h/a
 
-Migrando sua rede com MAP - 1 h/a
+Virtualização - 5 h/a
 
-Proteção de dados com o Windows Azure Backup - 1 h/a
+Governança corporativa - 7 h/a
 
-Microsoft Azure RemoteApp - 1 h/a
+Segurança da informação II - 8 h/a
 
-Visão geral do Azure Active Directory - 1 h/a
+Segurança da informação corporativa - 10 h/a
 
-Protegendo dados com o Azure Rights Management - 1 h/a
+Software livre - 7 h/a
 
-Migrando máquinas virtuais do AWS para Windows Azure - 1 h/a
+Segurança para a consumerização - 7 h/a
 
-Pacote de Avaliação do Creative Coding through Games and Apps - 1 h/a
+Storage - 8 h/a
 
-Crie seu jogo para Kinect - 1 h/a
-
-Iniciando no Minecraft - 1 h/a
-
-CODExist: O nascimento de Bot - 1 h/a
-
-Novidades da Unity 5 - 1 h/a
-
-Como Participar da Imagine Cup - 1 h/a
-
-Desenvolvimento de jogos com Unity para Windows 8 e Windows Phone 8 - 1 h/a
-
-Desenvolvendo games para Windows Phone - 1 h/a
-
-Windows Phone 7 Game Programming - 1 h/a
-
-Introdução à Business Intelligence - 1 h/a
-
-HTML5 - Homologado pelo W3C - 4 h/a
-
-Introdução a Universal Apps - 5 h/a
-
-Java no Azure - 1 h/a
-
-Treinamento de ASP.NET MVC 5 Conceitos Básicos - 1 h/a
-
-ASP.NET MVC Intermediário - 1 h/a
-
-Docker – Conceitos e prática - 1 h/a
-
-Hora do Código com o TouchDevelop - 1 h/a
-
-Conceitos básicos de bancos de dados - 1 h/a
-
-Introdução à programação com o Python - 1 h/a
-
-Como depurar um site com as ferramentas F12 do Internet Explorer - 1 h/a
-
-5. Recursos disponíveis no Bing Ads - 1 h/a
-
-1. Introdução ao Bing Ads - 1 h/a
-
-3. Orçamentos e cobranças do Bing Ads - 1 h/a
-
-4. Otimização de campanhas no Bing Ads - 1 h/a
-
-Fundamentos de Virtualização - 3 h/a
-
-Plano de Continuidade de Negócios com System Center e Azure - 1 h/a
-
-Windows Server 2012: Virtualização - 1 h/a
-
-Windows Server 2012: Serviços de Rede - 2 h/a
-
-Exame 70-410: Instalando e Configurando o Windows Server 2012 R2 - 1 h/a
-
-Preparatório de exame de certificação: 70-412 – Configurando serviços avançados - 1 h/a
-
-Preparatório de exame de certificação:70-411 – Administrando o Windows Server R2 - 1 h/a
-
-Fundamentos de Rede - 3 h/a
-
-Novidades de Windows 10 para IT Pros do evento Ignite - 1 h/a
-
-Planejamento para Bring Your Own Device - 1 h/a
-
-Visão geral do Windows 10 Technical Preview - 1 h/a
-
-Introdução ao desenvolvimento Sharepoint - 1 h/a
-
-Interoperabilidade e Cloud Computing - 1 h/a
-
-Proteção de informações com Azure RMS - 1 h/a
-
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/MICROSOFT+VIRTUAL+ACADEMY/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/INTEL+Di%E1logo+TI/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
 
 
 Você também pode encontrar + 600 cursos online gratuitos organizados por área:
