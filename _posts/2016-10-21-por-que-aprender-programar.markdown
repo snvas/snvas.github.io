@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Por Que Começar a Programar"
-date:   2016-10-20 10:55:36 -0300
+title:  "Por Que Aprender a Programar"
+date:   2016-10-21 10:55:36 -0300
 author: soraia
 tags: 
  - edtech 
