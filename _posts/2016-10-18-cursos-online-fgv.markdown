@@ -107,7 +107,7 @@ SUSTENTABILIDADE, UM VALOR PARA A NOVA GERAÇÃO: ORIENTAÇÕES PARA O PROFESSOR
 
 SUSTENTABILIDADE APLICADA AOS NEGÓCIOS: ORIENTAÇÕES PARA GESTORES - 10 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FGV+Online/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FGV+Online/" target="_blank">Saiba Mais</a>
 
 Você também pode encontrar + 600 cursos online gratuitos organizados por área:
 
