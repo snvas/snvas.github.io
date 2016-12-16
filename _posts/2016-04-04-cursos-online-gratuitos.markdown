@@ -644,7 +644,7 @@ Construção do Projeto Político Pedagógico Inserida numa Gestão Democrática
 
 Leitura em Inglês - 2 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EDAD+UTFPR/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/EDAD+UTFPR/" target="_blank" class="btn">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
 
 <div id="endeavor"></div>
 
@@ -659,7 +659,7 @@ Como aumentar e gerenciar suas vendas - 4 h/a
 Ferramentas práticas de Inovação: inovar para se diferenciar - 3 h/a
 
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/endeavor/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/endeavor/" target="_blank" class="btn">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
 
 <div id="espm"></div>
 
@@ -679,7 +679,7 @@ EMPREENDEDORIMO - 16 h/a
 
 LIDERANÇA DE EQUIPES - 6 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/ESPM+Online/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/ESPM+Online/" target="_blank" class="btn">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
 
 <div id="fgv"></div>
 
@@ -777,7 +777,7 @@ SUSTENTABILIDADE, UM VALOR PARA A NOVA GERAÇÃO: ORIENTAÇÕES PARA O PROFESSOR
 
 SUSTENTABILIDADE APLICADA AOS NEGÓCIOS: ORIENTAÇÕES PARA GESTORES - 10 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FGV+Online/" target="_blank">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FGV+Online/" target="_blank" class="btn">Saiba Mais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
 
 <div id="fiap"></div>
 

@@ -167,7 +167,7 @@ Interoperabilidade e Cloud Computing - 1 h/a
 
 Proteção de informações com Azure RMS - 1 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/MICROSOFT+VIRTUAL+ACADEMY/" target="_blank" class="button">Saiba Mais</a>
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/MICROSOFT+VIRTUAL+ACADEMY/" target="_blank" class="btn">Saiba Mais</a>
 
 
 Você também pode encontrar + 600 cursos online gratuitos organizados por área:

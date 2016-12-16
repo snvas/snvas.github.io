@@ -93,7 +93,7 @@ Segurança para a consumerização - 7 h/a
 
 Storage - 8 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/INTEL+Di%E1logo+TI/" target="_blank">Saiba Mais</a>
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/INTEL+Di%E1logo+TI/" target="_blank" class="btn">Saiba Mais</a>
 
 Você também pode encontrar + 600 cursos online gratuitos organizados por área:
 

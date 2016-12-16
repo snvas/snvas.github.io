@@ -120,3 +120,20 @@
     color: #333;
   }
 }
+
+.btn {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 37px;
+  background: #34ab22;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #32d10f;
+  text-decoration: none;
+}
