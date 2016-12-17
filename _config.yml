@@ -21,3 +21,5 @@ github_username:  snvas
 # Build settings
 markdown: kramdown
 permalink: /:title
+gems:
+  - jekyll-seo-tag
