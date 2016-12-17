@@ -21,10 +21,10 @@ rssfeed_scroll="on";
 rssfeed_scroll_step="6"; 
 rssfeed_scroll_bar="off"; 
 rssfeed_target="_blank"; 
-rssfeed_font_size="12"; 
+rssfeed_font_size="14"; 
 rssfeed_font_face=""; 
-rssfeed_border="on"; 
-rssfeed_css_url="_layout.css"; 
+rssfeed_border="off"; 
+rssfeed_css_url="http://feed.surfing-waves.com/css/style4.css";
 rssfeed_title="on"; 
 rssfeed_title_name=""; 
 rssfeed_title_bgcolor="#3366ff"; 
@@ -52,6 +52,4 @@ rssfeed_cache = "a9fbf6cf93803a3be7455bd80e8f2701";
 //--> 
 </script> 
 <script type="text/javascript" src="http://feed.surfing-waves.com/js/rss-feed.js"></script> 
-<!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. --> 
-<div style="text-align:right; width:180px;"><a href="http://www.surfing-waves.com/feed.htm" target="_blank" style="color:#ccc;font-size:10px">widget @</a> <a href="http://www.surfing-waves.com" target="_blank" style="color:#ccc;font-size:10px">surfing-waves.com</a></div> 
 <!-- end sw-rss-feed code -->
