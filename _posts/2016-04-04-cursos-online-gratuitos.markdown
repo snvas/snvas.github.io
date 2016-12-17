@@ -923,15 +923,15 @@ Segurança da Informação - 23 h/a
 
 ### Google Trainer Soraia Novaes
 
-<a href="http://googletrainer.teachable.com/p/como-usar-seu-smartphone-para-trabalhar" target="_blank">Como Usar seu Smartphone para Trabalhar</a>
+<a href="https://inovadores.coursify.me/courses/como-usar-seu-smartphone-para-trabalhar" target="_blank">Como Usar seu Smartphone para Trabalhar</a>
 
-<a href="http://googletrainer.teachable.com/p/como-usar-google-apps" target="_blank">O Poder da Colaboração com Google Apps</a>
+<a href="https://inovadores.coursify.me/courses/o-poder-da-colaboracao-com-google-apps" target="_blank">O Poder da Colaboração com Google Apps</a>
 
 <a href="http://googletrainer.teachable.com/p/como-usar-a-khan-academy" target="_blank">Como Usar a Khan Academy</a>
 
-<a href="http://googletrainer.teachable.com/p/criacao-de-conteudo-com-google-sites" target="_blank">Como Criar Sites com Google Sites</a>
+<a href="https://inovadores.coursify.me/courses/criacao-de-conteudo-com-google-sites" target="_blank">Como Criar Sites com Google Sites</a>
 
-<a href="http://googletrainer.teachable.com/p/novidades-tecnologicas" target="_blank">Novidades Tecnológicas</a>
+<a href="https://inovadores.coursify.me/courses/novidades-tecnologicas-automacao-robotica-impressao-3d-e-inteligencia-artificial" target="_blank">Novidades Tecnológicas</a>
 
 
 <div id="hp"></div>
