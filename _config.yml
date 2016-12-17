@@ -15,7 +15,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog http://soraianovaes.com/blog
 url: "http://codecamp.com.br" # the base hostname & protocol for your site
 author: Soraia Novaes
-twitter_username: edtecnova
+twitter:
+  username: edtecnoca
 github_username:  snvas
 
 # Build settings
@@ -23,3 +24,12 @@ markdown: kramdown
 permalink: /:title
 gems:
   - jekyll-seo-tag
+social:
+  name: Soraia Novaes
+  links:
+    - https://twitter.com/edtecnova
+    - https://www.facebook.com/soraianovaes
+    - https://www.linkedin.com/in/soraianovaes
+    - https://plus.google.com/+SoraiaNovaes
+    - https://github.com/snvas
+    - http://www.soraianovaes.com
