@@ -14,7 +14,7 @@ tags:
 <rss version="2.0">
 <channel>
   <title>W3Schools Home Page</title>
-  <link>http://www.w3schools.com</link>
+  <link>http://feeds.feedburner.com/TechCrunch/</link>
   <description>Free web building tutorials</description>
 </channel>
 </rss>
