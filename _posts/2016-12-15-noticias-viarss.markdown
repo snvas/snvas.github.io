@@ -1,5 +1,5 @@
 ---
-title: "Notícias da W3C"
+title: "Notícias do MIT e TechRadar"
 layout: post
 date: 2016-12-15 17:22:42
 author: soraia
