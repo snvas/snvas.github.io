@@ -16,7 +16,7 @@ tags:
 rssfeed_url = new Array(); 
 rssfeed_url[0]="http://news.mit.edu/rss/feed"; rssfeed_url[1]="http://www.techradar.com/rss";  
 rssfeed_frame_width="700"; 
-rssfeed_frame_height="150"; 
+rssfeed_frame_height="1500"; 
 rssfeed_scroll="on"; 
 rssfeed_scroll_step="6"; 
 rssfeed_scroll_bar="off"; 
@@ -24,7 +24,7 @@ rssfeed_target="_blank";
 rssfeed_font_size="12"; 
 rssfeed_font_face=""; 
 rssfeed_border="on"; 
-rssfeed_css_url="http://feed.surfing-waves.com/css/style4.css"; 
+rssfeed_css_url="_layout.css"; 
 rssfeed_title="on"; 
 rssfeed_title_name=""; 
 rssfeed_title_bgcolor="#3366ff"; 
