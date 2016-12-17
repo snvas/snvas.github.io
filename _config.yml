@@ -20,6 +20,4 @@ github_username:  snvas
 
 # Build settings
 markdown: kramdown
-# permalink: /:title
-pagination: 5
-paginate_path: "/page:num/"
+permalink: /:title
