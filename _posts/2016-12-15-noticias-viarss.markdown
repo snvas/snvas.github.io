@@ -15,8 +15,8 @@ tags:
 <!-- 
 rssfeed_url = new Array(); 
 rssfeed_url[0]="http://news.mit.edu/rss/feed"; rssfeed_url[1]="http://www.techradar.com/rss";  
-rssfeed_frame_width="180"; 
-rssfeed_frame_height="250"; 
+rssfeed_frame_width="700"; 
+rssfeed_frame_height="150"; 
 rssfeed_scroll="on"; 
 rssfeed_scroll_step="6"; 
 rssfeed_scroll_bar="off"; 
