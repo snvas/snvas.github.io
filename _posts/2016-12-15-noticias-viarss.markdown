@@ -15,7 +15,7 @@ tags:
 <!-- 
 rssfeed_url = new Array(); 
 rssfeed_url[0]="http://news.mit.edu/rss/feed"; rssfeed_url[1]="http://www.techradar.com/rss"; rssfeed_url[2]="http://news.mit.edu/rss/research"; rssfeed_url[3]="https://www.wired.com/category/design/feed/"; 
-rssfeed_frame_width="700"; 
+rssfeed_frame_width="100%"; 
 rssfeed_frame_height="1500"; 
 rssfeed_scroll="on"; 
 rssfeed_scroll_step="6"; 
