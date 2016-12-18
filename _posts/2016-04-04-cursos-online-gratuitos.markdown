@@ -79,6 +79,9 @@ Garimpamos na internet mais de 600 cursos online em português GRATUITOS ofereci
 ### MICROSOFT VIRTUAL ACADEMY
 [76 cursos online](#microsoft)
 
+### UDACITY
+[35 cursos online](#udacity)
+
 ### TIM TEC
 [17 cursos online](#tim)
 
@@ -1359,6 +1362,82 @@ Interoperabilidade e Cloud Computing - 1 h/a
 Proteção de informações com Azure RMS - 1 h/a
 
 <a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/MICROSOFT+VIRTUAL+ACADEMY/" target="_blank"><button class="btn">Saiba Mais</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
+
+<div id="udacity"></div>
+
+### UDACITY
+
+Otimização de Renderização no Browser - 6 h/a
+
+Introdução ao jQuery Manipulando Websites com Facilidade - 6 h/a
+
+Otimização de Performance de Website O Caminho de Renderização Crítico - 6 h/a
+
+Análise de Dados com R Visualmente analisar e sintetizar conjuntos de dados - 6 h/a
+
+HTML5 Canvas Dos Pixels à Animação! - 6 h/a
+
+Linha de Comando Linux Básico Iniciando com a Shell - 6 h/a
+
+Introdução à Análise de Dados Análise de Dados Usando NumPy e Pandas - 6 h/a
+
+Aprendizado de Máquina Supervisionado, Não-Supervisionado e Por Reforço - 6 h/a
+
+Deep Learning Leve o aprendizado de máquina ao próximo nível - 6 h/a
+
+IA Baseado em Conhecimento: Sistemas Cognitivos O Núcleo da Inteligência Artificial - 6 h/a
+
+Introdução ao Aprendizado de Máquina Reconhecimento de Padrões para diversão e lucro - 6 h/a
+
+Introdução ao AJAX Fazendo requisições Assíncronas com jQuery - 6 h/a
+
+Como Usar o Git e o GitHub Controle de Versão para Código - 6 h/a
+
+JavaScript Básico A Linguagem de Programação da Web - 6 h/a
+
+Teste A/B Design Online de Experiência e Análise - 6 h/a
+
+Material Design para Desenvolvedores Android Aplique o Material Design em seus Apps - 6 h/a
+
+Testando JavaScript Desenvolvendo Apps com Confiança - 6 h/a
+
+Gradle para Android e Java Construindo Aplicativos Melhores Através da Automação - 6 h/a
+
+Inteligência Artificial para Robótica Programando um Carro Robótico - 6 h/a
+
+Fundamentos do Design Responsivo para a Web Ótimas experiências em qualquer dispositivo - 6 h/a
+
+Android TV e Desenvolvimento Google Cast Leve seu App para a TV - 6 h/a
+
+JavaScript Design Patterns Organizando Código em um Mundo Desorganizado - 6 h/a
+
+JavaScript Orientado a Objetos Escrevendo Códigos Reutilizáveis e Fáceis de Manter - 6 h/a
+
+Desenvolvimento Android Wear Estenda Seus Apps para Relógios Inteligentes Android - 6 h/a
+
+Desenvolvimento Android Auto Coloque seus Apps No Carro - 6 h/a
+
+Aprendizado por Reforço Estude aprendizado de máquina mais a fundo e torne-se um participante na comunidade de pesquisa de aprendizado por reforço. - 6 h/a
+
+Desenvolvimento de Apps Android Avançado Produza e Publique Seus Apps - 6 h/a
+
+Imagens Responsivas Menos Bytes, Carregamento mais rápido - 6 h/a
+
+Introdução à Estatística Descritiva Entendendo Dados através da Matemática - 6 h/a
+
+Aprendizado de Máquina para Negociação Oferecido pela Georgia Tech como CS 7646 - 6 h/a
+
+Tratamento de Dados com MongoDB Manipulação de Dados e Recuperação - 6 h/a
+
+Fundamentos da Programação com Python Aprenda Programacao Orientada a Objetos - 6 h/a
+
+Desenvolvendo Apps Android Fundamentos do Android - 6 h/a
+
+Introdução à Ciência de Dados O Que é Preciso Para Se Tornar Um Cientista de Dados - 6 h/a
+
+Vizualização de Dados e D3.js Comunicando-se Através do Dados - 6 h/a
+
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/udacity/" target="_blank"><button class="btn">Saiba Mais</button></a>
 
 <div id="tim"></div>
 
