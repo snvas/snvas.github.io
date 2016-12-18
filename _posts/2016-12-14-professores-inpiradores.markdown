@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "5 Palestras de Professores Inpiradores no TED"
-date:   2016-11-23 15:55:36 -0300
+date:   2016-12-14 15:55:36 -0300
 author: soraia
 tags: 
- - innovation
- - startups
+ - edtech 
+ - education 
+ - professores
 ---
 
 ### Como as escolas matam a criatividade
