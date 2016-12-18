@@ -9,6 +9,7 @@ tags:
 ---
 
 ### Como as escolas matam a criatividade
+
 ### Ken Robinson
 
 Sir Ken Robinson propõe de uma forma interessante e profunda a criação de um sistema educativo que acarinhe (em vez de minar) a criatividade.
@@ -17,6 +18,7 @@ Sir Ken Robinson propõe de uma forma interessante e profunda a criação de um 
 
 
 ### O ensino voltado para as crianças
+
 ### Sugata Mitra
 
 O cientista da educação Sugata Mitra aborda um dos maiores problemas desta área: os melhores professores e as melhores escolas não existem onde são mais necessários. Numa série de experiências na vida real desde Nova Deli a África até à Itália, deu às crianças acesso auto-supervisionado à Internet e viu resultados que podem revolucionar a nossa forma de pensar sobre o ensino.
@@ -25,6 +27,7 @@ O cientista da educação Sugata Mitra aborda um dos maiores problemas desta ár
 
 
 ### Vamos usar o vídeo para reinventar a educação
+
 ### Salman Khan
 
 Salman Khan fala sobre como e porquê ele criou a incrível Khan Academy, um série de vídeos educacionais cuidadosamente estruturada que oferece matérias completas de matemática e, agora, de outras disciplinas. Ele mostra o poder dos exercícios interativos, e pede que os professores considerem inverter o modelo tradicional da sala de aula – dar aos estudantes vídeo-aulas para assistir em casa, fazer a 'lição de casa' na sala de aula com o professor disponível para ajudar.
@@ -33,6 +36,7 @@ Salman Khan fala sobre como e porquê ele criou a incrível Khan Academy, um sé
 
 
 ### O fracasso nas nossas escolas. Basta!
+
 ### Geoffrey Canada
 
 Mas porque é que o nosso sistema de educação parece tão igual ao que era há 50 anos? Milhões de estudantes fracassavam naquela altura, tal como agora — e é porque estamos agarrados a um modelo de negócios que claramente não funciona. O advogado educacional Geoffrey Canada desafia o sistema a observar os dados, pensar sobre os clientes e fazer alterações sistemáticas para ajudar um maior número de miúdos a alcançarem a excelência.
@@ -41,6 +45,7 @@ Mas porque é que o nosso sistema de educação parece tão igual ao que era há
 
 
 ### Cada criança precisa de um herói
+
 ### Rita Pierson
 
 Rita Pierson, professora há 40 anos, ouviu uma colega dizer: "Não me pagam para gostar dos alunos." A sua resposta: "Os miúdos não aprendem com pessoas de quem não gostam." Uma estimulante chamada aos educadores para acreditarem nos seus alunos e para se ligarem a eles a um nível real, humano e pessoal.
