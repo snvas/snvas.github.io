@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Encontre mais de 600 Cursos Online Gratuitos"
+title:  "Encontre mais de 700 Cursos Online Gratuitos"
 date:   2016-04-04 21:55:36 -0300
 author: soraia
 tags: 
@@ -9,7 +9,7 @@ tags:
  - professores
 ---
 
-Garimpamos na internet mais de 600 cursos online em português GRATUITOS oferecidos por diferentes instituições. Confira a lista das plataformas: 
+Garimpamos na internet mais de 700 cursos online em português GRATUITOS oferecidos por diferentes instituições. Confira a lista das plataformas: 
 
 <div id="cursosonline"></div>
 
@@ -1659,7 +1659,7 @@ Hora do Código Blockly Games - 1 h/a
 
 <a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_nome/Hora+do+C%F3digo/" target="_blank"><button class="btn">Saiba Mais</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[voltar](#cursosonline)
 
-Você também pode encontrar + 600 cursos online gratuitos organizados por área:
+Você também pode encontrar + 700 cursos online gratuitos organizados por área:
 
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Agropecu%E1ria/#cursos" target="_blank">Agropecuária</a>
 
