@@ -15,7 +15,7 @@ tags:
 Sir Ken Robinson propõe de uma forma interessante e profunda a criação de um sistema educativo que acarinhe (em vez de minar) a criatividade.
 
 <iframe src="https://embed.ted.com/talks/ken_robinson_says_schools_kill_creativity" width="100%" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<br/><br/>
 
 ### O ensino voltado para as crianças
 
@@ -24,7 +24,7 @@ Sir Ken Robinson propõe de uma forma interessante e profunda a criação de um 
 O cientista da educação Sugata Mitra aborda um dos maiores problemas desta área: os melhores professores e as melhores escolas não existem onde são mais necessários. Numa série de experiências na vida real desde Nova Deli a África até à Itália, deu às crianças acesso auto-supervisionado à Internet e viu resultados que podem revolucionar a nossa forma de pensar sobre o ensino.
 
 <iframe src="https://embed.ted.com/talks/sugata_mitra_the_child_driven_education" width="100%" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<br/><br/>
 
 ### Vamos usar o vídeo para reinventar a educação
 
@@ -33,7 +33,7 @@ O cientista da educação Sugata Mitra aborda um dos maiores problemas desta ár
 Salman Khan fala sobre como e porquê ele criou a incrível Khan Academy, um série de vídeos educacionais cuidadosamente estruturada que oferece matérias completas de matemática e, agora, de outras disciplinas. Ele mostra o poder dos exercícios interativos, e pede que os professores considerem inverter o modelo tradicional da sala de aula – dar aos estudantes vídeo-aulas para assistir em casa, fazer a 'lição de casa' na sala de aula com o professor disponível para ajudar.
 
 <iframe src="http://embed.ted.com/talks/lang/pt-br/salman_khan_let_s_use_video_to_reinvent_education.html" width="100%" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<br/><br/>
 
 ### O fracasso nas nossas escolas. Basta!
 
@@ -42,7 +42,7 @@ Salman Khan fala sobre como e porquê ele criou a incrível Khan Academy, um sé
 Mas porque é que o nosso sistema de educação parece tão igual ao que era há 50 anos? Milhões de estudantes fracassavam naquela altura, tal como agora — e é porque estamos agarrados a um modelo de negócios que claramente não funciona. O advogado educacional Geoffrey Canada desafia o sistema a observar os dados, pensar sobre os clientes e fazer alterações sistemáticas para ajudar um maior número de miúdos a alcançarem a excelência.
 
 <iframe src="https://embed.ted.com/talks/lang/pt-br/geoffrey_canada_our_failing_schools_enough_is_enough" width="100%" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<br/><br/>
 
 ### Cada criança precisa de um herói
 
@@ -51,4 +51,4 @@ Mas porque é que o nosso sistema de educação parece tão igual ao que era há
 Rita Pierson, professora há 40 anos, ouviu uma colega dizer: "Não me pagam para gostar dos alunos." A sua resposta: "Os miúdos não aprendem com pessoas de quem não gostam." Uma estimulante chamada aos educadores para acreditarem nos seus alunos e para se ligarem a eles a um nível real, humano e pessoal.
 
 <iframe src="https://embed.ted.com/talks/lang/pt-br/rita_pierson_every_kid_needs_a_champion" width="100%" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<br/><br/>
