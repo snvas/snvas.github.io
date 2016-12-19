@@ -10,7 +10,7 @@ tags:
  - professores
 ---
 
-<div style="max-width: 30% !important; float: left;padding: 5%;">
+<div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="https://www.desafiodocodigo.com.br" target="_blank"><img src="http://desafiodocodigo.com.br/images/LOGO-DESAFIO2016X.png" alt="" width="100%" /></a></div>
 
 o Desafio do Código é um desafio educacional online e gameficado, que apresenta ferramentas digitais para aprender habilidades importantes para o futuro das crianças e adolescentes: Programação, matemática e inglês. 
