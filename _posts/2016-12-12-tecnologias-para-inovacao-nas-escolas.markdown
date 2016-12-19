@@ -10,7 +10,7 @@ tags:
  - professores
 ---
 
-Estimule a criatividade dos seus alunos, dos seus filhos, dos seus colegas. Incorpore ferramentas colaborativas no seu dia a dia e invente um jeito mais divertido de aprender, compartilhar e construir seu conhecimento. Esse site oferece aos educadores um leque de tecnologias e novos modelos para que possam ampliar seus horizontes.
+Estimule a criatividade dos seus alunos, dos seus filhos, dos seus colegas. Incorpore ferramentas colaborativas no seu dia a dia e invente um jeito mais divertido de aprender, compartilhar e construir seu conhecimento. Esse livro oferece aos educadores um leque de tecnologias e novos modelos para que possam ampliar seus horizontes.
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/" target="_blank"><img src="http://edtecnova.com.br/ebook/images/book-mockup.png" alt="" width="100%" /></a></div>
