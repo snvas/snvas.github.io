@@ -9,13 +9,13 @@ tags:
  - professores
 ---
 
-### Como as escolas matam a criatividade
+### Como escapar ao Vale da Morte educacional
 
 ### Ken Robinson
 
-Sir Ken Robinson propõe de uma forma interessante e profunda a criação de um sistema educativo que acarinhe (em vez de minar) a criatividade.
+Sir Ken Robinson aponta 3 princípios cruciais para a mente humana prosperar — e como a atual cultura educacional trabalha contra eles. Numa conversa divertida e provocadora, diz-nos como sair do "Vale da Morte" educacional que enfrentamos hoje, e como estimular os nossos jovens com um clima de possibilidades.
 
-<iframe src="https://embed.ted.com/talks/ken_robinson_says_schools_kill_creativity" width="100%" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://embed.ted.com/talks/ken_robinson_how_to_escape_education_s_death_valley" width="100%" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <br/><br/>
 
 ### O ensino voltado para as crianças
