@@ -1,8 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
+
+<h2>Blog com Jekill</h2>
+Esse blog é resultado do meu esforço permanente para aprender programação depois dos 30. Já fiz site em só com html e css em tabela usando dreamweaver, aprendi o mínimo de php e migrei para o phpdesigner, mas agora consigo publicar usando Sublime e o prompt usando Jekill que é um gerador de códigos estáticos.
+
+O conteúdo desse blog está hospedado via GitPages e todo o código fica no GitHub. Ainda estou descobrindo como esse universo funciona, mas já consigo usar.
+
+Minhas habilidades com o [GitHub](http://willianjusten.teachable.com/p/criando-sites-estaticos-com-jekyll) e [Jekyll](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes) foram adquiridas nos cursos do hacker William Justen. 
 
 <div style="max-width: 30% !important; float: left;">
 <img src="http://edtecnova.com.br/ebook/images/book-mockup.png" alt="" width="100%" /></div>
