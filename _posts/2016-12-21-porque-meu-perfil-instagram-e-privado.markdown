@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Por que meu Perfil no Instagram não é Pública"
+title:  "Por que meu Perfil no Instagram não é Público"
 date:   2016-12-21 16:55:36 -0300
 author: soraia
 tags: 
@@ -15,7 +15,7 @@ Achei que estava tudo bem deixar minha conta pública, já que tomo cuidado com 
 
 No entanto, descobri recentemente sites que utilizam os perfis públicos do instagram para criar landing pages com anúncios misturados com as minhas fotos! 
 
-Obviamente alterei a privacidade da minha conta no Instagram. Tem que pedir pra me seguir!
+Obviamente alterei a privacidade da minha conta no Instagram. Pode pedir pra [me seguir](https://www.instagram.com/snvas/)!
 
 O maior problema nem é o fato de ter espertinhos usando perfis públicos para lucrar com o conteúdo alheio, e sim a quantidade de resultados nas primeiras páginas das buscas quando te procuram no Google, pois esses sites aparecem antes de resultados verdadeiros e relevantes.
 
@@ -35,6 +35,8 @@ https://www.p1c.online/seuusuario
 
 http://insharee.com/
 
-Se você conhece mais algum link suspeito, comente aí e avisa os colegas!
-
 Ah, e ainda tem essa ferramenta que mostra um relatório com todos os dados do perfil, como número de posts, seguidores, taxa de engajamento, total de likes e comentários.
+
+[https://websta.me/](https://websta.me/)
+
+Se você conhece mais algum link suspeito, comente aí e avisa os colegas!
