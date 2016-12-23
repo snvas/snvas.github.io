@@ -9,11 +9,11 @@ tags:
  - innovation
  - professores
 ---
-Demorei pra começar a usar minha conta no Instagram, mas logo que comecei, me espantei com a rapidez que seguidores apareceriam. 
+Demorei pra começar a usar minha conta no Instagram, mas logo que comecei, me espantei com a rapidez que os seguidores apareceriam. Gente que nunca vi e não fazia ideia de onde vinha.
 
-Achei que estava tudo bem deixar minha conta pública, já que tomo cuidado com o tipo de publicação que faço. Sempre entendi que nas redes sociais devemos compartilhar apenas o que é socializável, para minimizar os riscos e os vexames.
+Querendo espalhar para mais gente meu trabalho, achei que estava tudo bem deixar minha conta pública, já que tomo cuidado com o tipo de publicação que faço. Sempre entendi que nas redes sociais devemos compartilhar apenas o que é socializável, para minimizar os riscos e os vexames.
 
-No entanto, descobri recentemente sites que utilizam os perfis públicos do instagram para criar landing pages com anúncios misturados com as minhas fotos! 
+No entanto, descobri recentemente vários sites que utilizam os perfis públicos do instagram para criar landing pages com anúncios misturados as fotos! O que mais me irritou foi um que já até saiu do ar (http://photo365.co/) que tinha anúncios pornográficos misturados com meus posts.
 
 Obviamente alterei a privacidade da minha conta no Instagram. Pode pedir pra [me seguir](https://www.instagram.com/snvas/)!
 
