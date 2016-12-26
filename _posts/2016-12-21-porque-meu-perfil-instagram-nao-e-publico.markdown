@@ -22,21 +22,21 @@ O maior problema nem é o fato de ter espertinhos usando perfis públicos para l
 
 Se o seu perfil é público, faça uma busca no Google com seu usuário do Instagram (@snvas) e veja se você não aparece numa página dessas... (Recomendo abrir os sites com cautela, pois tentam abrir de tudo no seu navegador)
 
-http://imgrab.com/instagram/seuusuario
+[http://imgrab.com/instagram/](http://imgrab.com/instagram/)seuusuario 
 
-http://www.pictaram.com/user/seuusuario
+[http://www.pictaram.com/](http://www.pictaram.com/)user/seuusuario
 
-http://www.imgrum.net/user/seuusuario
+[http://www.imgrum.net/](http://www.imgrum.net/)user/seuusuario
 
-http://picbear.com/seuusuario
+[http://picbear.com/](http://picbear.com/)seuusuario
 
-http://ko.klear.com/profile/seuusuario
+[http://ko.klear.com/](http://ko.klear.com/)profile/seuusuario
 
-https://www.p1c.online/seuusuario
+[https://www.p1c.online/](https://www.p1c.online/)seuusuario
 
-http://insharee.com/
+[http://insharee.com/](http://insharee.com/)
 
-https://socialmediafeed.me/
+[https://socialmediafeed.me/](https://socialmediafeed.me/)
 
 Ah, e ainda tem essa ferramenta que mostra um relatório com todos os dados do perfil, como número de posts, seguidores, taxa de engajamento, total de likes e comentários.
 
