@@ -10,15 +10,11 @@ tags:
  - professores
 ---
 
-O Cardboard é uma espécie de óculos de realidade virtual 
+O Google Cardboard é uma plataforma de realidade virtual (VR) desenvolvida pelo Google para uso com um suporte de cabeça para um smartphone. Nomeado pelo seu visualizador de papelão, a plataforma é concebida como um sistema de baixo custo para incentivar o interesse e desenvolvimento em aplicações VR.
 
-Conheça a realidade virtual da forma mais simples, divertida e barata.
+Conheça a realidade virtual da forma mais simples, divertida e barata. O visualizador pode ser montado ou comprado por um baixo custo. Com ele em mãos, você pode explorar diversos aplicativos que ampliam seus horizontes.
 
-É uma experiência de realidade virtual que começa com um simples visualizador que qualquer pessoa pode montar ou comprar. Com ele em mãos, você pode explorar diversos aplicativos que ampliam seus horizontes.
-
-Desde que for lançado, fiz alguns testes e participei do piloto com o Google Expeditions em uma escola em São Paulo.
-
-Os estudantes ficam encantados com os recursos e as possibilidades de conhecer lugares nunca antes imaginados. Veja os vídeos:
+Desde que for lançado, fiz alguns testes e participei do piloto com o Google Expeditions em uma escola em São Paulo. Os estudantes ficam encantados com os recursos e as possibilidades de conhecer lugares nunca antes imaginados. Veja os vídeos:
 
 <iframe 
   width="100%" 
