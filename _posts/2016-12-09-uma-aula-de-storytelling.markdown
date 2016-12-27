@@ -9,22 +9,12 @@ tags:
 ---
 “Storytelling é a liberação calculada da informação” Alex Garlano
 
-Coca-Cola Content 2020 Part One
+A visão da Coca-Cola sobre os processos de comunicação na próxima década
 
 <iframe 
   width="100%" 
   height="455" 
-  src="http://www.youtube.com/embed/LerdMmWjU_E" 
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
-
-Coca-Cola Content 2020 Part Two
-
-<iframe 
-  width="100%" 
-  height="455" 
-  src="http://www.youtube.com/embed/fiwIq-8GWA8" 
+  src="http://www.youtube.com/embed/0LXpy-PU1-Q" 
   frameborder="0" 
   allowfullscreen>
 </iframe>
