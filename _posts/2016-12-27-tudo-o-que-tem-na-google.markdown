@@ -81,9 +81,9 @@ Authorship - plus.google.com/authorship
 
 Auto Awesome - support.google.com/plus/answer/3113884?hl=en
 
-Auto Awesome Photobombs with David Hasselhoff - goo.gl/WesR8B 1
+Auto Awesome Photobombs with David Hasselhoff - goo.gl/WesR8B
 
-Automatic Statistician (Google-funded) - www.automaticstatistician.com 2
+Automatic Statistician (Google-funded) - www.automaticstatistician.com
 
 <div id="B"></div>
 
@@ -109,7 +109,7 @@ Bookmarks - bookmarks.google.com
 
 Books - books.google.com
 
-Boston Marathon Explosions Person Finder3 - google.org/personfinder/2013-boston-explosions
+Boston Marathon Explosions Person Finder - google.org/personfinder/2013-boston-explosions
 
 Brain - research.google.com/teams/brain 
 
@@ -117,11 +117,11 @@ Breadcrumb - breadcrumb.googlelabs.com (retired; URL no longer working)
 
 Browser Sync - www.google.com/tools/firefox/browsersync/ (retired)
 
-Business Photos - maps.google.com/help/maps/businessphotos 4
+Business Photos - maps.google.com/help/maps/businessphotos 
 
-Build - www.buildwithchrome.com 5
+Build - www.buildwithchrome.com 
 
-Bump - bu.mp6 (retired7)
+Bump - bu.mp (retired)
 
 Buzz - buzz.google.com (retired)
 
@@ -185,17 +185,17 @@ Cloud Storage Nearline - cloud.google.com/storage-nearline
 
 Cloud Vision API - cloud.google.com/vision 
 
-Code - code.google.com 9
+Code - code.google.com 
 
 Code Jam - code.google.com/codejam
 
-Code University - https://developers.google.com/university 10
+Code University - https://developers.google.com/university 
 
-Code-in - https://developers.google.com/open-source/gci 11
+Code-in - https://developers.google.com/open-source/gci 
 
 Codesearch - www.google.com/codesearch
 
-Collections - code.google.com/p/google-collections 12
+Collections - code.google.com/p/google-collections 
 
 Computational Thinking for Educators - computationalthinkingcourse.withgoogle.com 
 
@@ -213,7 +213,7 @@ Contributor - contributor.google.com
 
 Correlate - www.google.com/trends/correlate (was correlate.googlelabs.com)
 
-Coupons - code.google.com/apis/coupons (retired 13)
+Coupons - code.google.com/apis/coupons (retired)
 
 Course Builder - code.google.com/p/course-builder
 
@@ -247,7 +247,7 @@ Dataproc - cloud.google.com/dataproc
 
 Daydream - vr.google.com/daydream 
 
-DeepMind - deepmind.com  14
+DeepMind - deepmind.com  
 
 Demo Slam - www.demoslam.com
 
