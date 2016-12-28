@@ -17,11 +17,11 @@ tags:
 
 ### 0-9
 
-## 20 Things I Learned (eBook) - [www.20thingsilearned.com](www.20thingsilearned.com)
+#### 20 Things I Learned (eBook) - [www.20thingsilearned.com](www.20thingsilearned.com)
 EBook online: 20 lições que aprendi sobre navegadores e web
 
 
-3D Warehouse - [3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com/)
+#### 3D Warehouse - [3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com/)
 Galeria de projetos 3d prontos feitos em SketchUp para download, você também pode publicar seus projetos
 
 
@@ -29,23 +29,22 @@ Galeria de projetos 3d prontos feitos em SketchUp para download, você também p
 
 ### A
 
-A Google a Day - [agoogleaday.com](http://www.agoogleaday.com/)
+#### A Google a Day - [agoogleaday.com](http://www.agoogleaday.com/)
 Jogo lançado em 2011 pelo Google em parceria com o jornal norte-americano “The New York Times”, não apenas é permitido como a consulta ao Google é incentivada.
 
 Chamado de “A Google a Day” (“Um Google por dia”, tradução livre), o novo quebra-cabeça diário pode ser resolvido usando a criatividade e a capacidade de busca inteligente no Google. As perguntas são publicadas diariamente no site agoogleaday.com e impressas no dia seguinte no “The New York Times” com a respectiva resposta, juntamente com as sugestões de pesquisa e recursos utilizados para encontrá-la.
 Assim como palavras cruzadas tradicionais, a dificuldade aumenta ao longo da semana. Deste modo, até o pesquisador mais experiente pode encontrar perguntas mais complexas pela quinta ou sexta-feira. [Fonte](http://g1.globo.com/tecnologia/noticia/2011/04/jogo-de-questionario-line-incentiva-consultas-ao-google.html)
 
 
-About Me - [aboutme.google.com](https://aboutme.google.com/)
-
+#### About Me - [aboutme.google.com](https://aboutme.google.com/)
 Controle o que as pessoas vêem sobre você na Google
 
 
-Accelerated Mobile Pages - www.ampproject.org 
+#### Accelerated Mobile Pages - www.ampproject.org 
 
-Account Activity - www.google.com/settings/activity
+#### Account Activity - www.google.com/settings/activity
 
-Accounts - www.google.com/accounts
+#### Accounts - www.google.com/accounts
 
 Add-ons for Google Docs and Sheets - googledrive.blogspot.com/2014/03/add-ons.html
 
