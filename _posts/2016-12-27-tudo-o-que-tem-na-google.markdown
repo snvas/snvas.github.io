@@ -17,19 +17,32 @@ tags:
 
 ### 0-9
 
-+1 Button - www.google.com/+1
-20 Things I Learned (eBook) - www.20thingsilearned.com
-3D Warehouse - sketchup.google.com/3dwarehouse
+20 Things I Learned (eBook) - [www.20thingsilearned.com](www.20thingsilearned.com)
+
+EBook online: 20 lições que aprendi sobre navegadores e web
+
+
+3D Warehouse - [3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com/)
+
+Galeria de projetos 3d prontos feitos em SketchUp para download, você também pode publicar seus projetos
+
 
 <div id="A"></div>
 
 ### A
 
-A Google a Day - www.agoogleaday.com
+A Google a Day - [agoogleaday.com](http://www.agoogleaday.com/)
 
-Aardvark (purchased by Google) - vark.com
+Jogo lançado em 2011 pelo Google em parceria com o jornal norte-americano “The New York Times”, não apenas é permitido como a consulta ao Google é incentivada.
 
-About Me - aboutme.google.com
+Chamado de “A Google a Day” (“Um Google por dia”, tradução livre), o novo quebra-cabeça diário pode ser resolvido usando a criatividade e a capacidade de busca inteligente no Google. As perguntas são publicadas diariamente no site agoogleaday.com e impressas no dia seguinte no “The New York Times” com a respectiva resposta, juntamente com as sugestões de pesquisa e recursos utilizados para encontrá-la.
+Assim como palavras cruzadas tradicionais, a dificuldade aumenta ao longo da semana. Deste modo, até o pesquisador mais experiente pode encontrar perguntas mais complexas pela quinta ou sexta-feira. [Fonte](http://g1.globo.com/tecnologia/noticia/2011/04/jogo-de-questionario-line-incentiva-consultas-ao-google.html)
+
+
+About Me - [aboutme.google.com](https://aboutme.google.com/)
+
+Controle o que as pessoas vêem sobre você na Google
+
 
 Accelerated Mobile Pages - www.ampproject.org 
 
@@ -205,7 +218,7 @@ Computer Science Custom Search - www.cs4hs.com/resources/cscs.html
 
 Computer Science for High School - www.cs4hs.com 
 
-Consumer Surveys - www.google.com/insights/consumersurveys | G+ | Twitter
+Consumer Surveys - www.google.com/insights/consumersurveys
 
 Contacts - contacts.google.com
 
@@ -271,7 +284,7 @@ Doodles - www.google.com/doodles
 
 DoubleClick - www.google.com/doubleclick
 
-Drive - drive.google.com (Google+, Twitter, download)
+Drive - drive.google.com 
 
 Duo - duo.google.com 
 
@@ -288,8 +301,6 @@ Earth Flight Simulator - https://support.google.com/...2376993&ctx=topic
 Earth Outreach - earth.google.com/outreach
 
 eBooks - ebooks.google.com
-
-Editions - never released; became Google eBooks
 
 Election Center - electioncenter.googlelabs.com
 
@@ -379,7 +390,7 @@ Google Handwriting Input - goo.gl/gS5gcr
 
 Google in Education - www.google.com/edu/teachers
 
-Google in Education (2nd site) - educourses.withgoogle.com | Online Courses | Internet 101 | Apps for Education | Gmail | Drive | Chrome and Chromebooks for Education
+Google in Education (2nd site) - educourses.withgoogle.com
 
 Google Message Continuity - www.google.com/postini/continuity.html (retired)
 
