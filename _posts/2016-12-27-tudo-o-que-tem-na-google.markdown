@@ -17,11 +17,11 @@ tags:
 
 ### 0-9
 
-#### 20 Things I Learned (eBook) - [www.20thingsilearned.com](www.20thingsilearned.com)
+#### 20 Things I Learned (eBook) - [www.20thingsilearned.com](http://www.20thingsilearned.com/pt-BR){:target="_blank"}
 EBook online: 20 lições que aprendi sobre navegadores e web
 
 
-#### 3D Warehouse - [3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com/)
+#### 3D Warehouse - [3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com/){:target="_blank"}
 Galeria de projetos 3d prontos feitos em SketchUp para download, você também pode publicar seus projetos
 
 
@@ -29,50 +29,65 @@ Galeria de projetos 3d prontos feitos em SketchUp para download, você também p
 
 ### A
 
-#### A Google a Day - [agoogleaday.com](http://www.agoogleaday.com/)
+#### A Google a Day - [agoogleaday.com](http://www.agoogleaday.com/){:target="_blank"}
 Jogo lançado em 2011 pelo Google em parceria com o jornal norte-americano “The New York Times”, não apenas é permitido como a consulta ao Google é incentivada.
 
 Chamado de “A Google a Day” (“Um Google por dia”, tradução livre), o novo quebra-cabeça diário pode ser resolvido usando a criatividade e a capacidade de busca inteligente no Google. As perguntas são publicadas diariamente no site agoogleaday.com e impressas no dia seguinte no “The New York Times” com a respectiva resposta, juntamente com as sugestões de pesquisa e recursos utilizados para encontrá-la.
 Assim como palavras cruzadas tradicionais, a dificuldade aumenta ao longo da semana. Deste modo, até o pesquisador mais experiente pode encontrar perguntas mais complexas pela quinta ou sexta-feira. [Fonte](http://g1.globo.com/tecnologia/noticia/2011/04/jogo-de-questionario-line-incentiva-consultas-ao-google.html)
 
-
-#### About Me - [aboutme.google.com](https://aboutme.google.com/)
+#### About Me - [aboutme.google.com](https://aboutme.google.com/){:target="_blank"}
 Controle o que as pessoas vêem sobre você na Google
 
+#### Accelerated Mobile Pages [ampproject.org](https://www.ampproject.org/){:target="_blank"}
+O AMP é uma maneira de construir páginas da web com conteúdo estático que renderize rapidamente. AMP em ação consiste em três partes diferentes:
 
-#### Accelerated Mobile Pages - www.ampproject.org 
+AMP HTML é HTML com algumas restrições para desempenho confiável e algumas extensões para construir conteúdo rico além do HTML básico. A biblioteca AMP JS assegura a renderização rápida de páginas HTML do AMP. O Cache do Google AMP pode ser usado para exibir páginas HTML AMP armazenadas em cache.
 
-#### Account Activity - www.google.com/settings/activity
+#### Account Activity - [myactivity.google.com/myactivity](https://myactivity.google.com/myactivity){:target="_blank"}
+Monitore todas as atividades da sua conta Google
 
-#### Accounts - www.google.com/accounts
+#### Accounts - [myaccount.google.com](https://myaccount.google.com){:target="_blank"}
+Gerencie as preferências e configurações da sua conta Google 
 
-Add-ons for Google Docs and Sheets - googledrive.blogspot.com/2014/03/add-ons.html
+#### Add-ons for Google Docs and Sheets
+Complementos para Documentos e Planilhas
 
-AdWords - adwords.google.com
+<iframe 
+  width="100%" 
+  height="455" 
+  src="http://www.youtube.com/embed/lZqX6ocwHWU" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 
-AdSense - www.google.com/adsense
+#### AdWords - [adwords.google.com](https://adwords.google.com){:target="_blank"}
+Sistema de venda de anúncios online
 
-Advanced Image Search - www.google.com/advanced_image_search
+#### AdSense - [google.com/adsense](https://www.google.com/adsense/){:target="_blank"}
+Sistema para colocar anúncios Google no seu site ou vídeos no Youtube
 
-Ajax Tutorial - code.google.com/edu/ajax/tutorials/ajax-tutorial.html
+#### Advanced Image Search - [google.com/advanced_image_search](https://www.google.com/advanced_image_search){:target="_blank"}
+Busca avançada por imagens no Google
 
-Album Archive - get.google.com/albumarchive 
+#### Album Archive - [get.google.com/albumarchive](https://get.google.com/albumarchive) 
+Seus álbuns de fotos armazenadas no Google Drive, Plus, Hangout  
 
-Alerts - alerts.google.com 
+#### Alerts - [alerts.google.com](https://www.google.com/alerts)
+Crie alertas para acompanhar o que é publicado na web. Você escolhe as palavras chaves que quer acompanhar e com que frequência que receber os alertas
 
 Allo - allo.google.com
-
-AMP (Accelerated Mobile Pages) - www.ampproject.org
+Novo sistema de troca de mensagens com Assistente Virtual 
 
 Alphabet - abc.xyz 
+A holding criada para gerir os negócios da Google
 
 Analytics - www.google.com/analytics
+Sistema de monitoramento e acompanhamento dos dados do seu site
 
 Android - www.google.com/android
+Sistema operacional para smartphones
 
 Android Device Manager - www.google.com/android/devicemanager
-
-Answers - answers.google.com (retired)
 
 App Engine - appengine.google.com
 
@@ -85,10 +100,6 @@ Art Project - www.googleartproject.com
 Artists and Machine Intelligence - ami.withgoogle.com 
 
 Atmosphere - atmosphere.withgoogle.com 
-
-Authorship - plus.google.com/authorship
-
-Auto Awesome - support.google.com/plus/answer/3113884?hl=en
 
 Auto Awesome Photobombs with David Hasselhoff - goo.gl/WesR8B
 
