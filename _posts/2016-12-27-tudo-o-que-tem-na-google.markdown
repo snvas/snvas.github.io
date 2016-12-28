@@ -73,35 +73,35 @@ Seus álbuns de fotos armazenadas no Google Drive, Plus, Hangout
 #### Alerts - [alerts.google.com](https://www.google.com/alerts)
 Crie alertas para acompanhar o que é publicado na web. Você escolhe as palavras chaves que quer acompanhar e com que frequência que receber os alertas
 
-Allo - allo.google.com
+#### Allo - [allo.google.com](https://allo.google.com/)
 Novo sistema de troca de mensagens com Assistente Virtual 
 
-Alphabet - abc.xyz 
-A holding criada para gerir os negócios da Google
+#### Alphabet - [abc.xyz](https://abc.xyz/) 
+Alfabeto é principalmente uma coleção de empresas. A maior das quais, é claro, é a Google.
 
-Analytics - www.google.com/analytics
+#### Analytics - [www.google.com/analytics](https://www.google.com/analytics/#?modal_active=none)
 Sistema de monitoramento e acompanhamento dos dados do seu site
 
-Android - www.google.com/android
+#### Android - [android.com](https://www.android.com/)
 Sistema operacional para smartphones
 
-Android Device Manager - www.google.com/android/devicemanager
+#### Android Device Manager - [google.com/android/devicemanager](https://www.google.com/android/devicemanager)
+Localize e gerencie seus dispositivos Android
 
-App Engine - appengine.google.com
+#### App Engine - [appengine.google.com](https://console.cloud.google.com/appengine)
+O Google App Engine é uma plataforma de Computação em nuvem para desenvolver e hospedar aplicações web na infraestrutura do Google
 
-App Inventor - appinventor.googlelabs.com (now appinventor.mit.edu)
+#### App Inventor - [appinventor.mit.edu](http://appinventor.mit.edu/)
+App Inventor é uma ferramenta desenvolvida pela Google que permite a criação de aplicativos para smartphones que rodam o sistema operacional Android, sem que seja necessário conhecimento em programação
 
-App Spot - www.appspot.com (forwards to App Engine)
+#### Art Project - [google.com/culturalinstitute](https://www.google.com/culturalinstitute/beta/)
+Explore coleções de todo o mundo com Google Arts & Culture, criado pelo instituto cultural do Google.
 
-Art Project - www.googleartproject.com
+#### Artists and Machine Intelligence - [ami.withgoogle.com](https://ami.withgoogle.com/) 
+AMI é um programa no Google que reúne artistas e engenheiros para realizar projetos usando o Machine Intelligence. Ao apoiar esta forma emergente de colaboração artística, abrem a pesquisa para novas formas de pensar e trabalhar com sistemas inteligentes.
 
-Artists and Machine Intelligence - ami.withgoogle.com 
-
-Atmosphere - atmosphere.withgoogle.com 
-
-Auto Awesome Photobombs with David Hasselhoff - goo.gl/WesR8B
-
-Automatic Statistician (Google-funded) - www.automaticstatistician.com
+#### Atmosphere - [atmosphere.withgoogle.com](https://atmosphere.withgoogle.com/) 
+Evento mundial sobre Business
 
 <div id="B"></div>
 
@@ -131,17 +131,9 @@ Boston Marathon Explosions Person Finder - google.org/personfinder/2013-boston-e
 
 Brain - research.google.com/teams/brain 
 
-Breadcrumb - breadcrumb.googlelabs.com (retired; URL no longer working)
-
-Browser Sync - www.google.com/tools/firefox/browsersync/ (retired)
-
 Business Photos - maps.google.com/help/maps/businessphotos 
 
 Build - www.buildwithchrome.com 
-
-Bump - bu.mp (retired)
-
-Buzz - buzz.google.com (retired)
 
 <div id="C"></div>
 
@@ -231,8 +223,6 @@ Contributor - contributor.google.com
 
 Correlate - www.google.com/trends/correlate (was correlate.googlelabs.com)
 
-Coupons - code.google.com/apis/coupons (retired)
-
 Course Builder - code.google.com/p/course-builder
 
 Crisis Response - www.google.com/crisisresponse
@@ -268,8 +258,6 @@ Daydream - vr.google.com/daydream
 DeepMind - deepmind.com  
 
 Demo Slam - www.demoslam.com
-
-Directory - www.google.com/dirhp (retired)
 
 Diversity@Google - www.google.com/diversity
 
@@ -379,8 +367,6 @@ Goobuntu - en.wikipedia.org/wiki/Goobuntu
 
 Good to Know - www.google.com/goodtoknow
 
-Goog 411 - www.google.com/goog411/ (retired in 2012)
-
 Google - www.google.com 
 
 Google Apps for EDU - www.google.com/a/help/intl/en/edu
@@ -415,10 +401,6 @@ Handwrite - googleblog.blogspot.ca/2012/07/make-your-mark-on-google-with-handwri
 
 Hangouts - hangouts.google.com
 
-Health - health.google.com (retired January 1, 2012)
-
-Helpouts - helpouts.google.com (retired April 20, 2015)
-
 Home - home.google.com 
 
 Home Service Ads - www.google.com/adwords/express/home-service-ads 
@@ -434,8 +416,6 @@ Hotel Finder - www.google.com/hotelfinder
 I/O - www.google.com/events/io 
 
 IgniteCS - ignitecs.withgoogle.com 
-
-iGoogle - www.google.com/ig (retired November 1, 2013)
 
 Image Chart Editor - imagecharteditor.appspot.com 
 
