@@ -17,13 +17,11 @@ tags:
 
 ### 0-9
 
-20 Things I Learned (eBook) - [www.20thingsilearned.com](www.20thingsilearned.com)
-
+## 20 Things I Learned (eBook) - [www.20thingsilearned.com](www.20thingsilearned.com)
 EBook online: 20 lições que aprendi sobre navegadores e web
 
 
 3D Warehouse - [3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com/)
-
 Galeria de projetos 3d prontos feitos em SketchUp para download, você também pode publicar seus projetos
 
 
@@ -32,7 +30,6 @@ Galeria de projetos 3d prontos feitos em SketchUp para download, você também p
 ### A
 
 A Google a Day - [agoogleaday.com](http://www.agoogleaday.com/)
-
 Jogo lançado em 2011 pelo Google em parceria com o jornal norte-americano “The New York Times”, não apenas é permitido como a consulta ao Google é incentivada.
 
 Chamado de “A Google a Day” (“Um Google por dia”, tradução livre), o novo quebra-cabeça diário pode ser resolvido usando a criatividade e a capacidade de busca inteligente no Google. As perguntas são publicadas diariamente no site agoogleaday.com e impressas no dia seguinte no “The New York Times” com a respectiva resposta, juntamente com as sugestões de pesquisa e recursos utilizados para encontrá-la.
