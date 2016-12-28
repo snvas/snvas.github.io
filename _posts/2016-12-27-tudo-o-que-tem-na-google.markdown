@@ -101,7 +101,7 @@ Explore coleções de todo o mundo com Google Arts & Culture, criado pelo instit
 AMI é um programa no Google que reúne artistas e engenheiros para realizar projetos usando o Machine Intelligence. Ao apoiar esta forma emergente de colaboração artística, abrem a pesquisa para novas formas de pensar e trabalhar com sistemas inteligentes.
 
 #### Atmosphere - [atmosphere.withgoogle.com](https://atmosphere.withgoogle.com/) 
-Evento mundial sobre Business
+Plataforma de evento on-demand, ou seja, normalmente é um evento ao vivo que foi gravado para reprodução a qualquer momento. 
 
 <div id="B"></div>
 
