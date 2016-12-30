@@ -88,6 +88,9 @@ Sistema operacional para smartphones
 #### Android Device Manager - [google.com/android/devicemanager](https://www.google.com/android/devicemanager)
 Localize e gerencie seus dispositivos Android
 
+#### Android Training - [developer.android.com/training](https://developer.android.com/training/index.html)
+Aqui você encontrará aulas de treinamento que descrevem como realizar uma tarefa específica com amostras de código que você pode reutilizar em seu aplicativo. Se você é um desenvolvedor de aplicativos Android iniciante, você deve concluir cada uma das classes em ordem. Vários cursos de vídeo on-line também estão disponíveis se você preferir uma experiência de vídeo interativa.
+
 #### App Engine - [appengine.google.com](https://console.cloud.google.com/appengine)
 O Google App Engine é uma plataforma de Computação em nuvem para desenvolver e hospedar aplicações web na infraestrutura do Google
 
@@ -107,135 +110,131 @@ Plataforma de evento on-demand, ou seja, normalmente é um evento ao vivo que fo
 
 ### B
 
-Baseline Research - WSJ article: goo.gl/gNNoXC
+#### BigQuery - [cloud.google.com/bigquery](https://cloud.google.com/bigquery/) 
+O BigQuery é o armazém de dados empresariais de baixo custo da Google, totalmente gerenciado, com escala de petabyte para análise. O BigQuery não tem servidor. Não há nenhuma infra-estrutura para gerenciar e você não precisa de um administrador de banco de dados, portanto, você pode se concentrar em analisar dados para encontrar insights significativos usando o SQL familiar. BigQuery é uma poderosa plataforma de análise de dados usada por todos os tipos de organizações, desde startups a empresas da Fortune.
 
-BigQuery - cloud.google.com/bigquery 
+#### Big Picture Group - [research.google.com/bigpicture](https://research.google.com/bigpicture/)
+Explora como a visualização de informações pode tornar os dados complexos acessíveis, úteis e até divertidos. O foco é em maneiras de iluminar os dados e algoritmos usados na inteligência da máquina.
 
-Big Picture Group - research.google.com/bigpicture
+#### Blockly - [blockly-games.appspot.com](https://blockly-games.appspot.com/)
+Blockly Games é uma série de jogos educativos que ensinam programação. Ele é projetado para crianças que não tiveram experiência anterior com programação de computador. No final desses jogos, os jogadores estão prontos para usar linguagens convencionais baseadas em texto. É um projeto da Google para incentivar os programadores de amanhã. 
 
-Blockly - code.google.com/p/google-blockly
+#### Blog - [blog.google](https://blog.google/) 
+Novo e central destino para as atualizações de notícias e histórias mais recentes da Google. A Google começou a blogar em 2004 - quando os telefones celulares pareciam [com isso](https://www.google.com/search?q=mobile+phone+2004&espv=2&biw=1435&bih=723&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj38eep-MjOAhUI5GMKHTzfC3YQsAQIJg&dpr=1) e antes que alguém tivesse sonhado com o Chrome, o Android ou o YouTube. Desde então, a empresa mudou muito, e publicaram milhares de posts em um grande número de blogs. O Keyword consolida e substitui 19 dos blogs oficiais existentes, em inglês.
 
-Blog - googleblog.blogspot.com (also blog.google) 
+#### Blogger - [blogger.com](https://www.blogger.com/)
+Plataforma gratuita de blogs do Google, é a ferramenta ideal para quem está iniciando no mundo dos blogs. Além de ser fácil de navegar e administrar, oferece a hospedagem e diversos recursos que permitem ao usuário criar seu blog e personalizá-lo, de acordo com suas necessidades
 
-Blog Search - www.google.com/blogsearch
+#### Bookmarks - [bookmarks.google.com](http://bookmarks.google.com/) 
+Google Bookmarks é uma linha livre de marcadores e um serviço de armazenamento, disponível para usuários da Conta do Google.[1] Ele é completamente separado do navegador e não deve ser confundido com a função de marcadores de qualquer navegador, como o Google Chrome. Google Bookmarks foi lançado em 10 de outubro de 2005. É um serviço baseado em nuvem que permite aos usuários marcar sites favoritas e adicionar etiquetas, tags , ou notas. Os usuários podem acessar seus favoritos de qualquer computador acessando a sua conta Gmail. Os favoritos são pesquisáveis, e as buscas são realizadas no texto completo das páginas favoritas, não apenas os rótulos e notas. [Fonte](https://pt.m.wikipedia.org/wiki/Google_Bookmarks)
 
-Blogger - www.blogger.com
+#### Books - [books.google.com](https://books.google.com/)
+Google Books (anteriormente conhecido como Google Book Search e Google Print) (em português: Google Livros) é um serviço da Google que procura textos completos de livros que a Google escaneia, converte-o utilizando o reconhecimento ótico de caracteres, e armazena em seu banco de dados digital.
 
-Body Browser - bodybrowser.googlelabs.com
+#### Brain - [research.google.com/teams/brain](https://research.google.com/teams/brain/) 
+A Google mantém um time de Pesquisa que aborda os problemas mais desafiadores em Ciência da Computação e áreas afins. Ser corajoso e correr riscos é essencial para o que fazem, e as equipes de pesquisa estão embutidas em todo o Google, permitindo que as descobertas afetem bilhões de usuários por dia.
 
-Bookmarks - bookmarks.google.com 
+<iframe 
+  width="100%" 
+  height="455" 
+  src="http://www.youtube.com/embed/0wqc69oNbms" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 
-Books - books.google.com
+#### Build - [buildwithchrome.com](https://www.buildwithchrome.com/) 
+A nova aplicação Build with Chrome (Construa com o Chrome) permite que você solte a imaginação e crie construções com peças de Lego virtuais. Você pode acessar a aplicação do seu pc, tablet ou smartphone (desde que tenha sistema operacional Android).
 
-Boston Marathon Explosions Person Finder - google.org/personfinder/2013-boston-explosions
+<iframe 
+  width="100%" 
+  height="455" 
+  src="http://www.youtube.com/embed/r4TIkhm2tWc" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 
-Brain - research.google.com/teams/brain 
-
-Business Photos - maps.google.com/help/maps/businessphotos 
-
-Build - www.buildwithchrome.com 
 
 <div id="C"></div>
 
 ### C
 
-Calculator - www.google.com (just enter the numbers to calculate!)
+#### Calculator - [google.com](https://www.google.com.br/) 
+Basta digita a conta no buscador Google que ele calcula
 
-Calendar - calendar.google.com
+#### Calendar - [calendar.google.com](https://calendar.google.com/)
 
-Cardboard - www.google.com/get/cardboard (now forwards to vr.google.com/cardboard)
+#### Cardboard - [vr.google.com/cardboard](https://vr.google.com/cardboard/)
 
-Cast - cast.google.com
+#### Chart API - [developers.google.com/chart]( https://developers.google.com/chart/)
 
-Cast for Audio - www.google.com/cast/audio/ 
+#### Checkout - [checkout.google.com]() 
 
-Catalogs - www.google.com/catalogs
+#### Chrome - [chrome.google.com](https://www.google.com/chrome/) 
 
-Chart API - code.google.com/apis/chart
+#### Chrome Cleanup Tool - [google.com/chrome/cleanup-tool](https://www.google.com/chrome/cleanup-tool/) 
 
-Checkout - checkout.google.com 
+#### Chrome Cube Lab - [chrome.com/cubelab](https://chrome.com/cubelab)
 
-Chrome - chrome.google.com 
+#### Chrome Experiments - [chromeexperiments.com]( https://developers.google.com/chart/)
 
-Chrome Cleanup Tool - www.google.com/chrome/cleanup-tool 
+#### Chrome Remote Desktop - [chrome.google.com/chrome-remote-desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp)
 
-Chrome Cube Lab - chrome.com/cubelab
+#### Chrome Web Store - [chrome.google.com/webstore](https://chrome.google.com/webstore/)
 
-Chrome Experiments - www.chromeexperiments.com
+#### Chromebooks - [google.com/chromebook](https://www.google.com/chromebook/)
 
-Chrome Multitask Mode - www.google.com/intl/en/chrome/multitask.html April Fools!
+#### Chromebox for Meetings - [enterprise.google.com/chrome/video-conferencing](https://enterprise.google.com/chrome/video-conferencing/)
 
-Chrome OS - www.google.com/chromeos
+#### Chromecast - [google.com/chromecast](https://www.google.com/intl/pt-BR_br/chromecast/)
 
-Chrome Remote Desktop - chrome.google.com/..../detail/gbchcmhmhahfdphkhkmpfmihenigjmpp
+#### Chromium - [chromium.org/Home](http://www.chromium.org/Home)
 
-Chrome Web Store - chrome.google.com/webstore
+#### Chromium OS - [chromium.org/chromium-os](http://www.chromium.org/chromium-os)
 
-Chromebox for Meetings - www.google.com/intl/en/chrome/business/solutions/for-meetings.html
+#### Classroom - [classroom.google.com](https://classroom.google.com) 
 
-Chromecast - https://chromecast.com (also www.google.com/chromecast)
+#### Cloud Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/) 
 
-Chromium - www.chromium.org/Home
+#### Cloud Platform - [cloud.google.com](https://cloud.google.com/) 
 
-Chromium OS - www.chromium.org/chromium-os (see also Chrome OS)
+#### Cloud Print - [google.com/cloudprint](https://www.google.com/cloudprint)
 
-Classroom - classroom.google.com 
+#### Cloud Storage Nearline - [cloud.google.com/storage-nearline](https://cloud.google.com/storage-nearline/)
 
-Closure Tools - code.google.com/closure
+#### Cloud Vision API - [cloud.google.com/vision](https://cloud.google.com/vision/) 
 
-Cloud Connect for Microsoft Office - tools.google.com/dlpage/cloudconnect
+#### Code Jam - [code.google.com/codejam](https://code.google.com/codejam/)
 
-Cloud Dataproc - cloud.google.com/dataproc 
+#### Code Lab - [codelabs.developers.google.com](https://codelabs.developers.google.com/)
 
-Cloud Platform - cloud.google.com 
+#### Code-in - [developers.google.com/open-source/gci](https://developers.google.com/open-source/gci/) 
+Competição Global onlineque introduz adolescentes ao mundo do código aberto. Com uma grande variedade de tarefa, é fácil para iniciantes começarem não importa o que eles já sabem. Mentores de organizações participantes dão uma mãozinha enquanto os participantes aprendem o que é trabalhar em um projeto de código aberto.
 
-Cloud Print - www.google.com/cloudprint
+#### Computational Thinking for Educators - [computationalthinkingcourse.withgoogle.com](https://computationalthinkingcourse.withgoogle.com/) 
 
-Cloud Storage Nearline - cloud.google.com/storage-nearline
+#### Computational Thinking, Exploring - [google.com/edu/computational-thinking](https://www.google.com/edu/resources/programs/exploring-computational-thinking/)
 
-Cloud Vision API - cloud.google.com/vision 
+#### Computer Science for High School - [cs4hs.com](https://www.cs4hs.com) 
 
-Code - code.google.com 
+#### Consumer Surveys - [google.com/insights/consumersurveys](https://www.google.com/analytics/surveys)
 
-Code Jam - code.google.com/codejam
+#### Contacts - [contacts.google.com](https://www.google.com/contacts/)
 
-Code University - https://developers.google.com/university 
+#### Contributor - [contributor.google.com](https://contributor.google.com/)
 
-Code-in - https://developers.google.com/open-source/gci 
+#### Correlate - [google.com/trends/correlate](https://www.google.com/trends/correlate)
 
-Codesearch - www.google.com/codesearch
+#### Course Builder - [code.google.com/p/course-builder](https://www.google.com/edu/openonline/course-builder/index.html)
 
-Collections - code.google.com/p/google-collections 
+#### Crisis Response - [google.com/crisisresponse](https://www.google.org/crisisresponse/)
 
-Computational Thinking for Educators - computationalthinkingcourse.withgoogle.com 
+#### CS First - [cs-first.com](https://www.cs-first.com/) 
 
-Computational Thinking, Exploring - www.google.com/edu/computational-thinking
+#### Cultural Institute - [google.com/culturalinstitute](https://www.google.com/culturalinstitute/beta/)
 
-Computer Science Custom Search - www.cs4hs.com/resources/cscs.html 
+#### Currents Producer - [google.com/producer](https://www.google.com/producer)
 
-Computer Science for High School - www.cs4hs.com 
-
-Consumer Surveys - www.google.com/insights/consumersurveys
-
-Contacts - contacts.google.com
-
-Contributor - contributor.google.com
-
-Correlate - www.google.com/trends/correlate (was correlate.googlelabs.com)
-
-Course Builder - code.google.com/p/course-builder
-
-Crisis Response - www.google.com/crisisresponse
-
-CS First - www.cs-first.com 
-
-Cultural Institute - www.google.com/culturalinstitute
-
-Currents - www.google.com/producer/currents
-
-Currents Producer - www.google.com/producer
-
-Custom Search Engine - www.google.com/cse
+#### Custom Search Engine - [google.com/cse](https://cse.google.com/cse/)
 
 <div id="D"></div>
 
