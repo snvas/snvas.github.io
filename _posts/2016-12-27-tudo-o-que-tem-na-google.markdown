@@ -240,222 +240,139 @@ Competição Global onlineque introduz adolescentes ao mundo do código aberto. 
 
 ### D
 
-Dart - www.dartlang.org
+#### Dart - [dartlang.org](https://www.dartlang.org/)
 
-Dart for Publishers - www.google.com/doubleclick/publishers/dart.html
+#### Data Studio - [datastudio.google.com](https://datastudio.google.com) 
 
-Dashboard Widgets - www.google.com/macwidgets (Mac only)
+#### Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/) 
 
-Data Liberation - www.dataliberation.org
+#### Daydream - [vr.google.com/daydream](https://vr.google.com/daydream/) 
 
-Data Studio - datastudio.google.com 
+#### DeepMind - [deepmind.com](https://deepmind.com/)  
 
-Dataproc - cloud.google.com/dataproc 
+#### Diversity@Google - [google.com/diversity](https://www.google.com/diversity/)
 
-Daydream - vr.google.com/daydream 
+#### Docs - [docs.google.com](https://docs.google.com/)
 
-DeepMind - deepmind.com  
+#### Docs Templates - [docs.google.com/templates](https://drive.google.com/templates)
 
-Demo Slam - www.demoslam.com
+#### Domains - [domains.google](https://domains.google/)
 
-Diversity@Google - www.google.com/diversity
+#### Doodle 4 Google - [google.com/doodle4google](https://doodles.google.com/d4g/)
 
-Docs - docs.google.com
+#### Doodles - [google.com/doodles](https://www.google.com/doodles)
 
-Docs Demo: Masters Edition -www.google.com/campaigns/gonegoogle/masters-demo/ 
+#### DoubleClick - [doubleclickbygoogle.com](https://www.doubleclickbygoogle.com/)
 
-Docs Templates - docs.google.com/templates
+#### Drive - [drive.google.com](https://drive.google.com) 
 
-Docs Viewer - docs.google.com/viewer
-
-Domains - domains.google.com & domains.google
-
-Doodle 4 Google - www.google.com/doodle4google
-
-Doodles - www.google.com/doodles
-
-DoubleClick - www.google.com/doubleclick
-
-Drive - drive.google.com 
-
-Duo - duo.google.com 
+#### Duo - [duo.google.com](https://duo.google.com/) 
 
 <div id="E"></div>
 
 ### E
 
-Earth - earth.google.com
+#### Earth - [earth.google.com](https://www.google.com/earth/)
 
-Earth Engine - www.google.org/earthengine
+#### Earth Engine - [google.org/earthengine](https://earthengine.google.com/)
 
-Earth Flight Simulator - https://support.google.com/...2376993&ctx=topic 
+#### Earth Outreach - [earth.google.com/outreach](https://www.google.com/earth/outreach/index.html)
 
-Earth Outreach - earth.google.com/outreach
+#### eBooks - [ebooks.google.com](https://play.google.com/store/books)
 
-eBooks - ebooks.google.com
-
-Election Center - electioncenter.googlelabs.com
-
-Enhanced Campaigns - www.google.com/adwords/enhancedcampaigns
-
-Expeditions - www.google.com/edu/expeditions 
+#### Expeditions - [google.com/edu/expeditions](https://www.google.com/edu/expeditions/) 
 
 <div id="F"></div>
 
 ### F
 
-Fastflip - fastflip.googlelabs.com
+#### Feedburner - [feedburner.google.com](http://feedburner.google.com/)
 
-Feedburner - feedburner.google.com
+#### Fi - [fi.google.com](https://fi.google.com) 
 
-Fi - fi.google.com 
+#### Fiber - [fiber.google.com](https://fiber.google.com)
 
-Fiber - fiber.google.com
+#### Field Trip - [fieldtripper.com](http://www.fieldtripper.com/)
 
-Fiber for Communities - fiberforcommunities.com
+#### Finance - [finance.google.com](https://www.google.com/finance)
 
-Field Trip - www.fieldtripper.com
+#### Firebase - [firebase.google.com](https://firebase.google.com/) 
 
-Finance - finance.google.com
+#### Flights - [google.com/flights](https://www.google.com.br/flights/) 
 
-Firebase - firebase.google.com 
+#### Fonts - [google.com/fonts](https://fonts.google.com/)
 
-Flights - www.google.com/flights 
+#### Frightgeist - [frightgeist.withgoogle.com](https://frightgeist.withgoogle.com/)
 
-Flu Trends - www.google.org/flutrends
-
-Flutter - flutterapp.com
-
-Follow Finder - followfinder.googlelabs.com (retired in 2011)
-
-Fonts - www.google.com/fonts | github.com/google/fonts 
-
-For Educators - www.google.com/educators
-
-Freebase - www.freebase.com
-
-Friend Connect - www.google.com/friendconnect
-
-Frightgeist - frightgeist.withgoogle.com
-
-FruitGames - www.google.com/doodles/fruitgames
-
-Fusion Tables - www.google.com/fusiontables 
 
 <div id="G"></div>
 
 ### G
 
-Glass - glass.google.com
+#### Gmail - [gmail.com](https://mail.google.com)
 
-Gmail - www.gmail.com
+#### Go - [golang.org](https://golang.org/)
 
-Gmail Blue - www.gmail.com/blue April Fools!
+#### Google - [google.com](https://www.google.com.br) 
 
-Gmail Motion - mail.google.com/mail/help/motion.html April Fools!
+#### Google for EDU - [google.com/edu](https://www.google.com/edu/)
 
-Gmail Notifier - toolbar.google.com/gmail-helper 
+#### Google Brain - [research.google.com/teams/brain](https://research.google.com/teams/brain/) 
 
-Go - golang.org/
+#### Green - [environment.google](https://environment.google/)
 
-Goggles - www.google.com/mobile/goggles
+#### Groups - [groups.google.com](https://groups.google.com/)
 
-Gone Google Campaign - www.google.com/gonegoogle
-
-Goobuntu - en.wikipedia.org/wiki/Goobuntu
-
-Good to Know - www.google.com/goodtoknow
-
-Google - www.google.com 
-
-Google Apps for EDU - www.google.com/a/help/intl/en/edu
-
-Google Brain - research.google.com/teams/brain 
-
-Google Digital Literacy Tour - www.ikeepsafe.org/for-educators/google-digital-literacy-tour
-
-Google Gadgets Editor - code.google.com/apis/gadgets/docs/tools.html#GGE
-
-Google Handwriting Input - goo.gl/gS5gcr 
-
-Google in Education - www.google.com/edu/teachers
-
-Google in Education (2nd site) - educourses.withgoogle.com
-
-Google Message Continuity - www.google.com/postini/continuity.html (retired)
-
-Google Ratings - survey.googleratings.com
-
-Google with SSL - https://encrypted.google.com
-
-Green - www.google.com/green
-
-Groups - groups.google.com
 
 <div id="H"></div>
 
 ### H
 
-Handwrite - googleblog.blogspot.ca/2012/07/make-your-mark-on-google-with-handwrite.html
+#### Hangouts - [hangouts.google.com](https://hangouts.google.com/)
 
-Hangouts - hangouts.google.com
+#### Home - [home.google.com](https://madeby.google.com/home/) 
 
-Home - home.google.com 
+#### Home Service Ads - [google.com/adwords/express/home-service-ads](https://www.google.com/adwords/express/home-service-ads/) 
 
-Home Service Ads - www.google.com/adwords/express/home-service-ads 
-
-HotPot - hotpot.google.com (forwards to Google)
-
-Hotel Finder - www.google.com/hotelfinder
 
 <div id="I"></div>
 
 ### I
 
-I/O - www.google.com/events/io 
+#### I/O - [google.com/events/io](https://www.google.com/events/io) 
 
-IgniteCS - ignitecs.withgoogle.com 
+#### IgniteCS - [ignitecs.withgoogle.com](https://ignitecs.withgoogle.com/) 
 
-Image Chart Editor - imagecharteditor.appspot.com 
+#### Images - [images.google.com](https://images.google.com/)
 
-Image Labeler - images.google.com/imagelabeler
+#### Inbox - [inbox.google.com](https://inbox.google.com)
 
-Images - images.google.com
-
-Image Swirl - image-swirl.googlelabs.com
-
-In Quotes - labs.google.com/inquotes
-
-Inbox - inbox.google.com
-
-Insights - www.google.com/insights/search
-
-Instant Search - instant.google.com
+#### Instant Search - [instant.google.com](https://www.google.com/search/about/#utm_campaign=launch&utm_medium=van&utm_source=instant)
 
 
 <div id="J"></div>
 
 ### J
 
-Japan Person Finder - google.org/personfinder/japan
+#### Japan Person Finder - [google.org/personfinder/japan](http://google.org/personfinder/japan?lang=pt-BR)
 
-Jigsaw - jigsaw.google.com 
+#### Jigsaw - [jigsaw.google.com](https://jigsaw.google.com/) 
 
-Jobs - jobs.google.com
+#### Jobs - [jobs.google.com](https://careers.google.com/)
 
-Jump - vr.google.com/jump 
+#### Jump - [vr.google.com/jump](https://vr.google.com/jump/) 
 
 <div id="K"></div>
 
 ### K
 
-Keep - keep.google.com (was drive.google.com/keep) 
+#### Keep - keep.google.com 
 
-Keyword Tool - www.googlekeywordtool.com
+#### Keyword Tool - www.googlekeywordtool.com
 
-Knol - knol.google.com
+#### Knol - knol.google.com
 
-Knowledge Graph - googleblog.blogspot.ca/2012/05/introducing-knowledge-graph-things-not.html
+#### Knowledge Graph - googleblog.blogspot.ca/2012/05/introducing-knowledge-graph-things-not.html
 
 (also www.google.com/insidesearch/features/search/knowledge.html)
 
@@ -463,409 +380,384 @@ Knowledge Graph - googleblog.blogspot.ca/2012/05/introducing-knowledge-graph-thi
 
 ### L
 
-Labs - www.googlelabs.com (retired in 2011; now forwards to Google main page)
+#### Levity Algorithm - [video]
 
-Latitude - latitude.google.com (retired August 9, 2013)
+#### Listen - listen.googlelabs.com (for Android only)
 
-Levity Algorithm - [video]
+#### Lively - en.wikipedia.org/wiki/Google_Lively 
 
-Listen - listen.googlelabs.com (for Android only)
+#### Logos - www.google.com/logos
 
-Lively - en.wikipedia.org/wiki/Google_Lively 
+#### Loon - www.google.com/loon
 
-Logos - www.google.com/logos
-
-Loon - www.google.com/loon
-
-Lunar X Prize - www.googlelunarxprize.org
+#### Lunar X Prize - www.googlelunarxprize.org
 
 <div id="M"></div>
 
 ### M
 
-Made with Code - www.madewithcode.com
+#### Made with Code - www.madewithcode.com
 
-Map Maker - mapmaker.google.com
+#### Map Maker - mapmaker.google.com
 
-Maps - maps.google.com
+#### Maps - maps.google.com
 
-Maps Engine Lite - mapsengine.google.com
+#### Maps Engine Lite - mapsengine.google.com
 
-Maps Floor Plans - maps.google.com/help/maps/floorplans
+#### Maps Floor Plans - maps.google.com/help/maps/floorplans
 
-Maps for 8-bit NES - maps.google.com/?t=8&utm_campaign=8bit April Fools!
+#### Maps for 8-bit NES - maps.google.com/?t=8&utm_campaign=8bit April Fools!
 
-Maps: Pokémon Challenge - www.youtube.com/watch?v=4YMD6xELI_k April Fools!
+#### Maps: Pokémon Challenge - www.youtube.com/watch?v=4YMD6xELI_k April Fools!
 
-Mars - www.google.com/mars 
+#### Mars - www.google.com/mars 
 
-Memories for the Future - www.miraikioku.com/streetview/en
+#### Memories for the Future - www.miraikioku.com/streetview/en
 
-Mobile - m.google.com 
+#### Mobile - m.google.com 
 
-Mobile Blog - googlemobile.blogspot.com
+#### Mobile Blog - googlemobile.blogspot.com
 
-Moderator - www.google.com/moderator
+#### Moderator - www.google.com/moderator
 
-Mortgages - www.google.com/compare/mortgages
+#### Mortgages - www.google.com/compare/mortgages
 
-Music - music.google.com
+#### Music - music.google.com
 
-Music Key - www.youtube.com/musickey
+#### Music Key - www.youtube.com/musickey
 
-Music Timeline - research.google.com/bigpicture/music 
+#### Music Timeline - research.google.com/bigpicture/music 
 
-My Activity - myactivity.google.com 
+#### My Activity - myactivity.google.com 
 
 <div id="M"></div>
 
 ### N
 
-Nearline - cloud.google.com/storage-nearline 
+#### Nearline - cloud.google.com/storage-nearline 
 
-Needlebase - needlebase.com (retired June 1, 2012)
+#### Needlebase - needlebase.com (retired June 1, 2012)
 
-New - www.google.com/newproducts
+#### New - www.google.com/newproducts
 
-News - news.google.com
+#### News - news.google.com
 
-News Archive Search - news.google.com/newspapers
+#### News Archive Search - news.google.com/newspapers
 
-News Badges - googlesystem.blogspot.com/2011/07/google-news-badges.html
+#### News Badges - googlesystem.blogspot.com/2011/07/google-news-badges.html
 
-News Timeline - newstimeline.googlelabs.com (retired in 2011; now forwards to Google News)
+#### News Timeline - newstimeline.googlelabs.com (retired in 2011; now forwards to Google News)
 
-Nexus - nexus.google.com
+#### Nexus - nexus.google.com
 
-Ngram Viewer - books.google.com/ngrams
+#### Ngram Viewer - books.google.com/ngrams
 
-Nik Collection by Google - www.niksoftware.com
+#### Nik Collection by Google - www.niksoftware.com
 
-Nose - www.google.com/landing/nose 
+#### Nose - www.google.com/landing/nose 
 
-Notebook - notebook.google.com (retired July 2012)
+#### Notebook - notebook.google.com (retired July 2012)
 
-Noto Fonts - www.google.com/get/noto
+#### Noto Fonts - www.google.com/get/noto
 
-Now - www.google.com/landing/now
+#### Now - www.google.com/landing/now
 
 <div id="O"></div>
 
 ### O
 
-Offers - www.google.com/offers
+#### Offers - www.google.com/offers
 
-One Today - onetoday.google.com 
+#### One Today - onetoday.google.com 
 
-OnHub - on.google.com/hub/
+#### OnHub - on.google.com/hub/
 
-One Pass - www.google.com/onepass
+#### One Pass - www.google.com/onepass
 
-Online Marketing Challenge - www.google.com/onlinechallenge
+#### Online Marketing Challenge - www.google.com/onlinechallenge
 
-Oppia - code.google.com/p/oppia 
-
-Orkut - www.orkut.com
+#### Oppia - code.google.com/p/oppia 
 
 <div id="P"></div>
 
 ### P
 
-Pacman - www.google.com/pacman
+#### Pacman - www.google.com/pacman
 
-Page Creator - pages.google.com (retired)
+#### Page Speed Online - developers.google.com/pagespeed
 
-Page Speed Online - developers.google.com/pagespeed
+#### Panoramio - www.panoramio.com
 
-Panoramio - www.panoramio.com
+#### Person Finder - google.org/personfinder
 
-Person Finder - google.org/personfinder
+#### Phone - www.google.com/phone
 
-Phone - www.google.com/phone
+#### Photos - photos.google.com 
 
-Photos - photos.google.com 
+#### PhotoScan - www.google.com/photos/scan 
 
-PhotoScan - www.google.com/photos/scan 
+#### Picasa - picasa.google.com 
 
-Photovine - photovine.com (retired March 6, 2012)
+#### Picasa Web Albums - picasaweb.google.com
 
-Picasa - picasa.google.com 
+#### Pixel - pixel.google.com
 
-Picasa Web Albums - picasaweb.google.com
+#### Places - places.google.com
 
-Picnik - www.picnik.com (retired April 19, 2012)
+#### Play - play.google.com
 
-Pixel - pixel.google.com
+#### Plus - plus.google.com
 
-Places - places.google.com
+#### Policies & Principles - www.google.com/policies
 
-Play - play.google.com
+#### Power Searching with Google - www.powersearchingwithgoogle.com (AKA Search Education)
 
-Plus - plus.google.com
+#### Product Forums - productforums.google.com 
 
-Policies & Principles - www.google.com/policies
+#### Products - products.google.com
 
-Power Meter - www.google.com/powermeter (retired September 16, 2011)
+#### Profiles - profiles.google.com
 
-Power Searching with Google - www.powersearchingwithgoogle.com (AKA Search Education)
+#### Project Ara - www.projectara.com
 
-Product Forums - productforums.google.com 
+#### Project Glass - plus.google.com/111626127367496192147
 
-Products - products.google.com
+#### Project Tango - www.google.com/atap/projecttango
 
-Profiles - profiles.google.com
+#### Project Wycheproof - github.com/google/wycheproof 
 
-Project Ara - www.projectara.com
+#### Public Data Explorer - publicdata.google.com
 
-Project Glass - plus.google.com/111626127367496192147
+#### Public DNS - code.google.com/speed/public-dns
 
-Project Tango - www.google.com/atap/projecttango
+#### Python Class - code.google.com/edu/languages/google-python-class
 
-Project Wycheproof - github.com/google/wycheproof 
-
-Public Data Explorer - publicdata.google.com
-
-Public DNS - code.google.com/speed/public-dns
-
-Python Class - code.google.com/edu/languages/google-python-class
-
-Python Style Guide - google-styleguide.googlecode.com/svn/trunk/pyguide.html
+#### Python Style Guide - google-styleguide.googlecode.com/svn/trunk/pyguide.html
 
 <div id="Q"></div>
 
 ### Q
 
-Quick, Draw - quickdraw.withgoogle.com 
+#### Quick, Draw - quickdraw.withgoogle.com 
 
-Quick Office - support.google.com/quickoffice
+#### Quick Office - support.google.com/quickoffice
 
-Quick Search Box - www.google.com/quicksearchbox (Mac only)
+#### Quick Search Box - www.google.com/quicksearchbox (Mac only)
 
 <div id="R"></div>
 
 ### R
 
-Reader - reader.google.com (retired July 1, 2013)
+#### Reader - reader.google.com (retired July 1, 2013)
 
-Reader Play - www.google.com/reader/play
+#### Reader Play - www.google.com/reader/play
 
-Really Advanced Search - www.google.com/js/reallyadvanced.html April Fools!
+#### Really Advanced Search - www.google.com/js/reallyadvanced.html April Fools!
 
-Realtime - realtime.google.com (retired)
+#### Realtime - realtime.google.com (retired)
 
-ReCAPTCHA - www.google.com/recaptcha
+#### ReCAPTCHA - www.google.com/recaptcha
 
-Recipe View - www.google.com/landing/recipes
+#### Recipe View - www.google.com/landing/recipes
 
-Refine - code.google.com/p/google-refine
+#### Refine - code.google.com/p/google-refine
 
-Refuge Relief - onetoday.google.com/page/refugeerelief 
+#### Refuge Relief - onetoday.google.com/page/refugeerelief 
 
-Research at Google - research.google.com 
+#### Research at Google - research.google.com 
 
-RISE - www.google.com/diversity/rise & www.google.com/edu/rise
+#### RISE - www.google.com/diversity/rise & www.google.com/edu/rise
 
-Royal Baby Card - royalbabycard.withgoogle.com
+#### Royal Baby Card - royalbabycard.withgoogle.com
 
 <div id="S"></div>
 
 ### S
 
-Save to Google - www.google.com/save 
+#### Save to Google - www.google.com/save 
 
-Save to Google (Chrome Extension) - chrome.google.com/….meoeeoaohbmgbocpdpnjklmfmjjagkkf 
+#### Save to Google (Chrome Extension) - chrome.google.com/….meoeeoaohbmgbocpdpnjklmfmjjagkkf 
 
-Scholar - scholar.google.com
+#### Scholar - scholar.google.com
 
-Science Fair Portal - www.google.com/events/isef/index.html
+#### Science Fair Portal - www.google.com/events/isef/index.html
 
-Screen Capture (Chrome Extension) - chrome.google.com/….mofbokmjmljamhdncknpmg
+#### Screen Capture (Chrome Extension) - chrome.google.com/….mofbokmjmljamhdncknpmg
 
-Scribe - scribe.googlelabs.com
+#### Scribe - scribe.googlelabs.com
 
-Search Education - www.powersearchingwithgoogle.com (AKA Power Searching with Google)
+#### Search Education - www.powersearchingwithgoogle.com (AKA Power Searching with Google)
 
-Search Stories - www.youtube.com/user/SearchStories
+#### Search Stories - www.youtube.com/user/SearchStories
 
-Secure Search - https://www.google.com/ (“https” instead of “http”)
+#### Secure Search - https://www.google.com/ (“https” instead of “http”)
 
-Sets - labs.google.com/sets
+#### Sets - labs.google.com/sets
 
-Shared Spaces - sharedspaces.googlelabs.com/ (retired)
+#### Shopping Express - www.google.com/express
 
-Shopping Express - www.google.com/express
+#### Sitemap - www.google.com/sitemap.xml
 
-Sitemap - www.google.com/sitemap.xml
+#### Sites - sites.google.com
 
-Sites - sites.google.com
+#### SketchUp - sketchup.google.com
 
-SketchUp - sketchup.google.com
+#### Sky - sky.google.com
 
-Sky - sky.google.com
+#### Sky Map - www.google.com/mobile/skymap (open-sourced January 20, 2012)
 
-Sky Map - www.google.com/mobile/skymap (open-sourced January 20, 2012)
+#### Slides - slides.google.com
 
-Slides - slides.google.com
+#### Smart Contact Lens - googleblog.blogspot.ca/2014/01/….smart-contact-lens.html
 
-Smart Contact Lens - googleblog.blogspot.ca/2014/01/….smart-contact-lens.html
+#### Social Graph API - code.google.com/apis/socialgraph (retired April 20, 2012)
 
-Social Graph API - code.google.com/apis/socialgraph (retired April 20, 2012)
+#### Spaces - spaces.google.com 
 
-Spaces - spaces.google.com 
+#### Sparrow (email client) - www.sparrowmailapp.com
 
-Sparrow (email client) - www.sparrowmailapp.com
+#### Springboard - googleforwork.blogspot.ca/2016/06<...snip...>-and-collaborative-enterprise.html
 
-Springboard - googleforwork.blogspot.ca/2016/06<...snip...>-and-collaborative-enterprise.html
+#### Store - www.googlestore.com 
 
-Squared - squared.google.com (retired September 5, 2011)
+#### Story Builder - docsstorybuilder.appspot.com
 
-Store - www.googlestore.com 
+#### Street View - maps.google.com/help/maps/streetview
 
-Story Builder - docsstorybuilder.appspot.com
+#### Street View Gallery - maps.google.com/intl/en/help/maps/streetview/gallery.html
 
-Street View - maps.google.com/help/maps/streetview
-
-Street View Gallery - maps.google.com/intl/en/help/maps/streetview/gallery.html
-
-Subscribed Links - www.google.com/coop/subscribedlinks
+#### Subscribed Links - www.google.com/coop/subscribedlinks
 
 <div id="T"></div>
 
 ### T
 
-Tablets with Google Play for Education - www.google.com/edu/tablets 
+#### Tablets with Google Play for Education - www.google.com/edu/tablets 
 
-Takeout (aka Takeaway) - www.google.com/takeout
+#### Takeout (aka Takeaway) - www.google.com/takeout
 
-Talk - talk.google.com
+#### Talk - talk.google.com
 
-Talk Guru - guru.googlelabs.com
+#### Talk Guru - guru.googlelabs.com
 
-Tap - mail.google.com/mail/help/promos/tap April Fools!
+#### Tap - mail.google.com/mail/help/promos/tap April Fools!
 
-Tasks - mail.google.com/mail/help/tasks
+#### Tasks - mail.google.com/mail/help/tasks
 
-Teacher Academy - www.google.com/educators/gta.html
+#### Teacher Academy - www.google.com/educators/gta.html
 
-Teach Parents Tech - www.teachparentstech.org
+#### Teach Parents Tech - www.teachparentstech.org
 
-TensorFlow - www.tensorflow.org 
+#### TensorFlow - www.tensorflow.org 
 
-Test My Site - testmysite.thinkwithgoogle.com 
+#### Test My Site - testmysite.thinkwithgoogle.com 
 
-TestTube - www.youtube.com/testtube 
+#### TestTube - www.youtube.com/testtube 
 
-Think With Google - www.thinkwithgoogle.com 
+#### Think With Google - www.thinkwithgoogle.com 
 
-Timeful - www.timeful.com 
+#### Timeful - www.timeful.com 
 
-Timelapse - earthengine.google.com/timelapse 
+#### Timelapse - earthengine.google.com/timelapse 
 
-Timeline - www.google.com/maps/timeline 
+#### Timeline - www.google.com/maps/timeline 
 
-Tips - www.google.com/get/googletips 
+#### Tips - www.google.com/get/googletips 
 
-Toolbar - toolbar.google.com 
+#### Toolbar - toolbar.google.com 
 
-Tour Builder - tourbuilder.withgoogle.com (Beta)
+#### Tour Builder - tourbuilder.withgoogle.com (Beta)
 
-Translate - translate.google.com
+#### Translate - translate.google.com
 
-Treasure Maps - maps.google.com/maps?t=8 [video] April Fools!
+#### Treasure Maps - maps.google.com/maps?t=8 [video] April Fools!
 
-Trends - trends.google.com
+#### Trends - trends.google.com
 
-TV - www.google.com/tv 
+#### TV - www.google.com/tv 
 
-Twitter List of Google Accounts - twitter.com/mikedownesz/lists/google-accounts/members 
+#### Twitter List of Google Accounts - twitter.com/mikedownesz/lists/google-accounts/members 
 
 <div id="U"></div>
 
 ### U
 
-Usability - www.google.com/usability
+#### Usability - www.google.com/usability
 
-URL Shortener - goo.gl
+#### URL Shortener - goo.gl
 
 <div id="V"></div>
 
 ### V
 
-Video - video.google.com 
+#### Video - video.google.com 
 
-Views - www.google.com/maps/views 
+#### Views - www.google.com/maps/views 
 
-VirusTotal - www.virustotal.com 
+#### VirusTotal - www.virustotal.com 
 
-Voice - voice.google.com 
+#### Voice - voice.google.com 
 
-Voice Search - www.google.com/insidesearch/voicesearch-chrome.html
+#### Voice Search - www.google.com/insidesearch/voicesearch-chrome.html
 
-VR - vr.google.com 
+#### VR - vr.google.com 
 
 <div id="W"></div>
 
 ### W
 
-Wallet - www.google.com/wallet
+#### Wallet - www.google.com/wallet
 
-Wave - wave.google.com (read-only effective January 31, 2012; retired April 30, 2012)
+#### Wave - wave.google.com (read-only effective January 31, 2012; retired April 30, 2012)
 
-Waze - www.waze.com 
+#### Waze - www.waze.com 
 
-Web Designer - www.google.com/webdesigner
+#### Web Designer - www.google.com/webdesigner
 
-Web Lab - www.chromeweblab.com
+#### Web Lab - www.chromeweblab.com
 
-Web Fonts - www.google.com/webfonts
+#### Web Fonts - www.google.com/webfonts
 
-Web History - www.google.com/history
+#### Web History - www.google.com/history
 
-Web Programming - code.google.com/edu/submissions/uwspr2007_webprogramming/listing.html
+#### Web Programming - code.google.com/edu/submissions/uwspr2007_webprogramming/listing.html
 
-Webmaster Central - www.google.com/webmasters
+#### Webmaster Central - www.google.com/webmasters
 
-WebP - code.google.com/speed/webp/
+#### WebP - code.google.com/speed/webp/
 
-Website Optimizer - www.google.com/websiteoptimizer
+#### Website Optimizer - www.google.com/websiteoptimizer
 
-Weddings - www.google.com/weddings
+#### Weddings - www.google.com/weddings
 
-What Do You Love - www.wdyl.com
+#### What Do You Love - www.wdyl.com
 
-Wifi - madeby.google.com/wifi 
+#### Wifi - madeby.google.com/wifi 
 
-Wonder Wheel - www.googlewonderwheel.com (retired)
-
-<div id="X"></div>
-
-### X
-
-X - labs.google.com/googlex (retired; see en.wikipedia.org/wiki/Google_X for more info)
 
 <div id="Y"></div>
 
 ### Y
 
-YouTube - www.youtube.com 
+#### YouTube - www.youtube.com 
 
-YouTube Feather - www.youtube.com/feather_beta
+#### YouTube Feather - www.youtube.com/feather_beta
 
-YouTube for Education - www.youtube.com/education
+#### YouTube for Education - www.youtube.com/education
 
-YouTube for Schools - www.youtube.com/schools
+#### YouTube for Schools - www.youtube.com/schools
 
-YouTube Live - www.youtube.com/live
+#### YouTube Live - www.youtube.com/live
 
-YouTube Teachers - www.youtube.com/user/teachers
+#### YouTube Teachers - www.youtube.com/user/teachers
 
 <div id="Z"></div>
 
 ### Z
 
-Zagat - www.zagat.com
+#### Zagat - www.zagat.com
 
-Zeitgeist - www.google.com/intl/en/press/zeitgeist
+#### Zeitgeist - www.google.com/intl/en/press/zeitgeist
 
 
 <iframe style="border: 0; width: 100%; height: 9000px" src="https://docs.google.com/document/pub?id=1TQupkuKAo7HQT-Sc8wMOcqVvXtc9j4QGWA2BrfBWpbI"></iframe>
