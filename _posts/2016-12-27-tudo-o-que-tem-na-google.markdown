@@ -362,271 +362,188 @@ Competição Global onlineque introduz adolescentes ao mundo do código aberto. 
 
 #### Jump - [vr.google.com/jump](https://vr.google.com/jump/) 
 
+
 <div id="K"></div>
 
 ### K
 
-#### Keep - keep.google.com 
+#### Keep - [keep.google.com](https://keep.google.com/) 
 
-#### Keyword Tool - www.googlekeywordtool.com
+#### Keyword Tool - [adwords.google.com/KeywordPlanner](https://adwords.google.com/KeywordPlanner)
 
-#### Knol - knol.google.com
-
-#### Knowledge Graph - googleblog.blogspot.ca/2012/05/introducing-knowledge-graph-things-not.html
-
-(also www.google.com/insidesearch/features/search/knowledge.html)
 
 <div id="L"></div>
 
 ### L
 
-#### Levity Algorithm - [video]
+#### Loon - [x.company/loon](https://x.company/loon/)
 
-#### Listen - listen.googlelabs.com (for Android only)
-
-#### Lively - en.wikipedia.org/wiki/Google_Lively 
-
-#### Logos - www.google.com/logos
-
-#### Loon - www.google.com/loon
-
-#### Lunar X Prize - www.googlelunarxprize.org
+#### Lunar X Prize - [lunar.xprize.org](http://lunar.xprize.org/)
 
 <div id="M"></div>
 
 ### M
 
-#### Made with Code - www.madewithcode.com
+#### Made with Code - [madewithcode.com](https://www.madewithcode.com/)
 
-#### Map Maker - mapmaker.google.com
+#### Map Maker - [mapmaker.google.com](https://mapmaker.google.com/)
 
-#### Maps - maps.google.com
+#### Maps - [maps.google.com](https://www.google.com.br/maps)
 
-#### Maps Engine Lite - mapsengine.google.com
+#### Maps Floor Plans - [google.com/maps/about/partners/indoormaps](https://www.google.com/maps/about/partners/indoormaps/)
 
-#### Maps Floor Plans - maps.google.com/help/maps/floorplans
+#### Mars - [google.com/mars](https://www.google.com/mars/) 
 
-#### Maps for 8-bit NES - maps.google.com/?t=8&utm_campaign=8bit April Fools!
+#### Memories for the Future - [miraikioku.com/streetview/en](https://www.miraikioku.com/streetview/en/)
 
-#### Maps: Pokémon Challenge - www.youtube.com/watch?v=4YMD6xELI_k April Fools!
+#### Mobile - [m.google.com](https://get.google.com/apptips/apps/) 
 
-#### Mars - www.google.com/mars 
+#### Mobile Blog - [blog.google/products/android](https://blog.google/products/android/)
 
-#### Memories for the Future - www.miraikioku.com/streetview/en
+#### Music - [music.google.com](https://play.google.com/music/listen#/sulp)
 
-#### Mobile - m.google.com 
+#### Music Timeline - [research.google.com/bigpicture/music](https://research.google.com/bigpicture/music/) 
 
-#### Mobile Blog - googlemobile.blogspot.com
-
-#### Moderator - www.google.com/moderator
-
-#### Mortgages - www.google.com/compare/mortgages
-
-#### Music - music.google.com
-
-#### Music Key - www.youtube.com/musickey
-
-#### Music Timeline - research.google.com/bigpicture/music 
-
-#### My Activity - myactivity.google.com 
+#### My Activity - [myactivity.google.com](https://myactivity.google.com/myactivity) 
 
 <div id="M"></div>
 
 ### N
 
-#### Nearline - cloud.google.com/storage-nearline 
+#### Nearline - [cloud.google.com/storage-nearline](https://cloud.google.com/storage-nearline/) 
 
-#### Needlebase - needlebase.com (retired June 1, 2012)
+#### News - [news.google.com](https://news.google.com/)
 
-#### New - www.google.com/newproducts
+#### News Archive Search - [news.google.com/newspapers](https://news.google.com/newspapers)
 
-#### News - news.google.com
+#### Nexus - [nexus.google.com](https://www.google.com/nexus/)
 
-#### News Archive Search - news.google.com/newspapers
+#### Ngram Viewer - [books.google.com/ngrams](https://books.google.com/ngrams)
 
-#### News Badges - googlesystem.blogspot.com/2011/07/google-news-badges.html
+#### Nik Collection by Google - [niksoftware.com](https://www.google.com/nikcollection/)
 
-#### News Timeline - newstimeline.googlelabs.com (retired in 2011; now forwards to Google News)
-
-#### Nexus - nexus.google.com
-
-#### Ngram Viewer - books.google.com/ngrams
-
-#### Nik Collection by Google - www.niksoftware.com
-
-#### Nose - www.google.com/landing/nose 
-
-#### Notebook - notebook.google.com (retired July 2012)
-
-#### Noto Fonts - www.google.com/get/noto
-
-#### Now - www.google.com/landing/now
+#### Noto Fonts - [google.com/get/noto](https://www.google.com/get/noto/)
 
 <div id="O"></div>
 
 ### O
 
-#### Offers - www.google.com/offers
+#### One Today - [onetoday.google.com](https://onetoday.google.com/) 
 
-#### One Today - onetoday.google.com 
+#### OnHub - [on.google.com/hub](https://on.google.com/hub/)
 
-#### OnHub - on.google.com/hub/
+#### Online Marketing Challenge - [google.com/onlinechallenge](https://www.google.com/onlinechallenge/)
 
-#### One Pass - www.google.com/onepass
-
-#### Online Marketing Challenge - www.google.com/onlinechallenge
-
-#### Oppia - code.google.com/p/oppia 
+#### Oppia - [github.com/oppia/oppia](https://github.com/oppia/oppia) 
 
 <div id="P"></div>
 
 ### P
 
-#### Pacman - www.google.com/pacman
+#### Pacman - [google.com/pacman](https://www.google.com/doodles/30th-anniversary-of-pac-man)
 
-#### Page Speed Online - developers.google.com/pagespeed
+#### Page Speed Online - [developers.google.com/pagespeed](https://developers.google.com/speed/pagespeed/insights/)
 
-#### Panoramio - www.panoramio.com
+#### Person Finder - [google.org/personfinder](http://google.org/personfinder/global/home.html)
 
-#### Person Finder - google.org/personfinder
+#### Photos - [photos.google.com](https://photos.google.com/) 
 
-#### Phone - www.google.com/phone
+#### PhotoScan - [google.com/photos/scan](https://www.google.com/photos/scan/) 
 
-#### Photos - photos.google.com 
+#### Pixel - [pixel.google.com](https://madeby.google.com/phone/)
 
-#### PhotoScan - www.google.com/photos/scan 
+#### Play - [play.google.com](https://play.google.com/store)
 
-#### Picasa - picasa.google.com 
+#### Plus - [plus.google.com](https://plus.google.com/)
 
-#### Picasa Web Albums - picasaweb.google.com
+#### Policies & Principles - [google.com/policies](https://www.google.com/policies/)
 
-#### Pixel - pixel.google.com
+#### Power Searching with Google - [powersearchingwithgoogle.com](http://www.powersearchingwithgoogle.com/)
 
-#### Places - places.google.com
+#### Product Forums - [productforums.google.com](https://productforums.google.com/forum/#!home) 
 
-#### Play - play.google.com
+#### Products - [products.google.com](https://www.google.com/intl/en/about/products/)
 
-#### Plus - plus.google.com
+#### Profiles - [profiles.google.com](https://profiles.google.com/)
 
-#### Policies & Principles - www.google.com/policies
+#### Project Ara - [projectara.com](https://atap.google.com/ara/)
 
-#### Power Searching with Google - www.powersearchingwithgoogle.com (AKA Search Education)
+#### Project Glass - [plus.google.com/+GoogleGlass](https://plus.google.com/+GoogleGlass)
 
-#### Product Forums - productforums.google.com 
+#### Project Tango - [google.com/atap/projecttango](https://get.google.com/tango/)
 
-#### Products - products.google.com
+#### Project Wycheproof - [github.com/google/wycheproof](https://github.com/google/wycheproof) 
 
-#### Profiles - profiles.google.com
+#### Public Data Explorer - [publicdata.google.com](https://www.google.com/publicdata/directory)
 
-#### Project Ara - www.projectara.com
+#### Public DNS - [developers.google.com/speed/public-dns](https://developers.google.com/speed/public-dns/?csw=1)
 
-#### Project Glass - plus.google.com/111626127367496192147
+#### Python Class - [developers.google.com/edu/python](https://developers.google.com/edu/python)
 
-#### Project Tango - www.google.com/atap/projecttango
-
-#### Project Wycheproof - github.com/google/wycheproof 
-
-#### Public Data Explorer - publicdata.google.com
-
-#### Public DNS - code.google.com/speed/public-dns
-
-#### Python Class - code.google.com/edu/languages/google-python-class
-
-#### Python Style Guide - google-styleguide.googlecode.com/svn/trunk/pyguide.html
+#### Python Style Guide - [google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html)
 
 <div id="Q"></div>
 
 ### Q
 
-#### Quick, Draw - quickdraw.withgoogle.com 
+#### Quick, Draw - [quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) 
 
-#### Quick Office - support.google.com/quickoffice
-
-#### Quick Search Box - www.google.com/quicksearchbox (Mac only)
 
 <div id="R"></div>
 
 ### R
 
-#### Reader - reader.google.com (retired July 1, 2013)
+#### ReCAPTCHA - [google.com/recaptcha](https://www.google.com/recaptcha/intro/index.html)
 
-#### Reader Play - www.google.com/reader/play
+#### Recipe View - [google.com/landing/recipes](https://cse.google.com/cse/)
 
-#### Really Advanced Search - www.google.com/js/reallyadvanced.html April Fools!
+#### Refine - [code.google.com/p/google-refine](https://github.com/OpenRefine)
 
-#### Realtime - realtime.google.com (retired)
+#### Refuge Relief - [onetoday.google.com/page/refugeerelief](https://onetoday.google.com/page/refugeerelief) 
 
-#### ReCAPTCHA - www.google.com/recaptcha
+#### Research at Google - [research.google.com](https://research.google.com/) 
 
-#### Recipe View - www.google.com/landing/recipes
+#### RISE - [google.com/edu/rise](https://www.google.com/edu/resources/programs/google-rise-awards/)
 
-#### Refine - code.google.com/p/google-refine
-
-#### Refuge Relief - onetoday.google.com/page/refugeerelief 
-
-#### Research at Google - research.google.com 
-
-#### RISE - www.google.com/diversity/rise & www.google.com/edu/rise
-
-#### Royal Baby Card - royalbabycard.withgoogle.com
 
 <div id="S"></div>
 
 ### S
 
-#### Save to Google - www.google.com/save 
+#### Save to Google - [google.com/save](https://www.google.com/save/) 
 
-#### Save to Google (Chrome Extension) - chrome.google.com/….meoeeoaohbmgbocpdpnjklmfmjjagkkf 
+#### Save to Google (Chrome Extension) - [chrome.google.com/savetogoogle](https://chrome.google.com/webstore/detail/save-to-google/meoeeoaohbmgbocpdpnjklmfmjjagkkf) 
 
-#### Scholar - scholar.google.com
+#### Scholar - [scholar.google.com](https://scholar.google.com.br/)
 
-#### Science Fair Portal - www.google.com/events/isef/index.html
+#### Science Fair Portal - [googlesciencefair.com/en](https://www.googlesciencefair.com/en/)
 
-#### Screen Capture (Chrome Extension) - chrome.google.com/….mofbokmjmljamhdncknpmg
+#### Search Stories - [youtube.com/user/SearchStories](https://www.youtube.com/user/SearchStories)
 
-#### Scribe - scribe.googlelabs.com
+#### Secure Search - [https://www.google.com](https://www.google.com.br/)
 
-#### Search Education - www.powersearchingwithgoogle.com (AKA Power Searching with Google)
+#### Shopping Express - [google.com/express](https://www.google.com/express/)
 
-#### Search Stories - www.youtube.com/user/SearchStories
+#### Sitemap - [google.com/sitemap.xml](https://www.google.com/sitemap.xml)
 
-#### Secure Search - https://www.google.com/ (“https” instead of “http”)
+#### Sites - [sites.google.com](https://sites.google.com)
 
-#### Sets - labs.google.com/sets
+#### SketchUp - [sketchup.com](http://www.sketchup.com/)
 
-#### Shopping Express - www.google.com/express
+#### Sky - [sky.google.com](https://www.google.com/sky/)
 
-#### Sitemap - www.google.com/sitemap.xml
+#### Slides - [slides.google.com](http://slides.google.com)
 
-#### Sites - sites.google.com
+#### Smart Contact Lens - [googleblog.blogspot.ca/2014/01/….smart-contact-lens.html](https://googleblog.blogspot.com.br/2014/01/introducing-our-smart-contact-lens.html)
 
-#### SketchUp - sketchup.google.com
+#### Spaces - [spaces.google.com](https://spaces.google.com/) 
 
-#### Sky - sky.google.com
+#### Store - [googlestore.com](https://store.google.com/) 
 
-#### Sky Map - www.google.com/mobile/skymap (open-sourced January 20, 2012)
+#### Story Builder - [docsstorybuilder.appspot.com](http://docsstorybuilder.appspot.com/)
 
-#### Slides - slides.google.com
+#### Street View - [google.com/streetview/](https://www.google.com/streetview/)
 
-#### Smart Contact Lens - googleblog.blogspot.ca/2014/01/….smart-contact-lens.html
-
-#### Social Graph API - code.google.com/apis/socialgraph (retired April 20, 2012)
-
-#### Spaces - spaces.google.com 
-
-#### Sparrow (email client) - www.sparrowmailapp.com
-
-#### Springboard - googleforwork.blogspot.ca/2016/06<...snip...>-and-collaborative-enterprise.html
-
-#### Store - www.googlestore.com 
-
-#### Story Builder - docsstorybuilder.appspot.com
-
-#### Street View - maps.google.com/help/maps/streetview
-
-#### Street View Gallery - maps.google.com/intl/en/help/maps/streetview/gallery.html
-
-#### Subscribed Links - www.google.com/coop/subscribedlinks
 
 <div id="T"></div>
 
