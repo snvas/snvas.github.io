@@ -8,6 +8,7 @@ tags:
  - education 
  - innovation
  - professores
+ - google
 ---
 [0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [Y](#Y) [Z](#Z)
 
@@ -551,7 +552,7 @@ Competição Global onlineque introduz adolescentes ao mundo do código aberto. 
 
 #### Story Builder - [docsstorybuilder.appspot.com](http://docsstorybuilder.appspot.com/){:target="_blank"}
 
-#### Street View - [google.com/streetview/](https://www.google.com/streetview/){:target="_blank"}
+#### Street View - [google.com/streetview](https://www.google.com/streetview/){:target="_blank"}
 
 
 <div id="T"></div>
@@ -625,7 +626,7 @@ TestTube, é a incubadora de ideias do YouTube. Teste recursos experimentais inv
 
 #### Webmaster Central - [google.com/webmasters](https://www.google.com/webmasters/){:target="_blank"}
 
-#### WebP - [code.google.com/speed/webp/](https://developers.google.com/speed/webp/){:target="_blank"}
+#### WebP - [code.google.com/speed/webp](https://developers.google.com/speed/webp/){:target="_blank"}
 
 #### Wifi - [madeby.google.com/wifi](https://madeby.google.com/wifi/){:target="_blank"} 
 
