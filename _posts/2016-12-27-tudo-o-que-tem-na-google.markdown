@@ -9,7 +9,7 @@ tags:
  - innovation
  - professores
 ---
-[0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
+[0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [Y](#Y) [Z](#Z)
 
 <div id="0"></div>
 
@@ -58,6 +58,9 @@ Complementos para Documentos e Planilhas
   allowfullscreen>
 </iframe>
 
+#### AdGrants - [google.com/grants](https://www.google.com/grants/)
+Compartilhe sua causa com o mundo. Imagine o que você poderia fazer com $10 mil USD mensalmente na forma de publicidade do AdWords, uma solução de publicidade on-line do Google. Você poderia recrutar mais voluntários. Atrair mais doações E compartilhar sua história com públicos de todo o mundo. Tudo isso é possível com o Google Ad Grants
+
 #### AdWords - [adwords.google.com](https://adwords.google.com){:target="_blank"}
 Sistema de venda de anúncios online
 
@@ -67,71 +70,71 @@ Sistema para colocar anúncios Google no seu site ou vídeos no Youtube
 #### Advanced Image Search - [google.com/advanced_image_search](https://www.google.com/advanced_image_search){:target="_blank"}
 Busca avançada por imagens no Google
 
-#### Album Archive - [get.google.com/albumarchive](https://get.google.com/albumarchive) 
+#### Album Archive - [get.google.com/albumarchive](https://get.google.com/albumarchive){:target="_blank"} 
 Seus álbuns de fotos armazenadas no Google Drive, Plus, Hangout  
 
-#### Alerts - [alerts.google.com](https://www.google.com/alerts)
+#### Alerts - [alerts.google.com](https://www.google.com/alerts){:target="_blank"}
 Crie alertas para acompanhar o que é publicado na web. Você escolhe as palavras chaves que quer acompanhar e com que frequência que receber os alertas
 
-#### Allo - [allo.google.com](https://allo.google.com/)
+#### Allo - [allo.google.com](https://allo.google.com/){:target="_blank"}
 Novo sistema de troca de mensagens com Assistente Virtual 
 
-#### Alphabet - [abc.xyz](https://abc.xyz/) 
+#### Alphabet - [abc.xyz](https://abc.xyz/){:target="_blank"} 
 Alfabeto é principalmente uma coleção de empresas. A maior das quais, é claro, é a Google.
 
-#### Analytics - [www.google.com/analytics](https://www.google.com/analytics/#?modal_active=none)
+#### Analytics - [www.google.com/analytics](https://www.google.com/analytics/#?modal_active=none){:target="_blank"}
 Sistema de monitoramento e acompanhamento dos dados do seu site
 
-#### Android - [android.com](https://www.android.com/)
+#### Android - [android.com](https://www.android.com/){:target="_blank"}
 Sistema operacional para smartphones
 
-#### Android Device Manager - [google.com/android/devicemanager](https://www.google.com/android/devicemanager)
+#### Android Device Manager - [google.com/android/devicemanager](https://www.google.com/android/devicemanager){:target="_blank"}
 Localize e gerencie seus dispositivos Android
 
-#### Android Training - [developer.android.com/training](https://developer.android.com/training/index.html)
+#### Android Training - [developer.android.com/training](https://developer.android.com/training/index.html){:target="_blank"}
 Aqui você encontrará aulas de treinamento que descrevem como realizar uma tarefa específica com amostras de código que você pode reutilizar em seu aplicativo. Se você é um desenvolvedor de aplicativos Android iniciante, você deve concluir cada uma das classes em ordem. Vários cursos de vídeo on-line também estão disponíveis se você preferir uma experiência de vídeo interativa.
 
-#### App Engine - [appengine.google.com](https://console.cloud.google.com/appengine)
+#### App Engine - [appengine.google.com](https://console.cloud.google.com/appengine){:target="_blank"}
 O Google App Engine é uma plataforma de Computação em nuvem para desenvolver e hospedar aplicações web na infraestrutura do Google
 
-#### App Inventor - [appinventor.mit.edu](http://appinventor.mit.edu/)
+#### App Inventor - [appinventor.mit.edu](http://appinventor.mit.edu/){:target="_blank"}
 App Inventor é uma ferramenta desenvolvida pela Google que permite a criação de aplicativos para smartphones que rodam o sistema operacional Android, sem que seja necessário conhecimento em programação
 
-#### Art Project - [google.com/culturalinstitute](https://www.google.com/culturalinstitute/beta/)
+#### Art Project - [google.com/culturalinstitute](https://www.google.com/culturalinstitute/beta/){:target="_blank"}
 Explore coleções de todo o mundo com Google Arts & Culture, criado pelo instituto cultural do Google.
 
-#### Artists and Machine Intelligence - [ami.withgoogle.com](https://ami.withgoogle.com/) 
+#### Artists and Machine Intelligence - [ami.withgoogle.com](https://ami.withgoogle.com/){:target="_blank"} 
 AMI é um programa no Google que reúne artistas e engenheiros para realizar projetos usando o Machine Intelligence. Ao apoiar esta forma emergente de colaboração artística, abrem a pesquisa para novas formas de pensar e trabalhar com sistemas inteligentes.
 
-#### Atmosphere - [atmosphere.withgoogle.com](https://atmosphere.withgoogle.com/) 
+#### Atmosphere - [atmosphere.withgoogle.com](https://atmosphere.withgoogle.com/){:target="_blank"} 
 Plataforma de evento on-demand, ou seja, normalmente é um evento ao vivo que foi gravado para reprodução a qualquer momento. 
 
 <div id="B"></div>
 
 ### B
 
-#### BigQuery - [cloud.google.com/bigquery](https://cloud.google.com/bigquery/) 
+#### BigQuery - [cloud.google.com/bigquery](https://cloud.google.com/bigquery/){:target="_blank"} 
 O BigQuery é o armazém de dados empresariais de baixo custo da Google, totalmente gerenciado, com escala de petabyte para análise. O BigQuery não tem servidor. Não há nenhuma infra-estrutura para gerenciar e você não precisa de um administrador de banco de dados, portanto, você pode se concentrar em analisar dados para encontrar insights significativos usando o SQL familiar. BigQuery é uma poderosa plataforma de análise de dados usada por todos os tipos de organizações, desde startups a empresas da Fortune.
 
-#### Big Picture Group - [research.google.com/bigpicture](https://research.google.com/bigpicture/)
+#### Big Picture Group - [research.google.com/bigpicture](https://research.google.com/bigpicture/){:target="_blank"}
 Explora como a visualização de informações pode tornar os dados complexos acessíveis, úteis e até divertidos. O foco é em maneiras de iluminar os dados e algoritmos usados na inteligência da máquina.
 
-#### Blockly - [blockly-games.appspot.com](https://blockly-games.appspot.com/)
+#### Blockly - [blockly-games.appspot.com](https://blockly-games.appspot.com/){:target="_blank"}
 Blockly Games é uma série de jogos educativos que ensinam programação. Ele é projetado para crianças que não tiveram experiência anterior com programação de computador. No final desses jogos, os jogadores estão prontos para usar linguagens convencionais baseadas em texto. É um projeto da Google para incentivar os programadores de amanhã. 
 
-#### Blog - [blog.google](https://blog.google/) 
-Novo e central destino para as atualizações de notícias e histórias mais recentes da Google. A Google começou a blogar em 2004 - quando os telefones celulares pareciam [com isso](https://www.google.com/search?q=mobile+phone+2004&espv=2&biw=1435&bih=723&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj38eep-MjOAhUI5GMKHTzfC3YQsAQIJg&dpr=1) e antes que alguém tivesse sonhado com o Chrome, o Android ou o YouTube. Desde então, a empresa mudou muito, e publicaram milhares de posts em um grande número de blogs. O Keyword consolida e substitui 19 dos blogs oficiais existentes, em inglês.
+#### Blog - [blog.google](https://blog.google/){:target="_blank"} 
+Novo e central destino para as atualizações de notícias e histórias mais recentes da Google. A Google começou a blogar em 2004 - quando os telefones celulares pareciam [com isso](https://www.google.com/search?q=mobile+phone+2004&espv=2&biw=1435&bih=723&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj38eep-MjOAhUI5GMKHTzfC3YQsAQIJg&dpr=1){:target="_blank"} e antes que alguém tivesse sonhado com o Chrome, o Android ou o YouTube. Desde então, a empresa mudou muito, e publicaram milhares de posts em um grande número de blogs. O Keyword consolida e substitui 19 dos blogs oficiais existentes, em inglês.
 
-#### Blogger - [blogger.com](https://www.blogger.com/)
+#### Blogger - [blogger.com](https://www.blogger.com/){:target="_blank"}
 Plataforma gratuita de blogs do Google, é a ferramenta ideal para quem está iniciando no mundo dos blogs. Além de ser fácil de navegar e administrar, oferece a hospedagem e diversos recursos que permitem ao usuário criar seu blog e personalizá-lo, de acordo com suas necessidades
 
-#### Bookmarks - [bookmarks.google.com](http://bookmarks.google.com/) 
-Google Bookmarks é uma linha livre de marcadores e um serviço de armazenamento, disponível para usuários da Conta do Google.[1] Ele é completamente separado do navegador e não deve ser confundido com a função de marcadores de qualquer navegador, como o Google Chrome. Google Bookmarks foi lançado em 10 de outubro de 2005. É um serviço baseado em nuvem que permite aos usuários marcar sites favoritas e adicionar etiquetas, tags , ou notas. Os usuários podem acessar seus favoritos de qualquer computador acessando a sua conta Gmail. Os favoritos são pesquisáveis, e as buscas são realizadas no texto completo das páginas favoritas, não apenas os rótulos e notas. [Fonte](https://pt.m.wikipedia.org/wiki/Google_Bookmarks)
+#### Bookmarks - [bookmarks.google.com](http://bookmarks.google.com/){:target="_blank"} 
+Google Bookmarks é uma linha livre de marcadores e um serviço de armazenamento, disponível para usuários da Conta do Google.[1] Ele é completamente separado do navegador e não deve ser confundido com a função de marcadores de qualquer navegador, como o Google Chrome. Google Bookmarks foi lançado em 10 de outubro de 2005. É um serviço baseado em nuvem que permite aos usuários marcar sites favoritas e adicionar etiquetas, tags , ou notas. Os usuários podem acessar seus favoritos de qualquer computador acessando a sua conta Gmail. Os favoritos são pesquisáveis, e as buscas são realizadas no texto completo das páginas favoritas, não apenas os rótulos e notas. [Fonte](https://pt.m.wikipedia.org/wiki/Google_Bookmarks){:target="_blank"}
 
-#### Books - [books.google.com](https://books.google.com/)
+#### Books - [books.google.com](https://books.google.com/){:target="_blank"}
 Google Books (anteriormente conhecido como Google Book Search e Google Print) (em português: Google Livros) é um serviço da Google que procura textos completos de livros que a Google escaneia, converte-o utilizando o reconhecimento ótico de caracteres, e armazena em seu banco de dados digital.
 
-#### Brain - [research.google.com/teams/brain](https://research.google.com/teams/brain/) 
+#### Brain - [research.google.com/teams/brain](https://research.google.com/teams/brain/){:target="_blank"} 
 A Google mantém um time de Pesquisa que aborda os problemas mais desafiadores em Ciência da Computação e áreas afins. Ser corajoso e correr riscos é essencial para o que fazem, e as equipes de pesquisa estão embutidas em todo o Google, permitindo que as descobertas afetem bilhões de usuários por dia.
 
 <iframe 
@@ -142,7 +145,7 @@ A Google mantém um time de Pesquisa que aborda os problemas mais desafiadores e
   allowfullscreen>
 </iframe>
 
-#### Build - [buildwithchrome.com](https://www.buildwithchrome.com/) 
+#### Build - [buildwithchrome.com](https://www.buildwithchrome.com/){:target="_blank"} 
 A nova aplicação Build with Chrome (Construa com o Chrome) permite que você solte a imaginação e crie construções com peças de Lego virtuais. Você pode acessar a aplicação do seu pc, tablet ou smartphone (desde que tenha sistema operacional Android).
 
 <iframe 
@@ -158,524 +161,496 @@ A nova aplicação Build with Chrome (Construa com o Chrome) permite que você s
 
 ### C
 
-#### Calculator - [google.com](https://www.google.com.br/) 
+#### Calculator - [google.com](https://www.google.com.br/){:target="_blank"} 
 Basta digita a conta no buscador Google que ele calcula
 
-#### Calendar - [calendar.google.com](https://calendar.google.com/)
+#### Calendar - [calendar.google.com](https://calendar.google.com/){:target="_blank"}
 
-#### Cardboard - [vr.google.com/cardboard](https://vr.google.com/cardboard/)
+#### Cardboard - [vr.google.com/cardboard](https://vr.google.com/cardboard/){:target="_blank"}
 
-#### Chart API - [developers.google.com/chart]( https://developers.google.com/chart/)
+#### Chart API - [developers.google.com/chart]( https://developers.google.com/chart/){:target="_blank"}
 
-#### Checkout - [checkout.google.com]() 
+#### Chrome - [chrome.google.com](https://www.google.com/chrome/){:target="_blank"} 
 
-#### Chrome - [chrome.google.com](https://www.google.com/chrome/) 
+#### Chrome Cleanup Tool - [google.com/chrome/cleanup-tool](https://www.google.com/chrome/cleanup-tool/){:target="_blank"} 
 
-#### Chrome Cleanup Tool - [google.com/chrome/cleanup-tool](https://www.google.com/chrome/cleanup-tool/) 
+#### Chrome Cube Lab - [chrome.com/cubelab](https://chrome.com/cubelab){:target="_blank"}
 
-#### Chrome Cube Lab - [chrome.com/cubelab](https://chrome.com/cubelab)
+#### Chrome Experiments - [chromeexperiments.com]( https://developers.google.com/chart/){:target="_blank"}
 
-#### Chrome Experiments - [chromeexperiments.com]( https://developers.google.com/chart/)
+#### Chrome Remote Desktop - [chrome.google.com/chrome-remote-desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp){:target="_blank"}
 
-#### Chrome Remote Desktop - [chrome.google.com/chrome-remote-desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp)
+#### Chrome Web Store - [chrome.google.com/webstore](https://chrome.google.com/webstore/){:target="_blank"}
 
-#### Chrome Web Store - [chrome.google.com/webstore](https://chrome.google.com/webstore/)
+#### Chromebooks - [google.com/chromebook](https://www.google.com/chromebook/){:target="_blank"}
 
-#### Chromebooks - [google.com/chromebook](https://www.google.com/chromebook/)
+#### Chromebox for Meetings - [enterprise.google.com/chrome/video-conferencing](https://enterprise.google.com/chrome/video-conferencing/){:target="_blank"}
 
-#### Chromebox for Meetings - [enterprise.google.com/chrome/video-conferencing](https://enterprise.google.com/chrome/video-conferencing/)
+#### Chromecast - [google.com/chromecast](https://www.google.com/intl/pt-BR_br/chromecast/){:target="_blank"}
 
-#### Chromecast - [google.com/chromecast](https://www.google.com/intl/pt-BR_br/chromecast/)
+#### Chromium - [chromium.org/Home](http://www.chromium.org/Home){:target="_blank"}
 
-#### Chromium - [chromium.org/Home](http://www.chromium.org/Home)
+#### Chromium OS - [chromium.org/chromium-os](http://www.chromium.org/chromium-os){:target="_blank"}
 
-#### Chromium OS - [chromium.org/chromium-os](http://www.chromium.org/chromium-os)
+#### Classroom - [classroom.google.com](https://classroom.google.com){:target="_blank"}
 
-#### Classroom - [classroom.google.com](https://classroom.google.com) 
+#### Cloud Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/){:target="_blank"} 
 
-#### Cloud Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/) 
+#### Cloud Platform - [cloud.google.com](https://cloud.google.com/){:target="_blank"} 
 
-#### Cloud Platform - [cloud.google.com](https://cloud.google.com/) 
+#### Cloud Print - [google.com/cloudprint](https://www.google.com/cloudprint){:target="_blank"}
 
-#### Cloud Print - [google.com/cloudprint](https://www.google.com/cloudprint)
+#### Cloud Storage Nearline - [cloud.google.com/storage-nearline](https://cloud.google.com/storage-nearline/){:target="_blank"}
 
-#### Cloud Storage Nearline - [cloud.google.com/storage-nearline](https://cloud.google.com/storage-nearline/)
+#### Cloud Vision API - [cloud.google.com/vision](https://cloud.google.com/vision/){:target="_blank"} 
 
-#### Cloud Vision API - [cloud.google.com/vision](https://cloud.google.com/vision/) 
+#### Code Jam - [code.google.com/codejam](https://code.google.com/codejam/){:target="_blank"}
 
-#### Code Jam - [code.google.com/codejam](https://code.google.com/codejam/)
+#### Code Lab - [codelabs.developers.google.com](https://codelabs.developers.google.com/){:target="_blank"}
 
-#### Code Lab - [codelabs.developers.google.com](https://codelabs.developers.google.com/)
-
-#### Code-in - [developers.google.com/open-source/gci](https://developers.google.com/open-source/gci/) 
+#### Code-in - [developers.google.com/open-source/gci](https://developers.google.com/open-source/gci/){:target="_blank"} 
 Competição Global onlineque introduz adolescentes ao mundo do código aberto. Com uma grande variedade de tarefa, é fácil para iniciantes começarem não importa o que eles já sabem. Mentores de organizações participantes dão uma mãozinha enquanto os participantes aprendem o que é trabalhar em um projeto de código aberto.
 
-#### Computational Thinking for Educators - [computationalthinkingcourse.withgoogle.com](https://computationalthinkingcourse.withgoogle.com/) 
+#### Computational Thinking for Educators - [computationalthinkingcourse.withgoogle.com](https://computationalthinkingcourse.withgoogle.com/){:target="_blank"} 
 
-#### Computational Thinking, Exploring - [google.com/edu/computational-thinking](https://www.google.com/edu/resources/programs/exploring-computational-thinking/)
+#### Computational Thinking, Exploring - [google.com/edu/computational-thinking](https://www.google.com/edu/resources/programs/exploring-computational-thinking/){:target="_blank"}
 
-#### Computer Science for High School - [cs4hs.com](https://www.cs4hs.com) 
+#### Computer Science for High School - [cs4hs.com](https://www.cs4hs.com){:target="_blank"} 
 
-#### Consumer Surveys - [google.com/insights/consumersurveys](https://www.google.com/analytics/surveys)
+#### Consumer Surveys - [google.com/insights/consumersurveys](https://www.google.com/analytics/surveys){:target="_blank"}
 
-#### Contacts - [contacts.google.com](https://www.google.com/contacts/)
+#### Contacts - [contacts.google.com](https://www.google.com/contacts/){:target="_blank"}
 
-#### Contributor - [contributor.google.com](https://contributor.google.com/)
+#### Contributor - [contributor.google.com](https://contributor.google.com/){:target="_blank"}
 
-#### Correlate - [google.com/trends/correlate](https://www.google.com/trends/correlate)
+#### Correlate - [google.com/trends/correlate](https://www.google.com/trends/correlate){:target="_blank"}
 
-#### Course Builder - [code.google.com/p/course-builder](https://www.google.com/edu/openonline/course-builder/index.html)
+#### Course Builder - [code.google.com/p/course-builder](https://www.google.com/edu/openonline/course-builder/index.html){:target="_blank"}
 
-#### Crisis Response - [google.com/crisisresponse](https://www.google.org/crisisresponse/)
+#### Crisis Response - [google.com/crisisresponse](https://www.google.org/crisisresponse/){:target="_blank"}
 
-#### CS First - [cs-first.com](https://www.cs-first.com/) 
+#### CS First - [cs-first.com](https://www.cs-first.com/){:target="_blank"} 
 
-#### Cultural Institute - [google.com/culturalinstitute](https://www.google.com/culturalinstitute/beta/)
+#### Cultural Institute - [google.com/culturalinstitute](https://www.google.com/culturalinstitute/beta/){:target="_blank"}
 
-#### Currents Producer - [google.com/producer](https://www.google.com/producer)
+#### Currents Producer - [google.com/producer](https://www.google.com/producer){:target="_blank"}
 
-#### Custom Search Engine - [google.com/cse](https://cse.google.com/cse/)
+#### Custom Search Engine - [google.com/cse](https://cse.google.com/cse/){:target="_blank"}
 
 <div id="D"></div>
 
 ### D
 
-#### Dart - [dartlang.org](https://www.dartlang.org/)
+#### Dart - [dartlang.org](https://www.dartlang.org/){:target="_blank"}
 
-#### Data Studio - [datastudio.google.com](https://datastudio.google.com) 
+#### Data Studio - [datastudio.google.com](https://datastudio.google.com){:target="_blank"} 
 
-#### Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/) 
+#### Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/){:target="_blank"} 
 
-#### Daydream - [vr.google.com/daydream](https://vr.google.com/daydream/) 
+#### Daydream - [vr.google.com/daydream](https://vr.google.com/daydream/){:target="_blank"} 
 
-#### DeepMind - [deepmind.com](https://deepmind.com/)  
+#### DeepMind - [deepmind.com](https://deepmind.com/){:target="_blank"}  
 
-#### Diversity@Google - [google.com/diversity](https://www.google.com/diversity/)
+#### Diversity@Google - [google.com/diversity](https://www.google.com/diversity/){:target="_blank"}
 
-#### Docs - [docs.google.com](https://docs.google.com/)
+#### Docs - [docs.google.com](https://docs.google.com/){:target="_blank"}
 
-#### Docs Templates - [docs.google.com/templates](https://drive.google.com/templates)
+#### Docs Templates - [docs.google.com/templates](https://drive.google.com/templates){:target="_blank"}
 
-#### Domains - [domains.google](https://domains.google/)
+#### Domains - [domains.google](https://domains.google/){:target="_blank"}
 
-#### Doodle 4 Google - [google.com/doodle4google](https://doodles.google.com/d4g/)
+#### Doodle 4 Google - [google.com/doodle4google](https://doodles.google.com/d4g/){:target="_blank"}
 
-#### Doodles - [google.com/doodles](https://www.google.com/doodles)
+#### Doodles - [google.com/doodles](https://www.google.com/doodles){:target="_blank"}
 
-#### DoubleClick - [doubleclickbygoogle.com](https://www.doubleclickbygoogle.com/)
+#### DoubleClick - [doubleclickbygoogle.com](https://www.doubleclickbygoogle.com/){:target="_blank"}
 
-#### Drive - [drive.google.com](https://drive.google.com) 
+#### Drive - [drive.google.com](https://drive.google.com){:target="_blank"} 
 
-#### Duo - [duo.google.com](https://duo.google.com/) 
+#### Drawings - [docs.google.com/drawings](https://docs.google.com/drawings/){:target="_blank"}
+
+#### Duo - [duo.google.com](https://duo.google.com/){:target="_blank"} 
 
 <div id="E"></div>
 
 ### E
 
-#### Earth - [earth.google.com](https://www.google.com/earth/)
+#### Earth - [earth.google.com](https://www.google.com/earth/){:target="_blank"}
 
-#### Earth Engine - [google.org/earthengine](https://earthengine.google.com/)
+#### Earth Engine - [google.org/earthengine](https://earthengine.google.com/){:target="_blank"}
 
-#### Earth Outreach - [earth.google.com/outreach](https://www.google.com/earth/outreach/index.html)
+#### Earth Outreach - [earth.google.com/outreach](https://www.google.com/earth/outreach/index.html){:target="_blank"}
 
-#### eBooks - [ebooks.google.com](https://play.google.com/store/books)
+#### eBooks - [ebooks.google.com](https://play.google.com/store/books){:target="_blank"}
 
-#### Expeditions - [google.com/edu/expeditions](https://www.google.com/edu/expeditions/) 
+#### Expeditions - [google.com/edu/expeditions](https://www.google.com/edu/expeditions/){:target="_blank"} 
 
 <div id="F"></div>
 
 ### F
 
-#### Feedburner - [feedburner.google.com](http://feedburner.google.com/)
+#### Feedburner - [feedburner.google.com](http://feedburner.google.com/){:target="_blank"}
 
-#### Fi - [fi.google.com](https://fi.google.com) 
+#### Fi - [fi.google.com](https://fi.google.com){:target="_blank"} 
 
-#### Fiber - [fiber.google.com](https://fiber.google.com)
+#### Fiber - [fiber.google.com](https://fiber.google.com){:target="_blank"}
 
-#### Field Trip - [fieldtripper.com](http://www.fieldtripper.com/)
+#### Field Trip - [fieldtripper.com](http://www.fieldtripper.com/){:target="_blank"}
 
-#### Finance - [finance.google.com](https://www.google.com/finance)
+#### Finance - [finance.google.com](https://www.google.com/finance){:target="_blank"}
 
-#### Firebase - [firebase.google.com](https://firebase.google.com/) 
+#### Firebase - [firebase.google.com](https://firebase.google.com/){:target="_blank"} 
 
-#### Flights - [google.com/flights](https://www.google.com.br/flights/) 
+#### Flights - [google.com/flights](https://www.google.com.br/flights/){:target="_blank"} 
 
-#### Fonts - [google.com/fonts](https://fonts.google.com/)
+#### Fonts - [google.com/fonts](https://fonts.google.com/){:target="_blank"}
 
-#### Frightgeist - [frightgeist.withgoogle.com](https://frightgeist.withgoogle.com/)
+#### Forms - [docs.google.com/forms](https://docs.google.com/forms/){:target="_blank"}
+
+#### Frightgeist - [frightgeist.withgoogle.com](https://frightgeist.withgoogle.com/){:target="_blank"}
 
 
 <div id="G"></div>
 
 ### G
 
-#### Gmail - [gmail.com](https://mail.google.com)
+#### Gmail - [gmail.com](https://mail.google.com){:target="_blank"}
 
-#### Go - [golang.org](https://golang.org/)
+#### Go - [golang.org](https://golang.org/){:target="_blank"}
 
-#### Google - [google.com](https://www.google.com.br) 
+#### Google - [google.com](https://www.google.com.br){:target="_blank"} 
 
-#### Google for EDU - [google.com/edu](https://www.google.com/edu/)
+#### Google for EDU - [google.com/edu](https://www.google.com/edu/){:target="_blank"}
 
-#### Google Brain - [research.google.com/teams/brain](https://research.google.com/teams/brain/) 
+#### Google Brain - [research.google.com/teams/brain](https://research.google.com/teams/brain/){:target="_blank"}
 
-#### Green - [environment.google](https://environment.google/)
+#### Green - [environment.google](https://environment.google/){:target="_blank"}
 
-#### Groups - [groups.google.com](https://groups.google.com/)
+#### Groups - [groups.google.com](https://groups.google.com/){:target="_blank"}
 
 
 <div id="H"></div>
 
 ### H
 
-#### Hangouts - [hangouts.google.com](https://hangouts.google.com/)
+#### Hangouts - [hangouts.google.com](https://hangouts.google.com/){:target="_blank"}
 
-#### Home - [home.google.com](https://madeby.google.com/home/) 
+#### Home - [home.google.com](https://madeby.google.com/home/){:target="_blank"}
 
-#### Home Service Ads - [google.com/adwords/express/home-service-ads](https://www.google.com/adwords/express/home-service-ads/) 
+#### Home Service Ads - [google.com/adwords/express/home-service-ads](https://www.google.com/adwords/express/home-service-ads/){:target="_blank"} 
 
 
 <div id="I"></div>
 
 ### I
 
-#### I/O - [google.com/events/io](https://www.google.com/events/io) 
+#### I/O - [google.com/events/io](https://www.google.com/events/io){:target="_blank"} 
 
-#### IgniteCS - [ignitecs.withgoogle.com](https://ignitecs.withgoogle.com/) 
+#### IgniteCS - [ignitecs.withgoogle.com](https://ignitecs.withgoogle.com/){:target="_blank"} 
 
-#### Images - [images.google.com](https://images.google.com/)
+#### Images - [images.google.com](https://images.google.com/){:target="_blank"}
 
-#### Inbox - [inbox.google.com](https://inbox.google.com)
+#### Inbox - [inbox.google.com](https://inbox.google.com){:target="_blank"}
 
-#### Instant Search - [instant.google.com](https://www.google.com/search/about/#utm_campaign=launch&utm_medium=van&utm_source=instant)
+#### Instant Search - [instant.google.com](https://www.google.com/search/about/#utm_campaign=launch&utm_medium=van&utm_source=instant){:target="_blank"}
 
 
 <div id="J"></div>
 
 ### J
 
-#### Japan Person Finder - [google.org/personfinder/japan](http://google.org/personfinder/japan?lang=pt-BR)
+#### Japan Person Finder - [google.org/personfinder/japan](http://google.org/personfinder/japan?lang=pt-BR){:target="_blank"}
 
-#### Jigsaw - [jigsaw.google.com](https://jigsaw.google.com/) 
+#### Jigsaw - [jigsaw.google.com](https://jigsaw.google.com/){:target="_blank"} 
 
-#### Jobs - [jobs.google.com](https://careers.google.com/)
+#### Jobs - [jobs.google.com](https://careers.google.com/){:target="_blank"}
 
-#### Jump - [vr.google.com/jump](https://vr.google.com/jump/) 
+#### Jump - [vr.google.com/jump](https://vr.google.com/jump/){:target="_blank"}
 
 
 <div id="K"></div>
 
 ### K
 
-#### Keep - [keep.google.com](https://keep.google.com/) 
+#### Keep - [keep.google.com](https://keep.google.com/){:target="_blank"}
 
-#### Keyword Tool - [adwords.google.com/KeywordPlanner](https://adwords.google.com/KeywordPlanner)
+#### Keyword Tool - [adwords.google.com/KeywordPlanner](https://adwords.google.com/KeywordPlanner){:target="_blank"}
 
 
 <div id="L"></div>
 
 ### L
 
-#### Loon - [x.company/loon](https://x.company/loon/)
+#### Loon - [x.company/loon](https://x.company/loon/){:target="_blank"}
 
-#### Lunar X Prize - [lunar.xprize.org](http://lunar.xprize.org/)
+#### Lunar X Prize - [lunar.xprize.org](http://lunar.xprize.org/){:target="_blank"}
 
 <div id="M"></div>
 
 ### M
 
-#### Made with Code - [madewithcode.com](https://www.madewithcode.com/)
+#### Made with Code - [madewithcode.com](https://www.madewithcode.com/){:target="_blank"}
 
-#### Map Maker - [mapmaker.google.com](https://mapmaker.google.com/)
+#### Map Maker - [mapmaker.google.com](https://mapmaker.google.com/){:target="_blank"}
 
-#### Maps - [maps.google.com](https://www.google.com.br/maps)
+#### Maps - [maps.google.com](https://www.google.com.br/maps){:target="_blank"}
 
-#### Maps Floor Plans - [google.com/maps/about/partners/indoormaps](https://www.google.com/maps/about/partners/indoormaps/)
+#### Maps Floor Plans - [google.com/maps/about/partners/indoormaps](https://www.google.com/maps/about/partners/indoormaps/){:target="_blank"}
 
-#### Mars - [google.com/mars](https://www.google.com/mars/) 
+#### Mars - [google.com/mars](https://www.google.com/mars/){:target="_blank"} 
 
-#### Memories for the Future - [miraikioku.com/streetview/en](https://www.miraikioku.com/streetview/en/)
+#### Memories for the Future - [miraikioku.com/streetview/en](https://www.miraikioku.com/streetview/en/){:target="_blank"}
 
-#### Mobile - [m.google.com](https://get.google.com/apptips/apps/) 
+#### Mobile - [m.google.com](https://get.google.com/apptips/apps/){:target="_blank"} 
 
-#### Mobile Blog - [blog.google/products/android](https://blog.google/products/android/)
+#### Mobile Blog - [blog.google/products/android](https://blog.google/products/android/){:target="_blank"}
 
-#### Music - [music.google.com](https://play.google.com/music/listen#/sulp)
+#### Music - [music.google.com](https://play.google.com/music/listen#/sulp){:target="_blank"}
 
-#### Music Timeline - [research.google.com/bigpicture/music](https://research.google.com/bigpicture/music/) 
+#### Music Timeline - [research.google.com/bigpicture/music](https://research.google.com/bigpicture/music/){:target="_blank"} 
 
-#### My Activity - [myactivity.google.com](https://myactivity.google.com/myactivity) 
+#### My Activity - [myactivity.google.com](https://myactivity.google.com/myactivity){:target="_blank"} 
+
+#### My Maps - [google.com/maps/d/edit](https://www.google.com/maps/d/edit?authuser=0&mid=1HG_WTnFTJnTLAH9SwRpS9qbQBeE&ll=-11.872575764902162%2C-51.92527949999999&z=4){:target="_blank"}
 
 <div id="M"></div>
 
 ### N
 
-#### Nearline - [cloud.google.com/storage-nearline](https://cloud.google.com/storage-nearline/) 
+#### Nearline - [cloud.google.com/storage-nearline](https://cloud.google.com/storage-nearline/){:target="_blank"} 
 
-#### News - [news.google.com](https://news.google.com/)
+#### News - [news.google.com](https://news.google.com/){:target="_blank"}
 
-#### News Archive Search - [news.google.com/newspapers](https://news.google.com/newspapers)
+#### News Archive Search - [news.google.com/newspapers](https://news.google.com/newspapers){:target="_blank"}
 
-#### Nexus - [nexus.google.com](https://www.google.com/nexus/)
+#### Nexus - [nexus.google.com](https://www.google.com/nexus/){:target="_blank"}
 
-#### Ngram Viewer - [books.google.com/ngrams](https://books.google.com/ngrams)
+#### Ngram Viewer - [books.google.com/ngrams](https://books.google.com/ngrams){:target="_blank"}
 
-#### Nik Collection by Google - [niksoftware.com](https://www.google.com/nikcollection/)
+#### Nik Collection by Google - [niksoftware.com](https://www.google.com/nikcollection/){:target="_blank"}
 
-#### Noto Fonts - [google.com/get/noto](https://www.google.com/get/noto/)
+#### Noto Fonts - [google.com/get/noto](https://www.google.com/get/noto/){:target="_blank"}
 
 <div id="O"></div>
 
 ### O
 
-#### One Today - [onetoday.google.com](https://onetoday.google.com/) 
+#### One Today - [onetoday.google.com](https://onetoday.google.com/){:target="_blank"} 
 
-#### OnHub - [on.google.com/hub](https://on.google.com/hub/)
+#### OnHub - [on.google.com/hub](https://on.google.com/hub/){:target="_blank"}
 
-#### Online Marketing Challenge - [google.com/onlinechallenge](https://www.google.com/onlinechallenge/)
+#### Online Marketing Challenge - [google.com/onlinechallenge](https://www.google.com/onlinechallenge/){:target="_blank"}
 
-#### Oppia - [github.com/oppia/oppia](https://github.com/oppia/oppia) 
+#### Oppia - [github.com/oppia/oppia](https://github.com/oppia/oppia){:target="_blank"} 
 
 <div id="P"></div>
 
 ### P
 
-#### Pacman - [google.com/pacman](https://www.google.com/doodles/30th-anniversary-of-pac-man)
+#### Pacman - [google.com/pacman](https://www.google.com/doodles/30th-anniversary-of-pac-man){:target="_blank"}
 
-#### Page Speed Online - [developers.google.com/pagespeed](https://developers.google.com/speed/pagespeed/insights/)
+#### Page Speed Online - [developers.google.com/pagespeed](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
 
-#### Person Finder - [google.org/personfinder](http://google.org/personfinder/global/home.html)
+#### Person Finder - [google.org/personfinder](http://google.org/personfinder/global/home.html){:target="_blank"}
 
-#### Photos - [photos.google.com](https://photos.google.com/) 
+#### Photos - [photos.google.com](https://photos.google.com/){:target="_blank"} 
 
-#### PhotoScan - [google.com/photos/scan](https://www.google.com/photos/scan/) 
+#### PhotoScan - [google.com/photos/scan](https://www.google.com/photos/scan/){:target="_blank"} 
 
-#### Pixel - [pixel.google.com](https://madeby.google.com/phone/)
+#### Pixel - [pixel.google.com](https://madeby.google.com/phone/){:target="_blank"}
 
-#### Play - [play.google.com](https://play.google.com/store)
+#### Play - [play.google.com](https://play.google.com/store){:target="_blank"}
 
-#### Plus - [plus.google.com](https://plus.google.com/)
+#### Plus - [plus.google.com](https://plus.google.com/){:target="_blank"}
 
-#### Policies & Principles - [google.com/policies](https://www.google.com/policies/)
+#### Policies & Principles - [google.com/policies](https://www.google.com/policies/){:target="_blank"}
 
-#### Power Searching with Google - [powersearchingwithgoogle.com](http://www.powersearchingwithgoogle.com/)
+#### Power Searching with Google - [powersearchingwithgoogle.com](http://www.powersearchingwithgoogle.com/){:target="_blank"}
 
-#### Product Forums - [productforums.google.com](https://productforums.google.com/forum/#!home) 
+#### Product Forums - [productforums.google.com](https://productforums.google.com/forum/#!home){:target="_blank"} 
 
-#### Products - [products.google.com](https://www.google.com/intl/en/about/products/)
+#### Products - [products.google.com](https://www.google.com/intl/en/about/products/){:target="_blank"}
 
-#### Profiles - [profiles.google.com](https://profiles.google.com/)
+#### Profiles - [profiles.google.com](https://profiles.google.com/){:target="_blank"}
 
-#### Project Ara - [projectara.com](https://atap.google.com/ara/)
+#### Project Ara - [projectara.com](https://atap.google.com/ara/){:target="_blank"}
 
-#### Project Glass - [plus.google.com/+GoogleGlass](https://plus.google.com/+GoogleGlass)
+#### Project Glass - [plus.google.com/+GoogleGlass](https://plus.google.com/+GoogleGlass){:target="_blank"}
 
-#### Project Tango - [google.com/atap/projecttango](https://get.google.com/tango/)
+#### Project Tango - [google.com/atap/projecttango](https://get.google.com/tango/){:target="_blank"}
 
-#### Project Wycheproof - [github.com/google/wycheproof](https://github.com/google/wycheproof) 
+#### Project Wycheproof - [github.com/google/wycheproof](https://github.com/google/wycheproof){:target="_blank"}
 
-#### Public Data Explorer - [publicdata.google.com](https://www.google.com/publicdata/directory)
+#### Public Data Explorer - [publicdata.google.com](https://www.google.com/publicdata/directory){:target="_blank"}
 
-#### Public DNS - [developers.google.com/speed/public-dns](https://developers.google.com/speed/public-dns/?csw=1)
+#### Public DNS - [developers.google.com/speed/public-dns](https://developers.google.com/speed/public-dns/?csw=1){:target="_blank"}
 
-#### Python Class - [developers.google.com/edu/python](https://developers.google.com/edu/python)
+#### Python Class - [developers.google.com/edu/python](https://developers.google.com/edu/python){:target="_blank"}
 
-#### Python Style Guide - [google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html)
+#### Python Style Guide - [google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html){:target="_blank"}
 
 <div id="Q"></div>
 
 ### Q
 
-#### Quick, Draw - [quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) 
+#### Quick, Draw - [quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/){:target="_blank"} 
 
 
 <div id="R"></div>
 
 ### R
 
-#### ReCAPTCHA - [google.com/recaptcha](https://www.google.com/recaptcha/intro/index.html)
+#### ReCAPTCHA - [google.com/recaptcha](https://www.google.com/recaptcha/intro/index.html){:target="_blank"}
 
-#### Recipe View - [google.com/landing/recipes](https://cse.google.com/cse/)
+#### Recipe View - [google.com/landing/recipes](https://cse.google.com/cse/){:target="_blank"}
 
-#### Refine - [code.google.com/p/google-refine](https://github.com/OpenRefine)
+#### Refine - [code.google.com/p/google-refine](https://github.com/OpenRefine){:target="_blank"}
 
-#### Refuge Relief - [onetoday.google.com/page/refugeerelief](https://onetoday.google.com/page/refugeerelief) 
+#### Refuge Relief - [onetoday.google.com/page/refugeerelief](https://onetoday.google.com/page/refugeerelief){:target="_blank"} 
 
-#### Research at Google - [research.google.com](https://research.google.com/) 
+#### Research at Google - [research.google.com](https://research.google.com/){:target="_blank"} 
 
-#### RISE - [google.com/edu/rise](https://www.google.com/edu/resources/programs/google-rise-awards/)
+#### RISE - [google.com/edu/rise](https://www.google.com/edu/resources/programs/google-rise-awards/){:target="_blank"}
 
 
 <div id="S"></div>
 
 ### S
 
-#### Save to Google - [google.com/save](https://www.google.com/save/) 
+#### Save to Google - [google.com/save](https://www.google.com/save/){:target="_blank"} 
 
-#### Save to Google (Chrome Extension) - [chrome.google.com/savetogoogle](https://chrome.google.com/webstore/detail/save-to-google/meoeeoaohbmgbocpdpnjklmfmjjagkkf) 
+#### Save to Google (Chrome Extension) - [chrome.google.com/savetogoogle](https://chrome.google.com/webstore/detail/save-to-google/meoeeoaohbmgbocpdpnjklmfmjjagkkf){:target="_blank"} 
 
-#### Scholar - [scholar.google.com](https://scholar.google.com.br/)
+#### Scholar - [scholar.google.com](https://scholar.google.com.br/){:target="_blank"}
 
-#### Science Fair Portal - [googlesciencefair.com/en](https://www.googlesciencefair.com/en/)
+#### Science Fair Portal - [googlesciencefair.com/en](https://www.googlesciencefair.com/en/){:target="_blank"}
 
-#### Search Stories - [youtube.com/user/SearchStories](https://www.youtube.com/user/SearchStories)
+#### Search Stories - [youtube.com/user/SearchStories](https://www.youtube.com/user/SearchStories){:target="_blank"}
 
-#### Secure Search - [https://www.google.com](https://www.google.com.br/)
+#### Secure Search - [https://www.google.com](https://www.google.com.br/){:target="_blank"}
 
-#### Shopping Express - [google.com/express](https://www.google.com/express/)
+#### Sheets - [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/){:target="_blank"}
 
-#### Sitemap - [google.com/sitemap.xml](https://www.google.com/sitemap.xml)
+#### Shopping Express - [google.com/express](https://www.google.com/express/){:target="_blank"}
 
-#### Sites - [sites.google.com](https://sites.google.com)
+#### Sitemap - [google.com/sitemap.xml](https://www.google.com/sitemap.xml){:target="_blank"}
 
-#### SketchUp - [sketchup.com](http://www.sketchup.com/)
+#### Sites - [sites.google.com](https://sites.google.com){:target="_blank"}
 
-#### Sky - [sky.google.com](https://www.google.com/sky/)
+#### SketchUp - [sketchup.com](http://www.sketchup.com/){:target="_blank"}
 
-#### Slides - [slides.google.com](http://slides.google.com)
+#### Sky - [sky.google.com](https://www.google.com/sky/){:target="_blank"}
 
-#### Smart Contact Lens - [googleblog.blogspot.ca/2014/01/….smart-contact-lens.html](https://googleblog.blogspot.com.br/2014/01/introducing-our-smart-contact-lens.html)
+#### Slides - [slides.google.com](http://slides.google.com){:target="_blank"}
 
-#### Spaces - [spaces.google.com](https://spaces.google.com/) 
+#### Smart Contact Lens - [googleblog.blogspot.ca/2014/01/….smart-contact-lens.html](https://googleblog.blogspot.com.br/2014/01/introducing-our-smart-contact-lens.html){:target="_blank"}
 
-#### Store - [googlestore.com](https://store.google.com/) 
+#### Spaces - [spaces.google.com](https://spaces.google.com/){:target="_blank"} 
 
-#### Story Builder - [docsstorybuilder.appspot.com](http://docsstorybuilder.appspot.com/)
+#### Store - [googlestore.com](https://store.google.com/){:target="_blank"} 
 
-#### Street View - [google.com/streetview/](https://www.google.com/streetview/)
+#### Story Builder - [docsstorybuilder.appspot.com](http://docsstorybuilder.appspot.com/){:target="_blank"}
+
+#### Street View - [google.com/streetview/](https://www.google.com/streetview/){:target="_blank"}
 
 
 <div id="T"></div>
 
 ### T
 
-#### Tablets with Google Play for Education - www.google.com/edu/tablets 
+#### Takeout - [google.com/takeout](https://takeout.google.com/settings/takeout){:target="_blank"}
 
-#### Takeout (aka Takeaway) - www.google.com/takeout
+#### Teacher Academy - [edutrainingcenter.withgoogle.com/certification_innovator](https://edutrainingcenter.withgoogle.com/certification_innovator){:target="_blank"}
 
-#### Talk - talk.google.com
+#### TensorFlow - [tensorflow.org](https://www.tensorflow.org/){:target="_blank"} 
 
-#### Talk Guru - guru.googlelabs.com
+#### Test My Site - [testmysite.thinkwithgoogle.com](https://testmysite.thinkwithgoogle.com/){:target="_blank"} 
 
-#### Tap - mail.google.com/mail/help/promos/tap April Fools!
+#### TestTube - [youtube.com/testtube](https://www.youtube.com/testtube){:target="_blank"}
+TestTube, é a incubadora de ideias do YouTube. Teste recursos experimentais inventados pelos cientistas malucos do YouTube e diga o que acha deles.
 
-#### Tasks - mail.google.com/mail/help/tasks
+#### Think With Google - [thinkwithgoogle.com](https://www.thinkwithgoogle.com/){:target="_blank"} 
 
-#### Teacher Academy - www.google.com/educators/gta.html
+#### Timelapse - [earthengine.google.com/timelapse](https://earthengine.google.com/timelapse/){:target="_blank"}
 
-#### Teach Parents Tech - www.teachparentstech.org
+#### Timeline - [google.com/maps/timeline](https://www.google.com/maps/timeline){:target="_blank"} 
 
-#### TensorFlow - www.tensorflow.org 
+#### Tips - [google.com/get/googletips](https://get.google.com/apptips/tips/#!/){:target="_blank"} 
 
-#### Test My Site - testmysite.thinkwithgoogle.com 
+#### Toolbar - [toolbar.google.com](https://www.google.com/toolbar/ie/index.html){:target="_blank"} 
 
-#### TestTube - www.youtube.com/testtube 
+#### Tour Builder - [tourbuilder.withgoogle.com](https://tourbuilder.withgoogle.com/){:target="_blank"}
 
-#### Think With Google - www.thinkwithgoogle.com 
+#### Trainer - [edutrainingcenter.withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer)
 
-#### Timeful - www.timeful.com 
+#### Translate - [translate.google.com](https://translate.google.com/){:target="_blank"}
 
-#### Timelapse - earthengine.google.com/timelapse 
+#### Trends - [trends.google.com](https://www.google.com/trends/){:target="_blank"}
 
-#### Timeline - www.google.com/maps/timeline 
+#### TV - [android.com/tv](https://www.android.com/tv/){:target="_blank"}
 
-#### Tips - www.google.com/get/googletips 
-
-#### Toolbar - toolbar.google.com 
-
-#### Tour Builder - tourbuilder.withgoogle.com (Beta)
-
-#### Translate - translate.google.com
-
-#### Treasure Maps - maps.google.com/maps?t=8 [video] April Fools!
-
-#### Trends - trends.google.com
-
-#### TV - www.google.com/tv 
-
-#### Twitter List of Google Accounts - twitter.com/mikedownesz/lists/google-accounts/members 
+#### Twitter List of Google Accounts - [twitter.com/mikedownesz/lists/google-accounts/members](https://twitter.com/mikedownesz/lists/google-accounts/members){:target="_blank"} 
 
 <div id="U"></div>
 
 ### U
 
-#### Usability - www.google.com/usability
+#### Usability - [google.com/usability](https://www.google.com/usability/){:target="_blank"}
 
-#### URL Shortener - goo.gl
+#### URL Shortener - [goo.gl](https://goo.gl/){:target="_blank"}
 
 <div id="V"></div>
 
 ### V
 
-#### Video - video.google.com 
+#### Video - [video.google.com](https://www.google.com/videohp){:target="_blank"}
 
-#### Views - www.google.com/maps/views 
+#### VirusTotal - [virustotal.com](https://www.virustotal.com/en/){:target="_blank"} 
 
-#### VirusTotal - www.virustotal.com 
-
-#### Voice - voice.google.com 
-
-#### Voice Search - www.google.com/insidesearch/voicesearch-chrome.html
-
-#### VR - vr.google.com 
+#### VR - [vr.google.com](https://vr.google.com/){:target="_blank"} 
 
 <div id="W"></div>
 
 ### W
 
-#### Wallet - www.google.com/wallet
+#### Wallet - [google.com/wallet](https://www.google.com/wallet/){:target="_blank"}
 
-#### Wave - wave.google.com (read-only effective January 31, 2012; retired April 30, 2012)
+#### Waze - [waze.com](https://www.waze.com/){:target="_blank"} 
 
-#### Waze - www.waze.com 
+#### Web Designer - [google.com/webdesigner](https://www.google.com/webdesigner/){:target="_blank"}
 
-#### Web Designer - www.google.com/webdesigner
+#### Web Lab - [chromeweblab.com](http://www.chromeweblab.com/){:target="_blank"}
 
-#### Web Lab - www.chromeweblab.com
+#### Web Fonts - [google.com/webfonts](https://fonts.google.com/){:target="_blank"}
 
-#### Web Fonts - www.google.com/webfonts
+#### Webmaster Central - [google.com/webmasters](https://www.google.com/webmasters/){:target="_blank"}
 
-#### Web History - www.google.com/history
+#### WebP - [code.google.com/speed/webp/](https://developers.google.com/speed/webp/){:target="_blank"}
 
-#### Web Programming - code.google.com/edu/submissions/uwspr2007_webprogramming/listing.html
-
-#### Webmaster Central - www.google.com/webmasters
-
-#### WebP - code.google.com/speed/webp/
-
-#### Website Optimizer - www.google.com/websiteoptimizer
-
-#### Weddings - www.google.com/weddings
-
-#### What Do You Love - www.wdyl.com
-
-#### Wifi - madeby.google.com/wifi 
+#### Wifi - [madeby.google.com/wifi](https://madeby.google.com/wifi/){:target="_blank"} 
 
 
 <div id="Y"></div>
 
 ### Y
 
-#### YouTube - www.youtube.com 
+#### YouTube - [youtube.com](https://www.youtube.com/){:target="_blank"} 
 
-#### YouTube Feather - www.youtube.com/feather_beta
+#### YouTube Ads - [youtube.com/yt/advertise](https://www.youtube.com/yt/advertise/launch-ad.html)
 
-#### YouTube for Education - www.youtube.com/education
+#### YouTube for Education - [youtube.com/education](https://www.youtube.com/channel/UCs_n045yHUiC-CR2s8AjIwg){:target="_blank"}
 
-#### YouTube for Schools - www.youtube.com/schools
+#### YouTube Kids - [kids.youtube.com](https://kids.youtube.com/)
 
-#### YouTube Live - www.youtube.com/live
+#### YouTube Live - [youtube.com/live](https://www.youtube.com/live){:target="_blank"}
 
-#### YouTube Teachers - www.youtube.com/user/teachers
+#### YouTube Red - [https://www.youtube.com/red](https://www.youtube.com/red)
+
+#### YouTube Teachers - [youtube.com/user/teachers](https://www.youtube.com/user/teachers){:target="_blank"}
 
 <div id="Z"></div>
 
 ### Z
 
-#### Zagat - www.zagat.com
-
-#### Zeitgeist - www.google.com/intl/en/press/zeitgeist
-
-
-<iframe style="border: 0; width: 100%; height: 9000px" src="https://docs.google.com/document/pub?id=1TQupkuKAo7HQT-Sc8wMOcqVvXtc9j4QGWA2BrfBWpbI"></iframe>
+#### Zagat - [zagat.com](https://www.zagat.com/){:target="_blank"}
 
