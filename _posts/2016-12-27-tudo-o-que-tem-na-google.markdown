@@ -130,7 +130,7 @@ Novo e central destino para as atualizações de notícias e histórias mais rec
 Plataforma gratuita de blogs do Google, é a ferramenta ideal para quem está iniciando no mundo dos blogs. Além de ser fácil de navegar e administrar, oferece a hospedagem e diversos recursos que permitem ao usuário criar seu blog e personalizá-lo, de acordo com suas necessidades
 
 #### Bookmarks - [bookmarks.google.com](http://bookmarks.google.com/){:target="_blank"} 
-Google Bookmarks é uma linha livre de marcadores e um serviço de armazenamento, disponível para usuários da Conta do Google.[1] Ele é completamente separado do navegador e não deve ser confundido com a função de marcadores de qualquer navegador, como o Google Chrome. Google Bookmarks foi lançado em 10 de outubro de 2005. É um serviço baseado em nuvem que permite aos usuários marcar sites favoritas e adicionar etiquetas, tags , ou notas. Os usuários podem acessar seus favoritos de qualquer computador acessando a sua conta Gmail. Os favoritos são pesquisáveis, e as buscas são realizadas no texto completo das páginas favoritas, não apenas os rótulos e notas. [Fonte](https://pt.m.wikipedia.org/wiki/Google_Bookmarks){:target="_blank"}
+Google Bookmarks é uma linha livre de marcadores e um serviço de armazenamento, disponível para usuários da Conta do Google. Completamente separado do navegador, não deve ser confundido com a função de marcadores de qualquer navegador, como o Google Chrome. Google Bookmarks foi lançado em 10 de outubro de 2005. É um serviço baseado em nuvem que permite aos usuários marcar sites favoritas e adicionar etiquetas, tags , ou notas. Os usuários podem acessar seus favoritos de qualquer computador acessando a sua conta Gmail. Os favoritos são pesquisáveis, e as buscas são realizadas no texto completo das páginas favoritas, não apenas os rótulos e notas. [Fonte](https://pt.m.wikipedia.org/wiki/Google_Bookmarks){:target="_blank"}
 
 #### Books - [books.google.com](https://books.google.com/){:target="_blank"}
 Google Books (anteriormente conhecido como Google Book Search e Google Print) (em português: Google Livros) é um serviço da Google que procura textos completos de livros que a Google escaneia, converte-o utilizando o reconhecimento ótico de caracteres, e armazena em seu banco de dados digital.
@@ -166,36 +166,53 @@ A nova aplicação Build with Chrome (Construa com o Chrome) permite que você s
 Basta digita a conta no buscador Google que ele calcula
 
 #### Calendar - [calendar.google.com](https://calendar.google.com/){:target="_blank"}
+Agenda integrada com sua conta Google
 
 #### Cardboard - [vr.google.com/cardboard](https://vr.google.com/cardboard/){:target="_blank"}
+Óculos de Realidade Virtual de baixo custo, leia o [post sobre ele](http://codecamp.com.br/o-que-e-google-cardboard).
 
 #### Chart API - [developers.google.com/chart]( https://developers.google.com/chart/){:target="_blank"}
+API para usar gráficos incorporados no seu site
 
 #### Chrome - [chrome.google.com](https://www.google.com/chrome/){:target="_blank"} 
+O navegador de internet da Google
 
 #### Chrome Cleanup Tool - [google.com/chrome/cleanup-tool](https://www.google.com/chrome/cleanup-tool/){:target="_blank"} 
+Uma ferramenta para diagnosticar programas que conflitam com o Chrome e interferem no seu desempenho
 
 #### Chrome Cube Lab - [chrome.com/cubelab](https://chrome.com/cubelab){:target="_blank"}
+Experimentos para Chrome com o cubo mágico
 
 #### Chrome Experiments - [chromeexperiments.com]( https://developers.google.com/chart/){:target="_blank"}
+Experimentos com os recursos do Chrome
 
 #### Chrome Remote Desktop - [chrome.google.com/chrome-remote-desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp){:target="_blank"}
+Uma ferramenta que permite controlar outro computador à distância
 
 #### Chrome Web Store - [chrome.google.com/webstore](https://chrome.google.com/webstore/){:target="_blank"}
+Loja de aplicativos, extensões e temas para Chrome
 
 #### Chromebooks - [google.com/chromebook](https://www.google.com/chromebook/){:target="_blank"}
+Computador desenvolvido pela Google com foco em aplicações online
 
 #### Chromebox for Meetings - [enterprise.google.com/chrome/video-conferencing](https://enterprise.google.com/chrome/video-conferencing/){:target="_blank"}
+Serviço de Webconferência
 
 #### Chromecast - [google.com/chromecast](https://www.google.com/intl/pt-BR_br/chromecast/){:target="_blank"}
+Dispositivo que integra seu smartphone com a tv ou som da casa
 
 #### Chromium - [chromium.org/Home](http://www.chromium.org/Home){:target="_blank"}
+O Chromium é um projeto de navegador de código aberto que visa construir uma maneira mais segura, rápida e estável para todos os usuários da Internet experimentar a web. Este site contém documentos de design, visões gerais de arquitetura, informações de teste e muito mais para ajudá-lo a aprender a construir e trabalhar com o código-fonte do Chromium
 
 #### Chromium OS - [chromium.org/chromium-os](http://www.chromium.org/chromium-os){:target="_blank"}
+O Chromium OS é um projeto de código aberto que visa criar um sistema operacional que forneça uma experiência de computação rápida, simples e segura para as pessoas que passam a maior parte do tempo na web. Aqui você pode revisar os documentos de projeto do projeto, obter o código-fonte e contribuir.
 
 #### Classroom - [classroom.google.com](https://classroom.google.com){:target="_blank"}
+Plataforma para sala de aula virtual, disponível apenas no G Suite for Education
 
 #### Cloud Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/){:target="_blank"} 
+Managed Spark e Hadoop na nuvem. Rápido, fácil de usar e baixo custo.
+Use o Google Cloud Dataproc, um Apache Hadoop, o Apache Spark, o Apache Pig eo serviço Apache Hive, para processar facilmente grandes conjuntos de dados a baixo custo. Controle seus custos criando rapidamente clusters gerenciados de qualquer tamanho e desligando-os quando terminar. O Cloud Dataproc é integrado em todos os produtos do Google Cloud Platform, oferecendo uma plataforma de processamento de dados completa e poderosa.
 
 #### Cloud Platform - [cloud.google.com](https://cloud.google.com/){:target="_blank"} 
 
@@ -247,6 +264,8 @@ Competição Global onlineque introduz adolescentes ao mundo do código aberto. 
 #### Data Studio - [datastudio.google.com](https://datastudio.google.com){:target="_blank"} 
 
 #### Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/){:target="_blank"} 
+Managed Spark e Hadoop na nuvem. Rápido, fácil de usar e baixo custo.
+Use o Google Cloud Dataproc, um Apache Hadoop, o Apache Spark, o Apache Pig eo serviço Apache Hive, para processar facilmente grandes conjuntos de dados a baixo custo. Controle seus custos criando rapidamente clusters gerenciados de qualquer tamanho e desligando-os quando terminar. O Cloud Dataproc é integrado em todos os produtos do Google Cloud Platform, oferecendo uma plataforma de processamento de dados completa e poderosa.
 
 #### Daydream - [vr.google.com/daydream](https://vr.google.com/daydream/){:target="_blank"} 
 
