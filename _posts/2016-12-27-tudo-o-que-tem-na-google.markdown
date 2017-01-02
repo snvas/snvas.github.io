@@ -215,149 +215,211 @@ Managed Spark e Hadoop na nuvem. Rápido, fácil de usar e baixo custo.
 Use o Google Cloud Dataproc, um Apache Hadoop, o Apache Spark, o Apache Pig eo serviço Apache Hive, para processar facilmente grandes conjuntos de dados a baixo custo. Controle seus custos criando rapidamente clusters gerenciados de qualquer tamanho e desligando-os quando terminar. O Cloud Dataproc é integrado em todos os produtos do Google Cloud Platform, oferecendo uma plataforma de processamento de dados completa e poderosa.
 
 #### Cloud Platform - [cloud.google.com](https://cloud.google.com/){:target="_blank"} 
+Plataforma de computação em nuvem da Google
 
 #### Cloud Print - [google.com/cloudprint](https://www.google.com/cloudprint){:target="_blank"}
+Recursos permite fazer a impressão de arquivos armazenados na nuvem
 
 #### Cloud Storage Nearline - [cloud.google.com/storage-nearline](https://cloud.google.com/storage-nearline/){:target="_blank"}
+Um serviço de armazenamento de baixo custo, altamente durável e altamente disponível para dados raramente acessados, arquivamento de dados, backup on-line e recuperação de desastres. Os dados estão disponíveis instantaneamente, não em horas ou dias. Com tempos de resposta médios de sub-segundos e 1 centavo por GB / mês de preços, o Cloud Storage Nearline oferece um excelente desempenho a baixo custo.
 
 #### Cloud Vision API - [cloud.google.com/vision](https://cloud.google.com/vision/){:target="_blank"} 
+A API do Google Cloud Vision permite que os desenvolvedores entendam o conteúdo de uma imagem ao encapsular modelos poderosos de aprendizado de máquinas em uma API REST fácil de usar. Ele classifica rapidamente imagens em milhares de categorias (por exemplo, "veleiro", "leão", "Torre Eiffel"), detecta objetos individuais e enfrenta dentro de imagens, e localiza e lê palavras impressas contidas dentro de imagens. Você pode criar metadados em seu catálogo de imagens, conteúdo ofensivo moderado ou ativar novos cenários de marketing por meio da análise do sentimento de imagem. Analise as imagens carregadas na solicitação ou integrá-las com o armazenamento de imagens no Google Cloud Storage.
 
 #### Code Jam - [code.google.com/codejam](https://code.google.com/codejam/){:target="_blank"}
+O Google Code Jam retorna para o 14º ano como uma das mais desafiadoras competições de programação do mundo. Este concurso em constante expansão consiste em várias rodadas de enigmas algorítmicos, culminando em uma final do mundo no local. Como sempre, estamos ansiosos para anunciar novas mudanças.
 
 #### Code Lab - [codelabs.developers.google.com](https://codelabs.developers.google.com/){:target="_blank"}
+Google Developers Codelabs fornece uma  experiência guiada, com tutoriais, mãoes na massa para codificação. A maioria dos codelabs irá guiá-lo através do processo de construção de um pequeno aplicativo, ou adicionar um novo recurso a um aplicativo existente. Eles cobrem uma ampla gama de tópicos como o Android Wear, o Google Compute Engine, o Project Tango e as APIs do Google no iOS.
 
 #### Code-in - [developers.google.com/open-source/gci](https://developers.google.com/open-source/gci/){:target="_blank"} 
-Competição Global onlineque introduz adolescentes ao mundo do código aberto. Com uma grande variedade de tarefa, é fácil para iniciantes começarem não importa o que eles já sabem. Mentores de organizações participantes dão uma mãozinha enquanto os participantes aprendem o que é trabalhar em um projeto de código aberto.
+Competição Global online que introduz adolescentes ao mundo do código aberto. Com uma grande variedade de tarefa, é fácil para iniciantes começarem não importa o que eles já sabem. Mentores de organizações participantes dão uma mãozinha enquanto os participantes aprendem o que é trabalhar em um projeto de código aberto.
 
-#### Computational Thinking for Educators - [computationalthinkingcourse.withgoogle.com](https://computationalthinkingcourse.withgoogle.com/){:target="_blank"} 
+#### Computational Thinking for Educators - [computationalthinkingcourse.withgoogle.com](https://computationalthinkingcourse.withgoogle.com/){:target="_blank"}
+Cursos online sobre pensamento computacional para educadores
 
 #### Computational Thinking, Exploring - [google.com/edu/computational-thinking](https://www.google.com/edu/resources/programs/exploring-computational-thinking/){:target="_blank"}
+Recursos sobre a ciência da computação
 
 #### Computer Science for High School - [cs4hs.com](https://www.cs4hs.com){:target="_blank"} 
+Recursos para estudantes do ensino médio aprenderem programação de computadores
 
 #### Consumer Surveys - [google.com/insights/consumersurveys](https://www.google.com/analytics/surveys){:target="_blank"}
+O Google Surveys facilita a obtenção de opiniões rápidas e confiáveis por parte dos consumidores na Internet e em dispositivos móveis - o que lhe permite tomar decisões de negócios mais informadas, compreender seu impacto de marketing e manter um pulso na saúde de sua marca
 
 #### Contacts - [contacts.google.com](https://www.google.com/contacts/){:target="_blank"}
+Contatos integrados na conta Google
 
 #### Contributor - [contributor.google.com](https://contributor.google.com/){:target="_blank"}
+Programa para colaboradores voluntários
 
 #### Correlate - [google.com/trends/correlate](https://www.google.com/trends/correlate){:target="_blank"}
+Encontre correlação entre os termos buscados no Google
 
 #### Course Builder - [code.google.com/p/course-builder](https://www.google.com/edu/openonline/course-builder/index.html){:target="_blank"}
+Plataforma open source para publicação de cursos online
 
 #### Crisis Response - [google.com/crisisresponse](https://www.google.org/crisisresponse/){:target="_blank"}
+Tornar a informação crítica mais acessível em tempos de catástrofe
+Quando ocorre uma catástrofe, as pessoas recorrem à Internet para obter informações. Ajudamos a garantir que as informações certas estejam presentes nestes momentos de necessidade, construindo ferramentas para coletar e compartilhar informações de emergência e apoiando os primeiros respondentes no uso da tecnologia para ajudar a melhorar e salvar vidas
 
 #### CS First - [cs-first.com](https://www.cs-first.com/){:target="_blank"} 
+Plataforma oferece materiais e tutoriais sobre a Ciência da Computação
 
 #### Cultural Institute - [google.com/culturalinstitute](https://www.google.com/culturalinstitute/beta/){:target="_blank"}
+Plataforma reúne acervo de museus digitalizados
 
 #### Currents Producer - [google.com/producer](https://www.google.com/producer){:target="_blank"}
+O Google Play Banca é uma plataforma de publicação para criar edições e revistas do Google Play Banca
 
 #### Custom Search Engine - [google.com/cse](https://cse.google.com/cse/){:target="_blank"}
+Com a Pesquisa personalizada do Google, adicione uma caixa de pesquisa a sua página inicial para ajudar as pessoas a encontrarem o que precisam em seu site
 
 <div id="D"></div>
 
 ### D
 
 #### Dart - [dartlang.org](https://www.dartlang.org/){:target="_blank"}
+Uma linguagem de programação desenvolvida pela Google
 
 #### Data Studio - [datastudio.google.com](https://datastudio.google.com){:target="_blank"} 
+Explorando o Google Data Studio — Analytics 360 Suite. Uns dos novos recursos da Google Suite Analytics 360 é o Google Data Studio, um data workspace que permite a integração de dados de diferentes fontes para a construção de dashboards interativos
 
 #### Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/){:target="_blank"} 
 Managed Spark e Hadoop na nuvem. Rápido, fácil de usar e baixo custo.
-Use o Google Cloud Dataproc, um Apache Hadoop, o Apache Spark, o Apache Pig eo serviço Apache Hive, para processar facilmente grandes conjuntos de dados a baixo custo. Controle seus custos criando rapidamente clusters gerenciados de qualquer tamanho e desligando-os quando terminar. O Cloud Dataproc é integrado em todos os produtos do Google Cloud Platform, oferecendo uma plataforma de processamento de dados completa e poderosa.
+Use o Google Cloud Dataproc, um Apache Hadoop, o Apache Spark, o Apache Pig eo serviço Apache Hive, para processar facilmente grandes conjuntos de dados a baixo custo. Controle seus custos criando rapidamente clusters gerenciados de qualquer tamanho e desligando-os quando terminar. O Cloud Dataproc é integrado em todos os produtos do Google Cloud Platform, oferecendo uma plataforma de processamento de dados completa e poderosa
 
 #### Daydream - [vr.google.com/daydream](https://vr.google.com/daydream/){:target="_blank"} 
+Daydream leva você em incríveis aventuras na realidade virtual. Prepare-se para mergulhar em todas as coisas que você ama
 
 #### DeepMind - [deepmind.com](https://deepmind.com/){:target="_blank"}  
+DeepMind é o líder mundial em pesquisa de inteligência artificial e sua aplicação para o impacto positivo
 
 #### Diversity@Google - [google.com/diversity](https://www.google.com/diversity/){:target="_blank"}
+Iniciativas para garantir a diversidade dentro da Google
 
 #### Docs - [docs.google.com](https://docs.google.com/){:target="_blank"}
+O Google Docs é um serviço para Web, Android e iOS que permite criar, editar e visualizar documentos de texto e compartilhá-los com amigos e contatos profissionais. Com a possibilidade de trabalhar offline, esta ferramenta pode salvar os arquivos tanto no drive online do Google quanto na memória do dispositivo
 
 #### Docs Templates - [docs.google.com/templates](https://drive.google.com/templates){:target="_blank"}
+Modelos de arquivos para google docs
 
 #### Domains - [domains.google](https://domains.google/){:target="_blank"}
+Local para registrar os seus domínios na web
 
 #### Doodle 4 Google - [google.com/doodle4google](https://doodles.google.com/d4g/){:target="_blank"}
+Recebemos muitas visões criativas do futuro, e as inscrições do concurso estão agora fechadas para o concurso Google Doodle 4 de 2016. É hora de o nosso painel de juízes escolher os seus favoritos e nos ajudar a selecionar os 53 vencedores do Estado e do Território. Nós anunciaremos os resultados em fevereiro de 2017, e convidaremos todos a votar para que cinco vencedores estaduais e territoriais passem a se tornar finalistas nacionais
 
 #### Doodles - [google.com/doodles](https://www.google.com/doodles){:target="_blank"}
+Google Doodles são as versões modificadas do logotipo do Google, usado especialmente para feriados, aniversários de pessoas famosas e importantes eventos
 
 #### DoubleClick - [doubleclickbygoogle.com](https://www.doubleclickbygoogle.com/){:target="_blank"}
+Conecte-se com as pessoas certas, nos momentos certos, com as soluções integradas da DoubleClick
 
 #### Drive - [drive.google.com](https://drive.google.com){:target="_blank"} 
+Google Drive é um serviço de armazenamento e sincronização de arquivos, apresentado pela Google em 24 de abril de 2012. Google Drive abriga agora o Google Docs, um leque de aplicações de produtividade, que oferece a edição de documentos, folhas de cálculo, apresentações, e muito mais
 
 #### Drawings - [docs.google.com/drawings](https://docs.google.com/drawings/){:target="_blank"}
 
 #### Duo - [duo.google.com](https://duo.google.com/){:target="_blank"} 
+Google Duo é o app de videochamadas que promete funcionar em conexões lentas. O Google ainda não tem muitos aplicativos de mensagens, então resolveu criar mais um, a empresa começou a liberar o Google Duo, que permite fazer chamadas em vídeo para usuários de Android e iOS
 
 <div id="E"></div>
 
 ### E
 
 #### Earth - [earth.google.com](https://www.google.com/earth/){:target="_blank"}
+Google Earth é um programa de computador desenvolvido e distribuído pela Google cuja função é apresentar um modelo tridimensional do globo terrestre, construído a partir de mosaico de imagens de satélite obtidas de fontes diversas, imagens aéreas (fotografadas de aeronaves) e GIS 3D
 
 #### Earth Engine - [google.org/earthengine](https://earthengine.google.com/){:target="_blank"}
+O Google Earth Engine combina um catálogo de imagens de satélite e conjuntos de dados geoespaciais com capacidades de análise em escala planetária e permite que cientistas, pesquisadores e desenvolvedores detectem mudanças, mapeiem tendências e quantificem diferenças na superfície da Terra
 
 #### Earth Outreach - [earth.google.com/outreach](https://www.google.com/earth/outreach/index.html){:target="_blank"}
+O Google Earth Solidário oferece a organizações sem fins lucrativos e organizações de benefício público o conhecimento e os recursos de que necessitam para visualizar sua causa e contar sua história no Google Earth e no Google Maps para centenas de milhões de pessoas
 
 #### eBooks - [ebooks.google.com](https://play.google.com/store/books){:target="_blank"}
+Google Books (anteriormente conhecido como Google Book Search e GooglePrint) (em português: Google Livros) é um serviço da Google que procura textos completos de livros que a Google escaneia, converte-o utilizando o reconhecimento ótico de caracteres, e armazena em seu banco de dados digital
+
+#### Environment - [environment.google](https://environment.google/){:target="_blank"}
+Na Google, a sustentabilidade é uma parte de tudo o que fazem. Os fundadores do Google têm se unido com estrategistas de energia e política, engenheiros mecânicos e de software, especialistas em sustentabilidade e outros 65.000 criadores de peças criativas, e ainda estão focados em encontrar novas maneiras de fazer mais enquanto usamos menos. Abordam a sustentabilidade ambiental como qualquer outro desafio - com um desprezo saudável pelo impossível na criação de tecnologia que melhore tantas vidas quanto possível.
 
 #### Expeditions - [google.com/edu/expeditions](https://www.google.com/edu/expeditions/){:target="_blank"} 
+Imagine explorar recifes de coral ou a superfície de Marte em uma tarde. Com Expeditions, os professores podem levar os alunos a viagens virtuais imersivas
 
 <div id="F"></div>
 
 ### F
 
 #### Feedburner - [feedburner.google.com](http://feedburner.google.com/){:target="_blank"}
+Google FeedBurner é um gerenciador web de feeds lançado em 2004. Fundado por Dick Costolo, Eric Lunt, Steve Olechowski e Matt Shobe.
 
 #### Fi - [fi.google.com](https://fi.google.com){:target="_blank"} 
+Serviço de Wifi da Google. O Project Fi conecta-o automaticamente com o melhor sinal disponível, seja Wi-Fi ou uma das três redes de parceiros 4G LTE
 
 #### Fiber - [fiber.google.com](https://fiber.google.com){:target="_blank"}
+O Google Fiber começa com uma conexão de até 1.000 megabits por segundo. Transferências rápidas super. TV como nenhum outro. E infinitas possibilidades
 
 #### Field Trip - [fieldtripper.com](http://www.fieldtripper.com/){:target="_blank"}
+Field Trip é seu guia para as coisas legais, ocultas e únicas no mundo ao seu redor. Field Trip é executado em segundo plano no seu telefone. Quando você chegar perto de algo interessante, ele aparece um cartão com detalhes sobre a localização. Nenhum clique é necessário. Se você tiver um fone de ouvido ou bluetooth conectado, ele pode até mesmo ler a informação para você.
+
+Field Trip pode ajudá-lo a aprender sobre tudo, desde a história local aos mais recentes e melhores lugares para fazer compras, comer e se divertir. Você seleciona os feeds locais que você gosta e as informações aparecem no seu telefone automaticamente, enquanto você caminha ao lado desses lugares.
+
+Os peritos da história hiperlocal de Arcadia e Historvius desvelarão conhecimento local em lugares que você nunca esperou. As publicações de tendências como TimeOut, Thrillist, Spotted by Locals, Zagat e Eater indicam os melhores lugares para comer e beber. Especialistas em Sunset, Cool Hunting, WeHeart, Inhabitat e Remodelista irá guiá-lo para as mais recentes lojas e produtos exclusivos. Atlas Obscura, Dezeen e Spotted by Locals ajudá-lo a descobrir gemas escondidas, não importa onde você está. Songkick e Flavorpill guia você para a música local.
+
+O que você descobriu hoje? Enriqueça-se com uma viagem de campo durante sua viagem. Viva como um local quando você viaja para novos lugares. Comer e fazer compras fora do caminho batido. Ou simplesmente descobrir a história obscura sobre o seu bairro durante a sua próxima caminhada para o parque.
 
 #### Finance - [finance.google.com](https://www.google.com/finance){:target="_blank"}
+Google Finance ou Google Financeiro é um serviço que apresenta a informações sobre empresas incluindo suas últimas decisões e também suas ações com um código em JavaScript que permite a visualização das ações no momento. Foi lançado em 21 de Março de 2006
 
 #### Firebase - [firebase.google.com](https://firebase.google.com/){:target="_blank"} 
+Google oferece uma infinidade de serviços baseados na nuvem em que os desenvolvedores móveis podem usar para aprimorar as suas aplicações. Com o Firebase, adquirido pela empresa em 2014, ela permitiu aos desenvolvedores contar com uma plataforma dedicada e SDK para a construção de aplicativos móveis.
 
 #### Flights - [google.com/flights](https://www.google.com.br/flights/){:target="_blank"} 
+Se você gosta de viajar e não quer mais depender de um agente de viagens para encontrar os melhores voos, o Google Flights pode ser muito útil
 
 #### Fonts - [google.com/fonts](https://fonts.google.com/){:target="_blank"}
+Google Fonts é um serviço web que o Google disponibiliza para usuários que têm websites e desejam utilizar fontes diferentes em suas páginas. Funciona gratuitamente, oferece diversos tipos de letras e é simples para quem possui o conhecimento de edição de sites. Faça o download!
 
 #### Forms - [docs.google.com/forms](https://docs.google.com/forms/){:target="_blank"}
+A ferramenta do Google para criar formulários, convites, enquetes e muito mais! O Google Forms é uma das ferramentas mais versáteis para a criação de formulários com perguntas, fichas de inscrição, enquetes, pesquisas de satisfação, convites para grupos e muito mais.
 
 #### Frightgeist - [frightgeist.withgoogle.com](https://frightgeist.withgoogle.com/){:target="_blank"}
-
+Halloween acabou, mas você ainda pode explorar os trajes mais populares de 2016.
 
 <div id="G"></div>
 
 ### G
 
 #### Gmail - [gmail.com](https://mail.google.com){:target="_blank"}
+O Gmail (também Google Mail) é um serviço gratuito de webmail criado pela Google em 2004. Por padrão, o Gmail está configurado para usar o HTTPS, um protocolo seguro que fornece comunicações autenticadas e criptografadas.
 
 #### Go - [golang.org](https://golang.org/){:target="_blank"}
+Go (linguagem de programação) Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e programação concorrente, baseada em trabalhos feitos no sistema operacional chamado Inferno.
 
 #### Google - [google.com](https://www.google.com.br){:target="_blank"} 
+Nessa página você encontra o principal produto, o mecanismo de busca. A Google Inc. é uma empresa multinacional de serviços online e software dos Estados Unidos. O Google hospeda e desenvolve uma série de serviços e produtos baseados na internet e gera lucro principalmente através da publicidade pelo AdWords
 
 #### Google for EDU - [google.com/edu](https://www.google.com/edu/){:target="_blank"}
+Google está relançando seus aplicativos online para produtividade com um novo nome hoje. Agora, em vez de “Google Apps for Work” eles se chamam “G Suite”, o que reflete a tendência da empresa de colocar o grande G na frente de tudo que é possível
 
 #### Google Brain - [research.google.com/teams/brain](https://research.google.com/teams/brain/){:target="_blank"}
-
-#### Green - [environment.google](https://environment.google/){:target="_blank"}
+Os membros da equipe do Google Brain estabelecem sua própria agenda de pesquisa, com a equipe como um todo mantendo um portfólio de projetos em diferentes horizontes de tempo e níveis de risco
 
 #### Groups - [groups.google.com](https://groups.google.com/){:target="_blank"}
-
+O Google Groups (ou Grupos do Google) é um serviço de grupos de discussão, criado para promover a interação de usuários com interesses em comum. Neste tutorial, você vai aprender como criar um Grupo no Grupos do Google e convidar seus amigos para participar dele.
 
 <div id="H"></div>
 
 ### H
 
 #### Hangouts - [hangouts.google.com](https://hangouts.google.com/){:target="_blank"}
+Google Hangouts é uma plataforma de mensagens instantâneas e chat de vídeo desenvolvido pelo Google, que foi lançada em 15 de maio de 2013, durante a conferência de desenvolvedores.
 
 #### Home - [home.google.com](https://madeby.google.com/home/){:target="_blank"}
+Google Home é o aplicativo de controle do Chromecast e outros dispositivos conectados do Google. O Google Home é o novo aplicativo de controle para dispositivos conectados do Google, como o Chromecast.
 
 #### Home Service Ads - [google.com/adwords/express/home-service-ads](https://www.google.com/adwords/express/home-service-ads/){:target="_blank"} 
+Home Services coloca dignos de confiança serviços de limpeza locais, serralheiros, encanadores e outros profissionais na frente de pessoas que estão procurando e reserva rapidamente.
 
 
 <div id="I"></div>
