@@ -518,10 +518,13 @@ A fonte oficial de notícias sobre o Android - de telefones a relógios e muito 
 Google Play Music: aprenda a usar o app dedicado à reprodução de músicas. O serviço dedicado à reprodução de músicas Google Play Music chegou ao Brasil nesta semana.
 
 #### Music Timeline - [research.google.com/bigpicture/music](https://research.google.com/bigpicture/music/){:target="_blank"} 
+A Music Timeline mostra gêneros de música que se encerram e diminuem, com base em quantos usuários do Google Play Música têm um artista ou álbum na biblioteca de músicas e outros dados (como datas de lançamento de álbuns). Cada faixa no gráfico representa um gênero; A espessura da faixa diz-lhe aproximadamente a popularidade da música lançada em um determinado ano nesse gênero. (Por exemplo, a faixa de "jazz" é espessa nos anos 50, uma vez que as bibliotecas de muitos usuários contêm álbuns de jazz lançados nos anos 50.) Clique nas listras para ampliar os gêneros mais especializados.
 
 #### My Activity - [myactivity.google.com](https://myactivity.google.com/myactivity){:target="_blank"} 
+Encontre e veja seu histórico de pesquisa, histórico de navegação e outras atividades que foram salvas em sua Conta do Google em Minha atividade. 
 
 #### My Maps - [google.com/maps/d/edit](https://www.google.com/maps/d/edit?authuser=0&mid=1HG_WTnFTJnTLAH9SwRpS9qbQBeE&ll=-11.872575764902162%2C-51.92527949999999&z=4){:target="_blank"}
+Crie mapas personalizados para compartilhar e publicar online com o Google My Maps. Você pode fazer mapas que mostram diferentes tipos de informações.
 
 <div id="M"></div>
 
@@ -559,12 +562,16 @@ Noto é uma família tipográfica desenvolvida pela Google com o objetivo de cri
 ### O
 
 #### One Today - [onetoday.google.com](https://onetoday.google.com/){:target="_blank"} 
+One Today facilita a doação para as causas que o inspiram, ao mesmo tempo em que permite que organizações sem fins lucrativos levantem os fundos de que precisam para tornar o mundo melhor.
 
 #### OnHub - [on.google.com/hub](https://on.google.com/hub/){:target="_blank"}
+um novo roteador do Google que é construído para todas as maneiras que você Wi-Fi.
 
 #### Online Marketing Challenge - [google.com/onlinechallenge](https://www.google.com/onlinechallenge/){:target="_blank"}
+Google Online Marketing Challenge (GOMC) é uma oportunidade emocionante para os alunos a experiência de marketing on-line e criação de marketing on-line
 
 #### Oppia - [github.com/oppia/oppia](https://github.com/oppia/oppia){:target="_blank"} 
+Ferramenta para a construção colaborativa de lições interativas
 
 <div id="P"></div>
 
@@ -759,21 +766,37 @@ TestTube, é a incubadora de ideias do YouTube. Teste recursos experimentais inv
 
 #### YouTube - [youtube.com](https://www.youtube.com/){:target="_blank"} 
 
-#### YouTube Ads - [youtube.com/yt/advertise](https://www.youtube.com/yt/advertise/launch-ad.html)
+#### YouTube Ads - [youtube.com/yt/advertise](https://www.youtube.com/yt/advertise/launch-ad.html){:target="_blank"}
+
+#### YouTube Escola de Criadores - [creatoracademy.youtube.com](https://creatoracademy.youtube.com/page/education?hl=pt-BR){:target="_blank"}
+Utilize a Academia de criadores para ampliar o seu público-alvo e otimizar o seu canal do YouTube para o sucesso. Veja as lições para saber o que os principais criadores andam a fazer e experimente estas estratégias no seu canal.
 
 #### YouTube for Education - [youtube.com/education](https://www.youtube.com/channel/UCs_n045yHUiC-CR2s8AjIwg){:target="_blank"}
+Se você estiver fazendo uma pesquisa para um projeto, precisando de ajuda em sua tarefa escolar ou apenas querendo aprender algo novo, aqui é o seu lugar!
+Se você é professor, no YouTube Edu você poderá submeter suas videoaulas para publicação, ou ainda escolher outras aulas para utilizar com seus alunos! O projeto é uma parceria entre a Fundação Lemann e o Google, para a criação de uma página exclusiva do YouTube, na qual professores, gestores e alunos podem encontrar conteúdos educacionais gratuitos e de qualidade, em Português. A curadoria dos vídeos foi feita por professores especialistas e altamente capacitados, selecionados pelo Sistema de Ensino Poliedro e coordenados pela Fundação Lemann. Os conteúdos disponíveis são voltados para os níveis de Ensino Fundamental e Ensino Médio, englobando as disciplinas: Língua Portuguesa, Matemática, Ciências (Química, Física e Biologia), História, Geografia, Língua Espanhola e Língua Inglesa.
 
-#### YouTube Kids - [kids.youtube.com](https://kids.youtube.com/)
+#### YouTube Kids - [kids.youtube.com](https://kids.youtube.com/){:target="_blank"}
+O ambiente foi criado para dar aos gamers uma experiência completamente nova. Por exemplo, já aconteceu de você pesquisar um jogo e acabar se deparando com uma música ou vídeo caseiro, através do youtube? Bom, esse risco não existe no YouTube Gaming, lá seus resultados são assegurados.
+
+Mas como funciona? A principal função é esse já mencionado filtro, ou seja, você só vai encontrar conteúdo de jogos. Além disso, vários jogos terão canais próprios para disponibilizar suas novidades. Gameplays, reviews, análises, transmissões ao vivo, e tudo que você já acompanhava no youtube, agora terá seu próprio espaço.
 
 #### YouTube Live - [youtube.com/live](https://www.youtube.com/live){:target="_blank"}
+Introdução ao streaming ao vivo. Você pode alcançar seu público ao vivo aproveitando a transmissão ao vivo no YouTube.
 
-#### YouTube Red - [https://www.youtube.com/red](https://www.youtube.com/red)
+#### YouTube Red - [https://www.youtube.com/red](https://www.youtube.com/red){:target="_blank"}
+O YouTube Red é um serviço de assinatura de streaming pago exclusivamente para o YouTube nos Estados Unidos, Austrália, México, Nova Zelândia e Coréia do Sul. Oferece transmissão gratuita de todos os vídeos hospedados pelo YouTube, reprodução offline e em segundo plano de vídeos em dispositivos móveis, acesso a streaming de música sem publicidade através do Google Play Music e acesso a filmes e filmes do "YouTube Original Vermelho".
+
+O serviço foi originalmente lançado em novembro de 2014 como Music Key, oferecendo apenas streaming de música e vídeos de música sem anúncios de rótulos participantes no YouTube e no Google Play Música. O serviço foi então revisto e relançado como YouTube Red em 28 de outubro de 2015, ampliando seu escopo para oferecer acesso sem anúncios a todos os vídeos do YouTube, ao contrário de apenas música.
+
+Além de streaming sem anúncios, o YouTube Red também participou com as principais redes e certas celebridades do YouTube para oferecer "YouTube Red Originals", filmes e shows exclusivos apenas para os membros da Red, como a série reality, Scare PewDiePie. Com uma assinatura do YouTube Red, mas os episódios e filmes individuais podem ser adquiridos através do YouTube ou do Google Play Filmes e TV em determinados países onde as assinaturas ainda não estão disponíveis.
 
 #### YouTube Teachers - [youtube.com/user/teachers](https://www.youtube.com/user/teachers){:target="_blank"}
+O YouTube.com/Teachers foi criado para ajudar os professores a aproveitar o vídeo para educar, envolver e inspirar seus alunos. Aqui você encontrará dicas e truques para trazer o YouTube para a sala de aula, além de mais de 400 playlists de vídeos curadas pela CUE e alinhadas com o Common Core. YouTube.com/Teachers faz parte da iniciativa educacional maior do YouTube, YouTube EDU, com mais de 700K vídeos educativos criados por especialistas e organizações líderes como PBS, TEDEd e Khan Academy.
 
 <div id="Z"></div>
 
 ### Z
 
 #### Zagat - [zagat.com](https://www.zagat.com/){:target="_blank"}
+A equipe editorial da Zagat faz curadoria dos melhores restaurantes em todo os EUA (além de Londres e Toronto) e os serve para você de uma forma divertida e acessível para que você possa desfrutar o melhor da cidade tem para oferecer.
 
