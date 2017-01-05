@@ -274,9 +274,6 @@ O Google Surveys facilita a obtenção de opiniões rápidas e confiáveis por p
 #### Contacts - [contacts.google.com](https://www.google.com/contacts/){:target="_blank"}
 Contatos integrados na conta Google
 
-#### Contributor - [contributor.google.com](https://contributor.google.com/){:target="_blank"}
-Programa para colaboradores voluntários
-
 #### Correlate - [google.com/trends/correlate](https://www.google.com/trends/correlate){:target="_blank"}
 Encontre correlação entre os termos buscados no Google
 
@@ -750,44 +747,53 @@ Mini versão do jogo, criada originalmente como um logotipo animado para o 30º 
 ### Q
 
 #### Quick, Draw - [quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/){:target="_blank"} 
-
+Este é um jogo construído com aprendizagem de máquina. Você desenha, e uma rede neural tenta adivinhar o que está desenhando. Claro, nem sempre funciona. Mas quanto mais você brincar com ele, mais ele vai aprender. Até agora temos treinado em algumas centenas de conceitos, e esperamos acrescentar mais ao longo do tempo. Fizemos isso como um exemplo de como você pode usar a aprendizagem da máquina de maneiras divertidas.
 
 <div id="R"></div>
 
 ### R
 
 #### ReCAPTCHA - [google.com/recaptcha](https://www.google.com/recaptcha/intro/index.html){:target="_blank"}
+ReCAPTCHA é um serviço gratuito que protege o seu site contra spam e abuso. O reCAPTCHA usa um mecanismo de análise de risco avançado e CAPTCHAs adaptativos para manter o software automatizado de se engajar em atividades abusivas em seu site. Ele faz isso deixando seus usuários válidos passar com facilidade.
 
-#### Recipe View - [google.com/landing/recipes](https://cse.google.com/cse/){:target="_blank"}
+ReCAPTCHA oferece mais do que apenas proteção contra spam. Cada vez que nossos CAPTCHAs são resolvidos, esse esforço humano ajuda a digitalizar texto, anotar imagens e construir conjuntos de dados de aprendizado de máquina. Isso, por sua vez, ajuda a preservar livros, melhorar mapas e resolver problemas de IA difíceis.
 
-#### Refine - [code.google.com/p/google-refine](https://github.com/OpenRefine){:target="_blank"}
+#### Refine - [code.google.com/p/google-refine](https://code.google.com/archive/p/google-refine/){:target="_blank"}
+O Google Refine é uma ferramenta poderosa para trabalhar com dados confusos, limpá-lo, transformá-lo de um formato para outro, ampliá-lo com serviços da Web e vinculá-lo a bancos de dados como o Freebase.
 
 #### Refuge Relief - [onetoday.google.com/page/refugeerelief](https://onetoday.google.com/page/refugeerelief){:target="_blank"} 
+Foram arrecadados 10 milhões de euros a nível global para refugiados e migrantes. A crise não acabou. Suas contribuições ainda podem fornecer alívio crítico para aqueles que precisam. Embora o Google já não corresponda a doações, considere dar diretamente a essas organizações sem fins lucrativos.
 
 #### Research at Google - [research.google.com](https://research.google.com/){:target="_blank"} 
+Research at Google aborda os problemas mais desafiadores em Ciência da Computação e áreas afins. Ser corajoso e correr riscos é essencial para o que fazemos, e as equipes de pesquisa estão embutidas em todo o Google, permitindo que nossas descobertas afetem bilhões de usuários por dia.
 
 #### RISE - [google.com/edu/rise](https://www.google.com/edu/resources/programs/google-rise-awards/){:target="_blank"}
-
+O programa RISE apoia e conecta organizações sem fins lucrativos em todo o mundo para aumentar a equidade na educação CS com foco em meninas, minorias historicamente sub-representadas no campo e jovens de comunidades de baixa renda.
 
 <div id="S"></div>
 
 ### S
 
 #### Save to Google - [google.com/save](https://www.google.com/save/){:target="_blank"} 
+Agora, ao fazer uma pesquisa no Google Imagens, o Google agora oferece a opção de “salvar” ou “ver imagens salvas” dentro do serviço do Google Save. Apesar do “salvar”, o Google apenas grava um link para a imagem. Para ajudar na organização, o Google Save oferece um sistema de tags que podem ser adicionadas jundo aos conteúdos, seguindo uma experiência parecida com os rótulos do Gmail.
 
 #### Save to Google (Chrome Extension) - [chrome.google.com/savetogoogle](https://chrome.google.com/webstore/detail/save-to-google/meoeeoaohbmgbocpdpnjklmfmjjagkkf){:target="_blank"} 
+Salve facilmente páginas da web interessantes para o Google com a nova extensão Save to Google. Salvar com um clique: clique na estrela para salvar páginas da web para visualização posterior. Navegue facilmente seus salvamentos através de uma interface visual intuitiva. Um local para páginas da Web e Imagens: suas páginas da web salvas e imagens salvas da Pesquisa de Imagens do Google viverão juntas em google.com/save.
 
 #### Scholar - [scholar.google.com](https://scholar.google.com.br/){:target="_blank"}
+O Google Scholar — Google Académico ou Acadêmico é uma ferramenta de pesquisa do Google que permite pesquisar em trabalhos acadêmicos, literatura escolar, jornais de universidades e artigos variados. Lançado em Novembro de 2004 passou a oferecer buscas em língua Portuguesa em 10 de janeiro de 2006. [FONTE](https://pt.wikipedia.org/wiki/Google_Scholar)
 
-#### Science Fair Portal - [googlesciencefair.com/en](https://www.googlesciencefair.com/en/){:target="_blank"}
+#### Science Fair Portal - [googlesciencefair.com](https://www.googlesciencefair.com/pt-BR/){:target="_blank"}
+A Google Science Fair é uma competição on-line global de ciência e tecnologia aberta a indivíduos e equipes com idades entre 13 e 18 anos.
 
 #### Search Stories - [youtube.com/user/SearchStories](https://www.youtube.com/user/SearchStories){:target="_blank"}
-
-#### Secure Search - [https://www.google.com](https://www.google.com.br/){:target="_blank"}
+Este é o lugar para encontrar as Novas Histórias de Pesquisa assim que forem lançadas.
 
 #### Sheets - [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/){:target="_blank"}
+Com o Planilhas Google, você pode criar, editar e colaborar onde estiver. Gratuitamente.  O Planilhas Google destaca seus dados com tabelas e gráficos coloridos. Fórmulas integradas, tabelas dinâmicas e opções de formatação condicional poupam tempo e simplificam tarefas comuns. Todas as alterações são salvas automaticamente à medida que você digita. Você pode usar o histórico de revisões para visualizar versões mais antigas da mesma planilha, classificadas por data e com o nome de quem fez a alteração. Abra, edite e salve arquivos do Microsoft Excel com o aplicativo ou a extensão para Chrome.
 
 #### Shopping Express - [google.com/express](https://www.google.com/express/){:target="_blank"}
+Google Express, anteriormente Google Shopping Express, é um serviço de compras do Google que foi lançado em uma base de teste gratuito em São Francisco e Silicon Valley na primavera de 2013. Na primavera de 2014, foi expandido para Nova York e Los Angeles, e no outono de 2014 para Chicago, Boston e Washington, DC. Originalmente era um serviço do mesmo dia; Agora oferece entrega no mesmo dia e durante a noite. [FONTE](https://en.wikipedia.org/wiki/Google_Express){:target="_blank"}
 
 #### Sitemap - [google.com/sitemap.xml](https://www.google.com/sitemap.xml){:target="_blank"}
 
@@ -862,9 +868,11 @@ Dicas e truques que você não sabia que você poderia fazer com o Google para u
 #### Toolbar - [toolbar.google.com](https://www.google.com/toolbar/ie/index.html){:target="_blank"} 
 A Barra de Ferramentas do Google foi projetada para ajudá-lo a encontrar o que você está procurando rapidamente e descobrir novas coisas ao longo do caminho. Já vem integrada no Google Chrome.
 
+#### Top Contributor - [topcontributor.withgoogle.com](https://topcontributor.withgoogle.com/){:target="_blank"}
+Programa para colaboradores voluntários
+
 #### Tour Builder - [tourbuilder.withgoogle.com](https://tourbuilder.withgoogle.com/){:target="_blank"} 
 O Google Tour Builder é uma ferramenta baseada na Web para contar histórias que permite criar e descobrir relatos e lugares do mundo inteiro com facilidade. Com o plug-in do Google Earth, você pode criar um passeio de qualquer assunto de sua escolha, aumentando o zoom para mostrar os lugares onde os eventos ocorreram e integrar facilmente o texto, as fotos e os vídeos da história. Seu passeio levará os usuários de um lugar até outro conforme a narrativa de seu passeio, fazendo com que eles mergulhem nos lugares relevantes por meio das imagens do Google Earth e do conteúdo personalizado que você fornecer.
-
 
 #### Trainer - [edutrainingcenter.withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer)
 Combine sua experiência em ferramentas do Google com o seu amor de ajudar os outros. Torne-se um formador certificado para apoiar os educadores como redefinir o aprendizado com a tecnologia.
