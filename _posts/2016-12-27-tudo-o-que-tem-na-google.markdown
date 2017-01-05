@@ -692,44 +692,82 @@ Ferramenta para a construção colaborativa de lições interativas
 Mini versão do jogo, criada originalmente como um logotipo animado para o 30º aniversário do jogo em 22 de maio de 2010.
 
 #### Page Speed Online - [developers.google.com/pagespeed](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
+PageSpeed Insights mede o desempenho de uma página para dispositivos móveis e dispositivos de mesa. Ele busca o URL duas vezes, uma vez com um usuário-agente móvel e uma vez com um agente de usuário de desktop. A pontuação de PageSpeed varia de 0 a 100 pontos. Uma pontuação mais alta é melhor e uma pontuação de 85 ou acima indica que a página está funcionando bem. 
 
 #### Person Finder - [google.org/personfinder](http://google.org/personfinder/global/home.html){:target="_blank"}
+O Google Person Finder ajuda as pessoas a se reconectar com amigos e entes queridos após as catástrofes naturais e humanitárias.
 
 #### Photos - [photos.google.com](https://photos.google.com/){:target="_blank"} 
+Aplicativo permite armazenar gratuitamente na nuvem imagens de até 16 megapixels. Em conferência para desenvolvedores na semana passada, o Google relançou o sistema de armazenamento de fotos e vídeos chamado Photos, com versão para web e aplicativos para Android e IOS.
 
 #### PhotoScan - [google.com/photos/scan](https://www.google.com/photos/scan/){:target="_blank"} 
+Com o PhotoScan, novo app de digitalização do Google Fotos, você pode digitalizar e salvar suas fotos impressas favoritas usando a câmera do smartphone. Capture suas fotos impressas favoritas de forma fácil e rápida. Faça backup das suas digitalizações com o app Google Fotos gratuito para mantê-las protegidas, pesquisáveis e organizadas. Deixe as digitalizações mais interessantes com filmes, filtros e controles de edição avançados. E basta enviar um link para compartilhá-las com qualquer pessoa.
 
 #### Pixel - [pixel.google.com](https://madeby.google.com/phone/){:target="_blank"}
+O Google Pixel XL é o novo celular do Google, lançado junto com o Google Pixel no dia 4 de outubro, nos Estados Unidos. O smartphone é o sucessor da linha Nexus e roda o Android 7.1 Nougat. A linha Pixel é a primeira a vir com o Google Assistant de fábrica.
 
 #### Play - [play.google.com](https://play.google.com/store){:target="_blank"}
+Google Play, ou Google Play Store é uma loja virtual da Google. Nela você pode comprar músicas, filmes, livros e, é claro, aplicativos. Acontece que antes de criar a Google Play, já existia uma loja de aplicativos para Android chamado de Android Market.
 
 #### Plus - [plus.google.com](https://plus.google.com/){:target="_blank"}
+Google+ (às vezes abreviado G+, pronunciado Google Plus) é uma rede social da Google. 
 
 #### Policies & Principles - [google.com/policies](https://www.google.com/policies/){:target="_blank"}
+Explica as informações que coletam e por que, como usam e como revisá-las e atualizá-las.
 
 #### Power Searching with Google - [powersearchingwithgoogle.com](http://www.powersearchingwithgoogle.com/){:target="_blank"}
+Melhore suas habilidades de pesquisa do Google com nossos cursos on-line de pesquisa de energia e pesquisa avançada de energia. Aprenda dicas e truques para se tornar um localizador de fatos rápido e eficaz com o Power Searching com o Google. Aprofunde sua compreensão de resolver problemas de pesquisa complexos usando avançadas técnicas de busca do Google com Advanced Power Searching com o Google.
 
 #### Product Forums - [productforums.google.com](https://productforums.google.com/forum/#!home){:target="_blank"} 
+Os Grupos do Google permitem que você crie e participe de fóruns on-line e grupos baseados em e-mail com uma rica experiência para conversas na comunidade.
 
 #### Products - [products.google.com](https://www.google.com/intl/en/about/products/){:target="_blank"}
+Visão geral dos produtos do Google. Agora você pode criar atalhos para facilitar a navegação em seus produtos favoritos do Google. 
 
 #### Profiles - [profiles.google.com](https://profiles.google.com/){:target="_blank"}
+Google Profile é simplesmente um modo de representá-lo em produtos do Google e permitir que outras pessoas possam descobrir um pouco mais sobre você. Você controla o que vai para o Google Profile, compartilhando muitas (ou poucas) informações a sua escolha.
 
 #### Project Ara - [projectara.com](https://atap.google.com/ara/){:target="_blank"}
+Projeto Ara foi o codinome para uma iniciativa da Google, que tinha como objetivo desenvolver uma plataforma aberta, com hardware livre para a criação de smartphones altamente modulares. A plataforma iria incluir um quadro estrutural, uma espécie de esqueleto que conteria os módulos que iram formar os smartphones como o proprietário querer. Módulos como monitor, teclado ou uma bateria extra. A partir disto, os usuários poderiam trocar os módulos com defeito ou componentes mais velhos, assim proporcionando ciclos de vida mais longos para o aparelho e, potencialmente, reduzir o desperdício eletrônico. O primeiro modelo do telefone modular estava programado para ser lançado em janeiro de 2015 e deveria custar cerca de US $50 dólares.
+
+O projeto apareceu pela primeira vez em outubro de 2013, ainda sob a tutela da unidade móvel da Motorola. Contudo, a empresa americana foi pelo Google vendida para a Lenovo em 29 de janeiro por US$ 3 bilhões. O Google Atap, originalmente era da Motorola e foi uma das poucas partes da empresa que ficou com o Google após a venda.O projeto foi descontinuado em setembro de 2016.[FONTE](https://pt.wikipedia.org/wiki/Projeto_Ara)
 
 #### Project Glass - [plus.google.com/+GoogleGlass](https://plus.google.com/+GoogleGlass){:target="_blank"}
+O Google Glass é um dispositivo semelhante a um par de óculos, que fixados em um dos olhos, disponibiliza uma pequena tela acima do campo de visão. A pequena tela apresenta ao seu utilizador mapas, opções de música, previsão do tempo, rotas de mapas, e além disso, também é possível efetuar chamadas de vídeo ou tirar fotos de algo que se esteja a ver e compartilhar imediatamente através da internet.
+
+O Projeto vinha sendo mantido pelos escritórios do Google X pelo menos desde 2006 e, até o dia 4 de abril de 2012, o Google Glass ainda era um projeto secreto da Google. A lente de projeção do Google Glass não ocupa todo o campo de visão do utilizador e possui uma tecnologia de foco que permite ao observador ler o seu conteúdo sem a necessidade de mudar seu foco de visão. Todos esses cuidados garantem o conforto e a segurança da pessoa que utilizar a tecnologia.
+
+Desde o dia 13 de maio, o Google Glass é vendido para o público em geral, mas somente para quem mora nos Estados Unidos. O dispositivo custa US$ 1,5 mil e a comercialização faz parte do Glass Explorer Program, que ainda está na versão beta. O Google Glass estava disponível apenas para desenvolvedores ou pessoas que tivessem um projeto com o aparelho. Um mês antes, o Google vendeu os óculos por 24 horas. O número de aparelhos foi limitado e ainda era preciso responder um formulário para participar do Glass Explorer Program. Em 20 horas todo estoque do Google Glass foi comercializado. E em 19 de janeiro de 2015 chega ao fim o 'Glass Explorer Program', consequentemente suspendendo por tempo indeterminado as vendas do atual modelo do dispositivo. [FONTE](https://pt.wikipedia.org/wiki/Project_Glass)
 
 #### Project Tango - [google.com/atap/projecttango](https://get.google.com/tango/){:target="_blank"}
+Project Tango é uma plataforma tecnológica do Google que permite aos desenvolvedores criar experiências que incorporam coisas como navegação interna, mapeamento 3D e realidade aumentada. O projeto usa a visão computacional para permitir que os dispositivos vejam o mundo à sua volta sem depender do GPS.
+
+<iframe 
+  width="100%" 
+  height="455" 
+  src="http://www.youtube.com/embed/r4TIkhm2tWc" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 
 #### Project Wycheproof - [github.com/google/wycheproof](https://github.com/google/wycheproof){:target="_blank"}
+O projeto Wycheproof testa bibliotecas criptográficas contra ataques conhecidos.
 
 #### Public Data Explorer - [publicdata.google.com](https://www.google.com/publicdata/directory){:target="_blank"}
+O Google Public Data Explorer fornece dados públicos e previsões de uma série de organizações internacionais e instituições acadêmicas, incluindo o Banco Mundial, a OCDE, o Eurostat e a Universidade de Denver. Estes podem ser exibidos como gráficos de linha, gráficos de barras, parcelas de corte transversal ou em mapas. O produto foi lançado em 8 de março de 2010 como uma ferramenta de visualização experimental no Google Labs.
+
+Em 2016, este conjunto de ferramentas foi aprimorado com o Google Analytics Suite, particularmente o Data Studio 360, cuja versão foi expandida para uma versão pública beta gratuita em maio de 2016, permitindo a importação de conjuntos de dados públicos ou individuais e visualização de dados (não codificadores) ferramentas.
 
 #### Public DNS - [developers.google.com/speed/public-dns](https://developers.google.com/speed/public-dns/?csw=1){:target="_blank"}
+Google Public DNS é um serviço gratuito de resolução de DNS anunciado em 3 de dezembro de 2009, como parte de uma iniciativa da Google para tornar a internet mais rápida. De acordo com a Google, no ano de 2012 o Google Public DNS se tornou o maior serviço público de DNS no mundo, manipulando mais de 70 bilhões de requisições por dia.
+
+Google Public DNS provê os seguintes endereços de servidores para uso público, mapeados ao servidor operacional mais próximo pelo encaminhamento anycast
 
 #### Python Class - [developers.google.com/edu/python](https://developers.google.com/edu/python){:target="_blank"}
+Curso grátis para pessoas com um pouco de experiência de programação que querem aprender Python. A classe inclui materiais escritos, vídeos de conferência e muitos exercícios de código para praticar a codificação em Python. Esses materiais são usados no Google para introduzir o Python a pessoas que têm apenas uma pequena experiência de programação. Os primeiros exercícios trabalham em conceitos básicos de Python como seqüências de caracteres e listas, construindo até os exercícios posteriores que são programas completos que lidam com arquivos de texto, processos e conexões http. A classe é voltada para pessoas que têm um pouco de experiência de programação em alguma língua, o suficiente para saber o que é uma "variável" ou "se declaração". Além disso, você não precisa ser um programador especialista para usar este material.
 
 #### Python Style Guide - [google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html){:target="_blank"}
+Python é a principal linguagem de script usada no Google. Este guia de estilo é uma lista de que fazer e não fazer para os programas Python. 
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- codecamp -->
@@ -795,25 +833,33 @@ Com o Planilhas Google, você pode criar, editar e colaborar onde estiver. Gratu
 #### Shopping Express - [google.com/express](https://www.google.com/express/){:target="_blank"}
 Google Express, anteriormente Google Shopping Express, é um serviço de compras do Google que foi lançado em uma base de teste gratuito em São Francisco e Silicon Valley na primavera de 2013. Na primavera de 2014, foi expandido para Nova York e Los Angeles, e no outono de 2014 para Chicago, Boston e Washington, DC. Originalmente era um serviço do mesmo dia; Agora oferece entrega no mesmo dia e durante a noite. [FONTE](https://en.wikipedia.org/wiki/Google_Express){:target="_blank"}
 
-#### Sitemap - [google.com/sitemap.xml](https://www.google.com/sitemap.xml){:target="_blank"}
-
 #### Sites - [sites.google.com](https://sites.google.com){:target="_blank"}
+O Google Sites é uma ferramenta estruturada de criação de páginas web e de páginas da Web fornecida pelo Google como parte da suíte de produtividade do G Suite. O objetivo do Google Sites é ser capaz de criar um site orientado para a equipe onde várias pessoas podem colaborar e compartilhar arquivos.
 
 #### SketchUp - [sketchup.com](http://www.sketchup.com/){:target="_blank"}
+O Google SketchUp é um software gratuito para a criação de elementos e cenários em 3D para Windows e Mac. Com ele, que é considerado por muitos o lápis do desenho digital, é possível criar modelos de diversos tipos: casas, cidades, personagens e o que mais a imaginação permitir
 
 #### Sky - [sky.google.com](https://www.google.com/sky/){:target="_blank"}
+Google Sky é o serviço online que permite ao usuário uma visualização completa do espaço e de todas as suas belezas. Viaje pelo espaço, visitando galáxias, aglomerados, planetas e diversas estrelas, sem precisar sair da frente do seu computador.
 
 #### Slides - [slides.google.com](http://slides.google.com){:target="_blank"}
+Um programa de apresentação, tudo parte de um pacote de software livre, baseado na web software oferecido pelo Google dentro de seu serviço Google Drive. O conjunto permite que os usuários criem e editem arquivos online enquanto colaboram com outros usuários em tempo real. 
 
 #### Smart Contact Lens - [googleblog.blogspot.ca/2014/01/….smart-contact-lens.html](https://googleblog.blogspot.com.br/2014/01/introducing-our-smart-contact-lens.html){:target="_blank"}
+Google Contact Lens é um projeto de lentes de contato inteligente anunciado pelo Google em 16 de janeiro de 2014. O projeto visa ajudar as pessoas com diabetes, medindo constantemente os níveis de glicose em suas lágrimas. O projeto está sendo realizado pela Verily e está sendo testado usando protótipos.
 
 #### Spaces - [spaces.google.com](https://spaces.google.com/){:target="_blank"} 
+Um programa de apresentação, tudo parte de um pacote de software livre, baseado na web oferecido pelo Google dentro de seu serviço Google Drive. O conjunto permite que os usuários criem e editem arquivos online enquanto colaboram com outros usuários em tempo real.
 
 #### Store - [googlestore.com](https://store.google.com/){:target="_blank"} 
+A Google Store é uma loja online onde pode descobrir e comprar telemóveis e tablets Android, relógios Android Wear, Chromebooks, dispositivos Nest, dispositivos de transmissão de multimédia em fluxo contínuo e acessórios relacionados. Anteriormente, estes produtos encontravam-se disponíveis no Google Play. Agora, o Google Play vende apenas aplicações do Google Play e conteúdos de Música, de Filmes e TV, de Livros e do Quiosque.
 
 #### Story Builder - [docsstorybuilder.appspot.com](http://docsstorybuilder.appspot.com/){:target="_blank"}
+É uma ferramenta que se parece muito com a edição de arquivos pelo Google Drive, que permite criar uma música, um conto, adicionando personagens, editando diálogos e até músicas.
+O interessante do Story Builder é que ele não gera um documento para ser impresso, mas sim um vídeo. O serviço funciona da seguinte forma: o usuário entra no serviço com sua conta Google, clica no botão “Get started” e então é levado para a página de criação (“Build”), onde cria os personagens da história. Depois de criar os personagens e clicar no botão “Write story” aparece a tela de criação, onde é possível alternar entre os personagens para digitar o conteúdo. A ferramenta grava tudo o que você escreve, incluindo as edições feitas no texto. No final, basta criar um link e compartilhar a criação com o resto do mundo. [FONTE](http://www.techtudo.com.br/noticias/noticia/2012/11/story-builder-uma-nova-ferramenta-do-google-para-criacao-de-historias.html)
 
 #### Street View - [google.com/streetview](https://www.google.com/streetview/){:target="_blank"}
+Google Street View é um recurso do Google Maps e do Google Earth que disponibiliza vistas panorâmicas de 360° na horizontal e 290° na vertical e permite que os usuários (utilizadores) vejam partes de algumas regiões do mundo ao nível do chão/solo.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- codecamp -->
