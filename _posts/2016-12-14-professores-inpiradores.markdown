@@ -31,7 +31,7 @@ O cientista da educação Sugata Mitra aborda um dos maiores problemas desta ár
 
 ### Salman Khan
 
-Salman Khan fala sobre como e porquê ele criou a incrível Khan Academy, um série de vídeos educacionais cuidadosamente estruturada que oferece matérias completas de matemática e, agora, de outras disciplinas. Ele mostra o poder dos exercícios interativos, e pede que os professores considerem inverter o modelo tradicional da sala de aula – dar aos estudantes vídeo-aulas para assistir em casa, fazer a 'lição de casa' na sala de aula com o professor disponível para ajudar.
+Salman Khan fala sobre como e porquê ele criou a incrível Khan Academy, uma série de vídeos educacionais cuidadosamente estruturada que oferece matérias completas de matemática e, agora, de outras disciplinas. Ele mostra o poder dos exercícios interativos, e pede que os professores considerem inverter o modelo tradicional da sala de aula – dar aos estudantes vídeo-aulas para assistir em casa, fazer a 'lição de casa' na sala de aula com o professor disponível para ajudar.
 
 <iframe src="http://embed.ted.com/talks/lang/pt-br/salman_khan_let_s_use_video_to_reinvent_education.html" width="100%" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <br/><br/>

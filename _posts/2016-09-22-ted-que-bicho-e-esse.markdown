@@ -18,7 +18,7 @@ Segundo a própria Wikipedia, TED (acrônimo de Technology, Entertainment, Desig
 
 O grupo foi fundado em 1984, e a primeira conferência aconteceu em 1990. Originalmente influenciada pelo Vale do Silício, sua ênfase era tecnologia e design, mas com o aumento da popularidade os temas abordados passaram a ser mais amplos, abrangendo quase todos os aspectos de ciência e cultura. Entre os palestrantes das conferências estão Bill Clinton, Al Gore, Gordon Brown, Richard Dawkins, Bill Gates, os fundadores da Google, Billy Graham e diversos ganhadores do Prêmio Nobel.
 
-Se você não conhece, vale a pena [dar uma espiada](https://www.ted.com)!
+Se você não conhece, vale a pena [dar uma espiada](https://www.ted.com){:target="_blank"}!
 
 Agora se você já conhecia, vai gostar dessa lista que estou preparando...
 

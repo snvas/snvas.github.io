@@ -10,8 +10,7 @@ title: CodeCamp
 email: contato@soraianovaes.com
 description: > # this means to ignore newlines until "baseurl:"
   Incorpore ferramentas colaborativas no seu dia a dia e invente um jeito mais divertido de aprender, 
-  compartilhar e construir seu conhecimento. Esse site oferece aos educadores um leque de tecnologias 
-  e novos modelos para que possam ampliar seus horizontes.
+  compartilhar e construir seu conhecimento. Conheça novas tecnologias e novos modelos e amplie seus horizontes.
 baseurl: "" # the subpath of your site, e.g. /blog http://soraianovaes.com/blog
 url: "http://codecamp.com.br" # the base hostname & protocol for your site
 author: Soraia Novaes
@@ -24,6 +23,8 @@ markdown: kramdown
 permalink: /:title
 gems:
   - jekyll-seo-tag
+  - jekyll-tagging
+  - jekyll-feed
 social:
   name: Soraia Novaes
   links:
