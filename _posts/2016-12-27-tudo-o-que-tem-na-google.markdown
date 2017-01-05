@@ -12,7 +12,7 @@ tags:
 ---
 [0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [Y](#Y) [Z](#Z)
 
-A maior lista de links para serviços, produtos, ferramentas, recursos e projetos da Google. <i class="material-icons">face</i>
+A maior lista de links para serviços, produtos, ferramentas, recursos e projetos da Google. <i class="material-icons">done</i>
 
 <div id="0"></div>
 
@@ -299,6 +299,17 @@ O Google Play Banca é uma plataforma de publicação para criar edições e rev
 #### Custom Search Engine - [google.com/cse](https://cse.google.com/cse/){:target="_blank"}
 Com a Pesquisa personalizada do Google, adicione uma caixa de pesquisa a sua página inicial para ajudar as pessoas a encontrarem o que precisam em seu site
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="D"></div>
 
 ### D
@@ -373,6 +384,17 @@ Na Google, a sustentabilidade é uma parte de tudo o que fazem. Os fundadores do
 #### Expeditions - [google.com/edu/expeditions](https://www.google.com/edu/expeditions/){:target="_blank"} 
 Imagine explorar recifes de coral ou a superfície de Marte em uma tarde. Com Expeditions, os professores podem levar os alunos a viagens virtuais imersivas
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="F"></div>
 
 ### F
@@ -413,6 +435,17 @@ A ferramenta do Google para criar formulários, convites, enquetes e muito mais!
 #### Frightgeist - [frightgeist.withgoogle.com](https://frightgeist.withgoogle.com/){:target="_blank"}
 Halloween acabou, mas você ainda pode explorar os trajes mais populares de 2016.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="G"></div>
 
 ### G
@@ -448,6 +481,16 @@ Google Home é o aplicativo de controle do Chromecast e outros dispositivos cone
 #### Home Service Ads - [google.com/adwords/express/home-service-ads](https://www.google.com/adwords/express/home-service-ads/){:target="_blank"} 
 Home Services coloca dignos de confiança serviços de limpeza locais, serralheiros, encanadores e outros profissionais na frente de pessoas que estão procurando e reserva rapidamente.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <div id="I"></div>
 
@@ -493,6 +536,17 @@ O Google Keep é um aplicativo de notas para salvar ideias em forma de texto, li
 
 #### Keyword Tool - [adwords.google.com/KeywordPlanner](https://adwords.google.com/KeywordPlanner){:target="_blank"}
 O Planejador de palavras-chave do Google AdWords é uma ferramenta de pesquisa de palavras-chave que permite localizar as palavras-chave corretas para segmentar anúncios gráficos, anúncios de pesquisa, anúncios em video, etc.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <div id="L"></div>
 
@@ -553,6 +607,17 @@ Encontre e veja seu histórico de pesquisa, histórico de navegação e outras a
 #### My Maps - [google.com/maps/d/edit](https://www.google.com/maps/d/edit?authuser=0&mid=1HG_WTnFTJnTLAH9SwRpS9qbQBeE&ll=-11.872575764902162%2C-51.92527949999999&z=4){:target="_blank"}
 Crie mapas personalizados para compartilhar e publicar online com o Google My Maps. Você pode fazer mapas que mostram diferentes tipos de informações.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="M"></div>
 
 ### N
@@ -583,6 +648,17 @@ Crie imagens impressionantes com mais rapidez, adicione o poder da coleção Nik
 
 #### Noto Fonts - [google.com/get/noto](https://www.google.com/get/noto/){:target="_blank"}
 Noto é uma família tipográfica desenvolvida pela Google com o objetivo de criar uma harmonização visual para todas as linguagens do mundo, através da cobertura de todos os caracteres codificados sob o padrão Unicode em todas as línguas.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <div id="O"></div>
 
@@ -657,6 +733,17 @@ Mini versão do jogo, criada originalmente como um logotipo animado para o 30º 
 #### Python Class - [developers.google.com/edu/python](https://developers.google.com/edu/python){:target="_blank"}
 
 #### Python Style Guide - [google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html){:target="_blank"}
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <div id="Q"></div>
 
@@ -738,27 +825,46 @@ Mini versão do jogo, criada originalmente como um logotipo animado para o 30º 
 ### T
 
 #### Takeout - [google.com/takeout](https://takeout.google.com/settings/takeout){:target="_blank"}
+Sua conta, seus dados. Exportar uma cópia. Crie um arquivo com seus dados dos produtos do Google.
 
 #### Teacher Academy - [edutrainingcenter.withgoogle.com/certification_innovator](https://edutrainingcenter.withgoogle.com/certification_innovator){:target="_blank"}
+A verdadeira mudança é impulsionada por líderes inovadores. Torne-se um inovador certificado e junte-se a uma comunidade de educadores apaixonados projetando soluções criativas para os desafios mais difíceis do mundo na educação.
 
 #### TensorFlow - [tensorflow.org](https://www.tensorflow.org/){:target="_blank"} 
+TensorFlow ™ é uma biblioteca de software de fonte aberta para computação numérica usando gráficos de fluxo de dados. Os nós no gráfico representam operações matemáticas, enquanto as bordas do gráfico representam as matrizes de dados multidimensionais (tensores) comunicadas entre elas. A arquitetura flexível permite implantar computação em uma ou mais CPUs ou GPUs em um desktop, servidor ou dispositivo móvel com uma única API. TensorFlow foi originalmente desenvolvido por pesquisadores e engenheiros trabalhando no Google Brain Team dentro da organização de pesquisa do Google Machine Intelligence para fins de realização de aprendizagem de máquinas e pesquisa de redes neurais profundas, mas o sistema é bastante geral para ser aplicável em uma ampla variedade de outros domínios.
 
 #### Test My Site - [testmysite.thinkwithgoogle.com](https://testmysite.thinkwithgoogle.com/){:target="_blank"} 
+Teste como o seu site é compatível com dispositivos móveis. Descubra o quão bem seu site funciona em dispositivos móveis e desktop.
 
 #### TestTube - [youtube.com/testtube](https://www.youtube.com/testtube){:target="_blank"}
 TestTube, é a incubadora de ideias do YouTube. Teste recursos experimentais inventados pelos cientistas malucos do YouTube e diga o que acha deles.
 
 #### Think With Google - [thinkwithgoogle.com](https://www.thinkwithgoogle.com/){:target="_blank"} 
+No Google, utilizam pesquisa, análise e informações para se manterem à frente e criaram o Think with Google para compartilhar tudo isso e muito mais com você. Nele, encontram-se os estudos que conduziram, as tendências que acompanharam e as ideias que exploraram (em várias indústrias, plataformas e públicos-alvo), em um só lugar. O Think with Google foi criado para oferecer desde uma visão qualificada a dados embasados, que podem ir direto para suas apresentações. Informação, ideias, ferramentas e inspiração, para fazer a Web trabalhar para você.
 
 #### Timelapse - [earthengine.google.com/timelapse](https://earthengine.google.com/timelapse/){:target="_blank"}
+Timelapse é um vídeo global, zoomable que permite que você veja como a Terra mudou ao longo dos últimos 32 anos. É feita a partir de 33 mosaicos anuais sem nuvens, um para cada ano de 1984 a 2016, que são feitos de forma interativa explorável pela Universidade Carnegie Mellon A biblioteca Time Machine da CREATE Lab, uma tecnologia para criar e visualizar timelapses zoomable e pannable sobre espaço e tempo.
+
+Usando o Earth Engine, combinamos mais de 5 milhões de imagens de satélite adquiridas nas últimas três décadas por 5 satélites diferentes. A maioria das imagens vem do Landsat, um programa de observação da Terra do USGS / NASA que observou a Terra desde a década de 1970. Para 2015 e 2016, combinamos imagens Landsat 8 com imagens da Sentinel-2A, parte da Comissão Europeia e do programa de observação da Terra da Copernicus da Agência Espacial Europeia.
+
+Pesquise, faça panorâmicas ou faça zoom para começar a explorar o nosso novo Timelapse, ou até mesmo verifique os destaques do YouTube. Para incorporar o visualizador timelapse em seu site, use o botão "Compartilhar ou incorporar" acima. Você também pode criar um tour timelapse que se desloca de um destino para outro ao longo do tempo usando o Timelapse Tour Editor.
+
+O Timelapse é um exemplo que ilustra o poder do modelo de computação em nuvem do Earth Engine, que permite que usuários como cientistas, pesquisadores e jornalistas detectem mudanças, mapeiem tendências e quantifiquem diferenças na superfície da Terra usando a infra-estrutura computacional do Google e o multi- petabyte Catálogo de dados do motor Earth. [FONTE](https://earthengine.google.com/timelapse/){:target="_blank"}
 
 #### Timeline - [google.com/maps/timeline](https://www.google.com/maps/timeline){:target="_blank"} 
+Se você habilitou o recurso de Localização de seu dispositivo Android, seu aparelho celular ou tablet, já está sendo rastreado pelo GPS e todas as posições registradas em sua “timeline” (linha do tempo). Esta linha do tempo pode ser consultada através de sua conta pessoal Google, no aplicativo Google Maps.
+ 
+Você vai ter acesso ao histórico de todas as atividades que andou fazendo, dentro do ambiente de sua conta Google. Acho até que vai se surpreender com a quantidade de informação ali preservada. Mas vamos nos concentrar na seção que nos interessa no momento. O nosso Histórico de Localização. Ao carregar a tela principal de sua timeline, você terá uma visão geral de onde você e seu dispositivo estiveram. Poderá criar filtros por dias, meses, anos. [FONTE](http://www.nasestradasdoplaneta.com.br/2015/09/google-maps-timeline-linha-do-tempo-de.html){:target="_blank"} 
 
 #### Tips - [google.com/get/googletips](https://get.google.com/apptips/tips/#!/){:target="_blank"} 
+Dicas e truques que você não sabia que você poderia fazer com o Google para usar, no trabalho e se divertindo.
 
 #### Toolbar - [toolbar.google.com](https://www.google.com/toolbar/ie/index.html){:target="_blank"} 
+A Barra de Ferramentas do Google foi projetada para ajudá-lo a encontrar o que você está procurando rapidamente e descobrir novas coisas ao longo do caminho. Já vem integrada no Google Chrome.
 
-#### Tour Builder - [tourbuilder.withgoogle.com](https://tourbuilder.withgoogle.com/){:target="_blank"}
+#### Tour Builder - [tourbuilder.withgoogle.com](https://tourbuilder.withgoogle.com/){:target="_blank"} 
+O Google Tour Builder é uma ferramenta baseada na Web para contar histórias que permite criar e descobrir relatos e lugares do mundo inteiro com facilidade. Com o plug-in do Google Earth, você pode criar um passeio de qualquer assunto de sua escolha, aumentando o zoom para mostrar os lugares onde os eventos ocorreram e integrar facilmente o texto, as fotos e os vídeos da história. Seu passeio levará os usuários de um lugar até outro conforme a narrativa de seu passeio, fazendo com que eles mergulhem nos lugares relevantes por meio das imagens do Google Earth e do conteúdo personalizado que você fornecer.
+
 
 #### Trainer - [edutrainingcenter.withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer)
 Combine sua experiência em ferramentas do Google com o seu amor de ajudar os outros. Torne-se um formador certificado para apoiar os educadores como redefinir o aprendizado com a tecnologia.
