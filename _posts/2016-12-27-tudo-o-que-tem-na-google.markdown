@@ -12,6 +12,8 @@ tags:
 ---
 [0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [Y](#Y) [Z](#Z)
 
+A maior lista de links para serviços, produtos, ferramentas, recursos e projetos da Google. <i class="material-icons">face</i>
+
 <div id="0"></div>
 
 ### 0-9
@@ -19,10 +21,8 @@ tags:
 #### 20 Things I Learned (eBook) - [www.20thingsilearned.com](http://www.20thingsilearned.com/pt-BR){:target="_blank"}
 EBook online: 20 lições que aprendi sobre navegadores e web
 
-
 #### 3D Warehouse - [3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com/){:target="_blank"}
 Galeria de projetos 3d prontos feitos em SketchUp para download, você também pode publicar seus projetos
-
 
 <div id="A"></div>
 
@@ -113,6 +113,17 @@ Aproveite todo o potencial da Web. Adquira as habilidades digitais necessárias 
 #### Atmosphere - [atmosphere.withgoogle.com](https://atmosphere.withgoogle.com/){:target="_blank"} 
 Plataforma de evento on-demand, ou seja, normalmente é um evento ao vivo que foi gravado para reprodução a qualquer momento. 
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="B"></div>
 
 ### B
@@ -160,6 +171,16 @@ A nova aplicação Build with Chrome (Construa com o Chrome) permite que você s
   allowfullscreen>
 </iframe>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <div id="C"></div>
 
@@ -297,6 +318,9 @@ Daydream leva você em incríveis aventuras na realidade virtual. Prepare-se par
 
 #### DeepMind - [deepmind.com](https://deepmind.com/){:target="_blank"}  
 DeepMind é o líder mundial em pesquisa de inteligência artificial e sua aplicação para o impacto positivo
+
+#### Design - [design.google.com](https://design.google.com){:target="_blank"} 
+O Google Design é um esforço cooperativo liderado por um grupo de designers, escritores e desenvolvedores no Google. Trabalham em equipes para criar ferramentas, recursos, eventos e publicações que suportam e desenvolvam design e tecnologia, tanto dentro como fora do Google.
 
 #### Diversity@Google - [google.com/diversity](https://www.google.com/diversity/){:target="_blank"}
 Iniciativas para garantir a diversidade dentro da Google
@@ -499,6 +523,9 @@ Experimente o Street View, mapeamento 3D, orientações passo-a-passo, mapas int
 #### Mars - [google.com/mars](https://www.google.com/mars/){:target="_blank"} 
 Google Mars é um serviço semelhante ao Google Maps, o que muda é apenas o fato das fotos serem da superfície de Marte. É possível visualizar tanto como se estivesse visualizando o planeta por um telescópio como por duas outras formas renderizadas.
 
+#### Material Design [material.io](https://material.io){:target="_blank"} 
+Material Design é um sistema unificado que combina teoria, recursos e ferramentas para criar experiências digitais.
+
 #### Memories for the Future - [miraikioku.com/streetview/en](https://www.miraikioku.com/streetview/en/){:target="_blank"}
 Em 11 de março de 2011 um devastador terremoto e tsunami atingiu o nordeste do Japão, causando danos inimagináveis. Muitas pessoas perderam suas vidas, suas casas e todas as suas memórias preciosas coletadas ao longo de gerações. Entre as coisas perdidas estavam preciosas fotos e vídeos - imagens apreciadas de familiares, amigos, animais de estimação e eventos únicos - enterrados em escombros ou lavados para o mar.
 
@@ -573,11 +600,23 @@ Google Online Marketing Challenge (GOMC) é uma oportunidade emocionante para os
 #### Oppia - [github.com/oppia/oppia](https://github.com/oppia/oppia){:target="_blank"} 
 Ferramenta para a construção colaborativa de lições interativas
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="P"></div>
 
 ### P
 
 #### Pacman - [google.com/pacman](https://www.google.com/doodles/30th-anniversary-of-pac-man){:target="_blank"}
+Mini versão do jogo, criada originalmente como um logotipo animado para o 30º aniversário do jogo em 22 de maio de 2010.
 
 #### Page Speed Online - [developers.google.com/pagespeed](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
 
@@ -683,6 +722,16 @@ Ferramenta para a construção colaborativa de lições interativas
 
 #### Street View - [google.com/streetview](https://www.google.com/streetview/){:target="_blank"}
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <div id="T"></div>
 
@@ -712,53 +761,79 @@ TestTube, é a incubadora de ideias do YouTube. Teste recursos experimentais inv
 #### Tour Builder - [tourbuilder.withgoogle.com](https://tourbuilder.withgoogle.com/){:target="_blank"}
 
 #### Trainer - [edutrainingcenter.withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer)
+Combine sua experiência em ferramentas do Google com o seu amor de ajudar os outros. Torne-se um formador certificado para apoiar os educadores como redefinir o aprendizado com a tecnologia.
 
 #### Translate - [translate.google.com](https://translate.google.com/){:target="_blank"}
+O Google Translate é um serviço virtual gratuito de tradução instantânea de textos e websites. A empresa introduziu o seu próprio software de tradução em 2007, uma vez que até então utilizava o tradutor SYSTRAN, utilizado por outros serviços de tradução como o Babel Fish (do Altavista), o tradutor do AOL, do Yahoo e do MSN. Recentemente, o Google Translate tem implantado cada vez mais aperfeiçoamentos ao seu mecanismo, tornando-o assim um dos serviços líderes em tradução idiomática. [FONTE](https://pt.wikipedia.org/wiki/Google_Translate){:target="_blank"}
 
 #### Trends - [trends.google.com](https://www.google.com/trends/){:target="_blank"}
+Google Trends é uma ferramenta do Google que mostra os mais populares termos buscados em um passado recente. 
+
+A ferramenta apresenta gráficos com a frequência em que um termo particular é procurado em várias regiões do mundo, e em vários idiomas. O eixo horizontal do gráfico representa tempo (a partir de algum tempo em 2004), e o vertical é com que frequência é procurado um termo, globalmente. Abaixo do gráfico principal, a popularidade é dividida por países, regiões, cidades e linguagem. Também permite ao usuário comparar o volume de procuras entre duas ou mais condições. Notícias relacionadas aos termos buscados são mostradas ao lado e relacionadas com o gráfico, apresentando possíveis motivos para um aumento ou diminuição do volume de buscas. Em 2015, o Google Trends está disponível em 28 países, inclusive o Brasil. Segundo dados da própria empresa, são realizadas 100 bilhões de consultas por mês. [FONTE](https://pt.wikipedia.org/wiki/Google_Trends){:target="_blank"}
 
 #### TV - [android.com/tv](https://www.android.com/tv/){:target="_blank"}
-
-#### Twitter List of Google Accounts - [twitter.com/mikedownesz/lists/google-accounts/members](https://twitter.com/mikedownesz/lists/google-accounts/members){:target="_blank"} 
+Google TV aproveita muitos dos produtos já existentes do Google. Sistema operacional do Google Android fornece a base subjacente, permitindo aos desenvolvedores criar aplicativos que estendem a funcionalidade do sistema. Google Chrome oferece um gateway para a Internet, permitindo aos consumidores navegar em web sites e assistir a televisão, em conjunto. Os consumidores podem acessar HBO, CNBC e conteúdo de outros fornecedores por meio do navegador Chrome. Smartphones Android e Apple podem ser usados como​​ controle remoto para o Google TV.
 
 <div id="U"></div>
 
 ### U
 
 #### Usability - [google.com/usability](https://www.google.com/usability/){:target="_blank"}
+Estudos de pesquisa da experiência com usuários Google.
 
 #### URL Shortener - [goo.gl](https://goo.gl/){:target="_blank"}
+Encurtador de URL da Google. Encurtamento de URL é uma técnica na World Wide Web onde um provedor torna um site disponível com um URL muito curto, em adição ao endereço original.
 
 <div id="V"></div>
 
 ### V
 
 #### Video - [video.google.com](https://www.google.com/videohp){:target="_blank"}
+Buscador Google específico para pesquisar vídeos.
 
 #### VirusTotal - [virustotal.com](https://www.virustotal.com/en/){:target="_blank"} 
+VirusTotal é um serviço gratuito que analisa arquivos suspeitos e URLs e facilita a detecção rápida de vírus, worms, trojans e todos os tipos de malware.
 
 #### VR - [vr.google.com](https://vr.google.com/){:target="_blank"} 
+Experiências com Realidade Virtual
 
 <div id="W"></div>
 
 ### W
 
 #### Wallet - [google.com/wallet](https://www.google.com/wallet/){:target="_blank"}
+Google Wallet é um sistema de pagamento móvel desenvolvido pela Google que permite aos seus usuários armazenar cartões de crédito, cartões de fidelização, entre outras coisas. 
 
 #### Waze - [waze.com](https://www.waze.com/){:target="_blank"} 
+Waze é uma aplicação para smartphones ou dispositivos móveis similares baseada na navegação por satélite (ex.: GPS) e que fornece informações em tempo real e informações de usuários e detalhes sobre rotas, dependendo da localização do dispositivo portátil na rede. Foi desenvolvida pela start-up Waze Mobile de Israel, empresa que foi adquirida pela Google.
+Waze ganhou o prêmio de melhor aplicativo portátil de 2013 no Congresso Mundial de Portáteis, derrubando o Dropbox, Flippboard e outros. Em 11 de junho de 2013, o Google completou a aquisição do Waze por reportados 1,3 bilhões de dólares. Parte do acordo fechado, era que cada um dos 100 funcionários do Waze receberiam em média um montante de 1,2 milhões de dólares, que representaria o maior pagamento para funcionários na história da Israeli High Tech.
 
 #### Web Designer - [google.com/webdesigner](https://www.google.com/webdesigner/){:target="_blank"}
+O Google Web Designer é um aplicativo avançado da Web que possibilita a elaboração e a criação de anúncios em HTML5 e outros conteúdos da Web usando uma interface integrada visual e de código. Com a visualização "Design" do Google Web Designer, é possível criar conteúdos usando texto, ferramentas de desenho e objetos 3D, além de fazer a animação de objetos e eventos em uma linha do tempo.
+A visualização "Código" do Google Web Designer permite criar arquivos CSS, JavaScript e XML e usa o destaque de sintaxe e o preenchimento automático para facilitar a escrita do código e reduzir os erros.
 
 #### Web Lab - [chromeweblab.com](http://www.chromeweblab.com/){:target="_blank"}
+Web Lab é um Chrome Experiment para instalações que trazem o funcionamento extraordinário da internet para a vida e tem como objetivo inspirar o mundo sobre as possibilidades da web.
+
+As instalações fizeram parte de uma exposição pública de um ano no Museu da Ciência em Londres e podem ser interagidos por qualquer pessoa, em qualquer lugar, em chromeweblab.com.
+
+Visitantes mundiais, tanto on como offline, poderão fazer música com pessoas de todo o mundo; Lançar informações no ciberespaço e ver onde as imagens na web vivem; Assistir o seu retrato sendo processado, traduzido e, em seguida, desenhado na areia por um robô; E viajar instantaneamente para lugares distantes em todo o mundo.
+
+Este projeto de código aberto faz com que duas das experiências - Orquestra e Sketchbots - disponíveis para você construir e hospedar-se.
 
 #### Web Fonts - [google.com/webfonts](https://fonts.google.com/){:target="_blank"}
+O Google Web Fonts serve para você utilizar uma grande quantidade de fontes em seus projetos diversas daquelas tradicionalmente usadas. Todas as fontes no catálogo são livres e de código aberto, tornando o tipo bonito acessível a qualquer pessoa para qualquer projeto. Isso significa que você pode compartilhar favoritos e colaborar facilmente com amigos e colegas. O Google Fonts cuida de todo o licenciamento e hospedagem, garantindo que a última e maior versão de qualquer fonte esteja disponível para todos.
 
 #### Webmaster Central - [google.com/webmasters](https://www.google.com/webmasters/){:target="_blank"}
+O Google Webmaster Tools (GWT) é uma ferramenta importante para todos que fazem SEO pois é possível visualizar parte das informações de como o Google interpreta o seu site.
+
+Assim como outras ferramentas de SEO, o GWT não fornece muitas informações absolutas sobre o seu site, mas tendências da realidade que ajudam você a melhorar o seu site para os seus usuários e para o Google.
 
 #### WebP - [code.google.com/speed/webp](https://developers.google.com/speed/webp/){:target="_blank"}
+O WebP é um formato de imagem moderno que oferece compactação sem perdas e perda para imagens na web. Usando WebP, webmasters e desenvolvedores web podem criar imagens menores e mais ricas que tornam a web mais rápida.
 
 #### Wifi - [madeby.google.com/wifi](https://madeby.google.com/wifi/){:target="_blank"} 
-
+Desfrute de um sinal rápido em cada quarto, em cada dispositivo. O Google Wifi é um novo tipo de sistema conectado que substitui o roteador para uma cobertura perfeita em toda a sua casa.
 
 <div id="Y"></div>
 
