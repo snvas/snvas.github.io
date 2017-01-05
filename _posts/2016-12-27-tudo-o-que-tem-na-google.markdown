@@ -107,6 +107,9 @@ Explore coleções de todo o mundo com Google Arts & Culture, criado pelo instit
 #### Artists and Machine Intelligence - [ami.withgoogle.com](https://ami.withgoogle.com/){:target="_blank"} 
 AMI é um programa no Google que reúne artistas e engenheiros para realizar projetos usando o Machine Intelligence. Ao apoiar esta forma emergente de colaboração artística, abrem a pesquisa para novas formas de pensar e trabalhar com sistemas inteligentes.
 
+#### Ateliê Digital - [ateliedigital.withgoogle.com](https://ateliedigital.withgoogle.com){:target="_blank"}
+Aproveite todo o potencial da Web. Adquira as habilidades digitais necessárias para fazer crescer a sua empresa e a sua carreira. Disponibilizam um plano de aprendizagem pessoal totalmente gratuito.
+
 #### Atmosphere - [atmosphere.withgoogle.com](https://atmosphere.withgoogle.com/){:target="_blank"} 
 Plataforma de evento on-demand, ou seja, normalmente é um evento ao vivo que foi gravado para reprodução a qualquer momento. 
 
@@ -427,67 +430,92 @@ Home Services coloca dignos de confiança serviços de limpeza locais, serralhei
 ### I
 
 #### I/O - [google.com/events/io](https://www.google.com/events/io){:target="_blank"} 
+O Google I/O é uma conferência anual do Google voltada para o desenvolvimento de aplicações para os seus sistemas operacionais, especialmente o Android. Apesar disso, a companhia também costuma apresentar novos produtos, como os smartphones e tablets Nexus, no evento.
 
 #### IgniteCS - [ignitecs.withgoogle.com](https://ignitecs.withgoogle.com/){:target="_blank"} 
+IgniteCS fornece financiamento e recursos para grupos de estudantes universitários e universitários para fazer a diferença em suas comunidades locais através de mentorship CS.
 
 #### Images - [images.google.com](https://images.google.com/){:target="_blank"}
+O Google Imagens é um serviço de busca prestado pela empresa Google. O serviço consiste em fazer busca de imagens dos mais diversos tipos.
 
 #### Inbox - [inbox.google.com](https://inbox.google.com){:target="_blank"}
+Inbox, promete ser uma caixa de entrada mais útil, inclusive com lembretes de atividades que você tem a fazer. 
 
 #### Instant Search - [instant.google.com](https://www.google.com/search/about/#utm_campaign=launch&utm_medium=van&utm_source=instant){:target="_blank"}
-
+O Google Instant é um recurso que prevê o que você está procurando e mostra os resultados à medida que você digita. Ele usa a tecnologia de preenchimento automático do Google para mostrar os termos de pesquisa previstos em uma caixa suspensa e começa a exibir resultados de pesquisa abaixo do menu suspenso.
 
 <div id="J"></div>
 
 ### J
 
 #### Japan Person Finder - [google.org/personfinder/japan](http://google.org/personfinder/japan?lang=pt-BR){:target="_blank"}
+O Google Person Finder ajuda as pessoas a se reconectar com amigos e entes queridos após as catástrofes naturais e humanitárias.
 
 #### Jigsaw - [jigsaw.google.com](https://jigsaw.google.com/){:target="_blank"} 
+Como a tecnologia pode tornar as pessoas no mundo mais seguras? Mais seguro dos ataques à liberdade de expressão.
 
 #### Jobs - [jobs.google.com](https://careers.google.com/){:target="_blank"}
+Google Careers área de vagas na Google
 
 #### Jump - [vr.google.com/jump](https://vr.google.com/jump/){:target="_blank"}
-
+O equipamento da câmara de salto consiste em 16 módulos da câmera em uma disposição circular.
 
 <div id="K"></div>
 
 ### K
 
 #### Keep - [keep.google.com](https://keep.google.com/){:target="_blank"}
+O Google Keep é um aplicativo de notas para salvar ideias em forma de texto, lista, foto e até áudio. O app é gratuito e está disponível para celulares com Android, iPhone, Google Chrome e PCs, na versão web. O conteúdo dos lembretes pode ser variado, ou seja, permite misturar texto e áudio, por exemplo.
 
 #### Keyword Tool - [adwords.google.com/KeywordPlanner](https://adwords.google.com/KeywordPlanner){:target="_blank"}
-
+O Planejador de palavras-chave do Google AdWords é uma ferramenta de pesquisa de palavras-chave que permite localizar as palavras-chave corretas para segmentar anúncios gráficos, anúncios de pesquisa, anúncios em video, etc.
 
 <div id="L"></div>
 
 ### L
 
 #### Loon - [x.company/loon](https://x.company/loon/){:target="_blank"}
+Projeto Loon é um projeto de pesquisa e desenvolvimento que está sendo desenvolvido pelo Google com a missão de fornecer acesso à Internet para áreas rurais e remotas.
 
 #### Lunar X Prize - [lunar.xprize.org](http://lunar.xprize.org/){:target="_blank"}
+Google Lunar X PRIZE é uma competição internacional organizada pela X PRIZE Foundation, instituição que organizou o Ansari X Prize, e patrocinada pela Google. O objectivo desta competição é a colocação de um rover no solo lunar e cumprir algumas tarefas recorrendo para isso com no mínimo 90% de investimento privado.
 
 <div id="M"></div>
 
 ### M
 
 #### Made with Code - [madewithcode.com](https://www.madewithcode.com/){:target="_blank"}
+Made with Code é uma iniciativa lançada pelo Google em 19 de julho de 2014. O Google visava capacitar mulheres jovens em escolas de ensino médio e médio com habilidades de programação de computadores. Feito com código foi criado após a própria pesquisa do Google descobriu que o encorajamento e a exposição são os fatores críticos que influenciam as mulheres jovens para prosseguir Ciência da Computação. Foi relatado que o Google está financiando US $ 50 milhões para Made with Code, além dos US $ 40 milhões investidos desde 2010 em organizações como Code.org, Black Girls Code e Girls Who Code. A iniciativa Made with Code envolve tanto atividades on-line como eventos da vida real, colaborando com empresas notáveis ​​como Shapeways e App Inventor.
 
 #### Map Maker - [mapmaker.google.com](https://mapmaker.google.com/){:target="_blank"}
+O Google Map Maker é um serviço criado pelo Google em junho de 2008, com o intuito de, através do mapeamento colaborativo, expandir e melhorar a cartografia do Google Mapas. Será descontinuado em março de 2017.
 
 #### Maps - [maps.google.com](https://www.google.com.br/maps){:target="_blank"}
+Google Maps é um serviço de pesquisa e visualização de mapas e imagens de satélite da Terra gratuito na web fornecido e desenvolvido pela empresa estadunidense Google. Atualmente, o serviço disponibiliza mapas e rotas para qualquer ponto nos Estados Unidos, Canadá, na União Europeia, Austrália e Brasil, entre outros.
 
 #### Maps Floor Plans - [google.com/maps/about/partners/indoormaps](https://www.google.com/maps/about/partners/indoormaps/){:target="_blank"}
+Experimente o Street View, mapeamento 3D, orientações passo-a-passo, mapas internos e muito mais em todos os seus dispositivos. Integre suas plantas com o Google Maps.
 
 #### Mars - [google.com/mars](https://www.google.com/mars/){:target="_blank"} 
+Google Mars é um serviço semelhante ao Google Maps, o que muda é apenas o fato das fotos serem da superfície de Marte. É possível visualizar tanto como se estivesse visualizando o planeta por um telescópio como por duas outras formas renderizadas.
 
 #### Memories for the Future - [miraikioku.com/streetview/en](https://www.miraikioku.com/streetview/en/){:target="_blank"}
+Em 11 de março de 2011 um devastador terremoto e tsunami atingiu o nordeste do Japão, causando danos inimagináveis. Muitas pessoas perderam suas vidas, suas casas e todas as suas memórias preciosas coletadas ao longo de gerações. Entre as coisas perdidas estavam preciosas fotos e vídeos - imagens apreciadas de familiares, amigos, animais de estimação e eventos únicos - enterrados em escombros ou lavados para o mar.
+
+Para ajudar as pessoas no Japão a compartilhar suas fotografias e vídeos que sobreviveram, o Google criou um site, "Mirai e no kioku", que significa "Memórias para o Futuro". Através deste site, as pessoas foram capazes de redescobrir as memórias perdidas de suas casas e cidades.
+
+O Google agora também fornece milhares de quilômetros de imagens do Street View nas áreas afetadas que foram coletadas antes e depois do desastre. Vendo a imagem de nível de rua das áreas afetadas coloca a situação dessas comunidades em perspectiva e garante que as memórias do desastre continuam a ser relevantes e tangíveis para as gerações futuras.
+
+Clique nos links "Antes" ou "Depois" na parte superior desta página e use a exibição do Google Maps para ver as áreas em que temos a cobertura do Street View. Encontre uma imagem no Street View arrastando o ícone "Pegman" amarelo no mapa onde você vê uma sobreposição azul. Em seguida, clique entre os links "Antes" e "Depois" para ver como o terremoto e tsunami afetaram essa área.
 
 #### Mobile - [m.google.com](https://get.google.com/apptips/apps/){:target="_blank"} 
+O Google Mobile é um serviço que disponibiliza o acesso a alguns dos diversos recursos do Google através de um dispositivo móvel. Entre eles estão o Gmail, busca de sites e imagens e Google Maps.
 
 #### Mobile Blog - [blog.google/products/android](https://blog.google/products/android/){:target="_blank"}
+A fonte oficial de notícias sobre o Android - de telefones a relógios e muito mais.
 
 #### Music - [music.google.com](https://play.google.com/music/listen#/sulp){:target="_blank"}
+Google Play Music: aprenda a usar o app dedicado à reprodução de músicas. O serviço dedicado à reprodução de músicas Google Play Music chegou ao Brasil nesta semana.
 
 #### Music Timeline - [research.google.com/bigpicture/music](https://research.google.com/bigpicture/music/){:target="_blank"} 
 
@@ -500,18 +528,31 @@ Home Services coloca dignos de confiança serviços de limpeza locais, serralhei
 ### N
 
 #### Nearline - [cloud.google.com/storage-nearline](https://cloud.google.com/storage-nearline/){:target="_blank"} 
+Um serviço de armazenamento de baixo custo, altamente durável e altamente disponível para dados raramente acessados, arquivamento de dados, backup on-line e recuperação de desastres. Os dados estão disponíveis instantaneamente, não em horas ou dias. Com tempos de resposta médios de sub-segundos e 1 centavo por GB / mês de preços, o Cloud Storage Nearline oferece um excelente desempenho a baixo custo.
 
 #### News - [news.google.com](https://news.google.com/){:target="_blank"}
+Permite a visualização e a busca de notícias na internet. O grande diferencial do Google News é que as notícias apresentadas em sua página não são escolhidas e organizadas por editores humanos mas sim através de um algoritmo, que leva em conta, dentre outros fatores, o número de vezes em que determinada notícia aparece e em quais sites ela aparece. As notícias são atualizadas periodicamente.
 
 #### News Archive Search - [news.google.com/newspapers](https://news.google.com/newspapers){:target="_blank"}
+É uma extensão do Google Notícias que oferece acesso gratuito a arquivos digitalizados de jornais e links para outros arquivos de jornal na web, gratuitos e pagos. Alguns dos arquivos de notícias datam de 1700s. Há uma exibição da linha de tempo disponível, para selecionar notícias de vários anos.
 
 #### Nexus - [nexus.google.com](https://www.google.com/nexus/){:target="_blank"}
+O Nexus é uma linha de smartphones que rodam o sistema operacional Android lançados desde 2010, a Google é responsável pelo desenho, desenvolvimento, publicidade e suporte, mas a fabricação é feita por alguma empresa OEM. A linha de produtos consiste em smartphones, tablets,, set-top boxes.
+
+Os dispositivos vendidos sobre a linha Nexus não contém modificações do sistema operacional Android, sendo comumente chamados de dispositivos "Android puro", apesar de ser comuns serem vendidos aparelhos com bloqueio do SIM card das operadoras, os dispositivos Nexus costumam ser os primeiros a receberem as novas versões do Android
 
 #### Ngram Viewer - [books.google.com/ngrams](https://books.google.com/ngrams){:target="_blank"}
+O Google Ngram Viewer ou Google Books Ngram Viewer é um motor de busca on-line que gráficos freqüências de qualquer conjunto de seqüências de caracteres de busca delimitada por vírgulas usando uma contagem anual de n-gramas encontrados em fontes impressas entre 1500 e 2008 no corpo do texto do Google em Inglês americano, Inglês britânico, francês, alemão, espanhol, russo, hebraico ou chinês, gerado em 2008 ou 2012; Há também alguns corpus especializados em língua inglesa, como a ficção inglesa.
+
+O programa pode procurar uma única palavra ou uma frase, incluindo erros ortográficos ou jargão. Os n-gramas são combinados com o texto dentro do corpus selecionado, opcionalmente usando ortografia sensível a maiúsculas e minúsculas (que compara o uso exato de letras maiúsculas) e, se encontrado em 40 ou mais livros, são plotados em um gráfico.
+
+O Ngram Viewer a partir de janeiro de 2016 suporta pesquisas para partes de discurso.
 
 #### Nik Collection by Google - [niksoftware.com](https://www.google.com/nikcollection/){:target="_blank"}
+Crie imagens impressionantes com mais rapidez, adicione o poder da coleção Nik da Google ao seu fluxo de trabalho hoje. Edição avançada, simplificada: Crie facilmente as fotos que você imaginou com seis plug-ins poderosos para Photoshop®, Lightroom® ou Aperture®. Faça edições precisas rapidamente: Use a tecnologia U Point® para editar seletivamente apenas as partes de suas fotos que precisam ser retocadas sem perder tempo em máscaras e seleções complexas.
 
 #### Noto Fonts - [google.com/get/noto](https://www.google.com/get/noto/){:target="_blank"}
+Noto é uma família tipográfica desenvolvida pela Google com o objetivo de criar uma harmonização visual para todas as linguagens do mundo, através da cobertura de todos os caracteres codificados sob o padrão Unicode em todas as línguas.
 
 <div id="O"></div>
 
