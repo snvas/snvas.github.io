@@ -375,6 +375,9 @@ O Google Earth Solidário oferece a organizações sem fins lucrativos e organiz
 #### eBooks - [ebooks.google.com](https://play.google.com/store/books){:target="_blank"}
 Google Books (anteriormente conhecido como Google Book Search e GooglePrint) (em português: Google Livros) é um serviço da Google que procura textos completos de livros que a Google escaneia, converte-o utilizando o reconhecimento ótico de caracteres, e armazena em seu banco de dados digital
 
+#### Education On Air - [educationonair.withgoogle.com](https://educationonair.withgoogle.com/){:target="_blank"}
+Uma conferência online gratuita. Compartilhe e aprenda com os educadores de todo o mundo.
+
 #### Environment - [environment.google](https://environment.google/){:target="_blank"}
 Na Google, a sustentabilidade é uma parte de tudo o que fazem. Os fundadores do Google têm se unido com estrategistas de energia e política, engenheiros mecânicos e de software, especialistas em sustentabilidade e outros 65.000 criadores de peças criativas, e ainda estão focados em encontrar novas maneiras de fazer mais enquanto usamos menos. Abordam a sustentabilidade ambiental como qualquer outro desafio - com um desprezo saudável pelo impossível na criação de tecnologia que melhore tantas vidas quanto possível.
 
@@ -456,14 +459,20 @@ Go (linguagem de programação) Go é uma linguagem de programação criada pela
 #### Google - [google.com](https://www.google.com.br){:target="_blank"} 
 Nessa página você encontra o principal produto, o mecanismo de busca. A Google Inc. é uma empresa multinacional de serviços online e software dos Estados Unidos. O Google hospeda e desenvolve uma série de serviços e produtos baseados na internet e gera lucro principalmente através da publicidade pelo AdWords
 
-#### Google for EDU - [google.com/edu](https://www.google.com/edu/){:target="_blank"}
-Google está relançando seus aplicativos online para produtividade com um novo nome hoje. Agora, em vez de “Google Apps for Work” eles se chamam “G Suite”, o que reflete a tendência da empresa de colocar o grande G na frente de tudo que é possível
-
 #### Google Brain - [research.google.com/teams/brain](https://research.google.com/teams/brain/){:target="_blank"}
 Os membros da equipe do Google Brain estabelecem sua própria agenda de pesquisa, com a equipe como um todo mantendo um portfólio de projetos em diferentes horizontes de tempo e níveis de risco
 
+#### Google Educator Groups - [google.com/landing/geg](https://www.google.com/landing/geg/){:target="_blank"}
+Os GEGs (Grupos de Educadores Google) são comunidades de educadores que aprendem, compartilham e inspiram uns aos outros para atender às necessidades dos alunos por meio de soluções tecnológicas, dentro e fora da sala de aula.
+
 #### Groups - [groups.google.com](https://groups.google.com/){:target="_blank"}
 O Google Groups (ou Grupos do Google) é um serviço de grupos de discussão, criado para promover a interação de usuários com interesses em comum. Neste tutorial, você vai aprender como criar um Grupo no Grupos do Google e convidar seus amigos para participar dele.
+
+#### GSuite - [gsuite.google.com](https://gsuite.google.com/intl/pt-BR/){:target="_blank"}
+Use as versões empresariais do Gmail, Documentos, Drive e Agenda. Tudo que você precisa para trabalhar melhor reunido em um pacote que funciona de modo integrado no seu computador, smartphone ou tablet. Google está relançando seus aplicativos online para produtividade com um novo nome hoje. Agora, em vez de “Google Apps for Work” eles se chamam “G Suite”, o que reflete a tendência da empresa de colocar o grande G na frente de tudo que é possível
+
+#### GSuite for EDU - [google.com/edu](https://www.google.com/edu/){:target="_blank"}
+Uma solução desenvolvida para professores e alunos. Não importa o tamanho ou o orçamento de sua escola. A Google oferece ferramentas fáceis de usar para envolver os alunos a qualquer hora, em qualquer lugar e em qualquer dispositivo.       
 
 <div id="H"></div>
 
@@ -593,7 +602,7 @@ O Google Mobile é um serviço que disponibiliza o acesso a alguns dos diversos 
 A fonte oficial de notícias sobre o Android - de telefones a relógios e muito mais.
 
 #### Music - [music.google.com](https://play.google.com/music/listen#/sulp){:target="_blank"}
-Google Play Music: aprenda a usar o app dedicado à reprodução de músicas. O serviço dedicado à reprodução de músicas Google Play Music chegou ao Brasil nesta semana.
+Google Play Music: aprenda a usar o app dedicado à reprodução de músicas.
 
 #### Music Timeline - [research.google.com/bigpicture/music](https://research.google.com/bigpicture/music/){:target="_blank"} 
 A Music Timeline mostra gêneros de música que se encerram e diminuem, com base em quantos usuários do Google Play Música têm um artista ou álbum na biblioteca de músicas e outros dados (como datas de lançamento de álbuns). Cada faixa no gráfico representa um gênero; A espessura da faixa diz-lhe aproximadamente a popularidade da música lançada em um determinado ano nesse gênero. (Por exemplo, a faixa de "jazz" é espessa nos anos 50, uma vez que as bibliotecas de muitos usuários contêm álbuns de jazz lançados nos anos 50.) Clique nas listras para ampliar os gêneros mais especializados.
@@ -879,7 +888,7 @@ Google Street View é um recurso do Google Maps e do Google Earth que disponibil
 #### Takeout - [google.com/takeout](https://takeout.google.com/settings/takeout){:target="_blank"}
 Sua conta, seus dados. Exportar uma cópia. Crie um arquivo com seus dados dos produtos do Google.
 
-#### Teacher Academy - [edutrainingcenter.withgoogle.com/certification_innovator](https://edutrainingcenter.withgoogle.com/certification_innovator){:target="_blank"}
+#### Teacher Academy - [withgoogle.com/certification_innovator](https://edutrainingcenter.withgoogle.com/certification_innovator){:target="_blank"}
 A verdadeira mudança é impulsionada por líderes inovadores. Torne-se um inovador certificado e junte-se a uma comunidade de educadores apaixonados projetando soluções criativas para os desafios mais difíceis do mundo na educação.
 
 #### TensorFlow - [tensorflow.org](https://www.tensorflow.org/){:target="_blank"} 
@@ -920,7 +929,7 @@ Programa para colaboradores voluntários
 #### Tour Builder - [tourbuilder.withgoogle.com](https://tourbuilder.withgoogle.com/){:target="_blank"} 
 O Google Tour Builder é uma ferramenta baseada na Web para contar histórias que permite criar e descobrir relatos e lugares do mundo inteiro com facilidade. Com o plug-in do Google Earth, você pode criar um passeio de qualquer assunto de sua escolha, aumentando o zoom para mostrar os lugares onde os eventos ocorreram e integrar facilmente o texto, as fotos e os vídeos da história. Seu passeio levará os usuários de um lugar até outro conforme a narrativa de seu passeio, fazendo com que eles mergulhem nos lugares relevantes por meio das imagens do Google Earth e do conteúdo personalizado que você fornecer.
 
-#### Trainer - [edutrainingcenter.withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer)
+#### Trainer - [withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer)
 Combine sua experiência em ferramentas do Google com o seu amor de ajudar os outros. Torne-se um formador certificado para apoiar os educadores como redefinir o aprendizado com a tecnologia.
 
 #### Translate - [translate.google.com](https://translate.google.com/){:target="_blank"}
