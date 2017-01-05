@@ -995,13 +995,26 @@ O WebP é um formato de imagem moderno que oferece compactação sem perdas e pe
 #### Wifi - [madeby.google.com/wifi](https://madeby.google.com/wifi/){:target="_blank"} 
 Desfrute de um sinal rápido em cada quarto, em cada dispositivo. O Google Wifi é um novo tipo de sistema conectado que substitui o roteador para uma cobertura perfeita em toda a sua casa.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="Y"></div>
 
 ### Y
 
 #### YouTube - [youtube.com](https://www.youtube.com/){:target="_blank"} 
+Lançado em maio de 2005, o YouTube permite que bilhões de pessoas descubram, vejam e compartilhem vídeos criados originalmente. O YouTube fornece um fórum para que as pessoas se conectem, informem e inspirem outras pessoas em todo o mundo e atuem como uma plataforma de distribuição para criadores de conteúdo original e anunciantes grandes e pequenos.
 
 #### YouTube Ads - [youtube.com/yt/advertise](https://www.youtube.com/yt/advertise/launch-ad.html){:target="_blank"}
+Os anunciantes do YouTube pagam por visualização do seu anúncio, com um custo médio por visualização variando entre $ .10 - $ .30. As visualizações também contam para as suas visualizações gerais do YouTube. No YouTube, há quatro tipos padrão de formatos de anúncio: In-search - um anúncio aparece acima dos resultados de pesquisa do YouTube.
 
 #### YouTube Escola de Criadores - [creatoracademy.youtube.com](https://creatoracademy.youtube.com/page/education?hl=pt-BR){:target="_blank"}
 Utilize a Academia de criadores para ampliar o seu público-alvo e otimizar o seu canal do YouTube para o sucesso. Veja as lições para saber o que os principais criadores andam a fazer e experimente estas estratégias no seu canal.
