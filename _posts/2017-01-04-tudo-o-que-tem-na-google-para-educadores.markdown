@@ -36,10 +36,7 @@ Complementos para Documentos e Planilhas
   allowfullscreen>
 </iframe>
 
-#### AdGrants - [google.com/grants](https://www.google.com/grants/)
-Compartilhe sua causa com o mundo. Imagine o que você poderia fazer com $10 mil USD mensalmente na forma de publicidade do AdWords, uma solução de publicidade on-line do Google. Você poderia recrutar mais voluntários. Atrair mais doações E compartilhar sua história com públicos de todo o mundo. Tudo isso é possível com o Google Ad Grants
-
-#### Advanced Image Search - [google.com/advanced_image_search](https://www.google.com/advanced_image_search){:target="_blank"}
+### Advanced Image Search - [google.com/advanced_image_search](https://www.google.com/advanced_image_search){:target="_blank"}
 Busca avançada por imagens no Google
 
 #### Album Archive - [get.google.com/albumarchive](https://get.google.com/albumarchive){:target="_blank"} 
@@ -164,22 +161,11 @@ O Google Docs é um serviço para Web, Android e iOS que permite criar, editar e
 #### Docs Templates - [docs.google.com/templates](https://drive.google.com/templates){:target="_blank"}
 Modelos de arquivos para google docs
 
-#### Domains - [domains.google](https://domains.google/){:target="_blank"}
-Local para registrar os seus domínios na web
-
-#### Doodle 4 Google - [google.com/doodle4google](https://doodles.google.com/d4g/){:target="_blank"}
-Recebemos muitas visões criativas do futuro, e as inscrições do concurso estão agora fechadas para o concurso Google Doodle 4 de 2016. É hora de o nosso painel de juízes escolher os seus favoritos e nos ajudar a selecionar os 53 vencedores do Estado e do Território. Nós anunciaremos os resultados em fevereiro de 2017, e convidaremos todos a votar para que cinco vencedores estaduais e territoriais passem a se tornar finalistas nacionais
-
-#### Doodles - [google.com/doodles](https://www.google.com/doodles){:target="_blank"}
-Google Doodles são as versões modificadas do logotipo do Google, usado especialmente para feriados, aniversários de pessoas famosas e importantes eventos
-
-#### DoubleClick - [doubleclickbygoogle.com](https://www.doubleclickbygoogle.com/){:target="_blank"}
-Conecte-se com as pessoas certas, nos momentos certos, com as soluções integradas da DoubleClick
-
 #### Drive - [drive.google.com](https://drive.google.com){:target="_blank"} 
 Google Drive é um serviço de armazenamento e sincronização de arquivos, apresentado pela Google em 24 de abril de 2012. Google Drive abriga agora o Google Docs, um leque de aplicações de produtividade, que oferece a edição de documentos, folhas de cálculo, apresentações, e muito mais
 
 #### Drawings - [docs.google.com/drawings](https://docs.google.com/drawings/){:target="_blank"}
+Permite que os usuários colaborem e trabalhem juntos em tempo real para criar fluxogramas, organogramas, wireframes website, mapas mentais, mapas conceituais e outros tipos de diagramas. O Google Drawings também está disponível como um aplicativo do Google Chrome que funciona offline, disponível na Chrome Web Store. O Google Drawings está hospedado no Google Drive e todos os arquivos criados com o aplicativo são salvos por padrão no Google Drive.
 
 #### Duo - [duo.google.com](https://duo.google.com/){:target="_blank"} 
 Google Duo é o app de videochamadas que promete funcionar em conexões lentas. O Google ainda não tem muitos aplicativos de mensagens, então resolveu criar mais um, a empresa começou a liberar o Google Duo, que permite fazer chamadas em vídeo para usuários de Android e iOS
@@ -190,12 +176,6 @@ Google Duo é o app de videochamadas que promete funcionar em conexões lentas. 
 
 #### Earth - [earth.google.com](https://www.google.com/earth/){:target="_blank"}
 Google Earth é um programa de computador desenvolvido e distribuído pela Google cuja função é apresentar um modelo tridimensional do globo terrestre, construído a partir de mosaico de imagens de satélite obtidas de fontes diversas, imagens aéreas (fotografadas de aeronaves) e GIS 3D
-
-#### Earth Engine - [google.org/earthengine](https://earthengine.google.com/){:target="_blank"}
-O Google Earth Engine combina um catálogo de imagens de satélite e conjuntos de dados geoespaciais com capacidades de análise em escala planetária e permite que cientistas, pesquisadores e desenvolvedores detectem mudanças, mapeiem tendências e quantificem diferenças na superfície da Terra
-
-#### Earth Outreach - [earth.google.com/outreach](https://www.google.com/earth/outreach/index.html){:target="_blank"}
-O Google Earth Solidário oferece a organizações sem fins lucrativos e organizações de benefício público o conhecimento e os recursos de que necessitam para visualizar sua causa e contar sua história no Google Earth e no Google Maps para centenas de milhões de pessoas
 
 #### eBooks - [ebooks.google.com](https://play.google.com/store/books){:target="_blank"}
 Google Books (anteriormente conhecido como Google Book Search e GooglePrint) (em português: Google Livros) é um serviço da Google que procura textos completos de livros que a Google escaneia, converte-o utilizando o reconhecimento ótico de caracteres, e armazena em seu banco de dados digital
@@ -247,9 +227,6 @@ O Gmail (também Google Mail) é um serviço gratuito de webmail criado pela Goo
 
 #### Google - [google.com](https://www.google.com.br){:target="_blank"} 
 Nessa página você encontra o principal produto, o mecanismo de busca. A Google Inc. é uma empresa multinacional de serviços online e software dos Estados Unidos. O Google hospeda e desenvolve uma série de serviços e produtos baseados na internet e gera lucro principalmente através da publicidade pelo AdWords
-
-#### Google Brain - [research.google.com/teams/brain](https://research.google.com/teams/brain/){:target="_blank"}
-Os membros da equipe do Google Brain estabelecem sua própria agenda de pesquisa, com a equipe como um todo mantendo um portfólio de projetos em diferentes horizontes de tempo e níveis de risco
 
 #### Google Educator Groups - [google.com/landing/geg](https://www.google.com/landing/geg/){:target="_blank"}
 Os GEGs (Grupos de Educadores Google) são comunidades de educadores que aprendem, compartilham e inspiram uns aos outros para atender às necessidades dos alunos por meio de soluções tecnológicas, dentro e fora da sala de aula.
@@ -506,6 +483,9 @@ O Google Tour Builder é uma ferramenta baseada na Web para contar histórias qu
 
 #### Trainer - [withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer)
 Combine sua experiência em ferramentas do Google com o seu amor de ajudar os outros. Torne-se um formador certificado para apoiar os educadores como redefinir o aprendizado com a tecnologia.
+
+#### Training Center - [withgoogle.com/training](https://edutrainingcenter.withgoogle.com/training){:target="_blank"}
+Central de treinamento do Google for Education, um site de desenvolvimento profissional criado por e para educadores. A Central de treinamento tem três seções principais. Os cursos estão disponíveis no menu "Treinamentos", as informações sobre certificações ficam nesta guia e também um conjunto de recursos.  
 
 #### Translate - [translate.google.com](https://translate.google.com/){:target="_blank"}
 O Google Translate é um serviço virtual gratuito de tradução instantânea de textos e websites. A empresa introduziu o seu próprio software de tradução em 2007, uma vez que até então utilizava o tradutor SYSTRAN, utilizado por outros serviços de tradução como o Babel Fish (do Altavista), o tradutor do AOL, do Yahoo e do MSN. Recentemente, o Google Translate tem implantado cada vez mais aperfeiçoamentos ao seu mecanismo, tornando-o assim um dos serviços líderes em tradução idiomática. [FONTE](https://pt.wikipedia.org/wiki/Google_Translate){:target="_blank"}

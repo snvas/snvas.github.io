@@ -355,6 +355,7 @@ Conecte-se com as pessoas certas, nos momentos certos, com as soluções integra
 Google Drive é um serviço de armazenamento e sincronização de arquivos, apresentado pela Google em 24 de abril de 2012. Google Drive abriga agora o Google Docs, um leque de aplicações de produtividade, que oferece a edição de documentos, folhas de cálculo, apresentações, e muito mais
 
 #### Drawings - [docs.google.com/drawings](https://docs.google.com/drawings/){:target="_blank"}
+Permite que os usuários colaborem e trabalhem juntos em tempo real para criar fluxogramas, organogramas, wireframes website, mapas mentais, mapas conceituais e outros tipos de diagramas. O Google Drawings também está disponível como um aplicativo do Google Chrome que funciona offline, disponível na Chrome Web Store. O Google Drawings está hospedado no Google Drive e todos os arquivos criados com o aplicativo são salvos por padrão no Google Drive.
 
 #### Duo - [duo.google.com](https://duo.google.com/){:target="_blank"} 
 Google Duo é o app de videochamadas que promete funcionar em conexões lentas. O Google ainda não tem muitos aplicativos de mensagens, então resolveu criar mais um, a empresa começou a liberar o Google Duo, que permite fazer chamadas em vídeo para usuários de Android e iOS
@@ -931,6 +932,9 @@ O Google Tour Builder é uma ferramenta baseada na Web para contar histórias qu
 
 #### Trainer - [withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer)
 Combine sua experiência em ferramentas do Google com o seu amor de ajudar os outros. Torne-se um formador certificado para apoiar os educadores como redefinir o aprendizado com a tecnologia.
+
+#### Training Center - [withgoogle.com/training](https://edutrainingcenter.withgoogle.com/training){:target="_blank"}
+Central de treinamento do Google for Education, um site de desenvolvimento profissional criado por e para educadores. A Central de treinamento tem três seções principais. Os cursos estão disponíveis no menu "Treinamentos", as informações sobre certificações ficam nesta guia e também um conjunto de recursos.  
 
 #### Translate - [translate.google.com](https://translate.google.com/){:target="_blank"}
 O Google Translate é um serviço virtual gratuito de tradução instantânea de textos e websites. A empresa introduziu o seu próprio software de tradução em 2007, uma vez que até então utilizava o tradutor SYSTRAN, utilizado por outros serviços de tradução como o Babel Fish (do Altavista), o tradutor do AOL, do Yahoo e do MSN. Recentemente, o Google Translate tem implantado cada vez mais aperfeiçoamentos ao seu mecanismo, tornando-o assim um dos serviços líderes em tradução idiomática. [FONTE](https://pt.wikipedia.org/wiki/Google_Translate){:target="_blank"}

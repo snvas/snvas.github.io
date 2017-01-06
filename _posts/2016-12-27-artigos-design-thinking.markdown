@@ -9,9 +9,9 @@ tags:
  - innovation
  - professores
 ---
-O interesse em Design Thinking vem crescendo nos últimos anos, como podemos verificar nesse gráfico do Trends:
+O interesse em Design Thinking em todo o mundo vem crescendo nos últimos anos, como podemos verificar nesse gráfico do Trends:
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/884_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"design thinking","geo":"BR","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"geo=BR&q=design%20thinking"}); </script>
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/884_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"design thinking","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"q=design%20thinking"}); </script> 
 
 Para ficar por dentro do que o Design Thinking pode fazer pelo seu negócio veja os artigos que colecionei os longo desses anos.
 
