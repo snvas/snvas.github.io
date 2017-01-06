@@ -259,6 +259,12 @@ Google Developers Codelabs fornece uma  experiência guiada, com tutoriais, mão
 #### Code-in - [developers.google.com/open-source/gci](https://developers.google.com/open-source/gci/){:target="_blank"} 
 Competição Global online que introduz adolescentes ao mundo do código aberto. Com uma grande variedade de tarefa, é fácil para iniciantes começarem não importa o que eles já sabem. Mentores de organizações participantes dão uma mãozinha enquanto os participantes aprendem o que é trabalhar em um projeto de código aberto.
 
+#### Coder [googlecreativelab.github.io/coder/](https://googlecreativelab.github.io/coder/){:target="_blank"}
+Coder é um projeto livre, de código aberto que transforma um Raspberry Pi em uma plataforma simples que educadores e pais podem usar para ensinar os conceitos básicos de construção para a web. Novos codificadores podem criar pequenos projetos em HTML, CSS e Javascript, diretamente do navegador da web.
+
+#### Coding with Chrome [codingwithchrome.foo](http://codingwithchrome.foo/){:target="_blank"}
+Coding with Chrome é um projeto do Google para fornecer um ambiente de codificação fácil de usar no navegador Chrome, que funciona mesmo offline. Atualmente, os usuários são capazes de criar programas usando Blockly, Coffeescript, HTML, Javascript com saída para Logo Turtle e / ou brinquedos conectados, como o Sphero, mBot e Lego Mindstorms.
+
 #### Computational Thinking for Educators - [computationalthinkingcourse.withgoogle.com](https://computationalthinkingcourse.withgoogle.com/){:target="_blank"}
 Cursos online sobre pensamento computacional para educadores
 
@@ -283,6 +289,9 @@ Plataforma open source para publicação de cursos online
 #### Crisis Response - [google.com/crisisresponse](https://www.google.org/crisisresponse/){:target="_blank"}
 Tornar a informação crítica mais acessível em tempos de catástrofe
 Quando ocorre uma catástrofe, as pessoas recorrem à Internet para obter informações. Ajudamos a garantir que as informações certas estejam presentes nestes momentos de necessidade, construindo ferramentas para coletar e compartilhar informações de emergência e apoiando os primeiros respondentes no uso da tecnologia para ajudar a melhorar e salvar vidas
+
+#### CS Education - [google.com/edu/cs/](https://www.google.com/edu/cs/){:target="_blank"} 
+A educação em ciência da computação (CS) é um caminho para a inovação, para a criatividade e para oportunidades de carreira emocionantes. Acreditamos que todos os alunos merecem essas oportunidades. É por isso que o Google está comprometido com o desenvolvimento de programas, recursos, ferramentas e parcerias comunitárias que tornam o CS atraente e acessível para todos os alunos.
 
 #### CS First - [cs-first.com](https://www.cs-first.com/){:target="_blank"} 
 Plataforma oferece materiais e tutoriais sobre a Ciência da Computação
@@ -704,6 +713,9 @@ Mini versão do jogo, criada originalmente como um logotipo animado para o 30º 
 #### Page Speed Online - [developers.google.com/pagespeed](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
 PageSpeed Insights mede o desempenho de uma página para dispositivos móveis e dispositivos de mesa. Ele busca o URL duas vezes, uma vez com um usuário-agente móvel e uma vez com um agente de usuário de desktop. A pontuação de PageSpeed varia de 0 a 100 pontos. Uma pontuação mais alta é melhor e uma pontuação de 85 ou acima indica que a página está funcionando bem. 
 
+### Pencil Code - [pencilcode.net](https://pencilcode.net/){:target="_blank"}
+O Pencil Code é um site de programação colaborativo para desenhar arte, tocar música e criar jogos. É também um lugar para experimentar funções matemáticas, geometria, gráficos, páginas web, simulações e algoritmos. Os programas estão abertos para que todos possam ver e copiar.
+
 #### Person Finder - [google.org/personfinder](http://google.org/personfinder/global/home.html){:target="_blank"}
 O Google Person Finder ajuda as pessoas a se reconectar com amigos e entes queridos após as catástrofes naturais e humanitárias.
 
@@ -1060,4 +1072,17 @@ O YouTube.com/Teachers foi criado para ajudar os professores a aproveitar o víd
 
 #### Zagat - [zagat.com](https://www.zagat.com/){:target="_blank"}
 A equipe editorial da Zagat faz curadoria dos melhores restaurantes em todo os EUA (além de Londres e Toronto) e os serve para você de uma forma divertida e acessível para que você possa desfrutar o melhor da cidade tem para oferecer.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdi9kNMLT-6u0Gls_ahOfqEYN8Eg4VxSbcWryywwi9pmBB85w/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 

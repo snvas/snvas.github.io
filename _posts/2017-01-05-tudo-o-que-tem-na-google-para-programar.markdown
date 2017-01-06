@@ -10,9 +10,13 @@ tags:
  - professores
  - google
 ---
-[0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [I](#I) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [R](#R) [T](#T) [U](#U) [V](#V) [W](#W)
+Recursos da Google para Programadores ou futuros programadores. <i class="material-icons">done</i>
 
-A maior lista de links para serviços, produtos, ferramentas, recursos e projetos da Google. <i class="material-icons">done</i>
+Computadores estão em toda parte em nosso mundo hoje e ser um cidadão educado requer uma compreensão dos fundamentos da ciência da computação e sua metodologia de resolução de problemas subjacente de pensamento computacional. Nem todas as crianças devem se tornar um cientista da computação, mas todas as crianças devem ter a oportunidade de explorar e criar com a computação.
+
+O Google desenvolveu programas, ferramentas e recursos que promovem a educação em ciência da computação e oferecem oportunidades de exploração e aprendizado na escola, em ambientes informais e em casa. [Saiba Mais](#csedu)
+
+[0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [I](#I) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [R](#R) [T](#T) [U](#U) [V](#V) [W](#W)
 
 <div id="0"></div>
 
@@ -109,6 +113,12 @@ Google Developers Codelabs fornece uma  experiência guiada, com tutoriais, mão
 #### Code-in - [developers.google.com/open-source/gci](https://developers.google.com/open-source/gci/){:target="_blank"} 
 Competição Global online que introduz adolescentes ao mundo do código aberto. Com uma grande variedade de tarefa, é fácil para iniciantes começarem não importa o que eles já sabem. Mentores de organizações participantes dão uma mãozinha enquanto os participantes aprendem o que é trabalhar em um projeto de código aberto.
 
+#### Coder [googlecreativelab.github.io/coder/](https://googlecreativelab.github.io/coder/){:target="_blank"}
+Coder é um projeto livre, de código aberto que transforma um Raspberry Pi em uma plataforma simples que educadores e pais podem usar para ensinar os conceitos básicos de construção para a web. Novos codificadores podem criar pequenos projetos em HTML, CSS e Javascript, diretamente do navegador da web.
+
+#### Coding with Chrome [codingwithchrome.foo](http://codingwithchrome.foo/){:target="_blank"}
+Coding with Chrome é um projeto do Google para fornecer um ambiente de codificação fácil de usar no navegador Chrome, que funciona mesmo offline. Atualmente, os usuários são capazes de criar programas usando Blockly, Coffeescript, HTML, Javascript com saída para Logo Turtle e / ou brinquedos conectados, como o Sphero, mBot e Lego Mindstorms.
+
 #### Computational Thinking for Educators - [computationalthinkingcourse.withgoogle.com](https://computationalthinkingcourse.withgoogle.com/){:target="_blank"}
 Cursos online sobre pensamento computacional para educadores
 
@@ -120,6 +130,11 @@ Recursos para estudantes do ensino médio aprenderem programação de computador
 
 #### Course Builder - [code.google.com/p/course-builder](https://www.google.com/edu/openonline/course-builder/index.html){:target="_blank"}
 Plataforma open source para publicação de cursos online
+
+<div id="csedu"></div>
+
+#### CS Education - [google.com/edu/cs/](https://www.google.com/edu/cs/){:target="_blank"} 
+A educação em ciência da computação (CS) é um caminho para a inovação, para a criatividade e para oportunidades de carreira emocionantes. Acreditamos que todos os alunos merecem essas oportunidades. É por isso que o Google está comprometido com o desenvolvimento de programas, recursos, ferramentas e parcerias comunitárias que tornam o CS atraente e acessível para todos os alunos.
 
 #### CS First - [cs-first.com](https://www.cs-first.com/){:target="_blank"} 
 Plataforma oferece materiais e tutoriais sobre a Ciência da Computação
@@ -284,6 +299,9 @@ Ferramenta para a construção colaborativa de lições interativas
 #### Page Speed Online - [developers.google.com/pagespeed](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
 PageSpeed Insights mede o desempenho de uma página para dispositivos móveis e dispositivos de mesa. Ele busca o URL duas vezes, uma vez com um usuário-agente móvel e uma vez com um agente de usuário de desktop. A pontuação de PageSpeed varia de 0 a 100 pontos. Uma pontuação mais alta é melhor e uma pontuação de 85 ou acima indica que a página está funcionando bem. 
 
+### Pencil Code - [pencilcode.net](https://pencilcode.net/){:target="_blank"}
+O Pencil Code é um site de programação colaborativo para desenhar arte, tocar música e criar jogos. É também um lugar para experimentar funções matemáticas, geometria, gráficos, páginas web, simulações e algoritmos. Os programas estão abertos para que todos possam ver e copiar.
+
 #### Project Wycheproof - [github.com/google/wycheproof](https://github.com/google/wycheproof){:target="_blank"}
 O projeto Wycheproof testa bibliotecas criptográficas contra ataques conhecidos.
 
@@ -397,3 +415,5 @@ O WebP é um formato de imagem moderno que oferece compactação sem perdas e pe
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdi9kNMLT-6u0Gls_ahOfqEYN8Eg4VxSbcWryywwi9pmBB85w/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
