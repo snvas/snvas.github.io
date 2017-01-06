@@ -1,7 +1,7 @@
 ---
-title: "Tudo o que tem na Google para Aprender a Programar ou Programadores"
+title: "Tudo o que tem na Google para Programadores ou para Aprender a Programar"
 layout: post
-date: 2016-01-05 18:34:42
+date: 2017-01-05 18:34:42
 author: soraia
 tags: 
  - edtech 
