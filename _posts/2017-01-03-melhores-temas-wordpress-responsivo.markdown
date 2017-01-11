@@ -11,12 +11,15 @@ tags:
 
  Veja os temas responsivos para Wordpress para você deixar seu site lindo e amigável.
 
- [Spacious](https://demo.themegrill.com/spacious/){:target="_blank"}
+<h2>
+[Spacious](https://demo.themegrill.com/spacious/){:target="_blank"}
+</h2>
 
 ![Spacious](https://themegrill.com/blog/wp-content/uploads/2015/08/free-responsive-wordpress-themes-spacious.jpg){#id .images}
 
-
- [Flash](https://demo.themegrill.com/flash/demos/){:target="_blank"}
+<h2>
+[Flash](https://demo.themegrill.com/flash/demos/){:target="_blank"}
+</h2>
 
  ![Flash](https://themegrill.com/blog/wp-content/uploads/2015/08/free-responsive-wordpress-themes-spacious.jpg){#id .images}
 
