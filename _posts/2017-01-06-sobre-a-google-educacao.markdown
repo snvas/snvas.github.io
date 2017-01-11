@@ -10,7 +10,7 @@ tags:
  - professores
  - google
 ---
-![Google Innovator and Google Trainer Badges](images/innovator.jpg)
+![Google Innovator and Google Trainer Badges](images/innovator.JPG)
 
 Quando me tornei [professora certificada pela Google](https://edudirectory.withgoogle.com/en/profile/f497ebe62b23db02b5012c4d330e5a5d){:target="_blank"} entrei em contato com um universo completamente novo e que todo educador merece conhecer.
 
@@ -20,7 +20,7 @@ Quem tiver interesse em saber mais sobre as ferramentas Google podem encontrar a
 Uma solução desenvolvida para professores e alunos. Não importa o tamanho ou o orçamento de sua escola. A Google oferece ferramentas fáceis de usar para envolver os alunos a qualquer hora, em qualquer lugar e em qualquer dispositivo.     
 
 
-###O que são os Google Innovators?
+### O que são os Google Innovators?
 
 Os Google Innovators são educadores selecionados e certificados pelo Google que demonstraram ser embaixadores da mudança e empoderamento de professores e alunos de forma a fomentar uma cultura de inovação próspera dentro da sala de aula, escola e organizações de ensino.
 
