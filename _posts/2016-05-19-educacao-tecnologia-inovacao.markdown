@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Educação + Tecnologia = Inovação"
-date:   2016-05-19 01:55:36 -0300
+date:   2016-03-17 01:55:36 -0300
 author: soraia
 tags: 
  - edtech 
@@ -14,7 +14,7 @@ Aqui você vai encontrar recursos digitais para educação. Nosso foco são as t
 <div style="max-width: 30% !important; float: left;">
 <img src="http://edtecnova.com.br/ebook/images/book-mockup.png" alt="" width="100%" /></div>
 
-Em cada post, vamos trazer uma das tecnologias classificadas no livro [Tecnologias para Inovação nas Escolas](http://www.edtecnova.com.br/ebook).
+Vamos trazer mais informações sobre as tecnologias classificadas no livro [Tecnologias para Inovação nas Escolas](http://www.edtecnova.com.br/ebook).
 
 Esperamos criar aqui um espaço de troca de ideias de uso dos recursos gratuitos mais inovadores que encontramos na web.
 

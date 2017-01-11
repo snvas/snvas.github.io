@@ -14,6 +14,8 @@ tags:
 
 A maior lista de links para serviços, produtos, ferramentas, recursos e projetos da Google. <i class="material-icons">done</i>
 
+Adaptada e atualizada a partir da lista criada por [Peter Beens](https://docs.google.com/document/edit?id=1TQupkuKAo7HQT-Sc8wMOcqVvXtc9j4QGWA2BrfBWpbI&hl=en){:target="_blank"}.
+
 <div id="0"></div>
 
 ### 0-9
