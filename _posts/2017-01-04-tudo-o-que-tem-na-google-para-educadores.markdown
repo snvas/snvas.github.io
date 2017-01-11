@@ -481,7 +481,7 @@ Você vai ter acesso ao histórico de todas as atividades que andou fazendo, den
 #### Tour Builder - [tourbuilder.withgoogle.com](https://tourbuilder.withgoogle.com/){:target="_blank"} 
 O Google Tour Builder é uma ferramenta baseada na Web para contar histórias que permite criar e descobrir relatos e lugares do mundo inteiro com facilidade. Com o plug-in do Google Earth, você pode criar um passeio de qualquer assunto de sua escolha, aumentando o zoom para mostrar os lugares onde os eventos ocorreram e integrar facilmente o texto, as fotos e os vídeos da história. Seu passeio levará os usuários de um lugar até outro conforme a narrativa de seu passeio, fazendo com que eles mergulhem nos lugares relevantes por meio das imagens do Google Earth e do conteúdo personalizado que você fornecer.
 
-#### Trainer - [withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer)
+#### Trainer - [withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer){:target="_blank"}
 Combine sua experiência em ferramentas do Google com o seu amor de ajudar os outros. Torne-se um formador certificado para apoiar os educadores como redefinir o aprendizado com a tecnologia.
 
 #### Training Center - [withgoogle.com/training](https://edutrainingcenter.withgoogle.com/training){:target="_blank"}
