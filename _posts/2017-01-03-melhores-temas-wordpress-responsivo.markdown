@@ -12,6 +12,7 @@ tags:
  Veja os temas responsivos para Wordpress para você deixar seu site lindo e amigável.
 
 <h2><a href="https://demo.themegrill.com/spacious/" target="_blank">Spacious</a></h2>
+
 #### Multipurpose, Business
 
 <a href="https://demo.themegrill.com/spacious/" target="_blank">
@@ -19,6 +20,7 @@ tags:
 
 
 <h2><a href="https://demo.themegrill.com/flash/demos/" target="_blank">Flash</a></h2>
+
 #### Multipurpose, Business
 
 <a href="https://demo.themegrill.com/flash/demos/" target="_blank">
@@ -26,6 +28,7 @@ tags:
 
 
 <h2><a href="http://demo.athemes.com/sydney/" target="_blank">Sydney</a></h2>
+
 #### Multipurpose, Busines
 
 <a href="http://demo.athemes.com/sydney/" target="_blank">
