@@ -12,20 +12,24 @@ tags:
  Veja os temas responsivos para Wordpress para você deixar seu site lindo e amigável.
 
 <h2><a href="https://demo.themegrill.com/spacious/" target="_blank">Spacious</a></h2>
+#### Multipurpose, Business
 
-<img src="https://themegrill.com/blog/wp-content/uploads/2015/08/free-responsive-wordpress-themes-spacious.jpg" alt="Spacious">
+<a href="https://demo.themegrill.com/spacious/" target="_blank">
+<img src="https://themegrill.com/blog/wp-content/uploads/2015/08/free-responsive-wordpress-themes-spacious.jpg" alt="Spacious"></a>
+
 
 <h2><a href="https://demo.themegrill.com/flash/demos/" target="_blank">Flash</a></h2>
+#### Multipurpose, Business
 
-<img src="https://themegrill.com/blog/wp-content/uploads/2015/08/Flash-%E2%80%93-MultiPurpose-WordPress-Theme-1024x866.jpg" alt="Flash">
+<a href="https://demo.themegrill.com/flash/demos/" target="_blank">
+<img src="https://themegrill.com/blog/wp-content/uploads/2015/08/Flash-%E2%80%93-MultiPurpose-WordPress-Theme-1024x866.jpg" alt="Flash"></a>
 
-<h2><a href="http://themeisle.com/demo/?theme=Zerif%20Lite" target="_blank">Zerif Lite</a></h2>
-
-<img src="https://themegrill.com/blog/wp-content/uploads/2015/08/free-responsive-wordpress-themes-zerif.jpg" alt="Zerif Lite">
 
 <h2><a href="http://demo.athemes.com/sydney/" target="_blank">Sydney</a></h2>
+#### Multipurpose, Busines
 
-<img src="https://themegrill.com/blog/wp-content/uploads/2015/08/Sydney-best-free-responsive-wordpress-theme-1024x867.jpg" alt="Sydney">
+<a href="http://demo.athemes.com/sydney/" target="_blank">
+<img src="https://themegrill.com/blog/wp-content/uploads/2015/08/Sydney-best-free-responsive-wordpress-theme-1024x867.jpg" alt="Sydney"></a>
 
 <h2><a href="http://demo.themegrill.com/colormag/" target="_blank">ColorMag</a></h2>
 
@@ -38,10 +42,6 @@ tags:
 <h2><a href="http://demo.themegrill.com/accelerate/" target="_blank">Accelerate</a></h2>
 
 <img src="https://themegrill.com/blog/wp-content/uploads/2015/08/free-responsive-wordpress-themes-accelerate.jpg" alt="Accelerate">
-
-<h2><a href="http://themeisle.com/demo/?theme=Llorix%20One" target="_blank">Llorix One Lite</a></h2>
-
-<img src="https://themegrill.com/blog/wp-content/uploads/2015/08/llorix-one-lite-free-responsive-wordpress-theme-1024x992.jpg" alt="Llorix One Lite">
 
 <h2><a href="http://demo.themegrill.com/ample/" target="_blank">Ample</a></h2>
 
@@ -158,3 +158,63 @@ tags:
 <h2><a href="https://demo.nimbusthemes.com/ember/" target="_blank">Ember</a></h2>
 
 <img src="https://themegrill.com/blog/wp-content/uploads/2016/12/Ember-wordpress-free-portfolio-theme-768x668.jpg" alt="Ember">
+
+<h2><a href="http://demo.wphoot.com/brigsby/" target="_blank">Brigsby</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/Brigsby-free-wordpress-portfolio-theme.jpg" alt="Brigsby">
+
+<h2><a href="http://demos.cpothemes.com/intuitionpro/" target="_blank">Intuition</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/Intuition-free-wp-blog-theme-768x668.jpg" alt="Intuition">
+
+<h2><a href="https://www.competethemes.com/demos/?theme=tracks" target="_blank">Tracks</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/Tracks-%E2%80%93-A-bold-beautiful-theme-for-wp-blogs-768x668.jpg" alt="Tracks">
+
+<h2><a href="http://demo.themes4wp.com/connect/" target="_blank">Connect</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/Connect-%E2%80%93-Free-Blogging-WordPress-Theme-768x668.jpg" alt="Connect">
+
+<h2><a href="http://demo.theme-junkie.com/?theme=bulan" target="_blank">Bulan</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/Bulan-%E2%80%93-Free-WordPress-Theme-for-bloggers-768x668.jpg" alt="Bulan">
+
+<h2><a href="https://colorlib.com/activello/" target="_blank">Activello</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/Activello-wordpress-blogging-theme-free-768x668.jpg" alt="Activello">
+
+<h2><a href="http://demo.themegrill.com/demos/?theme=Radiate" target="_blank">Radiate</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/Radiate-%E2%80%93-best-free-wordpress-blog-theme-768x668.jpg" alt="Radiate">
+
+<h2><a href="http://demo.mysterythemes.com/editorial/" target="_blank">Editorial</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2017/01/editorial-free-wordpress-magazine-theme.jpg" alt="Editorial">
+
+<h2><a href="http://demo.tagdiv.com/ionmag/" target="_blank">ionMag</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/ionMag-I-Free-Premium-WordPress-magazine-Theme-768x668.jpg" alt="ionMag">
+
+<h2><a href="http://demo.atlantisthemes.com/front-page/" target="_blank">Bellini</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/bellini-free-wordpress-woocommerce-theme-768x668.jpg" alt="Bellini">
+
+<h2><a href="https://themeisle.com/demo/?theme=ShopIsle#" target="_blank">ShopIsle</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/ShopIsle-free-wordpress-theme-for-online-shop-768x668.jpg" alt="ShopIsle">
+
+<h2><a href="http://demo.accesspressthemes.com/storevilla/" target="_blank">StoreVilla</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/storevilla-free-wordpress-woocommerce-theme-768x668.jpg" alt="StoreVilla">
+
+<h2><a href="http://demo.woothemes.com/?name=mystile" target="_blank">Mystile</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/Mystile-free-wordpress-woocommerce-theme-768x668.jpg" alt="Mystile">
+
+<h2><a href="http://demo.woothemes.com/?name=mystile" target="_blank">Mystile</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/Mystile-free-wordpress-woocommerce-theme-768x668.jpg" alt="Mystile">
+
+<h2><a href="https://www.nimbusthemes.com/preview/?theme=simple" target="_blank">WP Simple</a></h2>
+
+<img src="https://themegrill.com/blog/wp-content/uploads/2016/12/WP-Simple-Theme-parallax-scrolling-wp-theme-768x668.jpg" alt="WP Simple">
