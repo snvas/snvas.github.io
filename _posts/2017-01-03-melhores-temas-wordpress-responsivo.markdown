@@ -9,7 +9,7 @@ tags:
 
  O uso de internet móvel disparou ao longo dos últimos anos. As buscas no Google em dispositivos móveis passaram as buscas em computadores pela primeira vez, por isso os sites de negócios precisam ser mobile-friendly.
 
- Veja os temas responsivos para Wordpress para você deixar seu site lindo e amigável.
+ Veja mais de 40 temas responsivos para Wordpress para você deixar seu site lindo e amigável.
 
 <h2><a href="http://demo.themegrill.com/accelerate/" target="_blank">Accelerate</a></h2>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recado para as Escolas direto do Campus Madri"
+title:  "Google na Educação: Recado para as Escolas"
 date:   2016-09-02 20:55:36 -0300
 author: soraia
 tags: 
@@ -12,15 +12,11 @@ tags:
 
 As escolas públicas ou privadas tem direito a uma conta educacional do Google Apps. Se a sua escola ainda não usa, se liga no recado e [saiba mais](http://professoragoogle.com.br).
 
-Acesse o [formulário de inscrição do Google Apps for Education](https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU#0). 
+Acesse o [formulário de inscrição do Google Apps for Education](https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU#0){:target="_blank"}. 
 
-Forneça informações sobre você e sua instituição.
+Forneça informações sobre você e sua instituição. Clique em Próxima.
 
-Clique em Próxima.
-
-Forneça o domínio da sua instituição.
-
-Clique em Próxima.
+Forneça o domínio da sua instituição. Clique em Próxima.
 
 Forneça informações para criar uma conta de administrador. Essa é a conta que você usará para fazer login na sua conta do Google Apps for Education. 
 
