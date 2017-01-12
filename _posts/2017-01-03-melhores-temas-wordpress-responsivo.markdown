@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Os Melhores Temas Responsivos para o Wordpress"
+title:  "+40 Temas Responsivos para o Wordpress"
 date:   2017-01-03 17:55:36 -0300
 author: soraia
 tags: 
