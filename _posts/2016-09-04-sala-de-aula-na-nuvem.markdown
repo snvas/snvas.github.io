@@ -19,7 +19,7 @@ Os alunos podem ver as tarefas que precisam ser feitas na página "Tarefas" e co
 <iframe 
   width="100%" 
   height="455" 
-  src="http://www.youtube.com/embed/JnnoFd7XxtE" 
+  src="http://www.youtube.com/embed/JnnoFd7XxtE?&autoplay=1&autohide=1&modestbranding=0&showinfo=0&ap=%2526fmt%3D22" 
   frameborder="0" 
   allowfullscreen>
 </iframe>

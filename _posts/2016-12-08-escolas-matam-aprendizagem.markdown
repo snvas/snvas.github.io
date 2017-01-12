@@ -15,7 +15,7 @@ Murilo Gun foi um dos pioneiros da internet no Brasil. Ganhou dois prêmios iBes
 <iframe 
   width="100%" 
   height="455" 
-  src="http://www.youtube.com/embed/WauIURFTpEc" 
+  src="http://www.youtube.com/embed/WauIURFTpEc?&autoplay=0&autohide=1&modestbranding=0&showinfo=0&ap=%2526fmt%3D22" 
   frameborder="0" 
   allowfullscreen>
 </iframe>
