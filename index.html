@@ -24,6 +24,9 @@ layout: default
         <div class="list-post-date">
           <time>{{ post.date | date_to_string }}</time>  <span class="reading-time"> | {{minutesText}}</span>
         </div>
+        <div class="list-post-date">
+          <time>{{ page.date | date_to_string }}</time>
+      <span class="reading-time"> | {{minutesText}}</span>
       </div>
     {% endfor %}
   {% endif %}
