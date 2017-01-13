@@ -1,6 +1,10 @@
 /**
  * Site header
  */
+.hidden {
+  display: none!important;
+  visibility: hidden!important;
+}
 
 .lead {
   font-size: 1.25rem;
