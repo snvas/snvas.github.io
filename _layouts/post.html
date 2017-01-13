@@ -66,16 +66,16 @@ layout: default
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
   <div class="blog-list-container hidden" id="{{ t }}-container">
-    <ul class="blog-list">
+    <div class="list-item">
       {% for post in posts %}
         {% if post.tags contains t %}
-          <li>
+          <h3 class="list-post-title">
             <a href="{{ post.url }}">{{ post.title }}</a>
-          </li>
+          </h3>
         {% endif %}
       {% endfor %}
-    </ul>
-
+    </div>
+    
     {% assign numPosts = posts | size %}
     {% if numPosts == 1 %}
       <p>{{ posts | size }} post com a tag <b>{{ t }}</b></p>
