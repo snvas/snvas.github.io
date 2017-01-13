@@ -6,7 +6,7 @@ author: soraia
 tags: 
  - edtech 
  - google for education
- ---
+---
 
 Sempre me perguntam se eu trabalho para a Google e, muito embora isso pudesse ser uma experiência incrível, não é esse o caso.
 

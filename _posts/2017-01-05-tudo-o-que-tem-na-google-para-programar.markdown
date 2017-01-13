@@ -6,6 +6,7 @@ author: soraia
 tags: 
  - programar
 ---
+
 Recursos da Google para Programadores ou futuros programadores. <i class="material-icons">done</i>
 
 Computadores estão em toda parte em nosso mundo hoje e ser um cidadão educado requer uma compreensão dos fundamentos da ciência da computação e sua metodologia de resolução de problemas subjacente de pensamento computacional. Nem todas as crianças devem se tornar um cientista da computação, mas todas as crianças devem ter a oportunidade de explorar e criar com a computação.

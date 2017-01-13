@@ -5,7 +5,7 @@ date:   2016-05-24 20:55:36 -0300
 author: soraia
 tags: 
  - edtech 
- ---
+---
 
 Como a tecnologia pode transformar a educação [saiba mais](http://professoragoogle.com.br).
 
