@@ -25,7 +25,6 @@ gems:
   - jekyll-tagging
   - jekyll-feed
   - jekyll-seo-tag
-tag_page_layout: tags  
 social:
   name: Soraia Novaes
   links:
