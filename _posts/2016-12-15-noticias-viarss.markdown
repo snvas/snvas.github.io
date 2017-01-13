@@ -4,7 +4,7 @@ layout: post
 date: 2016-12-15 17:22:42
 author: soraia
 tags: 
- - inovação
+ - inova
  - startups
 ---
 

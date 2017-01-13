@@ -4,7 +4,7 @@ title:  "Benefícios Google para Escolas"
 date:   2016-09-03 10:55:36 -0300
 author: soraia
 tags: 
-  - google para educação
+  - google for education
 ---
 
 Para uma organização se qualificar para o Google Apps for Education, a Google exige que ela seja uma:

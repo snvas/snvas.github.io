@@ -4,7 +4,7 @@ title:  "A Sala de Aula na Nuvem: Google Classroom"
 date:   2016-09-04 14:55:36 -0300
 author: soraia
 tags: 
-  - google para educação
+   - google for education
 ---
 
 O Google Classroom (Sala de aula) está disponível para qualquer usuário do Google Apps for Education, um pacote gratuito de ferramentas de produtividade que inclui o Gmail, o Documentos e o Drive.

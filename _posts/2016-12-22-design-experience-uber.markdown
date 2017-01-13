@@ -5,7 +5,7 @@ date:   2016-12-22 17:55:36 -0300
 author: soraia
 tags: 
  - design
- - inovação
+ - inova
  - startups
 ---
 

@@ -22,7 +22,7 @@ layout: default
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </h2>
         <div class="list-post-date">
-          <time>{{ page.date | date_to_string }}</time>
+          <time>{{ post.date | date_to_string }}</time>
         </div>
       </div>
     {% endfor %}
@@ -64,7 +64,6 @@ layout: default
   </div>
 {% endfor %}
 
-
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- codecamp -->
 <ins class="adsbygoogle"
@@ -75,8 +74,6 @@ layout: default
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-
 <script>
 function filter(tag) {
   setActiveTag(tag);
