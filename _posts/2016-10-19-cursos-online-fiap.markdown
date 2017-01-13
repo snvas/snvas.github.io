@@ -3,10 +3,8 @@ layout: post
 title:  "Mais de 15 Cursos Online Gratuitos da FIAP"
 date:   2016-10-19 18:55:36 -0300
 author: soraia
-tags: 
- - edtech 
- - education 
- - professores
+tags:
+ - cursos online
 ---
 
 arimpamos na internet os cursos online GRATUITOS oferecidos pela FIAP. Confira a lista dos cursos: 

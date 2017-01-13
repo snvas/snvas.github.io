@@ -4,11 +4,8 @@ layout: post
 date: 2017-01-04 16:20:42
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
+ - google para educação
  - professores
- - google
 ---
 [0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [K](#K) [M](#M) [N](#N) [P](#P) [Q](#Q) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [Y](#Y)
 

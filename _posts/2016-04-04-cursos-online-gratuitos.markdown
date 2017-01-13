@@ -4,9 +4,7 @@ title:  "Encontre mais de 700 Cursos Online Gratuitos"
 date:   2016-04-04 21:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - professores
+ - cursos online 
 ---
 
 Garimpamos na internet mais de 700 cursos online em português GRATUITOS oferecidos por diferentes instituições. Confira a lista das plataformas: 

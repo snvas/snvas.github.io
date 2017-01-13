@@ -4,10 +4,7 @@ layout: post
 date: 2016-03-18 17:22:42
 author: soraia
 tags: 
- - tech
- - innovation
- - empreendedores
- - startups
+  - startups
 ---
 
 Hello!

@@ -4,7 +4,8 @@ title:  "Carro Compartilhado na Alemanha"
 date:   2016-10-23 14:55:36 -0300
 author: soraia
 tags: 
- - innovation
+ - inovação
+ - startups
 ---
 
 <iframe 

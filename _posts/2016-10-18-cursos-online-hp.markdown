@@ -4,9 +4,7 @@ title:  "25 Cursos Online Gratuitos da HP"
 date:   2016-10-18 19:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - professores
+ - cursos online
 ---
 
 Garimpamos na internet os cursos online GRATUITOS oferecidos pela HP. Confira a lista dos cursos: 

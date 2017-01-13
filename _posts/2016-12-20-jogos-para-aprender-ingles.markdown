@@ -4,8 +4,7 @@ title:  "4 Jogos para Aprender Inglês"
 date:   2016-12-20 18:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
+ - edtech
  - professores
 ---
 

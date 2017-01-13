@@ -4,9 +4,7 @@ title:  "Por Que Inovar na Escola?"
 date:   2016-05-20 02:25:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
+ - edtech
 ---
 
 A inovação só acontece quando existe um benefício, um valor real, para quem usa o que foi inventado. Gosto de definir a **INOVAÇÃO**, como **Uma Nova Ação** para se viver melhor. A escola deve ser um lugar agradável e inspirador para todas as crianças. 

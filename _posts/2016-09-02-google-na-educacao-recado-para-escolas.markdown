@@ -4,10 +4,7 @@ title:  "Google na Educação: Recado para as Escolas"
 date:   2016-09-02 20:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
- - professores
+ - google para educação
 ---
 
 As escolas públicas ou privadas tem direito a uma conta educacional do Google Apps. Se a sua escola ainda não usa, se liga no recado e [saiba mais](http://professoragoogle.com.br).

@@ -4,12 +4,10 @@ layout: post
 date: 2017-01-06 18:20:42
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
+ - google para educação
  - professores
- - google
 ---
+
 ![Google Innovator and Google Trainer Badges](images/innovator.JPG)
 
 Quando me tornei [professora certificada pela Google](https://edudirectory.withgoogle.com/en/profile/f497ebe62b23db02b5012c4d330e5a5d){:target="_blank"} entrei em contato com um universo completamente novo e que todo educador merece conhecer.

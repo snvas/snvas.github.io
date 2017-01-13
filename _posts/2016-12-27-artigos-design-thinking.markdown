@@ -4,9 +4,7 @@ layout: post
 date: 2016-12-27 05:34:42
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
+ - design
  - professores
 ---
 O interesse em Design Thinking em todo o mundo vem crescendo nos últimos anos, como podemos verificar nesse gráfico do Trends:

@@ -4,9 +4,7 @@ title:  "Mais de 40 Cursos Online Gratuitos da FGV"
 date:   2016-10-18 13:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - professores
+ - cursos online
 ---
 
 Garimpamos na internet os cursos online GRATUITOS oferecidos pela FGV. Confira a lista dos cursos: 

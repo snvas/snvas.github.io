@@ -4,11 +4,8 @@ layout: post
 date: 2016-08-27 22:34:42
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
- - professores
- - innovators
+ - google para educação
+ - google innovators
 ---
 
 Professores Inovadores Google se reúnem em evento online para discutir a aplicabilidade e tendências da tecnologia nos diferentes cenários educacionais do país.

@@ -4,9 +4,7 @@ title:  "Ganhe Tempo com Seu Smartphone"
 date:   2016-12-26 15:58:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - professores
+ - cursos online
 ---
 
 Para ampliar o alcance do conhecimento sobre novas tecnologias, estou preparando um novo endereço para os cursos online.

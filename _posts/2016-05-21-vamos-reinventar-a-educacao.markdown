@@ -4,10 +4,7 @@ layout: post
 date: 2016-05-21 05:34:42
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
- - professores
+  - professores
 ---
 
 Quando eu assisti esse vídeo pela primeira vez, percebi que estava diante da maior inovação para educação que eu já tinha visto na internet. Entendi, logo que comecei a usar, que era a plataforma mais divertida e eficiente para aprender matemática que eu já tinha experimentado. O que eram aqueles avatares fofos, evoluindo e ganhando medalhas com nomes super criativos?? Simplesmente adorei!! Era março de 2011 e a Khan Academy estava quase toda em Inglês ainda.

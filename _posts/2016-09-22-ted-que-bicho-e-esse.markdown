@@ -4,12 +4,8 @@ layout: post
 date: 2016-09-22 20:34:42
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
- - professores
- - videos
----
+ - professores 
+ ---
 
 Ideias que merecem ser espalhadas!
 Plataforma com os vídeos de palestras dos mais influentes pensadores e realizadores do mundo.

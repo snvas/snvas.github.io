@@ -4,9 +4,7 @@ title:  "Mais de 30 Cursos Online Gratuitos da Intel"
 date:   2016-10-17 15:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - professores
+ - cursos online
 ---
 
 Garimpamos na internet os cursos online GRATUITOS oferecidos pela Intel. Confira a lista dos cursos: 

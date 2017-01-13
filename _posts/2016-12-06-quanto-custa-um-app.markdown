@@ -4,7 +4,6 @@ title:  "Quanto Custa para Fazer um App"
 date:   2016-12-06 17:55:36 -0300
 author: soraia
 tags: 
- - innovation
  - startups
 ---
 

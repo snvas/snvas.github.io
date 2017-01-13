@@ -4,10 +4,7 @@ title:  "Recado para as Escolas direto do Campus São Paulo"
 date:   2016-08-25 20:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
- - professores
+ - google para educação
 ---
 
 As escolas públicas ou privadas tem direito a uma conta educacional do Google Apps. Se a sua escola ainda não usa, se liga no recado e [saiba mais](http://professoragoogle.com.br).

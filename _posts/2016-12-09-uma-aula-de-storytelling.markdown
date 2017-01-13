@@ -4,7 +4,6 @@ title:  "Uma Aula de Storytelling"
 date:   2016-12-09 14:45:36 -0300
 author: soraia
 tags: 
- - innovation
  - storytelling
 ---
 “Storytelling é a liberação calculada da informação” Alex Garlano

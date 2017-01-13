@@ -4,8 +4,6 @@ title:  "3 Palestras Mais Assistidas no Mundo"
 date:   2016-12-10 15:19:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
  - professores
 ---
 

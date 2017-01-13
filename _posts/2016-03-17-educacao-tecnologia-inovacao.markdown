@@ -4,9 +4,7 @@ title:  "Educação + Tecnologia = Inovação"
 date:   2016-03-17 01:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
+ - edtech
 ---
 
 Aqui você vai encontrar recursos digitais para educação. Nosso foco são as tecnologias gratuitas que podem ampliar a democratização do acesso à educação de qualidade.

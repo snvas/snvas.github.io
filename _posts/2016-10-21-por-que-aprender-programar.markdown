@@ -3,11 +3,8 @@ layout: post
 title:  "Por Que Aprender a Programar?"
 date:   2016-10-21 10:55:36 -0300
 author: soraia
-tags: 
- - edtech 
- - education 
- - innovation
- - professores
+tags:
+ - programação
 ---
 
 <iframe 

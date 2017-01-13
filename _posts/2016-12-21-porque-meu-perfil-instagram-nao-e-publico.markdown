@@ -4,11 +4,7 @@ title:  "Por que meu Perfil no Instagram não é Público?"
 date:   2016-12-21 16:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
- - professores
- - redes sociais
+  - redes sociais
 ---
 Demorei pra começar a usar minha conta no Instagram, mas logo que comecei, me espantei com a rapidez que os seguidores apareceriam. Gente que nunca vi e não fazia ideia de onde vinha.
 

@@ -4,8 +4,6 @@ title:  "5 Plataformas que todo Professor Precisa Conhecer"
 date:   2016-12-17 15:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
  - professores
 ---
 

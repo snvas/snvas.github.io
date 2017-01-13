@@ -4,11 +4,8 @@ layout: post
 date: 2016-08-31 20:38:43
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
- - professores
- - innovators
+ - google para educação
+ - google innovators
 ---
 
 ### Professores Inovadores Google

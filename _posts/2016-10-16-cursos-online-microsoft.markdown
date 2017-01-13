@@ -4,9 +4,7 @@ title:  "Mais de 70 Cursos Online Gratuitos da Microfoft"
 date:   2016-10-16 20:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - professores
+ - cursos online
 ---
 
 Garimpamos na internet os cursos online GRATUITOS oferecidos pela Microsoft. Confira a lista dos cursos: 

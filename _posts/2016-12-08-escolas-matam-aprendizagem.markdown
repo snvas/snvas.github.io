@@ -4,9 +4,6 @@ layout: post
 date: 2016-12-08 09:34:42
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
  - professores
 ---
 

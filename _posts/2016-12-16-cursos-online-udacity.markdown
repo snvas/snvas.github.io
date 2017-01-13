@@ -4,9 +4,7 @@ title:  "35 Cursos Online Gratuitos da UDACITY"
 date:   2016-10-18 19:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
- - professores
+ - cursos online 
 ---
 
 Garimpamos na internet os cursos online GRATUITOS oferecidos pela UDACITY. Confira a lista dos cursos: 

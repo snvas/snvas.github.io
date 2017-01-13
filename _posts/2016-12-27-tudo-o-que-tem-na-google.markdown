@@ -4,11 +4,7 @@ layout: post
 date: 2016-12-27 16:34:42
 author: soraia
 tags: 
- - edtech 
- - education 
- - innovation
- - professores
- - google
+ - inovação
 ---
 [0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [Y](#Y) [Z](#Z)
 

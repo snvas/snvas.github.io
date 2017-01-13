@@ -4,7 +4,6 @@ title:  "A História da Chapeuzinho Vermelho Atualizada"
 date:   2016-12-23 14:45:36 -0300
 author: soraia
 tags: 
- - innovation
  - storytelling
 ---
 

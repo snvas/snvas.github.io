@@ -4,8 +4,7 @@ title:  "Professores Brasileiros Inovadores no TedX"
 date:   2016-12-18 18:55:36 -0300
 author: soraia
 tags: 
- - edtech 
- - education 
+ - google innovators 
  - professores
 ---
 
