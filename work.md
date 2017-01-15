@@ -40,3 +40,13 @@ Plataforma online com um conjunto de missões que guiam você por ferramentas di
 ### Cursos Online
 
 [Cursos Google Trainer](/cursos/)
+
+Como Usar seu Smartphone para Trabalhar
+
+O Poder da Colaboração com Google Apps
+
+Como Usar a Khan Academy
+
+Como Criar Sites com Google Sites
+
+Novidades Tecnológicas
