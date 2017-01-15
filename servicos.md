@@ -5,7 +5,7 @@ permalink: /servicos/
 ---
 
 <div style="width: 100%">
-<h3><a href="http://soraianovaes.com/vcnagoogle/" target="_blank">Seu Negócio no Google</a></h3>
+<h2><a href="http://soraianovaes.com/vcnagoogle/" target="_blank">Seu Negócio no Google</a></h2>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://soraianovaes.com/vcnagoogle/" target="_blank">
@@ -18,9 +18,8 @@ Quando você aparece no Google, os clientes têm mais facilidade de encontrar in
 
 </div>
 
-
-
-[Formação para Empresas](http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/)
+<div style="width: 100%">
+<h2><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/" target="_blank">Formação para Empresas</a></h2>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/" target="_blank">
@@ -30,10 +29,10 @@ Quando você aparece no Google, os clientes têm mais facilidade de encontrar in
 Formação tecnológica para empresários, gerentes e colaboradores. Conhecimentos técnicos que potencializam a produtividade da sua equipe. Entenda como usar a tecnologia a seu favor, dentro e fora da empresa.
 
 Atendimento em grupo e focado em tecnologias gratuitas.
+</div>
 
-<br><br><br>
-
-[Formação para Escolas](http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/)
+<div style="width: 100%">
+<h2><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/" target="_blank">Formação para Escolas</a></h2>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/" target="_blank">
@@ -44,7 +43,8 @@ Formação tecnológica para gestores, coordenadores, docentes e técnico de ens
 
 Atendimento em grupo e focado em tecnologias gratuitas.
 
-<br><br>
+</div>
+
 
 [Formação para Professores](http://professoragoogle.com.br/produtos/shop/formacao-para-professores/)
 
