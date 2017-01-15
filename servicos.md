@@ -4,7 +4,8 @@ title: Serviços
 permalink: /servicos/
 ---
 
-[Seu Negócio no Google](http://soraianovaes.com/vcnagoogle/)
+<div style="width: 100%">
+<h3><a href="http://soraianovaes.com/vcnagoogle/" target="_blank">Seu Negócio no Google</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://soraianovaes.com/vcnagoogle/" target="_blank">
@@ -15,7 +16,8 @@ Seu próximo cliente pode estar a um clique de distância. Cadastre Seu Negócio
 
 Quando você aparece no Google, os clientes têm mais facilidade de encontrar informações sobre sua empresa, como horários de funcionamento, informações de contato e rotas.
 
-<br><br><br>
+</div>
+
 
 
 [Formação para Empresas](http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/)
