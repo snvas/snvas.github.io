@@ -4,7 +4,19 @@ title: Serviços
 permalink: /servicos/
 ---
 
-### Serviços
+[Seu Negócio no Google](http://soraianovaes.com/vcnagoogle/)
+
+<div style="max-width: 40% !important; float: left;padding: 5%;">
+<a href="http://soraianovaes.com/vcnagoogle/" target="_blank">
+<img src="images/soraiavcnagoogle.jpg" alt="Seu Negócio no Google"></a>
+</div>
+
+Seu próximo cliente pode estar a um clique de distância. Cadastre Seu Negócio no Google
+
+Quando você aparece no Google, os clientes têm mais facilidade de encontrar informações sobre sua empresa, como horários de funcionamento, informações de contato e rotas.
+
+<br><br><br>
+
 
 [Formação para Empresas](http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/)
 
@@ -92,6 +104,11 @@ Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucio
 
 <br><br><br><br>
 
+[Desafio do Código: Roteiro para estudantes, pais e professores](https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q) O Desafio do Código foi criado para inserir tecnologias gratuitas em diferentes ambientes de aprendizagem. Seja em casa ou na escola, num mundo conectado, é preciso saber o que existe de útil na internet para os estudantes. Estruturado como um desafio educacional online e gameficado, que apresenta diversas ferramentas digitais para aprender habilidades importantes para o futuro das crianças e adolescentes: Programação, matemática e inglês.
+
+[VM Book: Visual Merchandising Moda Maringá](https://www.amazon.com.br/VM-Book-Visual-Merchandising-Maringá-ebook/dp/B01DR2QF8I) Com esse book você poderá conhecer um pouco mais sobre a importância de ter uma loja adequada para melhor atender seus clientes e encantá-los. Você perceberá a importância de vender emoções e sensações na hora da compra. Por meio de imagens práticas, encontrará novas ideias para incrementar a sua loja de forma criativa e comercial.
+
+
 [Tutor para o Desafio do Código](http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/)
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
@@ -118,3 +135,4 @@ Se você anda pensando alguma dessas coisas quando ouve falar de programação d
 </div>
 
 Para jovens em busca de orientação profissional. Tire suas dúvidas sobre o que fazer do seu futuro.
+
