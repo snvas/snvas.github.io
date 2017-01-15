@@ -8,7 +8,7 @@ permalink: /servicos/
 
 [Formação para Empresas](http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/)
 
-<div style="max-width: 30% !important; float: left;padding: 5%;">
+<div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/" target="_blank">
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2016/04/empresas-plano-568x725.jpg" alt="Formação para Empresas"></a>
 </div>
@@ -21,7 +21,7 @@ Atendimento em grupo e focado em tecnologias gratuitas.
 
 [Formação para Escolas](http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/)
 
-<div style="max-width: 30% !important; float: left;padding: 5%;">
+<div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/" target="_blank">
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2016/04/escolas-plano-568x725.jpg" alt="Formação para Escolas"></a>
 </div>
@@ -34,7 +34,7 @@ Atendimento em grupo e focado em tecnologias gratuitas.
 
 [Formação para Professores](http://professoragoogle.com.br/produtos/shop/formacao-para-professores/)
 
-<div style="max-width: 30% !important; float: left;padding: 5%;">
+<div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-professores/" target="_blank">
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2016/04/professores-plano-568x725.jpg" alt="Formação para Professores"></a>
 </div>
@@ -47,7 +47,7 @@ Atendimento individual e focado em tecnologias gratuitas.
 
 [Mentoria para Estudantes](http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/)
 
-<div style="max-width: 30% !important; float: left;padding: 5%;">
+<div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/" target="_blank">
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2016/11/estudantes-plano-568x725.jpg" alt="Mentoria para Estudantes"></a>
 </div>
@@ -60,7 +60,7 @@ Atendimento individual e focado em tecnologias gratuitas.
 
 [Google Apps em sala de aula – 40 jeitos de usar](http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/)
 
-<div style="max-width: 30% !important; float: left;padding: 5%;">
+<div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/" target="_blank">
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2015/12/40jeitos-1-568x725.jpg" alt="Google Apps em sala de aula – 40 jeitos de usar"></a>
 </div>
@@ -71,7 +71,7 @@ Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escol
 
 [9 Tecnologias Google para usar em Sala de Aula](http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/)
 
-<div style="max-width: 30% !important; float: left;padding: 5%;">
+<div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/" target="_blank">
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2015/12/9tecnologias-1-568x725.jpg" alt="9 Tecnologias Google para usar em Sala de Aula"></a>
 </div>
@@ -82,7 +82,7 @@ Conheça as ferramentas Google para usar em sala de aula e impressionar seus alu
 
 [Ebook Tecnologias para Inovação nas Escolas](http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/)
 
-<div style="max-width: 30% !important; float: left;padding: 5%;">
+<div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/" target="_blank">
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2016/01/livro-edtecnova-568x725.jpg" alt="Ebook Tecnologias para Inovação nas Escolas"></a>
 </div>
@@ -92,7 +92,7 @@ Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucio
 
 [Tutor para o Desafio do Código](http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/)
 
-<div style="max-width: 30% !important; float: left;padding: 5%;">
+<div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/" target="_blank">
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2016/01/tutor-pessoal-568x725.jpg" alt="Tutor para o Desafio do Código"></a>
 </div>
@@ -108,7 +108,7 @@ Se você anda pensando alguma dessas coisas quando ouve falar de programação d
 
 [Mentoria VIP – Desafio do Código](http://professoragoogle.com.br/produtos/shop/mentoria-vip-desafio-do-codigo/)
 
-<div style="max-width: 30% !important; float: left;padding: 5%;">
+<div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/mentoria-vip-desafio-do-codigo/" target="_blank">
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2016/07/mentoria-vip-568x725.jpg" alt="Mentoria VIP – Desafio do Código"></a>
 </div>
