@@ -65,9 +65,10 @@ Atendimento individual e focado em tecnologias gratuitas.
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2015/12/40jeitos-1-568x725.jpg" alt="Google Apps em sala de aula – 40 jeitos de usar"></a>
 </div>
 
-Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escola.
+Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escola. Não importa o tamanho ou o orçamento de sua escola. O Google oferece ferramentas fáceis de usar para envolver os alunos a qualquer hora, em qualquer lugar e em qualquer dispositivo.
+          
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 [9 Tecnologias Google para usar em Sala de Aula](http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/)
 
@@ -78,7 +79,7 @@ Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escol
 
 Conheça as ferramentas Google para usar em sala de aula e impressionar seus alunos.
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 [Ebook Tecnologias para Inovação nas Escolas](http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/)
 
