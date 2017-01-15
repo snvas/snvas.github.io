@@ -8,7 +8,7 @@ permalink: /servicos/
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://soraianovaes.com/vcnagoogle/" target="_blank">
-<img src="images/soraiavcnagoogle.jpg" alt="Seu Negócio no Google"></a>
+<img src="/images/soraiavcnagoogle.jpg" alt="Seu Negócio no Google"></a>
 </div>
 
 Seu próximo cliente pode estar a um clique de distância. Cadastre Seu Negócio no Google
@@ -104,10 +104,28 @@ Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucio
 
 <br><br><br><br>
 
-[Desafio do Código: Roteiro para estudantes, pais e professores](https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q) O Desafio do Código foi criado para inserir tecnologias gratuitas em diferentes ambientes de aprendizagem. Seja em casa ou na escola, num mundo conectado, é preciso saber o que existe de útil na internet para os estudantes. Estruturado como um desafio educacional online e gameficado, que apresenta diversas ferramentas digitais para aprender habilidades importantes para o futuro das crianças e adolescentes: Programação, matemática e inglês.
+[Desafio do Código: Roteiro para estudantes, pais e professores](https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q) 
 
-[VM Book: Visual Merchandising Moda Maringá](https://www.amazon.com.br/VM-Book-Visual-Merchandising-Maringá-ebook/dp/B01DR2QF8I) Com esse book você poderá conhecer um pouco mais sobre a importância de ter uma loja adequada para melhor atender seus clientes e encantá-los. Você perceberá a importância de vender emoções e sensações na hora da compra. Por meio de imagens práticas, encontrará novas ideias para incrementar a sua loja de forma criativa e comercial.
+<div style="max-width: 40% !important; float: left;padding: 5%;">
+<a href="https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q" target="_blank">
+<img src="http://soraianovaes.com/images/desafio-capa.png" alt="Desafio do Código"></a>
+</div>
 
+O Desafio do Código foi criado para inserir tecnologias gratuitas em diferentes ambientes de aprendizagem. Seja em casa ou na escola, num mundo conectado, é preciso saber o que existe de útil na internet para os estudantes. Estruturado como um desafio educacional online e gameficado, que apresenta diversas ferramentas digitais para aprender habilidades importantes para o futuro das crianças e adolescentes: Programação, matemática e inglês.
+
+<br><br>
+
+[VM Book: Visual Merchandising Moda Maringá](https://www.amazon.com.br/VM-Book-Visual-Merchandising-Maringá-ebook/dp/B01DR2QF8I) 
+
+<div style="max-width: 40% !important; float: left;padding: 5%;">
+<a href="https://www.amazon.com.br/VM-Book-Visual-Merchandising-Maring%C3%A1-ebook/dp/B01DR2QF8I/" target="_blank">
+<img src="/images/book-mockup-vm.jpg" alt="VM Book"></a>
+</div>
+
+Com esse book você poderá conhecer um pouco mais sobre a importância de ter uma loja adequada para melhor atender seus clientes e encantá-los.
+Você perceberá a importância de vender emoções e sensações na hora da compra. Por meio de imagens práticas, encontrará novas ideias para incrementar a sua loja de forma criativa e comercial.
+
+<br><br><br>
 
 [Tutor para o Desafio do Código](http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/)
 
