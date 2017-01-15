@@ -67,7 +67,7 @@ Atendimento individual e focado em tecnologias gratuitas.
 
 Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escola.
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 [9 Tecnologias Google para usar em Sala de Aula](http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/)
 
@@ -78,7 +78,7 @@ Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escol
 
 Conheça as ferramentas Google para usar em sala de aula e impressionar seus alunos.
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 [Ebook Tecnologias para Inovação nas Escolas](http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/)
 
@@ -89,7 +89,7 @@ Conheça as ferramentas Google para usar em sala de aula e impressionar seus alu
 
 Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucionar o seu jeito de aprender, produzir e ensinar. Novas tecnologias que facilitam o aprendizado e liberam o professor para um trabalho mais próximo com seus alunos. Conheça as melhores referências para professores e estudantes de todas as idades.
 
-<br><br><br>
+<br><br>
 
 [Tutor para o Desafio do Código](http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/)
 
