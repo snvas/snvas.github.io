@@ -3,7 +3,6 @@ layout: page
 title: Recursos Gratuitos
 permalink: /work/
 ---
-
 <br>
 
 ### [Quanto Custa Fazer um App](http://soraianovaes.com/vcnagoogle/quantocustaapp.html){:target="_blank"} 
