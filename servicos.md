@@ -97,7 +97,7 @@ Conheça as ferramentas Google para usar em sala de aula e impressionar seus alu
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/" target="_blank">
-<img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2016/01/livro-edtecnova-568x725.jpg" alt="Ebook Tecnologias para Inovação nas Escolas"></a>
+<img src="/images/book-mockup.jpg" alt="Ebook Tecnologias para Inovação nas Escolas"></a>
 </div>
 
 Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucionar o seu jeito de aprender, produzir e ensinar. Novas tecnologias que facilitam o aprendizado e liberam o professor para um trabalho mais próximo com seus alunos. Conheça as melhores referências para professores e estudantes de todas as idades.
