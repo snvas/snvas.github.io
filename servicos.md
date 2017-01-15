@@ -17,6 +17,8 @@ Formação tecnológica para empresários, gerentes e colaboradores. Conheciment
 
 Atendimento em grupo e focado em tecnologias gratuitas.
 
+
+
 [Formação para Escolas](http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/)
 
 <div style="max-width: 30% !important; float: left;padding: 5%;">
@@ -39,6 +41,8 @@ Formação tecnológica para profissionais da Educação, docentes, técnico de 
 
 Atendimento individual e focado em tecnologias gratuitas.
 
+
+
 [Mentoria para Estudantes](http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/)
 
 <div style="max-width: 30% !important; float: left;padding: 5%;">
@@ -50,12 +54,16 @@ Mentoria tecnológica para estudantes. Conheça recursos que potencializam sua a
 
 Atendimento individual e focado em tecnologias gratuitas.
 
+
+
 [Google Apps em sala de aula – 40 jeitos de usar](http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/)
 
 <div style="max-width: 30% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/" target="_blank">
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2015/12/40jeitos-1-568x725.jpg" alt="Google Apps em sala de aula – 40 jeitos de usar"></a>
 </div>
+
+
 
 Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escola.
 
@@ -68,6 +76,8 @@ Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escol
 
 Conheça as ferramentas Google para usar em sala de aula e impressionar seus alunos.
 
+
+
 [Ebook Tecnologias para Inovação nas Escolas](http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/)
 
 <div style="max-width: 30% !important; float: left;padding: 5%;">
@@ -76,6 +86,7 @@ Conheça as ferramentas Google para usar em sala de aula e impressionar seus alu
 </div>
 
 Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucionar o seu jeito de aprender, produzir e ensinar. Novas tecnologias que facilitam o aprendizado e liberam o professor para um trabalho mais próximo com seus alunos. Conheça as melhores referências para professores e estudantes de todas as idades.
+
 
 [Tutor para o Desafio do Código](http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/)
 
