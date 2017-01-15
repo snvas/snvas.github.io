@@ -90,6 +90,6 @@ O curso começa dia 23/11/2017 [no Coursera](https://www.coursera.org/learn/fund
 
 ### Outros Recursos
 
-Veja uma [lista completa](2017-01-04-tudo-o-que-tem-na-google-para-educadores.markdown) com os serviços, produtos, ferramentas, recursos e projetos da Google para Educadores.
+Veja uma [lista completa](tudo-o-que-tem-na-google-para-educadores) com os serviços, produtos, ferramentas, recursos e projetos da Google para Educadores.
 
-Para saber tudo o que a Google oferece, [veja a lista completa aqui](2016-12-27-tudo-o-que-tem-na-google.markdown).
+Para saber tudo o que a Google oferece, [veja a lista completa aqui](tudo-o-que-tem-na-google).
