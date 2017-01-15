@@ -56,7 +56,7 @@ Mentoria tecnológica para estudantes. Conheça recursos que potencializam sua a
 
 Atendimento individual e focado em tecnologias gratuitas.
 
-<br><br>
+<br><br><br><br>
 
 [Google Apps em sala de aula – 40 jeitos de usar](http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/)
 
@@ -65,9 +65,9 @@ Atendimento individual e focado em tecnologias gratuitas.
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2015/12/40jeitos-1-568x725.jpg" alt="Google Apps em sala de aula – 40 jeitos de usar"></a>
 </div>
 
-<br><br><br><br>
-
 Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escola.
+
+<br><br><br><br>
 
 [9 Tecnologias Google para usar em Sala de Aula](http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/)
 
