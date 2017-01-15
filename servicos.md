@@ -6,8 +6,6 @@ permalink: /servicos/
 
 ### Serviços
 
-<div style="width: '100%">
-
 [Formação para Empresas](http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/)
 
 <div style="max-width: 30% !important; float: left;padding: 5%;">
@@ -18,10 +16,8 @@ permalink: /servicos/
 Formação tecnológica para empresários, gerentes e colaboradores. Conhecimentos técnicos que potencializam a produtividade da sua equipe. Entenda como usar a tecnologia a seu favor, dentro e fora da empresa.
 
 Atendimento em grupo e focado em tecnologias gratuitas.
-</div>
-<div style="clear: both;"></div>
 
-<div style="width: '100%">
+<br><br>
 
 [Formação para Escolas](http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/)
 
@@ -34,8 +30,7 @@ Formação tecnológica para gestores, coordenadores, docentes e técnico de ens
 
 Atendimento em grupo e focado em tecnologias gratuitas.
 
-</div>
-<div style="clear: both;"></div>
+<br><br>
 
 [Formação para Professores](http://professoragoogle.com.br/produtos/shop/formacao-para-professores/)
 
@@ -48,7 +43,7 @@ Formação tecnológica para profissionais da Educação, docentes, técnico de 
 
 Atendimento individual e focado em tecnologias gratuitas.
 
-
+<br><br>
 
 [Mentoria para Estudantes](http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/)
 
@@ -61,7 +56,7 @@ Mentoria tecnológica para estudantes. Conheça recursos que potencializam sua a
 
 Atendimento individual e focado em tecnologias gratuitas.
 
-
+<br><br>
 
 [Google Apps em sala de aula – 40 jeitos de usar](http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/)
 
@@ -70,7 +65,7 @@ Atendimento individual e focado em tecnologias gratuitas.
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2015/12/40jeitos-1-568x725.jpg" alt="Google Apps em sala de aula – 40 jeitos de usar"></a>
 </div>
 
-
+<br><br>
 
 Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escola.
 
@@ -83,7 +78,7 @@ Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escol
 
 Conheça as ferramentas Google para usar em sala de aula e impressionar seus alunos.
 
-
+<br><br>
 
 [Ebook Tecnologias para Inovação nas Escolas](http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/)
 
