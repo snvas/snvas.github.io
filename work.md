@@ -4,8 +4,9 @@ title: Recursos Gratuitos
 permalink: /work/
 ---
 
+<br><br>
 
-[Quanto Custa Fazer um App](http://soraianovaes.com/vcnagoogle/quantocustaapp.html){:target="_blank"} 
+### [Quanto Custa Fazer um App](http://soraianovaes.com/vcnagoogle/quantocustaapp.html){:target="_blank"} 
 
 Receba gratuitamente uma projeção do investimento necessário para fazer o seu aplicativo. Responda às perguntas sobre os requisitos desejados e receba por email nossa avaliação.
 
