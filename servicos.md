@@ -5,7 +5,7 @@ permalink: /servicos/
 ---
 
 <div style="width: 100%">
-<h2><a href="http://soraianovaes.com/vcnagoogle/" target="_blank">Seu Negócio no Google</a></h2>
+<h4><a href="http://soraianovaes.com/vcnagoogle/" target="_blank">Seu Negócio no Google</a></h4>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://soraianovaes.com/vcnagoogle/" target="_blank">
@@ -17,9 +17,9 @@ Seu próximo cliente pode estar a um clique de distância. Cadastre Seu Negócio
 Quando você aparece no Google, os clientes têm mais facilidade de encontrar informações sobre sua empresa, como horários de funcionamento, informações de contato e rotas.
 
 </div>
-
+<div style="clear: both;"></div>
 <div style="width: 100%">
-<h2><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/" target="_blank">Formação para Empresas</a></h2>
+<h4><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/" target="_blank">Formação para Empresas</a></h4>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/" target="_blank">
@@ -31,8 +31,9 @@ Formação tecnológica para empresários, gerentes e colaboradores. Conheciment
 Atendimento em grupo e focado em tecnologias gratuitas.
 </div>
 
+<div style="clear: both;"></div>
 <div style="width: 100%">
-<h2><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/" target="_blank">Formação para Escolas</a></h2>
+<h4><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/" target="_blank">Formação para Escolas</a></h4>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/" target="_blank">
@@ -45,8 +46,9 @@ Atendimento em grupo e focado em tecnologias gratuitas.
 
 </div>
 
-
-[Formação para Professores](http://professoragoogle.com.br/produtos/shop/formacao-para-professores/)
+<div style="clear: both;"></div>
+<div style="width: 100%">
+<h4><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-professores/" target="_blank">Formação para Professores</a></h4>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-professores/" target="_blank">
@@ -56,10 +58,11 @@ Atendimento em grupo e focado em tecnologias gratuitas.
 Formação tecnológica para profissionais da Educação, docentes, técnico de ensino, educadores. Adquira conhecimentos técnicos que potencializam sua atuação pedagógica. Entenda como usar a tecnologia a seu favor, dentro e fora da sala de aula.
 
 Atendimento individual e focado em tecnologias gratuitas.
+</div>
 
-<br><br><br>
-
-[Mentoria para Estudantes](http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/)
+<div style="clear: both;"></div>
+<div style="width: 100%">
+<h4><a href="http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/" target="_blank">Mentoria para Estudantes</a></h4>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/" target="_blank">
@@ -70,9 +73,12 @@ Mentoria tecnológica para estudantes. Conheça recursos que potencializam sua a
 
 Atendimento individual e focado em tecnologias gratuitas.
 
-<br><br><br><br>
+</div>
 
-[Google Apps em sala de aula – 40 jeitos de usar](http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/)
+<div style="clear: both;"></div>
+<div style="width: 100%">
+<h4><a href="http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/" target="_blank">Google Apps em sala de aula – 40 jeitos de usar</a></h4>
+
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/" target="_blank">
@@ -80,11 +86,13 @@ Atendimento individual e focado em tecnologias gratuitas.
 </div>
 
 Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escola. Não importa o tamanho ou o orçamento de sua escola. O Google oferece ferramentas fáceis de usar para envolver os alunos a qualquer hora, em qualquer lugar e em qualquer dispositivo.
-          
 
-<br><br><br><br><br><br>
+</div>
 
-[9 Tecnologias Google para usar em Sala de Aula](http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/)
+<div style="clear: both;"></div>
+<div style="width: 100%">
+<h4><a href="http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/" target="_blank">9 Tecnologias Google para usar em Sala de Aula</a></h4>
+
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/" target="_blank">
@@ -93,9 +101,11 @@ Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escol
 
 Conheça as ferramentas Google para usar em sala de aula e impressionar seus alunos.
 
-<br><br><br><br><br><br><br><br><br>
+</div>
 
-[Ebook Tecnologias para Inovação nas Escolas](http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/)
+<div style="clear: both;"></div>
+<div style="width: 100%">
+<h4><a href="http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/" target="_blank">Ebook Tecnologias para Inovação nas Escolas</a></h4>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/" target="_blank">
@@ -104,9 +114,11 @@ Conheça as ferramentas Google para usar em sala de aula e impressionar seus alu
 
 Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucionar o seu jeito de aprender, produzir e ensinar. Novas tecnologias que facilitam o aprendizado e liberam o professor para um trabalho mais próximo com seus alunos. Conheça as melhores referências para professores e estudantes de todas as idades.
 
-<br><br><br><br>
+</div>
 
-[Desafio do Código: Roteiro para estudantes, pais e professores](https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q) 
+<div style="clear: both;"></div>
+<div style="width: 100%">
+<h4><a href="https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q" target="_blank">Desafio do Código: Roteiro para estudantes, pais e professores</a></h4>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q" target="_blank">
@@ -115,9 +127,11 @@ Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucio
 
 O Desafio do Código foi criado para inserir tecnologias gratuitas em diferentes ambientes de aprendizagem. Seja em casa ou na escola, num mundo conectado, é preciso saber o que existe de útil na internet para os estudantes. Estruturado como um desafio educacional online e gameficado, que apresenta diversas ferramentas digitais para aprender habilidades importantes para o futuro das crianças e adolescentes: Programação, matemática e inglês.
 
-<br><br>
+</div>
 
-[VM Book: Visual Merchandising Moda Maringá](https://www.amazon.com.br/VM-Book-Visual-Merchandising-Maringá-ebook/dp/B01DR2QF8I) 
+<div style="clear: both;"></div>
+<div style="width: 100%">
+<h4><a href="https://www.amazon.com.br/VM-Book-Visual-Merchandising-Maringá-ebook/dp/B01DR2QF8I" target="_blank">VM Book: Visual Merchandising Moda Maringá</a></h4>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="https://www.amazon.com.br/VM-Book-Visual-Merchandising-Maring%C3%A1-ebook/dp/B01DR2QF8I/" target="_blank">
@@ -127,9 +141,12 @@ O Desafio do Código foi criado para inserir tecnologias gratuitas em diferentes
 Com esse book você poderá conhecer um pouco mais sobre a importância de ter uma loja adequada para melhor atender seus clientes e encantá-los.
 Você perceberá a importância de vender emoções e sensações na hora da compra. Por meio de imagens práticas, encontrará novas ideias para incrementar a sua loja de forma criativa e comercial.
 
-<br><br><br>
+</div>
 
-[Tutor para o Desafio do Código](http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/)
+<div style="clear: both;"></div>
+<div style="width: 100%">
+<h4><a href="http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/" target="_blank">Tutor para o Desafio do Código</a></h4>
+
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/" target="_blank">
@@ -145,9 +162,11 @@ Não vou conseguir lidar com tanta tecnologia!
 
 Se você anda pensando alguma dessas coisas quando ouve falar de programação de computadores, o que você precisa para completar o Desafio do Código é o apoio de um tutor. 
 
-<br><br>
+</div>
 
-[Mentoria VIP – Desafio do Código](http://professoragoogle.com.br/produtos/shop/mentoria-vip-desafio-do-codigo/)
+<div style="clear: both;"></div>
+<div style="width: 100%">
+<h4><a href="http://professoragoogle.com.br/produtos/shop/mentoria-vip-desafio-do-codigo/" target="_blank">Mentoria VIP – Desafio do Código</a></h4>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/mentoria-vip-desafio-do-codigo/" target="_blank">
@@ -156,3 +175,5 @@ Se você anda pensando alguma dessas coisas quando ouve falar de programação d
 
 Para jovens em busca de orientação profissional. Tire suas dúvidas sobre o que fazer do seu futuro.
 
+
+</div>
