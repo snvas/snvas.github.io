@@ -51,22 +51,20 @@ layout: default
   <div style="clear: both">
   <hr/>
 
-<ul class="blog-tags-list">
   {% assign sorted_tags = site.tags | sort %}
   {% for tag in sorted_tags %}
     {% assign t = tag | first %}
     {% assign posts = tag | last %}
-    <li class="blog-tag-item" id="{{ t }}-item">
-      <a href onclick="filter('{{ t }}'); return false;#post">{{ t }}</a>
-    </li>
+   
+      <a href onclick="filter('{{ t }}'); return false;">{{ t }}</a>&nbsp;&nbsp;&nbsp;
+   
   {% endfor %}
-</ul>
 
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
   <div class="blog-list-container hidden" id="{{ t }}-container">
-    <div class="list-item" id="post">
+    <div class="list-item">
       {% for post in posts %}
         {% if post.tags contains t %}
           <h3 class="list-post-title">
