@@ -17,7 +17,7 @@ Formação tecnológica para empresários, gerentes e colaboradores. Conheciment
 
 Atendimento em grupo e focado em tecnologias gratuitas.
 
-<br><br>
+<br><br><br><br>
 
 [Formação para Escolas](http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/)
 
@@ -43,7 +43,7 @@ Formação tecnológica para profissionais da Educação, docentes, técnico de 
 
 Atendimento individual e focado em tecnologias gratuitas.
 
-<br><br>
+<br><br><br><br>
 
 [Mentoria para Estudantes](http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/)
 
@@ -65,7 +65,7 @@ Atendimento individual e focado em tecnologias gratuitas.
 <img src="http://professoragoogle.com.br/produtos/wp-content/uploads/2015/12/40jeitos-1-568x725.jpg" alt="Google Apps em sala de aula – 40 jeitos de usar"></a>
 </div>
 
-<br><br>
+<br><br><br><br>
 
 Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escola.
 
@@ -78,7 +78,7 @@ Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escol
 
 Conheça as ferramentas Google para usar em sala de aula e impressionar seus alunos.
 
-<br><br>
+<br><br><br><br>
 
 [Ebook Tecnologias para Inovação nas Escolas](http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/)
 
@@ -89,6 +89,7 @@ Conheça as ferramentas Google para usar em sala de aula e impressionar seus alu
 
 Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucionar o seu jeito de aprender, produzir e ensinar. Novas tecnologias que facilitam o aprendizado e liberam o professor para um trabalho mais próximo com seus alunos. Conheça as melhores referências para professores e estudantes de todas as idades.
 
+<br><br>
 
 [Tutor para o Desafio do Código](http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/)
 
