@@ -6,7 +6,7 @@ permalink: /servicos/
 
 <div style="width: 100%">
 <br/>
-<h4><a href="http://soraianovaes.com/vcnagoogle/" target="_blank">Seu Negócio no Google</a></h4>
+<h3><a href="http://soraianovaes.com/vcnagoogle/" target="_blank">Seu Negócio no Google</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://soraianovaes.com/vcnagoogle/" target="_blank">
@@ -20,7 +20,7 @@ Quando você aparece no Google, os clientes têm mais facilidade de encontrar in
 </div>
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/" target="_blank">Formação para Empresas</a></h4>
+<h3><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/" target="_blank">Formação para Empresas</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/" target="_blank">
@@ -34,7 +34,7 @@ Atendimento em grupo e focado em tecnologias gratuitas.
 
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/" target="_blank">Formação para Escolas</a></h4>
+<h3><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/" target="_blank">Formação para Escolas</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/" target="_blank">
@@ -49,7 +49,7 @@ Atendimento em grupo e focado em tecnologias gratuitas.
 
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-professores/" target="_blank">Formação para Professores</a></h4>
+<h3><a href="http://professoragoogle.com.br/produtos/shop/formacao-para-professores/" target="_blank">Formação para Professores</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/formacao-para-professores/" target="_blank">
@@ -63,7 +63,7 @@ Atendimento individual e focado em tecnologias gratuitas.
 
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/" target="_blank">Mentoria para Estudantes</a></h4>
+<h3><a href="http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/" target="_blank">Mentoria para Estudantes</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/" target="_blank">
@@ -78,7 +78,7 @@ Atendimento individual e focado em tecnologias gratuitas.
 
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/" target="_blank">Google Apps em sala de aula – 40 jeitos de usar</a></h4>
+<h3><a href="http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/" target="_blank">Google Apps em sala de aula – 40 jeitos de usar</a></h3>
 
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
@@ -92,7 +92,7 @@ Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escol
 
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/" target="_blank">9 Tecnologias Google para usar em Sala de Aula</a></h4>
+<h3><a href="http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/" target="_blank">9 Tecnologias Google para usar em Sala de Aula</a></h3>
 
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
@@ -106,7 +106,7 @@ Conheça as ferramentas Google para usar em sala de aula e impressionar seus alu
 
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/" target="_blank">Ebook Tecnologias para Inovação nas Escolas</a></h4>
+<h3><a href="http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/" target="_blank">Ebook Tecnologias para Inovação nas Escolas</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/" target="_blank">
@@ -119,7 +119,7 @@ Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucio
 
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q" target="_blank">Desafio do Código: Roteiro para estudantes, pais e professores</a></h4>
+<h3><a href="https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q" target="_blank">Desafio do Código: Roteiro para estudantes, pais e professores</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q" target="_blank">
@@ -132,7 +132,7 @@ O Desafio do Código foi criado para inserir tecnologias gratuitas em diferentes
 
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="https://www.amazon.com.br/VM-Book-Visual-Merchandising-Maringá-ebook/dp/B01DR2QF8I" target="_blank">VM Book: Visual Merchandising Moda Maringá</a></h4>
+<h3><a href="https://www.amazon.com.br/VM-Book-Visual-Merchandising-Maringá-ebook/dp/B01DR2QF8I" target="_blank">VM Book: Visual Merchandising Moda Maringá</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="https://www.amazon.com.br/VM-Book-Visual-Merchandising-Maring%C3%A1-ebook/dp/B01DR2QF8I/" target="_blank">
@@ -146,7 +146,7 @@ Você perceberá a importância de vender emoções e sensações na hora da com
 
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/" target="_blank">Tutor para o Desafio do Código</a></h4>
+<h3><a href="http://professoragoogle.com.br/produtos/shop/tutor-para-o-desafio-do-codigo/" target="_blank">Tutor para o Desafio do Código</a></h3>
 
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
@@ -167,7 +167,7 @@ Se você anda pensando alguma dessas coisas quando ouve falar de programação d
 
 <div style="clear: both;"></div>
 <div style="width: 100%">
-<h4><a href="http://professoragoogle.com.br/produtos/shop/mentoria-vip-desafio-do-codigo/" target="_blank">Mentoria VIP – Desafio do Código</a></h4>
+<h3><a href="http://professoragoogle.com.br/produtos/shop/mentoria-vip-desafio-do-codigo/" target="_blank">Mentoria VIP – Desafio do Código</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="http://professoragoogle.com.br/produtos/shop/mentoria-vip-desafio-do-codigo/" target="_blank">
