@@ -6,6 +6,8 @@ permalink: /servicos/
 
 ### Serviços
 
+<div style="width: '100%">
+
 [Formação para Empresas](http://professoragoogle.com.br/produtos/shop/formacao-para-empresas/)
 
 <div style="max-width: 30% !important; float: left;padding: 5%;">
@@ -16,8 +18,10 @@ permalink: /servicos/
 Formação tecnológica para empresários, gerentes e colaboradores. Conhecimentos técnicos que potencializam a produtividade da sua equipe. Entenda como usar a tecnologia a seu favor, dentro e fora da empresa.
 
 Atendimento em grupo e focado em tecnologias gratuitas.
+</div>
+<div style="clear: both;"></div>
 
-
+<div style="width: '100%">
 
 [Formação para Escolas](http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/)
 
@@ -29,6 +33,9 @@ Atendimento em grupo e focado em tecnologias gratuitas.
 Formação tecnológica para gestores, coordenadores, docentes e técnico de ensino de uma mesma escola. Conhecimentos técnicos que potencializam sua atuação pedagógica da sua equipe. Entenda como usar a tecnologia a seu favor, dentro e fora da sala de aula.
 
 Atendimento em grupo e focado em tecnologias gratuitas.
+
+</div>
+<div style="clear: both;"></div>
 
 [Formação para Professores](http://professoragoogle.com.br/produtos/shop/formacao-para-professores/)
 
