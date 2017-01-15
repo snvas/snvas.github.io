@@ -87,3 +87,9 @@ O curso começa dia 23/11/2017 [no Coursera](https://www.coursera.org/learn/fund
 [9 Tecnologias Google para usar em Sala de Aula](http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/){:target="_blank"}{:target="_blank"}
 
 [Google Apps em sala de aula – 40 jeitos de usar](http://professoragoogle.com.br/produtos/shop/40-jeitos-de-usar-google-apps-em-sala-de-aula/){:target="_blank"}
+
+### Outros Recursos
+
+Veja uma [lista completa](2017-01-04-tudo-o-que-tem-na-google-para-educadores.markdown) com os serviços, produtos, ferramentas, recursos e projetos da Google para Educadores.
+
+Para saber tudo o que a Google oferece, [veja a lista completa aqui](2016-12-27-tudo-o-que-tem-na-google.markdown).
