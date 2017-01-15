@@ -17,7 +17,7 @@ Formação tecnológica para empresários, gerentes e colaboradores. Conheciment
 
 Atendimento em grupo e focado em tecnologias gratuitas.
 
-<br><br><br><br>
+<br><br><br>
 
 [Formação para Escolas](http://professoragoogle.com.br/produtos/shop/formacao-para-escolas/)
 
@@ -43,7 +43,7 @@ Formação tecnológica para profissionais da Educação, docentes, técnico de 
 
 Atendimento individual e focado em tecnologias gratuitas.
 
-<br><br><br><br>
+<br><br><br>
 
 [Mentoria para Estudantes](http://professoragoogle.com.br/produtos/shop/mentoria-para-estudantes/)
 
@@ -67,7 +67,7 @@ Atendimento individual e focado em tecnologias gratuitas.
 
 Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escola.
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 [9 Tecnologias Google para usar em Sala de Aula](http://professoragoogle.com.br/produtos/shop/9-tecnologias-google-para-usar-em-sala-de-aula/)
 
@@ -78,7 +78,7 @@ Exemplos práticos de como incorporar as ferramentas do Google Apps na sua escol
 
 Conheça as ferramentas Google para usar em sala de aula e impressionar seus alunos.
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 [Ebook Tecnologias para Inovação nas Escolas](http://professoragoogle.com.br/produtos/shop/ebook-tecnologias-para-inovacao-nas-escolas/)
 
@@ -106,6 +106,8 @@ Não consigo entender uma plataforma nova!
 Não vou conseguir lidar com tanta tecnologia!
 
 Se você anda pensando alguma dessas coisas quando ouve falar de programação de computadores, o que você precisa para completar o Desafio do Código é o apoio de um tutor. 
+
+<br><br>
 
 [Mentoria VIP – Desafio do Código](http://professoragoogle.com.br/produtos/shop/mentoria-vip-desafio-do-codigo/)
 
