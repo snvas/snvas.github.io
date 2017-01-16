@@ -6,7 +6,7 @@ author: soraia
 tags: 
  - storytelling
 ---
-veja a evolução dos vídeos do cara que viaja pelo mundo dançando mal com outras pessoas. 
+Veja a evolução dos vídeos do cara que viaja pelo mundo dançando mal com outras pessoas.
 
 <iframe 
   width="100%" 

@@ -14,3 +14,7 @@ tags:
   frameborder="0" 
   allowfullscreen>
 </iframe>
+
+### [Por que aprender a programar?](por-que-aprender-programar)
+
+Saiba mais no [Desafio do Código](http://desafiodocodigo.com.br)

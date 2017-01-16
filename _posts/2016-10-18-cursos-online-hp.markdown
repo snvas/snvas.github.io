@@ -64,6 +64,22 @@ Benefícios de marketing versus características
 Eficiência energética: Fazer mais por menos 
 <a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/hp+life/" target="_blank"><button class="btn">Saiba Mais</button></a>
 
+Veja ainda:
+
+#### [35 Cursos Online Gratuitos da UDACITY](cursos-online-udacity)
+
+#### [Mais de 15 Cursos Online Gratuitos da FIAP](cursos-online-fiap)
+
+#### [Mais de 40 Cursos Online Gratuitos da FGV](cursos-online-fgv)
+
+#### [Mais de 30 Cursos Online Gratuitos da Intel](cursos-online-intel)
+
+#### [Mais de 70 Cursos Online Gratuitos da Microfoft](cursos-online-microsof)
+
+#### [Por que não usar o Office 365](office365)
+
+#### [Encontre mais de 700 Cursos Online Gratuitos](cursos-online-gratuitos)
+
 Você também pode encontrar + 700 cursos online gratuitos organizados por área:
 
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Agropecu%E1ria/#cursos" target="_blank">Agropecuária</a>

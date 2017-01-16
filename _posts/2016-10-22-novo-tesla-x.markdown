@@ -14,3 +14,5 @@ tags:
   frameborder="0" 
   allowfullscreen>
 </iframe>
+
+Mais inovação no carro compartilhado Car2Go [assista ao video](carro-compartilhado).
