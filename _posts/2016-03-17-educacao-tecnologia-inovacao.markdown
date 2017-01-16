@@ -20,3 +20,5 @@ Quando se fala em tecnologia para educação sempre nos preocupamos com as limit
 
 Com o avanço na utilização de smartphones e rede móveis, seria muito útil aproveitar esse acesso em prol da educação. 
 
+Encontre os [Recursos Gratuitos](/work/) e os [Serviços](/servicos/).
+

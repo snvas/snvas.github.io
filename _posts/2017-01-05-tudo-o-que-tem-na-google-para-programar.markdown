@@ -414,3 +414,5 @@ O WebP é um formato de imagem moderno que oferece compactação sem perdas e pe
 </script>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdi9kNMLT-6u0Gls_ahOfqEYN8Eg4VxSbcWryywwi9pmBB85w/viewform?embedded=true" width="100%" height="1150" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+Para saber tudo o que a Google oferece, [veja a lista completa aqui](tudo-o-que-tem-na-google).

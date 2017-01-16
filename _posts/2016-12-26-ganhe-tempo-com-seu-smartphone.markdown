@@ -14,3 +14,5 @@ Hoje coloquei no ar o primeiro deles, confere lá!
 [Como Ganhar Tempo com Seu Smartphone](https://academia-inovadores.appspot.com/ganhartempo_smartphone)!
 
 Esse curso apresenta ferramentas para agilizar sua comunicação e melhorar a sua organização de tempo. 
+
+Veja mais [Cursos Gratuitos](/cursos/)
