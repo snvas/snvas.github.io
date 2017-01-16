@@ -15,4 +15,4 @@ Hoje coloquei no ar o primeiro deles, confere lá!
 
 Esse curso apresenta ferramentas para agilizar sua comunicação e melhorar a sua organização de tempo. 
 
-Veja mais [Cursos Gratuitos](/cursos/)
+Veja mais [Cursos Gratuitos](/cursos/).
