@@ -21,3 +21,5 @@ Por sete anos cortei muitas revistas e guardei como se guardavam papéis de cart
 
 <a href="http://propagandaemrevista.com.br/" target="_blank"><button class="btn">Acesse o Acervo</button></a>
 
+Descrubra outros [recursos gratuitos](/work/).
+

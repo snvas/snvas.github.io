@@ -27,3 +27,10 @@ tags:
 
 [![Memrise](/images/memrise-edtecnova.jpg)](http://edtecnova.com.br/?page=44){:target="_blank"}
 <br/><br/>
+
+Veja também:
+
+#### [5 Plataformas que todo Professor Precisa Conhecer](plataformar-para-professores)
+
+#### [5 Palestras de Professores Inspiradores no TED](professores-inspiradores)
+

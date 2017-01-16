@@ -51,3 +51,9 @@ Rita Pierson, professora há 40 anos, ouviu uma colega dizer: "Não me pagam par
 
 <iframe src="https://embed.ted.com/talks/lang/pt-br/rita_pierson_every_kid_needs_a_champion" width="100%" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <br/><br/>
+
+Veja também:
+
+#### [5 Plataformas que todo Professor Precisa Conhecer](plataformar-para-professores)
+
+#### [4 Jogos para Aprender Inglês](jogos-para-aprender-ingles)

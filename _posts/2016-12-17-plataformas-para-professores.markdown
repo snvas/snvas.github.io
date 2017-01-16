@@ -7,6 +7,8 @@ tags:
  - professores
 ---
 
+E saber usar...
+
 ### Google Acadêmico
 
 [![Google Acadêmico](/images/academico-edtecnova.jpg)](http://edtecnova.com.br/?page=48){:target="_blank"}
@@ -31,3 +33,9 @@ tags:
 
 [![G Suite](/images/apps-edtecnova.jpg)](http://edtecnova.com.br/?page=111){:target="_blank"}
 <br/><br/>
+
+Veja também:
+
+#### [5 Palestras de Professores Inspiradores no TED](professores-inspiradores)
+
+#### [4 Jogos para Aprender Inglês](jogos-para-aprender-ingles)

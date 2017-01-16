@@ -16,3 +16,12 @@ Murilo Gun foi um dos pioneiros da internet no Brasil. Ganhou dois prêmios iBes
   frameborder="0" 
   allowfullscreen>
 </iframe>
+
+Veja também:
+
+#### [5 Plataformas que todo Professor Precisa Conhecer](plataformar-para-professores)
+
+#### [4 Jogos para Aprender Inglês](jogos-para-aprender-ingles)
+
+#### [5 Palestras de Professores Inspiradores no TED](professores-inspiradores)
+

@@ -33,3 +33,11 @@ Simon Sinek possui um modelo simples mas potente de liderança inspiradora, part
 
 <iframe src="http://embed.ted.com/talks/lang/pt-br/simon_sinek_how_great_leaders_inspire_action" width="100%" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <br/><br/>
+
+Veja também:
+
+#### [5 Plataformas que todo Professor Precisa Conhecer](plataformar-para-professores)
+
+#### [4 Jogos para Aprender Inglês](jogos-para-aprender-ingles)
+
+#### [5 Palestras de Professores Inspiradores no TED](professores-inspiradores)
