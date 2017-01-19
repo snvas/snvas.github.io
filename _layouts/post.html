@@ -66,7 +66,7 @@ layout: default
 </div>
   <div style="float:left;">
   	{% if page.previous %}
-    	<a class="post-date" href="{{ page.previous.url }}">Anterior</a>
+    	<a class="post-date  social-icons" href="{{ page.previous.url }}">Anterior</a>
   	{% else %}
     	<span class="post-date social-icons">Anterior</span>
   	{% endif %}
@@ -74,12 +74,12 @@ layout: default
   <div style="float: right">
   	{% if page.next %}
     	{% if page.next == 1 %}
-      <a class="post-date" href="/">Próximo</a>
+      <a class="post-date  social-icons" href="/">Próximo</a>
     	{% else %}
-      <a class="post-date" href="{{ page.next.url }}">Próximo</a>
+      <a class="post-date  social-icons" href="{{ page.next.url }}">Próximo</a>
     	{% endif %}
   	{% else %}
-    <span class="post-date">Próximo</span>
+    <span class="post-date  social-icons">Próximo</span>
   	{% endif %}
   </div>
   <div style="clear: both">
