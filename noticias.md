@@ -4,7 +4,7 @@ title: Notícias
 permalink: /noticias/
 ---
 
-### Notícias via MIT News, MIT Research, TechRadar, Wired, Gadgets, TechRepublic, Techtimes, Cnet e Google 
+### RSS via MIT News, MIT Research, TechRadar, Wired, Gadgets, TechRepublic, Techtimes, Cnet e Google 
 
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
