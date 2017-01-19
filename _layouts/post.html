@@ -27,6 +27,8 @@ layout: default
         </a> | <time>{{ page.date | date_to_string }}</time>
     	<span class="reading-time"> | {{minutesText}}</span>
    </div>
+
+   <div style="width: 100%; margin-bottom: 5px;">
    <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
 <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
@@ -42,9 +44,10 @@ layout: default
 </div>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
-
+</div>
 
     {{ content }}
+     <div style="width: 100%; margin-top: 5px; margin-bottom: 5px;">
  <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
 <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
@@ -60,7 +63,7 @@ layout: default
 </div>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
-
+</div>
   <div style="float:left;">
   	{% if page.previous %}
     	<a class="post-date" href="{{ page.previous.url }}">Anterior</a>
