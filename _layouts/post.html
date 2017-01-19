@@ -64,9 +64,10 @@ layout: default
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 </div>
+<div style="width: 100%; margin-top: 25px; margin-bottom: 15px;">
   <div style="float:left;">
   	{% if page.previous %}
-    	<a class="post-date  next" href="{{ page.previous.url }}">Anterior</a>
+    	<a class="post-date next" href="{{ page.previous.url }}">Anterior</a>
   	{% else %}
     	<span class="post-date next">Anterior</span>
   	{% endif %}
@@ -81,6 +82,7 @@ layout: default
   	{% else %}
     <span class="post-date next">Próximo</span>
   	{% endif %}
+  </div>
   </div>
   <div style="clear: both">
   <hr/>
