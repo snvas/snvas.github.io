@@ -4,7 +4,7 @@ title: Notícias
 permalink: /noticias/
 ---
 
-### Notícias via MIT News, MIT Research, TechRadar e Wired 
+### Notícias via MIT News, MIT Research, TechRadar, Wired, Gadgets, TechRepublic, Techtimes, Cnet e Google 
 
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
@@ -12,7 +12,7 @@ permalink: /noticias/
 rssfeed_url = new Array(); 
 rssfeed_url[0]="http://news.mit.edu/rss/feed"; rssfeed_url[1]="http://www.techradar.com/rss"; rssfeed_url[2]="http://news.mit.edu/rss/research"; rssfeed_url[3]="https://www.wired.com/category/design/feed/"; rssfeed_url[4]="http://gadgets.ndtv.com/rss/news"; rssfeed_url[5]="http://www.techrepublic.com/rssfeeds/articles/latest/"; rssfeed_url[6]="http://www.techtimes.com/rss/archives/mostpopular.xml"; rssfeed_url[7]="https://www.cnet.com/rss/news/"; rssfeed_url[8]="https://news.google.com/news?cf=all&hl=pt-BR&pz=1&ned=pt-BR_br&topic=t&output=rss"; 
 rssfeed_frame_width="100%"; 
-rssfeed_frame_height="1500"; 
+rssfeed_frame_height="2000"; 
 rssfeed_scroll="on"; 
 rssfeed_scroll_step="6"; 
 rssfeed_scroll_bar="off"; 
@@ -39,7 +39,7 @@ rssfeed_item_border_bottom="on";
 rssfeed_item_source_icon="off"; 
 rssfeed_item_date="off"; 
 rssfeed_item_description="on"; 
-rssfeed_item_description_length="200"; 
+rssfeed_item_description_length="500"; 
 rssfeed_item_description_color="#666"; 
 rssfeed_item_description_link_color="#333"; 
 rssfeed_item_description_tag="off"; 
