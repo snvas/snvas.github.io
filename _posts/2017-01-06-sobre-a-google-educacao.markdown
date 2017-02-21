@@ -79,7 +79,7 @@ Este curso é oferecido pelo Google em parceria com a Fundação Lemann e a Fore
 4. Melhorar a experiência em sala de aula: utilize ferramentas online para melhorar a comunicação e aspectos visuais nas aulas.
 5. Saiba mais: encontre links e conteúdos interessantes de assuntos relacionados ao uso de tecnologia em sala de aula.
 
-O curso começa dia 23/11/2017 [no Coursera](https://www.coursera.org/learn/fundamentosgoogle){:target="_blank"}
+O curso está disponível [no Coursera](https://www.coursera.org/learn/fundamentosgoogle){:target="_blank"}
 
 ### Slides
 
