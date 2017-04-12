@@ -90,7 +90,7 @@ Experimentos com os recursos do Chrome
 
 #### Cloud Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/){:target="_blank"} 
 Managed Spark e Hadoop na nuvem. Rápido, fácil de usar e baixo custo.
-Use o Google Cloud Dataproc, um Apache Hadoop, o Apache Spark, o Apache Pig eo serviço Apache Hive, para processar facilmente grandes conjuntos de dados a baixo custo. Controle seus custos criando rapidamente clusters gerenciados de qualquer tamanho e desligando-os quando terminar. O Cloud Dataproc é integrado em todos os produtos do Google Cloud Platform, oferecendo uma plataforma de processamento de dados completa e poderosa.
+Use o Google Cloud Dataproc, um Apache Hadoop, o Apache Spark, o Apache Pig e o serviço Apache Hive, para processar facilmente grandes conjuntos de dados a baixo custo. Controle seus custos criando rapidamente clusters gerenciados de qualquer tamanho e desligando-os quando terminar. O Cloud Dataproc é integrado em todos os produtos do Google Cloud Platform, oferecendo uma plataforma de processamento de dados completa e poderosa.
 
 #### Cloud Platform - [cloud.google.com](https://cloud.google.com/){:target="_blank"} 
 Plataforma de computação em nuvem da Google
