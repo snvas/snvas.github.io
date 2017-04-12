@@ -85,7 +85,7 @@ API para usar gráficos incorporados no seu site
 #### Chrome Cube Lab - [chrome.com/cubelab](https://chrome.com/cubelab){:target="_blank"}
 Experimentos para Chrome com o cubo mágico
 
-#### Chrome Experiments - [chromeexperiments.com]( https://developers.google.com/chart/){:target="_blank"}
+#### Chrome Experiments - [chromeexperiments.com](https://www.chromeexperiments.com/){:target="_blank"}
 Experimentos com os recursos do Chrome
 
 #### Cloud Dataproc - [cloud.google.com/dataproc](https://cloud.google.com/dataproc/){:target="_blank"} 
