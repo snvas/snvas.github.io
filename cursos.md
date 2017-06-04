@@ -5,6 +5,21 @@ permalink: /cursos/
 ---
 
 ### Gratuitos
+[Como Usar o Novo Google Sites](https://www.udemy.com/como-usar-o-novo-google-sites/?couponCode=SITESACADEMIA17)
+
+Crie sites interessantes e de alta qualidade de forma colaborativa para uma equipe, um projeto ou um evento. Os sites têm uma aparência ótima em todas as telas, de computadores a smartphones. E você não precisa aprender design ou programação.
+
+[Como Usar o TED para Aprender e Ensinar](https://www.udemy.com/como-usar-o-ted/?couponCode=TEDACADEMIA17)
+
+Conheça a conferência sobre tecnologia, entretenimento e design que tornou-se um fenômeno de vídeo viral. Ideias que merecem ser espalhadas! Descubra como usar todos os recursos da plataforma com os vídeos de palestras dos mais influentes pensadores e realizadores do mundo.
+
+[Como Implantar Google (GSuite) na sua Escola ou Faculdade](https://www.udemy.com/como-implantar-gsuite-na-sua-escola-ou-faculdade/)
+
+Você sabia que sua escola tem direito a uma conta educacional na Google? Tudo fica armazenado automaticamente na nuvem. Arquivos acessíveis a qualquer hora, em qualquer lugar. Prepare sua escola para aproveitar as novas tecnologias dentro e fora da sala de aula. Conheça as Tecnologias Gratuitas da Google para a educação e Aprenda como implantar o GSuite na sua escola!
+
+[Google In Review: para além do Buscador](https://www.udemy.com/google-in-review-para-alem-do-buscador/)
+
+Uma revisão nos principais serviços, produtos, ferramentas, recursos e projetos da Google para Educadores. Conheça  as ferramentas Google que simplificam a sua vida. Aprenda uma série de recursos que a Google oferece além do mecanismo de busca. Descubra o que é o Chromebook e o Cardboard. Veja como usar o Google Acadêmico, o Google Keep, o Arts & Culture, o Blogger, o GSuite e muito mais.
 
 [Como Usar seu Smartphone para Trabalhar](https://inovadores.coursify.me/courses/como-usar-seu-smartphone-para-trabalhar)
 
@@ -14,7 +29,7 @@ Se você usa o seu smartphone apenas para checar e-mails (além de falar e manda
 
 A colaboração foi simplificada. Crie, compartilhe e edite documentos, planilhas, slides e formulários em tempo real. Todos acompanham o conteúdo, que é armazenado automaticamente na nuvem. Use em qualquer dispositivo, tenha uma experiência consistente em computadores, tablets ou smartphones. Acesse seus arquivos a qualquer hora, em qualquer lugar.
 
-[Como Usar a Khan Academy](http://googletrainer.teachable.com/p/como-usar-a-khan-academy)
+[Como Usar a Khan Academy](https://www.udemy.com/como-usar-a-khan-academy/)
 
 A Khan Academy é a maior plataforma do mundo para estudar matemática. Completamente gratuita e com conteúdo para todas as idades. Hoje em dia, esse recurso está quase totalmente traduzido para o português e pode ajudar todos os estudantes a recuperar o gap de aprendizado ou simplesmente tornar divertido estudar matemática.
 
@@ -29,7 +44,7 @@ Inovações tecnológicas expostas em 2016 na feira de Hanover na Alemanha. Veja
 
 ### Faça uma doação
 
-Produzir os conteúdos demanda muito tempo, esforço e trabalho. Para garantir a maior acessibilidade possível, oferecemos tudo isso gratuitamente. Contamos com o seu apoio para podermos oferecer novos conteúdos de valor e conseguirmos alcançar ainda mais pessoas.
+Produzir os conteúdos demanda muito tempo, esforço e trabalho. Para garantir a maior acessibilidade possível, oferecemos muito disso gratuitamente. Contamos com o seu apoio para podermos oferecer novos conteúdos de valor e conseguirmos alcançar ainda mais pessoas.
 
 Colabore com esse movimento AGORA, com um simples gesto de generosidade, qualquer valor ajuda.
 
