@@ -36,4 +36,4 @@ Veja a evolução dos vídeos do cara que viaja pelo mundo dançando mal com out
 
 Saiba Mais no [Blog do Matt](http://www.wheretheheckismatt.com/){:target="_blank"}
 
-Veja mais exemplos de [Storytelling](uma-aula-de-storytelling)
+Veja mais [exemplos de Storytelling](uma-aula-de-storytelling)

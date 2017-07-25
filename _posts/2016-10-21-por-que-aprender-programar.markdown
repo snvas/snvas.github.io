@@ -27,3 +27,9 @@ A terceira categoria que é importante não só na programação, mas também pa
 
 <a href="https://www.desafiodocodigo.com.br" target="_blank"><button class="btn">Desafio do Código</button></a>
 
+Aproveita e se inscreve no canal para acompanhar os próximos vídeos:
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCsYnoVU6bTl1oh715or-POQ" data-layout="full" data-count="hidden"></div>
+

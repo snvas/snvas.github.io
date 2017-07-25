@@ -22,7 +22,7 @@ Desde que foi lançado, fiz alguns testes e participei do piloto com o Google Ex
   allowfullscreen>
 </iframe>
 
-Para comprar o seu ou montar um por conta própria, [entre aqui](https://vr.google.com/intl/pt-BR_pt/cardboard/get-cardboard/).
+Compre ou [monte um cardborad por conta própria](https://vr.google.com/intl/pt-BR_pt/cardboard/get-cardboard/).
 
 
 [![Google CardBoard](/images/cardboardgif.gif)](https://vr.google.com/intl/pt-BR_pt/cardboard/get-cardboard/){:target="_blank"}

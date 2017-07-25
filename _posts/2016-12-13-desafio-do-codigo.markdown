@@ -10,7 +10,7 @@ tags:
 ---
 
 <div style="max-width: 50% !important; float: left;padding: 5%;">
-<a href="https://www.desafiodocodigo.com.br" target="_blank"><img src="http://desafiodocodigo.com.br/images/LOGO-DESAFIO2016X.png" alt="" width="100%" /></a></div>
+<a href="https://www.desafiodocodigo.com.br" target="_blank"><img src="http://desafiodocodigo.com.br/images/LOGO-DESAFIO2016X.png" alt="Desafio do Código" width="100%" /></a></div>
 
 o Desafio do Código é um desafio educacional online e gameficado, que apresenta ferramentas digitais para aprender habilidades importantes para o futuro das crianças e adolescentes: Programação, matemática e inglês. 
 
@@ -24,5 +24,10 @@ Mais de 1.000 estudantes participaram presencialmente, em oficinas de 20 horas, 
 
 E isso é só o começo!
 
-<a href="https://www.desafiodocodigo.com.br" target="_blank"><button class="btn">Participe</button></a>
+<a href="https://www.desafiodocodigo.com.br" target="_blank"><button class="btn">Participe do Desafio do Código</button></a>
 
+Aproveita e se inscreve no canal para acompanhar os próximos vídeos:
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCsYnoVU6bTl1oh715or-POQ" data-layout="full" data-count="hidden"></div>

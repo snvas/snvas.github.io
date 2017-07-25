@@ -39,3 +39,5 @@ Veja também:
 #### [5 Palestras de Professores Inspiradores no TED](professores-inspiradores)
 
 #### [4 Jogos para Aprender Inglês](jogos-para-aprender-ingles)
+
+#### [+10 Cursos na Academia dos Inovadores](https://academiadosinovadores.com.br)

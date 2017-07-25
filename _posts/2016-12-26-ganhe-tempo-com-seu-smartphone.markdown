@@ -11,8 +11,8 @@ Para ampliar o alcance do conhecimento sobre novas tecnologias, estou preparando
 
 Hoje coloquei no ar o primeiro deles, confere lá!
 
-[Como Ganhar Tempo com Seu Smartphone](https://academia-inovadores.appspot.com/ganhartempo_smartphone)!
+[Como Ganhar Tempo com Seu Smartphone](http://inovadores.coursify.me/courses/como-usar-seu-smartphone-para-trabalhar)!
 
 Esse curso apresenta ferramentas para agilizar sua comunicação e melhorar a sua organização de tempo. 
 
-Veja mais [Cursos Gratuitos](/cursos/).
+Veja mais [Cursos da professora Google](/cursos/).

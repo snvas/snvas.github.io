@@ -19,6 +19,8 @@ tags:
 
 Saiba mais sobre [como começar a programar no Desafio do Código](https://desafiodocodigo.com.br)
 
+Aproveita e se inscreve no canal para acompanhar os próximos vídeos:
+
 <script src="https://apis.google.com/js/platform.js"></script>
 
 <div class="g-ytsubscribe" data-channelid="UCsYnoVU6bTl1oh715or-POQ" data-layout="full" data-count="hidden"></div>

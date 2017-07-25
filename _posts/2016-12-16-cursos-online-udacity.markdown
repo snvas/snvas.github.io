@@ -83,9 +83,11 @@ Introdução à Ciência de Dados O Que é Preciso Para Se Tornar Um Cientista d
 
 Vizualização de Dados e D3.js Comunicando-se Através do Dados - 6 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/udacity/" target="_blank"><button class="btn">Saiba Mais</button></a>
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/udacity/" target="_blank"><button class="btn">Cursos Udacity</button></a>
 
 Veja ainda:
+
+#### [+10 Cursos na Academia dos Inovadores](https://academiadosinovadores.com.br)
 
 #### [35 Cursos Online Gratuitos da UDACITY](cursos-online-udacity)
 

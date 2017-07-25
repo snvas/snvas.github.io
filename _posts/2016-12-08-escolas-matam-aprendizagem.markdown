@@ -25,3 +25,4 @@ Veja também:
 
 #### [5 Palestras de Professores Inspiradores no TED](professores-inspiradores)
 
+#### [+10 Cursos na Academia dos Inovadores](https://academiadosinovadores.com.br)
