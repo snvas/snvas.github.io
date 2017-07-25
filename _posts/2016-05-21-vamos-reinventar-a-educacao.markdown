@@ -37,4 +37,4 @@ O que a Khan Academy faz é espetacular! O que Salman Khan criou nos dá a esper
 Se você quer saber mais sobre a educação inovadora assista + [7 palestras do TED](http://soraianovaes.com/#ted){:target="_blank"} essenciais sobre o assunto. 
 ![Palestras Isnpiradoras do TED](http://ctm.org.br/ebook/images/Palestrastedw.png) 
 
-Quer saber mais sobre os recursos da Khan e como venho utilizando ela para ensinar matemática para toda criança ou jovem que encontro!?! Acompanhe os próximos posts. 
+Quer saber mais sobre os [recursos da Khan Academy](https://www.udemy.com/como-usar-a-khan-academy/) e como venho utilizando ela para ensinar matemática para toda criança ou jovem que encontro!?! Acompanhe os próximos posts. 
