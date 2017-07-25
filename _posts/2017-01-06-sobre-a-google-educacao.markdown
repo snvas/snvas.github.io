@@ -10,7 +10,7 @@ tags:
 
 ![Google Innovator and Google Trainer Badges](images/innovator.JPG)
 
-Quando me tornei [professora certificada pela Google](https://edudirectory.withgoogle.com/en/profile/f497ebe62b23db02b5012c4d330e5a5d){:target="_blank"} entrei em contato com um universo completamente novo e que todo educador merece conhecer.
+Quando me tornei professora [certificada pela Google](http//professoragoogle.com.br){:target="_blank"}, entrei em contato com um universo completamente novo e que todo educador merece conhecer.
 
 Quem tiver interesse em saber mais sobre as ferramentas Google podem encontrar alguns caminhos por aqui.
 
@@ -22,15 +22,13 @@ Uma solução desenvolvida para professores e alunos. Não importa o tamanho ou 
 
 Os Google Innovators são educadores selecionados e certificados pelo Google que demonstraram ser embaixadores da mudança e empoderamento de professores e alunos de forma a fomentar uma cultura de inovação próspera dentro da sala de aula, escola e organizações de ensino.
 
-Para conhecer mais sobre os professores inovadores certificados pela Google no Brasil, entre no [site](http://innovatorbrasil.com.br/){:target="_blank"}.
-
-Encontre também os [artigos publicados](http://innovatorbrasil.com.br/categoria/artigos/){:target="_blank"}, [planos de aula](http://innovatorbrasil.com.br/categoria/planos-de-aula/){:target="_blank"} e [relatos de experiências](http://innovatorbrasil.com.br/categoria/relatos-de-experiencias/){:target="_blank"} dos Innovators.
+Conheça mais sobre os professores inovadores certificados pela Google no Brasil e encontre os [artigos, planos de aula e relato de experiências dos Innovators](http://innovatorbrasil.com.br/){:target="_blank"}.
 
 ### O que são os GEGs?
 
 Os GEGs (Grupos de Educadores Google) são comunidades de educadores que aprendem, compartilham e inspiram uns aos outros para atender às necessidades dos alunos por meio de soluções tecnológicas, dentro e fora da sala de aula.
 
-A cpmunidade está crescendo, são mais de 40 GEGs no Brasil e para encontrar um GEG próximo de você, entre no [mapa](https://www.google.com/intl/pt-BR/landing/geg/groups/){:target="_blank"}.
+A cpmunidade está crescendo, são mais de 40 GEGs no Brasil e para encontrar um GEG próximo de você, entre no [mapa do GEG Brasil](https://www.google.com/intl/pt-BR/landing/geg/groups/){:target="_blank"}.
 
 ### Academia dos Inovadores
 
@@ -90,6 +88,6 @@ O curso está disponível [no Coursera](https://www.coursera.org/learn/fundament
 
 ### Outros Recursos
 
-Veja uma [lista completa](tudo-o-que-tem-na-google-para-educadores) com os serviços, produtos, ferramentas, recursos e projetos da Google para Educadores.
+Veja uma lista com os [serviços, produtos, ferramentas, recursos e projetos da Google para Educadores](tudo-o-que-tem-na-google-para-educadores).
 
-Para saber tudo o que a Google oferece, [veja a lista completa aqui](tudo-o-que-tem-na-google).
+Para saber sobre todos os [produtos e projetos Google](tudo-o-que-tem-na-google) veja essa lista completa.
