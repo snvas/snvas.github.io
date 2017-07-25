@@ -17,4 +17,8 @@ tags:
 
 ### [Por que aprender a programar?](por-que-aprender-programar)
 
-Saiba mais no [Desafio do Código](http://desafiodocodigo.com.br)
+Saiba mais sobre [como começar a programar no Desafio do Código](https://desafiodocodigo.com.br)
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCsYnoVU6bTl1oh715or-POQ" data-layout="full" data-count="hidden"></div>

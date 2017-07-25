@@ -165,9 +165,11 @@ Interoperabilidade e Cloud Computing - 1 h/a
 
 Proteção de informações com Azure RMS - 1 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/MICROSOFT+VIRTUAL+ACADEMY/" target="_blank"><button class="btn">Saiba Mais</button></a>
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/MICROSOFT+VIRTUAL+ACADEMY/" target="_blank"><button class="btn">Cursos Microsoft</button></a>
 
 Veja ainda:
+
+#### [+10 Cursos na Academia dos Inovadores](https://academiadosinovadores.com.br)
 
 #### [35 Cursos Online Gratuitos da UDACITY](cursos-online-udacity)
 
@@ -183,7 +185,7 @@ Veja ainda:
 
 #### [Encontre mais de 700 Cursos Online Gratuitos](cursos-online-gratuitos)
 
-Você também pode encontrar + 700 cursos online gratuitos organizados por área:
+Você também pode encontrar os cursos online gratuitos organizados por área:
 
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Agropecu%E1ria/#cursos" target="_blank">Agropecuária</a>
 

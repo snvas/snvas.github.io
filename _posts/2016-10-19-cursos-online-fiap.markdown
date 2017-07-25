@@ -45,9 +45,11 @@ Azure Web Apps - 1 h/a
 
 Gestão de Projetos - 1 h/a
 
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FIAP+X/" target="_blank"><button class="btn">Saiba Mais</button></a>
+<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FIAP+X/" target="_blank"><button class="btn">Cursos Fiap</button></a>
 
 Veja ainda:
+
+#### [+10 Cursos na Academia dos Inovadores](https://academiadosinovadores.com.br)
 
 #### [35 Cursos Online Gratuitos da UDACITY](cursos-online-udacity)
 

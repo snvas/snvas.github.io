@@ -7,7 +7,7 @@ tags:
   - startups
 ---
 
-Hello!
+Hello Galera!
 
 Sou do tempo em que para se fazer uma pesquisa era preciso muita paciência e persistência
 <div style="max-width: 100% !important; float: left;">
