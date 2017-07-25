@@ -7,9 +7,9 @@ tags:
  - edtech 
 ---
 
-Como a tecnologia pode transformar a educação [saiba mais](http://professoragoogle.com.br).
+Como a tecnologia pode transformar a educação saiba mais no site da [professora Google](http://professoragoogle.com.br).
 
-Entrevista para o 1º Congresso Brasileiro de Qualidade de Vida Escolar.
+Soraia Novaes, concede entrevista para o 1º Congresso Brasileiro de Qualidade de Vida Escolar.
 
 <iframe 
   width="100%" 

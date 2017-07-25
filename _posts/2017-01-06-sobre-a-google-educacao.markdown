@@ -34,6 +34,16 @@ A cpmunidade está crescendo, são mais de 40 GEGs no Brasil e para encontrar um
 
 Uma iniciativa dos Google Innovators Brasil para compartilhar cursos online sobre inovação e as ferramentas Google.
 
+[Google In Review: para além do Buscador](https://www.udemy.com/google-in-review-para-alem-do-buscador/)
+
+Uma revisão nos principais serviços, produtos, ferramentas, recursos e projetos da Google para Educadores. Conheça  as ferramentas Google que simplificam a sua vida. Aprenda uma série de recursos que a Google oferece além do mecanismo de busca. Descubra o que é o Chromebook e o Cardboard. Veja como usar o Google Acadêmico, o Google Keep, o Arts & Culture, o Blogger, o GSuite e muito mais.
+
+[Como Implantar Google (GSuite) na sua Escola ou Faculdade](https://www.udemy.com/como-implantar-gsuite-na-sua-escola-ou-faculdade/)
+
+Você sabia que as escolas têm direito a uma conta educacional na Google?
+
+Tudo fica armazenado automaticamente na nuvem. Arquivos acessíveis a qualquer hora, em qualquer lugar. Prepare sua escola para aproveitar as novas tecnologias dentro e fora da sala de aula. Aprenda como implantar o GSuite na sua escola, nesse curso você verá o passo a passo do processo de liberaração e configuração da conta educacional.
+
 [Como Usar seu Smartphone para Trabalhar](https://inovadores.coursify.me/courses/como-usar-seu-smartphone-para-trabalhar)
 
 Se você usa o seu smartphone apenas para checar e-mails (além de falar e mandar mensagens, obviamente), você está ficando para trás. E me refiro a coisas essenciais para a carreira como: desempenho, tempo e informação. Descubra como usar seu smartphone de forma inteligente e produtiva.
