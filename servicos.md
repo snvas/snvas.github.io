@@ -15,12 +15,12 @@ permalink: /servicos/
 <b>O que é?</b><br/>
 
 Trilha de aprendizagem gamificada que reúne diversos recursos online gratuitos, com foco em matemática, programação e inglês.
-
-<b>De onde vem?</b></br>
+<br/>
+<b>De onde vem?</b><br/>
 
 O Desafio do Código é um movimento criado para inserir tecnologias gratuitas em diferentes ambientes de aprendizagem. Seja em casa ou na escola, num mundo conectado é preciso saber o que existe de útil na internet para os estudantes.
-
-<b>Receba em Casa</b></br>
+<br/>
+<b>Receba em Casa</b><br/>
 
 Material didático de apoio para estudantes, pais e professores.
 </div>
