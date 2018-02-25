@@ -4,6 +4,10 @@ title: Cursos Online
 permalink: /cursos/
 ---
 
+[Ferramentas Digitais para Aumentar a sua Produtividade](https://academiadosinovadores.com.br/cursoprodutividade)
+
+Veja como usar a tecnologia a seu favor. Aprenda a economizar tempo e ganhar mobilidade para trabalhar onde estiver. Conheça recursos para aumentar a sua produtividade e facilitar o trabalho em equipe. Entenda como funcionam os recursos disponíveis de fábrica no seu smartphone Android.
+
 [Design Thinking com Crianças e Jovens: Aplicação e Exemplos](https://academiadosinovadores.com.br/cursodesignthinking)
 
 Nos últimos anos, o Design Thinking se tornou um termo cada vez mais comum em muitos setores diferentes, incluindo a educação. Conheça um modelo de Design Thinking para educadores usarem em sala de aula. O Design Thinking (pensamento de projeto) é uma forma poderosa de desenvolver as habilidades dos alunos.
@@ -16,11 +20,11 @@ Quando você aparece no Google, os clientes têm mais facilidade de encontrar in
 
 Imagine o que você poderia fazer com até US$10 mil por mês em publicidade do AdWords, uma solução de publicidade on-line do Google. Você poderia recrutar mais voluntários. Atrair mais doações e compartilhar sua história com públicos de todo o mundo. Tudo isso é possível com o Google Ad Grants.
 
-[Crie Facilmente Seu Site Gratuito com o Novo Google Sites](https://www.udemy.com/como-usar-o-novo-google-sites/?couponCode=SITESACADEMIA17)
+[Crie Facilmente Seu Site Gratuito com o Novo Google Sites](https://academiadosinovadores.com.br/cursosites)
 
 Crie sites interessantes e de alta qualidade de forma colaborativa para uma equipe, um projeto ou um evento. Os sites têm uma aparência ótima em todas as telas, de computadores a smartphones. E você não precisa aprender design ou programação.
 
-[Como Usar o TED para Aprender e Ensinar](https://www.udemy.com/como-usar-o-ted/?couponCode=TEDACADEMIA17)
+[Como Usar o TED para Aprender e Ensinar](https://www.udemy.com/como-usar-o-ted/)
 
 Conheça a conferência sobre tecnologia, entretenimento e design que tornou-se um fenômeno de vídeo viral. Ideias que merecem ser espalhadas! Descubra como usar todos os recursos da plataforma com os vídeos de palestras dos mais influentes pensadores e realizadores do mundo.
 
