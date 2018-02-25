@@ -6,6 +6,20 @@ permalink: /servicos/
 
 <div style="width: 100%">
 <br/>
+<h3><a href="http://professoragoogle.com.br/produtos/shop/apostila-do-desafio-do-codigo/" target="_blank">Apostila Desafio do Código</a></h3>
+
+<div style="max-width: 40% !important; float: left;padding: 5%;">
+<a href="http://professoragoogle.com.br/produtos/shop/apostila-do-desafio-do-codigo/" target="_blank">
+<img src="/images/apostila.png" alt="Desafio do Código"></a>
+</div>
+
+Receba em Casa
+
+Material didático de apoio para estudantes, pais e professores.
+</div>
+<div style="clear: both;"></div>
+<div style="width: 100%">
+<br/>
 <h3><a href="http://soraianovaes.com/vcnagoogle/" target="_blank">Seu Negócio no Google</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
