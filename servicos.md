@@ -12,13 +12,16 @@ permalink: /servicos/
 <a href="http://professoragoogle.com.br/produtos/shop/apostila-do-desafio-do-codigo/" target="_blank">
 <img src="/images/apostila.png" alt="Desafio do Código"></a>
 </div>
-####O que é?
+#### O que é?
+
 Trilha de aprendizagem gamificada que reúne diversos recursos online gratuitos, com foco em matemática, programação e inglês.
 
-####De onde vem?
+#### De onde vem?
+
 O Desafio do Código é um movimento criado para inserir tecnologias gratuitas em diferentes ambientes de aprendizagem. Seja em casa ou na escola, num mundo conectado é preciso saber o que existe de útil na internet para os estudantes.
 
-####Receba em Casa
+#### Receba em Casa
+
 Material didático de apoio para estudantes, pais e professores.
 </div>
 <div style="clear: both;"></div>
