@@ -4,8 +4,19 @@ title: Cursos Online
 permalink: /cursos/
 ---
 
-### Gratuitos
-[Como Usar o Novo Google Sites](https://www.udemy.com/como-usar-o-novo-google-sites/?couponCode=SITESACADEMIA17)
+[Design Thinking com Crianças e Jovens: Aplicação e Exemplos](https://academiadosinovadores.com.br/cursodesignthinking)
+
+Nos últimos anos, o Design Thinking se tornou um termo cada vez mais comum em muitos setores diferentes, incluindo a educação. Conheça um modelo de Design Thinking para educadores usarem em sala de aula. O Design Thinking (pensamento de projeto) é uma forma poderosa de desenvolver as habilidades dos alunos.
+
+[Destaque seu Negócio no Google de Graça Antes de Anunciar](https://academiadosinovadores.com.br/cursomeunegocio)
+
+Quando você aparece no Google, os clientes têm mais facilidade de encontrar informações sobre sua empresa, como horários de funcionamento, informações de contato e rotas. Seja encontrado por clientes em vários produtos do Google.
+
+[Como Ganhar Créditos em AdWords para sua ONG](https://www.udemy.com/como-ganhar-creditos-em-adwords-para-sua-ong/?couponCode=ACADEMY_GRANTS_90)
+
+Imagine o que você poderia fazer com até US$10 mil por mês em publicidade do AdWords, uma solução de publicidade on-line do Google. Você poderia recrutar mais voluntários. Atrair mais doações e compartilhar sua história com públicos de todo o mundo. Tudo isso é possível com o Google Ad Grants.
+
+[Crie Facilmente Seu Site Gratuito com o Novo Google Sites](https://www.udemy.com/como-usar-o-novo-google-sites/?couponCode=SITESACADEMIA17)
 
 Crie sites interessantes e de alta qualidade de forma colaborativa para uma equipe, um projeto ou um evento. Os sites têm uma aparência ótima em todas as telas, de computadores a smartphones. E você não precisa aprender design ou programação.
 
@@ -17,7 +28,7 @@ Conheça a conferência sobre tecnologia, entretenimento e design que tornou-se 
 
 Você sabia que sua escola tem direito a uma conta educacional na Google? Tudo fica armazenado automaticamente na nuvem. Arquivos acessíveis a qualquer hora, em qualquer lugar. Prepare sua escola para aproveitar as novas tecnologias dentro e fora da sala de aula. Conheça as Tecnologias Gratuitas da Google para a educação e Aprenda como implantar o GSuite na sua escola!
 
-[Google In Review: para além do Buscador](https://www.udemy.com/google-in-review-para-alem-do-buscador/)
+[Google In Review: Aproveite Tudo o Que Existe Gratuitamente](https://www.udemy.com/google-in-review-para-alem-do-buscador/)
 
 Uma revisão nos principais serviços, produtos, ferramentas, recursos e projetos da Google para Educadores. Conheça  as ferramentas Google que simplificam a sua vida. Aprenda uma série de recursos que a Google oferece além do mecanismo de busca. Descubra o que é o Chromebook e o Cardboard. Veja como usar o Google Acadêmico, o Google Keep, o Arts & Culture, o Blogger, o GSuite e muito mais.
 
@@ -29,7 +40,7 @@ Se você usa o seu smartphone apenas para checar e-mails (além de falar e manda
 
 A colaboração foi simplificada. Crie, compartilhe e edite documentos, planilhas, slides e formulários em tempo real. Todos acompanham o conteúdo, que é armazenado automaticamente na nuvem. Use em qualquer dispositivo, tenha uma experiência consistente em computadores, tablets ou smartphones. Acesse seus arquivos a qualquer hora, em qualquer lugar.
 
-[Como Usar a Khan Academy](https://www.udemy.com/como-usar-a-khan-academy/)
+[Como Usar a Khan Academy para Aprender e Ensinar](https://www.udemy.com/como-usar-a-khan-academy/)
 
 A Khan Academy é a maior plataforma do mundo para estudar matemática. Completamente gratuita e com conteúdo para todas as idades. Hoje em dia, esse recurso está quase totalmente traduzido para o português e pode ajudar todos os estudantes a recuperar o gap de aprendizado ou simplesmente tornar divertido estudar matemática.
 

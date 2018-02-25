@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog http://soraianovaes.com/blog
 url: "http://codecamp.com.br" # the base hostname & protocol for your site
 author: Soraia Novaes
 twitter:
-  username: edtecnoca
+  username: edtecnova
 github_username:  snvas
 
 # Build settings
