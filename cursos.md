@@ -4,6 +4,22 @@ title: Cursos Online
 permalink: /cursos/
 ---
 
+ [Técnicas para Ter o Melhor Site para Dispositivos Móveis](https://www.udemy.com/tecnicas-para-ter-o-melhor-site-mobile/)
+
+ Aprenda a aplicar 25 princípios de design móvel que traz técnicas para a navegação ideal, da página inicial à busca, dos formulários às melhores maneiras de converter os usuários.
+
+ [Pense com o Google! Dados e Insights para seu Negócio Online](https://www.udemy.com/pense-com-o-google/) 
+
+ Coletamos os dados mais relevantes sobre como os consumidores estão pesquisando na web. Essas informações podem gerar insights importantes para o seu negócio na web.
+
+[OKRs Aprenda a Definir Metas como Gente Grande](https://www.udemy.com/okrs-aprenda-a-definir-metas/?couponCode=ACADEMY_OKRS)
+
+Conheça os conceitos dessa metodologia consolidada e defina suas metas como gente grande! Lembre-se que a Google não era grande quando começou a usar os OKRS,você pode aplicar com seus projetos pessoais ou para o seu negócio.
+
+[Como Ganhar Créditos em AdWords para sua ONG](https://www.udemy.com/como-ganhar-creditos-em-adwords-para-sua-ong/)
+
+Imagine o que você poderia fazer com até US$10 mil por mês em publicidade do AdWords, uma solução de publicidade on-line do Google. Você poderia recrutar mais voluntários. Atrair mais doações e compartilhar sua história com públicos de todo o mundo. Tudo isso é possível com o Google Ad Grants.
+
 [Ferramentas Digitais para Aumentar a sua Produtividade](https://academiadosinovadores.com.br/cursoprodutividade)
 
 Veja como usar a tecnologia a seu favor. Aprenda a economizar tempo e ganhar mobilidade para trabalhar onde estiver. Conheça recursos para aumentar a sua produtividade e facilitar o trabalho em equipe. Entenda como funcionam os recursos disponíveis de fábrica no seu smartphone Android.
