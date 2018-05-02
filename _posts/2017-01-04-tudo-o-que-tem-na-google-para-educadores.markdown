@@ -111,6 +111,9 @@ Agenda integrada com sua conta Google
 #### Chrome - [chrome.google.com](https://www.google.com/chrome/){:target="_blank"} 
 O navegador de internet da Google
 
+#### Chrome Music Lab: Song Maker - [musiclab.chromeexperiments.com/Song-Maker](https://musiclab.chromeexperiments.com/Song-Maker/){:target="_blank"} 
+Para criar uma música, adicione notas clicando na grade. Então, compartilhe sua música com um link. Você também pode usar um teclado MIDI ou cantar uma nota no seu microfone. Você também pode usar as teclas do seu computador. Pressione as teclas de seta para mover, entrar e retroceder para adicionar e remover notas e barra de espaço para jogar.
+
 #### Chrome Web Store - [chrome.google.com/webstore](https://chrome.google.com/webstore/){:target="_blank"}
 Loja de aplicativos, extensões e temas para Chrome
 
@@ -225,6 +228,9 @@ O Gmail (também Google Mail) é um serviço gratuito de webmail criado pela Goo
 
 #### Google - [google.com](https://www.google.com.br){:target="_blank"} 
 Nessa página você encontra o principal produto, o mecanismo de busca. A Google Inc. é uma empresa multinacional de serviços online e software dos Estados Unidos. O Google hospeda e desenvolve uma série de serviços e produtos baseados na internet e gera lucro principalmente através da publicidade pelo AdWords
+
+#### Google AI - [ai.google/education](https://ai.google/education){:target="_blank"} 
+Recursos educacionais de especialistas em aprendizado de máquina no Google. Trabalhando para tornar a IA acessível, fornecendo lições, tutoriais e exercícios práticos para pessoas em todos os níveis de experiência. 
 
 #### Google Educator Groups - [google.com/landing/geg](https://www.google.com/landing/geg/){:target="_blank"}
 Os GEGs (Grupos de Educadores Google) são comunidades de educadores que aprendem, compartilham e inspiram uns aos outros para atender às necessidades dos alunos por meio de soluções tecnológicas, dentro e fora da sala de aula.

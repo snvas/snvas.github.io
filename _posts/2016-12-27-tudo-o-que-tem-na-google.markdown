@@ -285,6 +285,9 @@ Encontre correlação entre os termos buscados no Google
 #### Course Builder - [code.google.com/p/course-builder](https://www.google.com/edu/openonline/course-builder/index.html){:target="_blank"}
 Plataforma open source para publicação de cursos online
 
+#### Chrome Music Lab: Song Maker - [musiclab.chromeexperiments.com/Song-Maker](https://musiclab.chromeexperiments.com/Song-Maker/){:target="_blank"} 
+Para criar uma música, adicione notas clicando na grade. Então, compartilhe sua música com um link. Você também pode usar um teclado MIDI ou cantar uma nota no seu microfone. Você também pode usar as teclas do seu computador. Pressione as teclas de seta para mover, entrar e retroceder para adicionar e remover notas e barra de espaço para jogar.
+
 #### Crisis Response - [google.com/crisisresponse](https://www.google.org/crisisresponse/){:target="_blank"}
 Tornar a informação crítica mais acessível em tempos de catástrofe
 Quando ocorre uma catástrofe, as pessoas recorrem à Internet para obter informações. Ajudamos a garantir que as informações certas estejam presentes nestes momentos de necessidade, construindo ferramentas para coletar e compartilhar informações de emergência e apoiando os primeiros respondentes no uso da tecnologia para ajudar a melhorar e salvar vidas
@@ -466,7 +469,10 @@ O Gmail (também Google Mail) é um serviço gratuito de webmail criado pela Goo
 Go (linguagem de programação) Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e programação concorrente, baseada em trabalhos feitos no sistema operacional chamado Inferno.
 
 #### Google - [google.com](https://www.google.com.br){:target="_blank"} 
-Nessa página você encontra o principal produto, o mecanismo de busca. A Google Inc. é uma empresa multinacional de serviços online e software dos Estados Unidos. O Google hospeda e desenvolve uma série de serviços e produtos baseados na internet e gera lucro principalmente através da publicidade pelo AdWords
+Nessa página você encontra o principal produto, o mecanismo de busca. A Google Inc. é uma empresa multinacional de serviços online e software dos Estados Unidos. O Google hospeda e desenvolve uma série de serviços e produtos baseados na internet e gera lucro principalmente através da publicidade pelo AdWords.
+
+#### Google AI - [ai.google/education](https://ai.google/education){:target="_blank"} 
+Recursos educacionais de especialistas em aprendizado de máquina no Google. Trabalhando para tornar a IA acessível, fornecendo lições, tutoriais e exercícios práticos para pessoas em todos os níveis de experiência. 
 
 #### Google Brain - [research.google.com/teams/brain](https://research.google.com/teams/brain/){:target="_blank"}
 Os membros da equipe do Google Brain estabelecem sua própria agenda de pesquisa, com a equipe como um todo mantendo um portfólio de projetos em diferentes horizontes de tempo e níveis de risco
@@ -688,6 +694,9 @@ um novo roteador do Google que é construído para todas as maneiras que você W
 #### Online Marketing Challenge - [google.com/onlinechallenge](https://www.google.com/onlinechallenge/){:target="_blank"}
 Google Online Marketing Challenge (GOMC) é uma oportunidade emocionante para os alunos a experiência de marketing on-line e criação de marketing on-line
 
+#### Open Source - [opensource.google.com](https://opensource.google.com/){:target="_blank"} 
+O Google acredita que o código aberto é bom para todos. Ao ser aberto e disponível gratuitamente, permite e incentiva a colaboração e o desenvolvimento de tecnologia, resolvendo problemas do mundo real.
+
 #### Oppia - [github.com/oppia/oppia](https://github.com/oppia/oppia){:target="_blank"} 
 Ferramenta para a construção colaborativa de lições interativas
 
@@ -708,6 +717,9 @@ Ferramenta para a construção colaborativa de lições interativas
 
 #### Pacman - [google.com/pacman](https://www.google.com/doodles/30th-anniversary-of-pac-man){:target="_blank"}
 Mini versão do jogo, criada originalmente como um logotipo animado para o 30º aniversário do jogo em 22 de maio de 2010.
+
+#### Paper Signals - [papersignals.withgoogle.com](https://papersignals.withgoogle.com/){:target="_blank"}
+Paper Signals é uma experiência que explora como as coisas físicas podem ser controladas com voz. Projetaram alguns exemplos que você pode construir para acompanhar coisas como clima, Bitcoin, lançamentos de foguetes e muito mais. Tente fazer um dos exemplos ou obtenha o código para inventar seu próprio sinal de papel.
 
 #### Page Speed Online - [developers.google.com/pagespeed](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
 PageSpeed Insights mede o desempenho de uma página para dispositivos móveis e dispositivos de mesa. Ele busca o URL duas vezes, uma vez com um usuário-agente móvel e uma vez com um agente de usuário de desktop. A pontuação de PageSpeed varia de 0 a 100 pontos. Uma pontuação mais alta é melhor e uma pontuação de 85 ou acima indica que a página está funcionando bem. 
