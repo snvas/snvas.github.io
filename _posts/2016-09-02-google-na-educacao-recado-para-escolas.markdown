@@ -7,7 +7,7 @@ tags:
   - google for education
 ---
 
-As escolas públicas ou privadas tem direito a uma conta educacional do Google Apps (GSuite). Se a sua escola ainda não usa, se liga no recado e saiba mais no site [Professora Google](http://professoragoogle.com.br).
+As escolas públicas ou privadas tem direito a uma conta educacional do Google Apps (GSuite). Se a sua escola ainda não usa, se liga no recado e saiba mais no site [Professora Google](https://professoragoogle.com.br).
 
 Acesse o [formulário de inscrição do Google Apps for Education](https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU#0){:target="_blank"}. 
 

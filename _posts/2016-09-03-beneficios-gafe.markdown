@@ -25,7 +25,7 @@ Escolas domésticas
 
 Órgãos do governo 
 
-A conta educacional da Google é ilimitada, saiba mais com a [Professora Google](http://professoragoogle.com.br).
+A conta educacional da Google é ilimitada, saiba mais com a [Professora Google](https://professoragoogle.com.br).
 
 <iframe 
   width="100%" 

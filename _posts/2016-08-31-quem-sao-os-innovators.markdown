@@ -12,7 +12,7 @@ tags:
 
 #### Na visão do Google
 
-Os [Google Innovators](http://www.innovatorbrasil.com.br/) são educadores selecionados e certificados pelo Google que demonstraram ser embaixadores da mudança e empoderamento de professores e alunos de forma a fomentar uma cultura de inovação próspera dentro da sala de aula, escola e organizações de ensino.
+Os Google Innovators são educadores selecionados e certificados pelo Google que demonstraram ser embaixadores da mudança e empoderamento de professores e alunos de forma a fomentar uma cultura de inovação próspera dentro da sala de aula, escola e organizações de ensino.
 
 #### Na nossa visão
 
