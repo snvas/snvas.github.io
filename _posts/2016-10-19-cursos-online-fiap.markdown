@@ -59,7 +59,7 @@ Veja ainda:
 
 #### [Mais de 30 Cursos Online Gratuitos da Intel](cursos-online-intel)
 
-#### [Mais de 70 Cursos Online Gratuitos da Microfoft](cursos-online-microsof)
+#### [Mais de 70 Cursos Online Gratuitos da Microfoft](cursos-online-microsoft)
 
 #### [Por que não usar o Office 365](office365)
 
