@@ -15,7 +15,7 @@ Minhas habilidades com o [GitHub](http://willianjusten.teachable.com/p/criando-s
 <img src="https://lh6.googleusercontent.com/-_MRr09deGdI/VDvv524RMnI/AAAAAAAACqg/QfqwV_d1CEc/s863-no/IMG_3906.jpg" alt="" width="100%" /></div>
 **Soraia Novaes** co-founder e tutora do Desafio do Código. Professora certificada Google Trainer, Google Certified Innovator, tradutora plena da Khan Academy e autora do livro "Tecnologias para Inovação nas Escolas". Coordenei o Centro de Design do Centro Tecnológico de Maringá, por 11 anos, atuando com a sensibilização, articulação e desenvolvimento de projetos inovadores em empresas e escolas no interior do Paraná.
 
-<a href="http://www.soraianovaes.com" target="_blank">Saiba Mais</a>
+<a href="http://www.soraianovaes.com.br" target="_blank">Saiba Mais</a>
 
 <div style="clear: both;"></div>
 
