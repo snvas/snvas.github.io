@@ -11,101 +11,16 @@ Garimpamos na internet os cursos online GRATUITOS oferecidos pela FGV. Confira a
 
 <div id="fgv"></div>
 
-### FGV Online
+ {% assign curso_online = site.data.cursosninja | sort: 'nome' | where_exp: "item", "item.Complemento contains 'FGV Online'"   %}
 
-Argumentação Jurídica - 5 h/a
+{% for curso in curso_online %}
+<h2 class="post-title">{{ curso.nome }} - {{ curso.tempo}} h/a</h2>
+<h5>{{ curso.Complemento}}</h5>
+<hr>
 
-Aspectos gerais da arbitragem - 5 h/a
+ {% endfor %}      
 
-Conceitos e Princípios Fundamentais do Direito Tributário - 5 h/a
-
-Contratação de Trabalhadores - 5 h/a
-
-Investigação Criminal e Instauração da Ação Penal - 5 h/a
-
-Reforma no CPP - 10 h/a
-
-Projeto Ensino Participativo - Teoria e Prática - 10 h/a
-
-Patentes e bases legais - 5 h/a
-
-O Juiz e a Ética - 10 h/a
-
-Introdução ao Direito Imobiliário - 5 h/a
-
-Gestão do Poder Judiciário - 10 h/a
-
-Formação Docente para Professores de Direito - 10 h/a
-
-Intermediação em Investimentos Financeiros - 5 h/a
-
-Sociologia - 30 h/a
-
-Quiz : Jogo das Novas Regras Ortográficas - Reconhecendo Texto e Contexto - 15 h/a
-
-Filosofia - 30 h/a
-
-Espaço da Universidade na Sociedade - 5 h/a
-
-INTRODUÇÃO AO PRIVATE EQUITY E VENTURE CAPITAL PARA EMPREENDEDORES - 40 h/a
-
-COMO FAZER INVESTIMENTOS - BÁSICO - 12 h/a
-
-COMO PLANEJAR A APOSENTADORIA - 10 h/a
-
-COMO FAZER INVESTIMENTOS - AVANÇADO - 8 h/a
-
-COMO GASTAR CONSCIENTEMENTE - 8 h/a
-
-Motivação nas Organizações - 5 h/a
-
-Recursos Humanos - 15 h/a
-
-Processo de Comunicação e Comunicação Institucional - 5 h/a
-
-Balanced Scorecard - 5 h/a
-
-Ciência e Tecnologia - 15 h/a
-
-Condutas Anticompetitivas - 5 h/a
-
-Conhecimento, Saber e Ciência - 5 h/a
-
-Direitos Autorais e Sociedade - 5 h/a
-
-Diversidade nas Organizações - 15 h/a
-
-Solução de controvérsias privadas - 5 h/a
-
-Qualidade em Serviços - 15 h/a
-
-Produto, Marca e Serviços - 5 h/a
-
-Introdução à Gestão de Serviços com Foco no Envelhecimento - 2 h/a
-
-Introdução à Administração Estratégica - 5 h/a
-
-Gerenciamento do Escopo de Projetos - 5 h/a
-
-Fundamentos da Gestão de TI - 5 h/a
-
-Fundamentos da Gestão de Custos - 5 h/a
-
-Ética Empresarial - 5 h/a
-
-Era Vargas: dos anos 20 à Revolução de 30 - 30 h/a
-
-Era Vargas: do Estado Novo a 54 - 30 h/a
-
-Relevância das Questões Ambientais - 5 h/a
-
-SUSTENTABILIDADE NO DIA A DIA: ORIENTAÇÕES PARA O CIDADÃO - 12 h/a
-
-SUSTENTABILIDADE, UM VALOR PARA A NOVA GERAÇÃO: ORIENTAÇÕES PARA O PROFESSOR DE ENSINO FUNDAMENTAL - 15 h/a
-
-SUSTENTABILIDADE APLICADA AOS NEGÓCIOS: ORIENTAÇÕES PARA GESTORES - 10 h/a
-
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/FGV+Online/" target="_blank"><button class="btn">Cursos FGV</button></a>
+<a href="https://educacao-executiva.fgv.br/busca?programa=64443&curso_tipo%5B0%5D=517&modalidade%5B0%5D=45&tipo_invest%5B1%5D=1" target="_blank"><button class="btn">Cursos FGV</button></a>
 
 Veja ainda:
 
@@ -127,11 +42,11 @@ Veja ainda:
 
 Você também pode encontrar + 700 cursos online gratuitos organizados por área:
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Agropecu%E1ria/#cursos" target="_blank">Agropecuária</a>
+<a href="https://codecamp.com.br/cursos-agropecuaria" target="_blank">Agropecuária</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Anima%E7%E3o+Gr%E1fica/#cursos" target="_blank">Animação Gráfica</a>
+<a href="https://codecamp.com.br/cursos-animacaografica" target="_blank">Animação Gráfica</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Arquitetura/#cursos" target="_blank">Arquitetura</a>
+<a href="https://codecamp.com.br/arquitetura" target="_blank">Arquitetura</a>
 
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Astronomia/#cursos" target="_blank">Astronomia</a>
 
@@ -157,8 +72,6 @@ Você também pode encontrar + 700 cursos online gratuitos organizados por área
 
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_F%EDsica/#cursos" target="_blank">Física</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Fotografia/#cursos" target="_blank">Fotografia</a>
-
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Geologia/#cursos" target="_blank">Geologia</a>
 
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Gest%E3o+de+Pessoas/#cursos" target="_blank">Gestão de Pessoas</a>
@@ -176,8 +89,6 @@ Você também pode encontrar + 700 cursos online gratuitos organizados por área
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Matem%E1tica/#cursos" target="_blank">Matemática</a>
 
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Meio+Ambiente/#cursos" target="_blank">Meio Ambiente</a>
-
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Metrologia/#cursos" target="_blank">Metrologia</a>
 
 <a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Mobili%E1rio/#cursos" target="_blank">Mobiliário</a>
 
