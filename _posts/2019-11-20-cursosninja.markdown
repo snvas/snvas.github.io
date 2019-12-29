@@ -9,7 +9,7 @@ author: soraia
  {% for curso in site.data.cursosninja %}
 
 <h1 class="post-title">{{ curso.nome }}</h1>
-<h2 class="post-title">{{ curso.prerequisito}}</h1>
-<h2 class="post-title">{{ curso.complemento}}</h1>
+<h4 class="post-title">{{ curso.prerequisito}}</h4>
+<h2 class="post-title">{{ curso.complemento}}</h2>
 
  {% endfor %}      
