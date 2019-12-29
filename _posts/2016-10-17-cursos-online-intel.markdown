@@ -11,87 +11,14 @@ Garimpamos na internet os cursos online GRATUITOS oferecidos pela Intel. Confira
 
 <div id="intel"></div>
 
-### INTEL Diálogo TI
+{% assign curso_online = site.data.cursosninja | sort: 'nome' | where_exp: "item", "item.Complemento contains 'INTEL'"   %}
 
-Negociação 
+{% for curso in curso_online %}
+<h2 class="post-title">{{ curso.nome }} - {{ curso.tempo}} h/a</h2>
+<h5>{{ curso.Complemento}}</h5>
+<hr>
 
-Administração da TI - 13 h/a
-
-Administração integrada - 4 h/a
-
-Business Value - 8 h/a
-
-ROI em TI - 5 h/a
-
-ROI e Business Value - 6 h/a
-
-Terceirização de TI - 5 h/a
-
-TI socialmente responsável - 4 h/a
-
-Programa de implementação de negócios e de sistemas da informação - 60 h/a
-
-Programa de conceitos essenciais de management - 65 h/a
-
-e-Business - 3 h/a
-
-Empresa digital - 5 h/a
-
-ERP - 7 h/a
-
-Liderança - 8 h/a
-
-Introdução ao Marketing para PMEs - 8 h/a
-
-Plano de Marketing. Guia de Implementação - 4 h/a
-
-Variáveis controláveis de Marketing para PMEs - 8 h/a
-
-Metodologia para empreender - 4 h/a
-
-Trabalho em equipe - 7 h/a
-
-Economia de energia - 5 h/a
-
-Mobilidade - 8 h/a
-
-Trabalho remoto - 6 h/a
-
-Big Data - 8 h/a
-
-Cloud Computing - 5 h/a
-
-Software como serviço (Software as a Service/SaaS) - 3 h/a
-
-Programa de Data mining e Cloud Computing - 71 h/a
-
-Programa de segurança da informação - 50 h/a
-
-Programa de tecnologia da informação - 60 h/a
-
-Business Intelligence - 9 h/a
-
-CRM - 10 h/a
-
-Segurança da informação I - 6 h/a
-
-Certificação digital - 2 h/a
-
-Virtualização - 5 h/a
-
-Governança corporativa - 7 h/a
-
-Segurança da informação II - 8 h/a
-
-Segurança da informação corporativa - 10 h/a
-
-Software livre - 7 h/a
-
-Segurança para a consumerização - 7 h/a
-
-Storage - 8 h/a
-
-<a href="http://cursos.ninja/brasil-cursos/pesquisa/Campo_complemento/INTEL+Di%E1logo+TI/" target="_blank"><button class="btn">Cursos Intel</button></a>
+ {% endfor %}  
 
 Veja ainda:
 
@@ -113,75 +40,71 @@ Veja ainda:
 
 Você também pode encontrar os cursos online gratuitos organizados por área:
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Agropecu%E1ria/#cursos" target="_blank">Agropecuária</a>
+<a href="https://codecamp.com.br/cursos-agropecuaria" target="_blank">Agropecuária</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Anima%E7%E3o+Gr%E1fica/#cursos" target="_blank">Animação Gráfica</a>
+<a href="https://codecamp.com.br/cursos-animacaografica" target="_blank">Animação Gráfica</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Arquitetura/#cursos" target="_blank">Arquitetura</a>
+<a href="https://codecamp.com.br/cursos-arquitetura" target="_blank">Arquitetura</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Astronomia/#cursos" target="_blank">Astronomia</a>
+<a href="https://codecamp.com.br/cursos-astronomia" target="_blank">Astronomia</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Automotiva/#cursos" target="_blank">Automotiva</a>
+<a href="https://codecamp.com.br/cursos-automotiva" target="_blank">Automotiva</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Biologia/#cursos" target="_blank">Biologia</a>
+<a href="https://codecamp.com.br/cursos-biologia" target="_blank">Biologia</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Com%E9rcio+e+Varejo/#cursos" target="_blank">Comércio e Varejo</a>
+<a href="https://codecamp.com.br/cursos-comercioevarejo" target="_blank">Comércio e Varejo</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Comunica%E7%E3o/#cursos" target="_blank">Comunicação</a>
+<a href="https://codecamp.com.br/cursos-comunicacao" target="_blank">Comunicação</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Constru%E7%E3o+Civil/#cursos" target="_blank">Construção Civil</a>
+<a href="https://codecamp.com.br/cursos-construcaocivil" target="_blank">Construção Civil</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Direito/#cursos" target="_blank">Direito</a>
+<a href="https://codecamp.com.br/cursos-direito" target="_blank">Direito</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Economia/#cursos" target="_blank">Economia</a>
+<a href="https://codecamp.com.br/cursos-economia" target="_blank">Economia</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Educa%E7%E3o/#cursos" target="_blank">Educação</a>
+<a href="https://codecamp.com.br/cursos-educacao" target="_blank">Educação</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Empreendedorismo/#cursos" target="_blank">Empreendedorismo</a>
+<a href="https://codecamp.com.br/cursos-empreendedorismo" target="_blank">Empreendedorismo</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Finan%E7as+Pessoais/#cursos" target="_blank">Finanças Pessoais</a>
+<a href="https://codecamp.com.br/cursos-financaspessoais" target="_blank">Finanças Pessoais</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_F%EDsica/#cursos" target="_blank">Física</a>
+<a href="https://codecamp.com.br/cursos-fisica" target="_blank">Física</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Fotografia/#cursos" target="_blank">Fotografia</a>
+<a href="https://codecamp.com.br/cursos-geologia" target="_blank">Geologia</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Geologia/#cursos" target="_blank">Geologia</a>
+<a href="https://codecamp.com.br/cursos-gestaodepessoas" target="_blank">Gestão de Pessoas</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Gest%E3o+de+Pessoas/#cursos" target="_blank">Gestão de Pessoas</a>
+<a href="https://codecamp.com.br/cursos-gestaoempresarial" target="_blank">Gestão Empresarial</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Gest%E3o+Empresarial/#cursos" target="_blank">Gestão Empresarial</a>
+<a href="https://codecamp.com.br/cursos-graficaeditora" target="_blank">Gráfica e Editora</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Gr%E1fica+e+Editora/#cursos" target="_blank">Gráfica e Editora</a>
+<a href="https://codecamp.com.br/cursos-historia" target="_blank">História</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Hist%F3ria/#cursos" target="_blank">História</a>
+<a href="https://codecamp.com.br/cursos-hotelaria" target="_blank">Hotelaria</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Hotelaria/#cursos" target="_blank">Hotelaria</a>
+<a href="https://codecamp.com.br/cursos-marketing" target="_blank">Marketing</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Marketing/#cursos" target="_blank">Marketing</a>
+<a href="https://codecamp.com.br/cursos-matematica" target="_blank">Matemática</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Matem%E1tica/#cursos" target="_blank">Matemática</a>
+<a href="https://codecamp.com.br/cursos-meioambiente" target="_blank">Meio Ambiente</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Meio+Ambiente/#cursos" target="_blank">Meio Ambiente</a>
+<a href="https://codecamp.com.br/cursos-mobiliario" target="_blank">Mobiliário</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Metrologia/#cursos" target="_blank">Metrologia</a>
+<a href="https://codecamp.com.br/cursos-odontologia" target="_blank">Odontologia</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Mobili%E1rio/#cursos" target="_blank">Mobiliário</a>
+<a href="https://codecamp.com.br/cursos-politica" target="_blank">Política</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Odontologia/#cursos" target="_blank">Odontologia</a>
+<a href="https://codecamp.com.br/cursos-quimica" target="_blank">Química</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Pol%EDtica/#cursos" target="_blank">Política</a>
+<a href="https://codecamp.com.br/cursos-saneamento" target="_blank">Saneamento</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Qu%EDmica/#cursos" target="_blank">Química</a>
+<a href="https://codecamp.com.br/cursos-segurancanotrabalho" target="_blank">Segurança no Trabalho</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Saneamento/#cursos" target="_blank">Saneamento</a>
+<a href="https://codecamp.com.br/cursos-sustentabilidade" target="_blank">Sustentabilidade</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Seguran%E7a+no+Trabalho/#cursos" target="_blank">Segurança no Trabalho</a>
+<a href="https://codecamp.com.br/cursos-tecnologiadainformacao" target="_blank">Tecnologia da Informação</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Sustentabilidade/#cursos" target="_blank">Sustentabilidade</a>
+<a href="https://codecamp.com.br/cursos-textilevestuario" target="_blank">Têxtil e Vestuário</a>
 
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Tecnologia+da+Informa%E7%E3o/#cursos" target="_blank">Tecnologia da Informação</a>
-
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_T%EAxtil+e+Vestu%E1rio/#cursos" target="_blank">Têxtil e Vestuário</a>
-
-<a href="http://cursos.ninja/brasil-cursos/cursos_area/Area_Transportes/#cursos" target="_blank">Transportes</a>
+<a href="https://codecamp.com.br/cursos-transportes" target="_blank">Transportes</a>
 

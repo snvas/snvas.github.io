@@ -5,6 +5,7 @@ date:   2019-11-20 18:55:36 -0300
 author: soraia
 tags: 
  - cursos online
+ - áreas de cursos
 ---
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Gestão Empresarial" | sort: 'nome'  %}
