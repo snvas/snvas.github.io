@@ -6,8 +6,10 @@ author: soraia
 ---
 
 <div id="fiap"></div>
- {% for curso in site.data.cursosninja %}
 
+ {% assign curso = site.data.cursosninja | where: "categoria","Tecnologia da Informação" %}
+
+{% for curso in site.data.cursosninja %}
 <h1 class="post-title">{{ curso.nome }}</h1>
 
 <h4>Pré-requisito: {{ curso.prerequisito}}</h4>
