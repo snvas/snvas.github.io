@@ -27,10 +27,10 @@ Material didático de apoio para estudantes, pais e professores.
 <div style="clear: both;"></div>
 <div style="width: 100%">
 <br/>
-<h3><a href="http://soraianovaes.com/vcnagoogle/" target="_blank">Seu Negócio no Google</a></h3>
+<h3><a href="http://soraianovaes.com.br/vcnagoogle/" target="_blank">Seu Negócio no Google</a></h3>
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
-<a href="http://soraianovaes.com/vcnagoogle/" target="_blank">
+<a href="http://soraianovaes.com.br/vcnagoogle/" target="_blank">
 <img src="/images/soraiavcnagoogle.jpg" alt="Seu Negócio no Google"></a>
 </div>
 
@@ -144,7 +144,7 @@ Um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucio
 
 <div style="max-width: 40% !important; float: left;padding: 5%;">
 <a href="https://www.amazon.com.br/Desafio-C%C3%B3digo-Roteiro-estudantes-professores-ebook/dp/B01DSWXK7Q" target="_blank">
-<img src="http://soraianovaes.com/images/desafio-capa.png" alt="Desafio do Código"></a>
+<img src="http://soraianovaes.com.br/images/desafio-capa.png" alt="Desafio do Código"></a>
 </div>
 
 O Desafio do Código foi criado para inserir tecnologias gratuitas em diferentes ambientes de aprendizagem. Seja em casa ou na escola, num mundo conectado, é preciso saber o que existe de útil na internet para os estudantes. Estruturado como um desafio educacional online e gameficado, que apresenta diversas ferramentas digitais para aprender habilidades importantes para o futuro das crianças e adolescentes: Programação, matemática e inglês.
