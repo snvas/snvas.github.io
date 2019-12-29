@@ -121,7 +121,7 @@
   }
 }
 
-.btn {
+.btn,button {
   -webkit-border-radius: 9;
   -moz-border-radius: 9;
   border-radius: 9px;
@@ -132,10 +132,13 @@
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
-.btn:hover {
+.btn,button:hover {
   background: #32d10f;
   text-decoration: none;
 }
+
+
+
 
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 .footer-social-icons {
