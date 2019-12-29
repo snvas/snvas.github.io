@@ -10,7 +10,7 @@ author: soraia
 
 <h1 class="post-title">{{ curso.nome }}</h1>
 <h4>Pré-requisito: {{ curso.prerequisito}}</h4>
-<h2>{{ curso.complemento}}</h2>
+<h2>{{ curso.Complemento}}</h2>
 <h2>{{ curso.categoria}}</h2>
 
  {% endfor %}      
