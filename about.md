@@ -12,7 +12,7 @@ O conteúdo desse blog está hospedado via GitPages e todo o código fica no Git
 Minhas habilidades com o [GitHub](http://willianjusten.teachable.com/p/criando-sites-estaticos-com-jekyll) e [Jekyll](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes) foram adquiridas nos cursos do hacker [William Justen](https://willianjusten.com.br/). 
 
 <div style="max-width: 30% !important; float: left;padding: 5%;">
-<img src="https://lh6.googleusercontent.com/-_MRr09deGdI/VDvv524RMnI/AAAAAAAACqg/QfqwV_d1CEc/s863-no/IMG_3906.jpg" alt="" width="100%" /></div>
+<img src="https://desafiodocodigo.com.br/images/IMG_3906.jpg" alt="" width="100%" /></div>
 **Soraia Novaes** co-founder e tutora do Desafio do Código. Professora certificada Google Trainer, Google Certified Innovator, tradutora plena da Khan Academy e autora do livro "Tecnologias para Inovação nas Escolas". Coordenei o Centro de Design do Centro Tecnológico de Maringá, por 11 anos, atuando com a sensibilização, articulação e desenvolvimento de projetos inovadores em empresas e escolas no interior do Paraná.
 
 <a href="http://www.soraianovaes.com.br" target="_blank">Saiba Mais</a>
