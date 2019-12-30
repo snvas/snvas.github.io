@@ -2,6 +2,7 @@
 layout: page
 title: Serviços
 permalink: /servicos/
+order: 2
 ---
 
 <div style="width: 100%">

@@ -3,10 +3,10 @@
     <a href="{{ site.url }}/">{{ site.title }}<span> blog</span></a>
   </h1>
        <nav class="masthead-nav">
-        {% for page in site.pages %}
-          <a href="{{ page.url }}">{{ page.title }}</a>
-
-         {% endfor %}       
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for node in sorted_pages %}
+  <a href="{{node.url}}">{{node.title}}</a>
+{% endfor %}  
     </nav>
     <div class="footer-social-icons">
     <ul class="social-icons">

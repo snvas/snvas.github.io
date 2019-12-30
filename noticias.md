@@ -2,6 +2,7 @@
 layout: page
 title: Notícias
 permalink: /noticias/
+order: 3
 ---
 
 ### RSS via MIT News, MIT Research, TechRadar, Wired, Gadgets, TechRepublic, Techtimes, Cnet e Google 
