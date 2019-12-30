@@ -8,7 +8,7 @@ tags:
  - áreas de cursos
 ---
 
- {% assign curso_online = site.data.cursosninja | where: "Categoria","Animação Gráfica" | sort: 'nome'  %}
+ {% assign curso_online = site.data.cursosninja | where: "Categoria","Finanças Pessoais" | sort: 'nome'  %}
 
 {% for curso in curso_online %}
 <h1 class="post-title">{{ curso.nome }} - {{ curso.tempo}} h/a</h1>

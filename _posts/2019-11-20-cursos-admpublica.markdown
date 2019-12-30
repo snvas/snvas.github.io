@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cursos de Gráfica e Editora Online e Gratuito"
+title:  "Cursos de Administração Pública Online e Gratuitos"
 date:   2019-11-20 18:55:36 -0300
 author: soraia
 tags: 
@@ -8,7 +8,9 @@ tags:
  - áreas de cursos
 ---
 
- {% assign curso_online = site.data.cursosninja | where: "Categoria","Gráfica e Editora" | sort: 'nome'  %}
+<div id="fiap"></div>
+
+ {% assign curso_online = site.data.cursosninja | where: "Categoria","Administração Pública" | sort: 'nome'  %}
 
 {% for curso in curso_online %}
 <h1 class="post-title">{{ curso.nome }} - {{ curso.tempo}} h/a</h1>

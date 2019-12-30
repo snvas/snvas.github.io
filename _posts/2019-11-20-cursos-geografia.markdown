@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cursos de Meio Ambiente Online e Gratuitos"
+title:  "Cursos de Geografia Online e Gratuitos"
 date:   2019-11-20 18:55:36 -0300
 author: soraia
 tags: 
@@ -8,7 +8,9 @@ tags:
  - áreas de cursos
 ---
 
- {% assign curso_online = site.data.cursosninja | where: "Categoria"," Meio Ambiente" | sort: 'nome'  %}
+<div id="fiap"></div>
+
+ {% assign curso_online = site.data.cursosninja | where: "Categoria","Geografia" | sort: 'nome'  %}
 
 {% for curso in curso_online %}
 <h1 class="post-title">{{ curso.nome }} - {{ curso.tempo}} h/a</h1>
