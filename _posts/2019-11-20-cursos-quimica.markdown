@@ -8,7 +8,7 @@ tags:
  - áreas de cursos
 ---
 
-<div id="fiap"></div>
+## Confira os cursos garimpados na web da área de Química.
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Química" | sort: 'nome'  %}
 

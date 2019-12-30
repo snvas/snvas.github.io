@@ -8,6 +8,9 @@ tags:
  - áreas de cursos
 ---
 
+
+## Confira os cursos garimpados na web da área de Física.
+
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Física" | sort: 'nome'  %}
 
 {% for curso in curso_online %}

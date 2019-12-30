@@ -4,14 +4,15 @@ layout: post
 date: 2016-12-27 16:34:42
 author: soraia
 tags: 
- - inova
+ - inovação
+ - tecnologia
 ---
-
-[0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [Y](#Y) [Z](#Z)
-
-A maior lista de links para serviços, produtos, ferramentas, recursos e projetos da Google. <i class="material-icons">done</i>
+A maior lista de links para serviços, produtos, ferramentas, recursos e projetos da Google. 
 
 Adaptada e atualizada a partir da lista criada por [Peter Beens](https://docs.google.com/document/edit?id=1TQupkuKAo7HQT-Sc8wMOcqVvXtc9j4QGWA2BrfBWpbI&hl=en){:target="_blank"}.
+
+
+[0](#0) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [Y](#Y) [Z](#Z)
 
 <div id="0"></div>
 

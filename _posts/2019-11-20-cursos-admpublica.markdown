@@ -8,7 +8,8 @@ tags:
  - áreas de cursos
 ---
 
-<div id="fiap"></div>
+
+## Confira os cursos garimpados na web da área de Administração Pública.
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Administração Pública" | sort: 'nome'  %}
 

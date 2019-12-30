@@ -8,7 +8,7 @@ tags:
  - áreas de cursos
 ---
 
-<div id="fiap"></div>
+## Confira os cursos garimpados na web da área de Segurança no Trabalho.
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Segurança no Trabalho" | sort: 'nome'  %}
 

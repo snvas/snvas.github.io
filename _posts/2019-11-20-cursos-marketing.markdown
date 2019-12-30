@@ -8,6 +8,9 @@ tags:
  - áreas de cursos
 ---
 
+
+## Confira os cursos garimpados na web da área de Marketing.
+
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Marketing" | sort: 'nome'  %}
 
 {% for curso in curso_online %}

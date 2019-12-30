@@ -8,6 +8,9 @@ tags:
  - áreas de cursos
 ---
 
+
+## Confira os cursos garimpados na web da área de Arquitetura.
+
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Arquitetura" | sort: 'nome'  %}
 
 {% for curso in curso_online %}

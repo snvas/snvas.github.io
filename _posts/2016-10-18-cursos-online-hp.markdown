@@ -40,6 +40,8 @@ Veja ainda:
 
 Você também pode encontrar os cursos online gratuitos organizados por área:
 
+<a href="https://codecamp.com.br/cursos-admpublica" target="_blank">Administração Pública</a>
+
 <a href="https://codecamp.com.br/cursos-agropecuaria" target="_blank">Agropecuária</a>
 
 <a href="https://codecamp.com.br/cursos-animacaografica" target="_blank">Animação Gráfica</a>
@@ -48,15 +50,11 @@ Você também pode encontrar os cursos online gratuitos organizados por área:
 
 <a href="https://codecamp.com.br/cursos-astronomia" target="_blank">Astronomia</a>
 
-<a href="https://codecamp.com.br/cursos-automotiva" target="_blank">Automotiva</a>
-
 <a href="https://codecamp.com.br/cursos-biologia" target="_blank">Biologia</a>
 
 <a href="https://codecamp.com.br/cursos-comercioevarejo" target="_blank">Comércio e Varejo</a>
 
 <a href="https://codecamp.com.br/cursos-comunicacao" target="_blank">Comunicação</a>
-
-<a href="https://codecamp.com.br/cursos-construcaocivil" target="_blank">Construção Civil</a>
 
 <a href="https://codecamp.com.br/cursos-direito" target="_blank">Direito</a>
 
@@ -70,25 +68,19 @@ Você também pode encontrar os cursos online gratuitos organizados por área:
 
 <a href="https://codecamp.com.br/cursos-fisica" target="_blank">Física</a>
 
+<a href="https://codecamp.com.br/cursos-geografia" target="_blank">Geografia</a>
+
 <a href="https://codecamp.com.br/cursos-geologia" target="_blank">Geologia</a>
 
 <a href="https://codecamp.com.br/cursos-gestaodepessoas" target="_blank">Gestão de Pessoas</a>
 
 <a href="https://codecamp.com.br/cursos-gestaoempresarial" target="_blank">Gestão Empresarial</a>
 
-<a href="https://codecamp.com.br/cursos-graficaeditora" target="_blank">Gráfica e Editora</a>
-
 <a href="https://codecamp.com.br/cursos-historia" target="_blank">História</a>
-
-<a href="https://codecamp.com.br/cursos-hotelaria" target="_blank">Hotelaria</a>
 
 <a href="https://codecamp.com.br/cursos-marketing" target="_blank">Marketing</a>
 
 <a href="https://codecamp.com.br/cursos-matematica" target="_blank">Matemática</a>
-
-<a href="https://codecamp.com.br/cursos-meioambiente" target="_blank">Meio Ambiente</a>
-
-<a href="https://codecamp.com.br/cursos-mobiliario" target="_blank">Mobiliário</a>
 
 <a href="https://codecamp.com.br/cursos-odontologia" target="_blank">Odontologia</a>
 
@@ -96,16 +88,13 @@ Você também pode encontrar os cursos online gratuitos organizados por área:
 
 <a href="https://codecamp.com.br/cursos-quimica" target="_blank">Química</a>
 
-<a href="https://codecamp.com.br/cursos-saneamento" target="_blank">Saneamento</a>
-
 <a href="https://codecamp.com.br/cursos-segurancanotrabalho" target="_blank">Segurança no Trabalho</a>
 
 <a href="https://codecamp.com.br/cursos-sustentabilidade" target="_blank">Sustentabilidade</a>
 
 <a href="https://codecamp.com.br/cursos-tecnologiadainformacao" target="_blank">Tecnologia da Informação</a>
 
-<a href="https://codecamp.com.br/cursos-textilevestuario" target="_blank">Têxtil e Vestuário</a>
-
 <a href="https://codecamp.com.br/cursos-transportes" target="_blank">Transportes</a>
+
 
 

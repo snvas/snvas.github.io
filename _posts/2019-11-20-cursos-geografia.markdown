@@ -8,7 +8,8 @@ tags:
  - áreas de cursos
 ---
 
-<div id="fiap"></div>
+
+## Confira os cursos garimpados na web da área de Geografia.
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Geografia" | sort: 'nome'  %}
 

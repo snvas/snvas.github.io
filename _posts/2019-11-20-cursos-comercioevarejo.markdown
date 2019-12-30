@@ -8,6 +8,9 @@ tags:
  - áreas de cursos
 ---
 
+
+## Confira os cursos garimpados na web da área de Comércio e Varejo.
+
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Comércio e Varejo" | sort: 'nome'  %}
 
 {% for curso in curso_online %}

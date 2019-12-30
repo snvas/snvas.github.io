@@ -42,11 +42,11 @@ layout: default
     <p>{{ posts | size }} posts com a tag <b>{{ t }}</b></p>
   {% endif %}
   <br>
-  <hr>
 </div>
 {% endfor %}
 
 <div class="content list">
+  <hr>
   {% if site.posts.size == 0 %}
     <h2>Nenhum post encontrado</h2>
   {% else %}
@@ -55,16 +55,15 @@ layout: default
         <h2 class="list-post-title">
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </h2>
-        <div class="list-post-date">
-          <time>{{ post.date | date_to_string }}</time>
+        <div class="">
+          <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
         </div>
       </div>
+      <hr>
     {% endfor %}
   {% endif %}
 </div>
  <hr/>
-
-
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- codecamp -->
 <ins class="adsbygoogle"

@@ -72,15 +72,11 @@ Garimpamos na internet mais de 700 cursos online em português GRATUITOS ofereci
 
 <a href="https://codecamp.com.br/cursos-astronomia" target="_blank">Astronomia</a>
 
-<a href="https://codecamp.com.br/cursos-automotiva" target="_blank">Automotiva</a>
-
 <a href="https://codecamp.com.br/cursos-biologia" target="_blank">Biologia</a>
 
 <a href="https://codecamp.com.br/cursos-comercioevarejo" target="_blank">Comércio e Varejo</a>
 
 <a href="https://codecamp.com.br/cursos-comunicacao" target="_blank">Comunicação</a>
-
-<a href="https://codecamp.com.br/cursos-construcaocivil" target="_blank">Construção Civil</a>
 
 <a href="https://codecamp.com.br/cursos-direito" target="_blank">Direito</a>
 
