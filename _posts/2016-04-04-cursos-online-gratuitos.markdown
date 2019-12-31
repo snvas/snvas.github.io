@@ -41,6 +41,8 @@ Garimpamos na internet mais de 700 cursos online em português GRATUITOS ofereci
 
 ### FGV Online
 
+### FIAP X
+
 ### Fundação Bradesco 
 
 ### Google Trainer Soraia Novaes
