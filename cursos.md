@@ -18,7 +18,7 @@ order: 1
 
 [Tecnologias Google para Professores de História e Geografia](https://www.udemy.com/course/tecnologias-google-para-professores-de-historia-e-geografia/?referralCode=142BB5B22254032FB68C)
  
- Conheça os recursos do Google que podem transformar sua aula de história ou geografia. Leva a tecnologia para seus alunos gratuitamente. 
+ Conheça os recursos do Google que podem transformar sua aula de história ou geografia. Leve tecnologia para seus alunos gratuitamente. 
 
 [Técnicas para Ter o Melhor Site para Dispositivos Móveis](https://www.udemy.com/course/tecnicas-para-ter-o-melhor-site-mobile/?referralCode=D869480A49488F1EC96C)
 
