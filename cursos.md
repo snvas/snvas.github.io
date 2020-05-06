@@ -24,10 +24,6 @@ order: 1
  {% endfor %}      
 
 
-[Google Drive e Documentos Google para Iniciantes](https://www.udemy.com/course/google-drive-e-muito-mais-que-um-dropbox/?referralCode=D982C0B9C343737A2745)
- 
- Descubra Como Armazenar seus arquivos na Nuvem e Trabalhar Online com Documentos
-
 [Certificação Google for Education para Professores](https://www.udemy.com/course/certificacoes-google-for-education-para-professores/?referralCode=3EF4264EDC40C2F4981B)
  
  Tudo que os professores precisam saber sobre os certificados da Google para Educação. Descubra como conseguir os seus!
