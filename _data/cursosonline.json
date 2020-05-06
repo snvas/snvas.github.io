@@ -3,7 +3,7 @@
       "id": 1,
       "nome": "Certificação Google for Education para Professores",
       "descricao": "Tudo que os professores precisam saber sobre os certificados da Google para Educação. Descubra como conseguir os seus! Chegou a hora de você brilhar e juntar-se aos Educadores certificados Google em todo mundo. Tenha uma certificação do seu nível para demonstrar seu conhecimento sobre as ferramentas online do Google. ",
-      "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/certificacoes-google-for-education-para-professores/?referralCode=3EF4264EDC40C2F4981B\" target=\"_blank\">Inscreva-se</a></b> <br/>",
+      "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/certificacoes-google-for-education-para-professores/?referralCode=3EF4264EDC40C2F4981B\" target=\"_blank\">Inscreva-se</a> <br/>",
       "imagem": "<img src=\"images/curso-udemy-cerfifica.jpg\"/>",
       "categoria": "Online"
     },
@@ -11,7 +11,7 @@
       "id": 2,
        "nome": "Novas Tecnologias que já estão no mercado",
         "descricao": "Descubra as novas tecnologias que já estão no mercado na Europa. Você vai conhecer os lançamentos das grandes marcas do mercado: assistentes virtuais ativado por voz, Smart Home, Realidade Virtual e Mista, televisores de alta definição, robôs cada vez mais inteligentes, impressão 3D, drones, brinquedos e jogos.  ",
-        "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/novas-tecnologias-no-mercado/?referralCode=56B25B9B5B0BC03AD08D\" target=\"_blank\">Inscreva-se</a></b> <br/>",
+        "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/novas-tecnologias-no-mercado/?referralCode=56B25B9B5B0BC03AD08D\" target=\"_blank\">Inscreva-se</a> <br/>",
         "imagem": "<img src=\"images/curso-udemy-novastech.jpg\"/>",
         "categoria": "Online"
     },
@@ -19,23 +19,23 @@
         "id": 3,
          "nome": "Portfólio Online com Google Photos",
           "descricao": "Como apresentar sua empresa e seu trabalho de forma profissional e gratuita com Google Photos. Aproveite as melhores oportunidades do mercado criando um lindo portfólio online. Aprenda a mostrar seu trabalho com criatividade para qualquer pessoa em qualquer dispositivo.  ",
-          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/portfolio-online-com-google-photos/?referralCode=554EE3CE0F41F4F450C7\" target=\"_blank\">Inscreva-se</a></b> <br/>",
-          "imagem": "<img src=\"images/curso-udemy-photos.jpg\"/>",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/portfolio-online-com-google-photos/?referralCode=554EE3CE0F41F4F450C7\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"/images/curso-udemy-photos.jpg\"/>",
           "categoria": "Online"
       },
       {  
         "id": 4,
          "nome": "Google Drive e Google Documentos para Iniciantes",
           "descricao": "Descubra Como se Livrar do Microsoft Office e Trabalhar com sua Equipe em Documentos, Planilhas ou Slides na Nuvem. Vamos conhecer os recursos do Google Drive e como pode ser utilizado para substituir os aplicativos Office.",
-          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/google-drive-e-muito-mais-que-um-dropbox/?referralCode=D982C0B9C343737A2745\" target=\"_blank\">Inscreva-se</a></b> <br/>",
-          "imagem": "<img src=\"images/curso-udemy-drive.jpg\"/>",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/google-drive-e-muito-mais-que-um-dropbox/?referralCode=D982C0B9C343737A2745\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-drive.jpg\"/>",
           "categoria": "Online"
       },
       {  
         "id": 5,
          "nome": "Técnicas para Ter o Melhor Site para Dispositivos Móveis",
           "descricao": "Aprenda a aplicar 25 princípios de design móvel que traz técnicas para a navegação ideal, da página inicial à busca, dos formulários às melhores maneiras de converter os usuários.",
-          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/tecnicas-para-ter-o-melhor-site-mobile/?referralCode=D869480A49488F1EC96C\" target=\"_blank\">Inscreva-se</a></b> <br/>",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/tecnicas-para-ter-o-melhor-site-mobile/?referralCode=D869480A49488F1EC96C\" target=\"_blank\">Inscreva-se</a> <br/>",
           "imagem": "<img src=\"images/curso-udemy-drive.jpg\"/>",
           "categoria": "Online"
       }
