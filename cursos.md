@@ -20,11 +20,8 @@ order: 1
 
 <hr>
 
+
  {% endfor %}      
-
-
-
-
 
 
 [Google Drive e Documentos Google para Iniciantes](https://www.udemy.com/course/google-drive-e-muito-mais-que-um-dropbox/?referralCode=D982C0B9C343737A2745)
