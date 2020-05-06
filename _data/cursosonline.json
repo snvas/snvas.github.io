@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "nome": "Certificação Google for Education para Professores",
+      "descricao": "Tudo que os professores precisam saber sobre os certificados da Google para Educação. Descubra como conseguir os seus! Chegou a hora de você brilhar e juntar-se aos Educadores certificados Google em todo mundo. Tenha uma certificação do seu nível para demonstrar seu conhecimento sobre as ferramentas online do Google. ",
+      "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/certificacoes-google-for-education-para-professores/?referralCode=3EF4264EDC40C2F4981B\" target=\"_blank\">Inscreva-se</a></b> <br/>",
+      "Imagem": "<img src=\"images/curso-udemy-cerfifica.jpg\"/>"
+    },
+    {  
+      "id": 1,
+       "nome": "Novas Tecnologias que já estão no mercado",
+        "descricao": "Descubra as novas tecnologias que já estão no mercado na Europa. Você vai conhecer os lançamentos das grandes marcas do mercado: assistentes virtuais ativado por voz, Smart Home, Realidade Virtual e Mista, televisores de alta definição, robôs cada vez mais inteligentes, impressão 3D, drones, brinquedos e jogos.  ",
+        "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/novas-tecnologias-no-mercado/?referralCode=56B25B9B5B0BC03AD08D\" target=\"_blank\">Inscreva-se</a></b> <br/>",
+        "Imagem": "<img src=\"images/curso-udemy-novastech.jpg\"/>"
+    }
+]
+        

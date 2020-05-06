@@ -4,6 +4,29 @@ title: Cursos Online
 permalink: /cursos/
 order: 1
 ---
+
+
+## Confira os cursos online EmpreendeLab
+
+ {% assign curso_online = site.data.cursosoline | sort: 'nome'  %}
+
+{% for curso in curso_online %}
+<p>{{ curso.Imagem}}</p>
+<h1 class="post-title">{{ curso.nome }} </h1>
+
+<p>{{ curso.descricao}}</p>
+
+<h5>{{ curso.Inscrevase}}</h5>
+
+<hr>
+
+ {% endfor %}      
+
+
+
+
+
+
 [Google Drive e Documentos Google para Iniciantes](https://www.udemy.com/course/google-drive-e-muito-mais-que-um-dropbox/?referralCode=D982C0B9C343737A2745)
  
  Descubra Como Armazenar seus arquivos na Nuvem e Trabalhar Online com Documentos
