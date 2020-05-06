@@ -8,15 +8,15 @@ order: 1
 
 ## Confira os cursos online EmpreendeLab
 
- {% assign curso_online = site.data.cursosoline | sort: 'nome'  %}
+ {% assign curso_udemy = site.data.cursosoline | sort: 'nome'  %}
 
-{% for curso in curso_online %}
-<p>{{ curso.Imagem}}</p>
+{% for curso in curso_udemy %}
+<p>{{ curso.imagem}}</p>
 <h1 class="post-title">{{ curso.nome }} </h1>
 
 <p>{{ curso.descricao}}</p>
 
-<h5>{{ curso.Inscrevase}}</h5>
+<h5>{{ curso.inscrevase}}</h5>
 
 <hr>
 
