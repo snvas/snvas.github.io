@@ -5,6 +5,21 @@ permalink: /cursos/
 order: 1
 ---
 
+## Confira os cursos online EmpreendeLab
+
+{% assign curso_online = site.data.cursosonline  | where: "categoria","Online" | sort: 'nome'  %}
+
+{% for curso in curso_online %}
+<p>{{ curso.imagem}}</p>
+<h1 class="post-title">{{ curso.nome }} </h1>
+
+<p>{{ curso.descricao}}</p>
+
+<h5>{{ curso.inscrevase}}</h5>
+
+<hr>
+ {% endfor %}      
+
 
 [Certificação Google for Education para Professores](https://www.udemy.com/course/certificacoes-google-for-education-para-professores/?referralCode=3EF4264EDC40C2F4981B)
  
