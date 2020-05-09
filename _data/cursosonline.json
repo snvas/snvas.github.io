@@ -135,5 +135,29 @@
           "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-ferramentas.jpg\"/>",
           "categoria": "Online"
       },
+      {  
+        "id": 18,
+         "nome": "Storytelling - A Poderosa Arte de Contar Histórias",
+          "descricao": "Você sabia que aqueles que dominam a habilidade do storytelling pode ter influência desproporcional sobre os outros? A capacidade de vender ideias na forma de histórias é hoje mais importante do que nunca.",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/storytelling-a-arte-de-contar-historias/?referralCode=9316E1DFF5FEE1B00181\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-storytelling.jpg\"/>",
+          "categoria": "Online"
+      },
+      {  
+        "id": 19,
+         "nome": "Design Centrado no Ser Humano - Kit de Ferramentas",
+          "descricao": "Vamos conhecer elementos do HCD - Human-Centered Design (em português, Design Centrado no Ser Humano), um processo usado por décadas para criar novas soluções para empresas nacionais e multinacionais.",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/design-centrado-no-ser-humano/?referralCode=1F8794E68E7D1FE83F4D\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-hcd.jpg\"/>",
+          "categoria": "Online"
+      },
+      {  
+        "id": 19,
+         "nome": "Design Thinking: Conceito + 25 Métodos de Design",
+          "descricao": "Conteúdo dividido em quatro partes para você entender os métodos que os designers usam e testá-los por conta própria. Com base nas etapas do Double Diamond, uma maneira simples de mapear o processo de design em quatro etapas:  Descobrir, Definir, Desenvolver e Entregar.",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/design-thinking-25-metodos-de-design/?referralCode=8CAAF00B9B5C1FA67E22\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-dt-conceitos.jpg\"/>",
+          "categoria": "Online"
+      },
 ]
         
