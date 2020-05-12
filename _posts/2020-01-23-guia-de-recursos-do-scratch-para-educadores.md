@@ -5,7 +5,7 @@ tags:
 - programação
 - scratch
 ---
-A Rede Brasileira de Aprendizagem Criativa lançou o "O Guia de Recursos do Scratch para Educadores", que apresenta um conjunto de orientações para que professores iniciantes ou experientes da educa├º├úo infantil ao ensino médio trabalhem a linguagem de programação com seus alunos.
+A Rede Brasileira de Aprendizagem Criativa lançou o "O Guia de Recursos do Scratch para Educadores", que apresenta um conjunto de orientações para que professores iniciantes ou experientes da educação infantil ao ensino médio trabalhem a linguagem de programação com seus alunos.
 
 O documento disponível gratuitamente mostra como adotar o Scratch a partir da aprendizagem criativa, aquela preocupada com a construçã de ambientes e oportunidades centrados em quatro dimensões-chave: os 4 Ps da aprendizagem criativa: projetos, paixão, pares, e pensar brincando.
 
