@@ -48,7 +48,7 @@ rssfeed_no_items="0";
 rssfeed_cache = "a9fbf6cf93803a3be7455bd80e8f2701"; 
 //--> 
 </script> 
-<script type="text/javascript" src="http://feed.surfing-waves.com/js/rss-feed.js"></script> 
+<script type="text/javascript" src="_data/js/rss-feed.js"></script> 
 <!-- end sw-rss-feed code -->
 
 
