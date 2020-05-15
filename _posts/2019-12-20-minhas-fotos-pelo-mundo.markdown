@@ -9,20 +9,19 @@ tags:
 <a href="https://www.shutterstock.com/g/Soraia+Novaes" target="_blank"><img src="images/portfolio-shutterstock.png" alt="" /></a>
 
 <h2>No Brasil</h2>
-    		<ul class="alt">
-        <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157628709579479/" target="_blank">Maring&aacute;</a></li>
+    		<ul>
+        <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157628709579479/" target="_blank">Maring?</a></li>
         <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157628709622281/" target="_blank">Porto Rico</a></li>
 <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157626261745014/" target="_blank">Curitiba</a></li>
-  <li><a href="https://www.flickr.com/photos/designregional/collections/72157632757157534/" target="_blank">Florian&oacute;polis</a></li>
- <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157626261716632/" target="_blank">S&atilde;o Paulo </a></li>
+  <li><a href="https://www.flickr.com/photos/designregional/collections/72157632757157534/" target="_blank">Florian?polis</a></li>
+ <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157626261716632/" target="_blank">S?o Paulo </a></li>
  <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157626547298749/" target="_blank">Rio de Janeiro</a></li>
  <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157626261714186/" target="_blank">Porto Alegre</a></li>
- <li> <a href="http://www.flickr.com/photos/60048303@N04/collections/72157628710880067/" target="_blank">Bras&iacute;lia</a></li>
+ <li> <a href="http://www.flickr.com/photos/60048303@N04/collections/72157628710880067/" target="_blank">Bras?lia</a></li>
  <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157628709492999/" target="_blank">Nordeste do Brasil</a></li>
- 
  </ul>
 <h2>No Mundo</h2>
-  	<ul class="alt">
+  	<ul>
           <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157629869207539/" target="_blank">Alemanha - Berlim, Potsdam, Dessau, Weimar</a></li>           
         <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157629493115317/" target="_blank">Canad&aacute; - Sarnia, London, Grand Bend, Toronto, Niagara Falls</a></li>
           <li><a href="https://www.flickr.com/photos/designregional/collections/72157649690994950/" target="_blank">Espanha - Barcelona, Málaga, Casáres, Granada, Córdoba, Sevilha</a></li>
@@ -38,20 +37,18 @@ tags:
         <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157634418054484/" target="_blank">USA - New York</a></li>
          </ul>
 
-<p class="titulo2012"> O melhor do que eu vi</p>
-	<div class="12u 12u$(medium)">
-    	<ul class="alt">
-             <li><a href="https://soraianovaes.com.br/postcards/" target="_blank">Cart&otilde;es Postais - Paris</a></li>
+<h3> O melhor do que eu vi</h3>
+    	<ul>
+             <li><a href="https://soraianovaes.com.br/postcards/" target="_blank">Cart?es Postais - Paris</a></li>
              <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/newyork.html">O melhor do que vi em Nova York</a></li>
-             <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/ferias.html">O melhor do que vi nas F&eacute;rias</a></li>
-             <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/weimar.html">O melhor do que vi em Weimar, a terra onde come&ccedil;ou a Bauhaus</a></li>
+             <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/ferias.html">O melhor do que vi nas F?rias</a></li>
+             <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/weimar.html">O melhor do que vi em Weimar, a terra onde come?ou a Bauhaus</a></li>
              <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/berlin.html">O melhor do que vi em Berlin</a></li>
              <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/muro.html">O Muro de Berlin</a></li>
              <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/wirth.html">Fotos by SnWit</a></li>
              </ul>
-
 <p> Wherever You Go</p>
-<a href="http://www.soraianovaes.com.br/portfolio2011"><img src="imagens/portfolio2011.jpg" /></a>
+<a href="http://www.soraianovaes.com.br/portfolio2011"><img src="images/portfolio2011.jpg" /></a>
 <p>&nbsp; </p>
 <p style="margin-left: 7%; font-size: larger;"><em>Wherever you go</em> histories and shots.</p>
   <p>&nbsp; </p> 
