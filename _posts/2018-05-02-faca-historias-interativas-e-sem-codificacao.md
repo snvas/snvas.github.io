@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Faça histórias interativas e sem codificação
-tags: []
+tags: 
+- edtech
+- inovação
+- professores
 ---
 Reproduza sua história instantaneamente no Google Home.
 

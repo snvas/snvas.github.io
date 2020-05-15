@@ -3,9 +3,8 @@ layout: post
 title: Ferramentas do Google for Education
 tags:
 - educação
-- google
-- inovação
-- tecnologia
+- google for education
+- professores
 ---
 O G Suite for Education é um pacote de ferramentas que ajudam você a aumentar as oportunidades de pensamento crítico, comunicação, colaboração e criatividade com base nos objetivos definidos para seus alunos. Essas ferramentas são gratuitas, sem anúncios, confiáveis e seguras. Elas são usadas por milhões de alunos em escolas de todo o mundo. É claro que o fato de essas ferramentas serem gratuitas é ótimo, mas o melhor é que elas são relevantes para os alunos, fáceis de usar e abrem portas para novas formas de aprendizagem.
 

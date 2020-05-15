@@ -3,7 +3,7 @@ layout: post
 title: Guia de Recursos do Scratch para Educadores
 tags:
 - programação
-- scratch
+- professores
 ---
 A Rede Brasileira de Aprendizagem Criativa lançou o "O Guia de Recursos do Scratch para Educadores", que apresenta um conjunto de orientações para que professores iniciantes ou experientes da educação infantil ao ensino médio trabalhem a linguagem de programação com seus alunos.
 

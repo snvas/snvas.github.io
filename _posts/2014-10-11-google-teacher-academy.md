@@ -4,7 +4,6 @@ title: Google Teacher Academy
 tags:
 - google
 - google for education
-- innovator
 ---
 São Paulo, 15 de setembro de 2014 – Google ™  selecionou 
 [Soraia Novaes](http://soraianovaes.com.br) como uma dos participantes no Google Teacher Academy, realizado em São Paulo, Brasil, em 9 e 10 de outubro de 2014.

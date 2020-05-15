@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Um Uso Muito Diferente do Google Forms
-tags: []
+tags: 
+- google for education
+- edtech
+- professores
 ---
 Veja como o uso do Google Formulários pode ser bem impactante!!
 

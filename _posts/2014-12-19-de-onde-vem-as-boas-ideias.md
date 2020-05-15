@@ -1,9 +1,8 @@
 ---
 layout: post
-title: De onde vem as boas id├®ias
+title: De onde vem as boas ideias
 tags:
-- ideia
-- inovação
+- inova??o
 ---
 O acaso favorece as mentes conectadas!
 

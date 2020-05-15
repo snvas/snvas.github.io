@@ -5,7 +5,6 @@ date: 2016-08-31 20:38:43
 author: soraia
 tags: 
  - google for education
- - google innovators
 ---
 
 ### Professores Inovadores Google

@@ -2,8 +2,7 @@
 layout: post
 title: Por que todo mundo deveria aprender programação
 tags:
-- code
-- computador
+- computação
 - programação
 ---
 Quando falamos sobre o que as crianças aprendem em programação, normalmente dividimos isso em três grandes categorias amplas. A primeira categoria são os conceitos que elas aprendem. Aprendem conceitos como variáveis, como expressões condicionais que são importantes em computação e matemática. Aprendem alguns conceitos específicos matemática, ciências e engenharia. Isso é o que a maioria das escolas de programação enfocam, mas não é o que Mitchel Resnik, o criador do Scratch, considera mais importante, não é o que mais se relaciona com as habilidades do século XXI.

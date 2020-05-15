@@ -3,7 +3,6 @@ layout: post
 title: 16 cursos gratuitos de idiomas
 tags:
 - idiomas
-- online
 ---
 Em todos os momentos ou lugares em que vamos somos surpreendidos por diversas palavrinhas, que não fazem parte do nosso idioma em questão, o português. Seja em restaurantes, shoppings, estádios, estabelecimentos e principalmente no trabalho, já que saber outro ou outros idiomas além da língua nativa é muito importante para a sobrevivência em um mundo globalizado, e cada vez mais avançado. Conheça a seguir então sites que encontramos no Google onde você pode aprender vários idiomas gratuitamente. Alguns destes sites estarão em inglês, mas não se preocupe você pode conferir abaixo sites que também ensinam inglês , e depois é só sair falando! 
 

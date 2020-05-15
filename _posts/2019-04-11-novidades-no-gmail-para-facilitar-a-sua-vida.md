@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Novidades no Gmail para facilitar a sua vida
-tags: []
----Nesse 
+tags: 
+- google
+---
+
+Nesse 
 [artigo publicado](https://brasil.googleblog.com/2019/04/querido-gmail-feliz-aniversario-de-15-anos.html?m=1) no blog do Google Brasil ficamos sabendo um pouco das novidades que estão chegando, depois de 15 anos evoluindo.
 
 

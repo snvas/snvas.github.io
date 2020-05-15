@@ -4,7 +4,7 @@ title:  "+40 Temas Responsivos para o Wordpress"
 date:   2017-01-03 17:55:36 -0300
 author: soraia
 tags: 
- - programar
+ - programação
 ---
 
  O uso de internet móvel disparou ao longo dos últimos anos. As buscas no Google em dispositivos móveis passaram as buscas em computadores pela primeira vez, por isso os sites de negócios precisam ser mobile-friendly.

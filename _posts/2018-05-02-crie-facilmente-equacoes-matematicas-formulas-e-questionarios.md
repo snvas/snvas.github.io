@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Crie facilmente equações matemáticas, fórmulas e questionários
-tags: []
+tags: 
+- inovação
+- edtech
+- google for education
+- professores
 ---
 
 Intuitivamente digite ou escreva, sem código matemático complicado para aprender.

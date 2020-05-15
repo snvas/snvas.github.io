@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Form Publisher complemento aumenta a produtividade do Google Formul├írios
-tags: []
+tags: 
+- inovação
+- google for education
+- professores
 ---
 A cada novo envio de formulário, o Editor de formulários complementar é acionado, obtém um modelo que você selecionou anteriormente no Google Drive, faz uma cópia dele e substitui espaços reservados específicos neste modelo pelas respostas enviadas no formulário.
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Turbine sua Aula de Artes, História e Cultura com Google
-tags: []
+tags: 
+- professores
+- Google for education
 ---
 Os icônicos azulejos, a história da rainha póstuma Inês de Castro, os quadros renascentistas e os lugares que o poeta Luís Vaz de Camões visitou foram digitalizados e lançados no
 [Google Arts & Culture](https://artsandculture.google.com/) o projeto Portugal: Arte e Patrimônio.[![](https://4.bp.blogspot.com/-7SpYMaNxkxo/XD3lTB4_fFI/AAAAAAAACRY/jR9vnMIB2dUu3D-igb9ufg4Xu2W5IqvkwCLcBGAs/s640/National%2BAzulejo%2BMuseum%2B-%2BGrande%2Bpanorama%2Bde%2BLisboa%252C%2Bby%2BGabriel%2Bdel%2BBarco%2B%2528attrib.%2529%252C%2B1700.png)](https://4.bp.blogspot.com/-7SpYMaNxkxo/XD3lTB4_fFI/AAAAAAAACRY/jR9vnMIB2dUu3D-igb9ufg4Xu2W5IqvkwCLcBGAs/s1600/National%2BAzulejo%2BMuseum%2B-%2BGrande%2Bpanorama%2Bde%2BLisboa%252C%2Bby%2BGabriel%2Bdel%2BBarco%2B%2528attrib.%2529%252C%2B1700.png)

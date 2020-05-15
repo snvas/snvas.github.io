@@ -6,6 +6,7 @@ author: soraia
 tags: 
  - edtech
  - professores
+ - idiomas
 ---
 
 ### BaBaDum

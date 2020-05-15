@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Timelapse mostra os Últimos 35 anos do planeta
-tags: []
+tags: 
+- professores
+- Google for education
 ---
 O Timelapse fornece uma imagem abrangente de nossa Terra em mudança. Inclui fenômenos impressionantes como o surgimento de:
 [Palm Islands](https://earthengine.google.com/timelapse/#v=25.12384,55.10405,8.96,latLng&t=0.5&ps=100&bt=19840101&et=20161231&startDwell=0&endDwell=0), em Dubai, o recuo do:

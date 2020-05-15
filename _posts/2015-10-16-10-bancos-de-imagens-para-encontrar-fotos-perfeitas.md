@@ -2,8 +2,7 @@
 layout: post
 title: 10 Bancos de Imagens para encontrar fotos perfeitas
 tags:
-- banco
-- imagens
+- banco de imagens
 ---
 
 [Corbis Images](http://www.corbisimages.com/) Fotografia comercial e editorial e ilustra├º├Áes.

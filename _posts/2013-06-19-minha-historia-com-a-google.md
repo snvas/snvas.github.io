@@ -3,7 +3,7 @@ layout: post
 title: Minha história com a Google
 tags:
 - google
-- googleplex
+- inovação
 ---
 Em 2011 fiz a primeira visita ao Googleplex, o quartel general da maior empresa do Vale do Silício.
 

@@ -1,8 +1,13 @@
 ---
 layout: post
 title: 25 maneiras de usar o Formulários Google na Sala de aula (com exemplos!)
-tags: []
+tags:
+- inovação
+- edtech
+- google for education
+- professores
 ---
+
 Essas 25 formas de usar o Google Formulários na sua sala de aula foram publicadas por 
 [John R. Sowash](http://electriceducator.blogspot.com.br/2018/03/25-ways-to-use-google-forms-in.html) recentemente.
 

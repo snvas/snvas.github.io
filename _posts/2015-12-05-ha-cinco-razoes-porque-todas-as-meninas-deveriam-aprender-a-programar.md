@@ -3,8 +3,6 @@ layout: post
 title: Há cinco razões porque todas as meninas deveriam aprender a programar
 tags:
 - computação
-- girls in tech
-- mulheres
 ---
 
 No futuro os melhores empregos em todos os campos – na arte, na medicina, em qualquer campo – vão para as pessoas que sabem programar. Se quisermos fazer parte de um dos mercados de empregos lá fora com o crescimento mais rápido, precisamos ir a bordo!

@@ -3,6 +3,7 @@ layout: post
 title: Educação para o Futuro
 tags: 
 - educação
+- professores
 ---
 O biólogo Átila Iamarino fala sobre o estado atual dos métodos educacionais e o que podemos fazer para melhorá-los.
 

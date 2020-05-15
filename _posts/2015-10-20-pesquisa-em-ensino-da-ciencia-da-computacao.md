@@ -4,7 +4,6 @@ title: Pesquisa em Ensino da Ciência da Computação
 tags:
 - computação
 - google
-- mulheres
 ---
 A Ciência da Computação é fundamental para nosso futuro, mas não só por causa do número de empregos ligados à computação que surgem todos os anos. Ela também desenvolve as capacidades de raciocínio crítico necessárias para solucionar problemas complexos, a criatividade que fomenta novas ideias e as habilidades que impulsionam a inovação na tecnologia e em outros setores.
 
