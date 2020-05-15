@@ -1,13 +1,6 @@
----
-layout: page
-title: News
-permalink: /news/
-order: 3
----
+I"u<h3 id="rss-via-mit-news-mit-research-techradar-wired-gadgets-techrepublic-techtimes-cnet-google-techcrunch-engadget-the-verge-reddit-pc-world-e-tech-viral">RSS via MIT News, MIT Research, TechRadar, Wired, Gadgets, TechRepublic, Techtimes, Cnet, Google, Techcrunch, Engadget, The Verge, Reddit, PC World e Tech Viral</h3>
 
-### RSS via MIT News, MIT Research, TechRadar, Wired, Gadgets, TechRepublic, Techtimes, Cnet, Google, Techcrunch, Engadget, The Verge, Reddit, PC World e Tech Viral
-
-<!-- start sw-rss-feed code --> 
+<!-- start sw-rss-feed code -->
 <script type="text/javascript">  
 <!-- 
 rssfeed_url = new Array(); 
@@ -47,12 +40,13 @@ rssfeed_item_description_tag="off";
 rssfeed_no_items="0"; 
 rssfeed_cache = "a9fbf6cf93803a3be7455bd80e8f2701"; 
 //--> 
-</script> 
-<script type="text/javascript" src="https://codecamp.com.br/js/rss-feed.js"></script> 
+</script>
+
+<script type="text/javascript" src="https://codecamp.com.br/js/rss-feed.js"></script>
+
 <!-- end sw-rss-feed code -->
 
-
- <div style="width: 100%; margin-bottom: 25px;">
+<div style="width: 100%; margin-bottom: 25px;">
    <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
 <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
@@ -66,6 +60,7 @@ rssfeed_cache = "a9fbf6cf93803a3be7455bd80e8f2701";
 <a class="a2a_button_tumblr"></a>
 <a class="a2a_button_google_classroom"></a>
 </div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 </div>
+:ET
