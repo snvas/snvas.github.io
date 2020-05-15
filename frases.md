@@ -5,6 +5,8 @@
 {% for frase in frase_online %}
 <h2 class="post-title">{{ frase.Frase }}</h2>
 <h3>{{ frase.autor}}</h3>
+ 
+{% endfor %}
 
 
 {% assign sorted_categorias = site.data.frases | sort %}
