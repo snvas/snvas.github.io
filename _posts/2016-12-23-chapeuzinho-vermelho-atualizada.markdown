@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "A História da Chapeuzinho Vermelho Atualizada"
-date:   2016-12-23 14:45:36 -0300
-author: soraia
+title:  "A Hist?ria da Chapeuzinho Vermelho Atualizada"
+author: soraia novaes
 tags: 
  - storytelling
 ---

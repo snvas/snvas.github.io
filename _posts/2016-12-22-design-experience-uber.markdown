@@ -2,7 +2,7 @@
 layout: post
 title:  "Design de Experiência com Uber"
 date:   2016-12-22 17:55:36 -0300
-author: soraia
+author: soraia novaes
 tags: 
  - inovação
  - startups

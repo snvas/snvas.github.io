@@ -2,7 +2,7 @@
 title: "Tudo o que tem na Alphabet - Google A-Z"
 layout: post
 date: 2016-12-27 16:34:42
-author: soraia
+author: soraia novaes
 tags: 
  - inovação
  - tecnologia

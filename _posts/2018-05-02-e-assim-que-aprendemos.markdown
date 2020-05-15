@@ -1,6 +1,6 @@
 ---
 layout: post
-title: É Assim que Aprendemos
+title: 'É Assim que Aprendemos'
 tags: 
 - educação
 - google

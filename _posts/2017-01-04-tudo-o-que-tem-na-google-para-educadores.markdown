@@ -1,8 +1,7 @@
 ---
 title: "Tudo o que tem na Google para Educadores"
 layout: post
-date: 2017-01-04 16:20:42
-author: soraia
+author: soraia novaes
 tags: 
  - google for education
  - professores

@@ -1,7 +1,6 @@
 ---
 title: "Google Muda como o Clima"
 layout: post
-date: 2018-09-09 05:34:42
 author: soraia
 tags: 
   - tecnologia

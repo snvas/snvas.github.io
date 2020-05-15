@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Ferramentas Gratuitas para criar modelo 3D
+title: '6 Ferramentas Gratuitas para criar modelo 3D'
 tags: 
 - design
 - inovação

@@ -1,8 +1,7 @@
 ---
-title: "Referências Femininas na Tecnologia"
+title: 'Referências Femininas na Tecnologia'
 layout: post
-date: 2017-01-20 05:34:42
-author: soraia
+author: soraia novaes
 tags: 
   - tecnologia
 ---

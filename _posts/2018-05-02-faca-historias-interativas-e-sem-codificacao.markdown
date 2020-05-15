@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faça histórias interativas e sem codificação
+title: 'Faça histórias interativas e sem codificação'
 tags: 
 - edtech
 - inovação

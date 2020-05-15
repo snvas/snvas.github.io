@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "+40 Temas Responsivos para o Wordpress"
-date:   2017-01-03 17:55:36 -0300
-author: soraia
+title:  '+40 Temas Responsivos para o Wordpress'
+author: soraia novaes
 tags: 
  - programação
 ---
