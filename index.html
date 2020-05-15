@@ -11,12 +11,13 @@ layout: default
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
  
-    <a href onclick="filter('{{ t }}'); return false;">{{ t }}</a>&nbsp;&nbsp;&nbsp;
+    <a href onclick="filter('{{ t }}'); return false;" style="font-size: large;">{{ t }}</a>&nbsp;&nbsp;&nbsp;
  
 {% endfor %}
 

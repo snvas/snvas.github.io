@@ -2,7 +2,7 @@
 layout: post
 title: Casa EcoEficiente
 tags:
-- sustentabilidade
+- inovação
 - tecnologia
 ---
 
