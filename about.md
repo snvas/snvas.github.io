@@ -4,6 +4,16 @@ title: Sobre
 permalink: /about/
 order: 0
 ---
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- codecamp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3011890130990408"
+     data-ad-slot="9846490006"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <h2>Blog CodeCamp</h2>
 Esse blog é resultado do meu esforço permanente para aprender programação depois dos 30 anos. Sou publicitária de formação. Já fiz site em só com html e css em tabela usando dreamweaver, aprendi o mínimo de php e migrei para o phpdesigner, mas agora consigo publicar escrevendo no Sublime ou no Visual Studio e no prompt, usando [Jekill](https://jekyllrb.com) que é um gerador de códigos estáticos.
