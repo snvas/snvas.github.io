@@ -384,13 +384,21 @@ para ser feliz de novo
 
 #### O que eu vi entre 2008 e 2010
  [Autoridades](https://soraianovaes.com.br/galeria/autoridades)
+
  [Brasilia](https://soraianovaes.com.br/galeria/brasilia)
+
  [Celebridades](https://soraianovaes.com.br/galeria/celebridades) 
+
  [Cotidiano](https://soraianovaes.com.br/galeria/cotidiano) 
+
  [Designers](https://soraianovaes.com.br/galeria/designers) 
+
  [Moda](https://soraianovaes.com.br/galeria/modamga) 
+
  [Natureza](https://soraianovaes.com.br/galeria/natureza) 
+
  [Selaron](https://soraianovaes.com.br/galeria/selaron) 
+ 
  
 <iframe width="100%" height="200" src="//www.youtube.com/embed/cLS9QW46RD4?rel=0" frameborder="0" allowfullscreen></iframe>
 
