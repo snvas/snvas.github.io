@@ -8,41 +8,43 @@ tags:
 
 <a href="https://www.shutterstock.com/g/Soraia+Novaes" target="_blank"><img src="images/portfolio-shutterstock.png" alt="" /></a>
 
-<h2>No Brasil</h2>
-        <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157628709579479/" target="_blank">Maring?</a></li>
-        <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157628709622281/" target="_blank">Porto Rico</a></li>
-<li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157626261745014/" target="_blank">Curitiba</a></li>
-  <li><a href="https://www.flickr.com/photos/designregional/collections/72157632757157534/" target="_blank">Florian?polis</a></li>
- <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157626261716632/" target="_blank">S?o Paulo </a></li>
- <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157626547298749/" target="_blank">Rio de Janeiro</a></li>
- <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157626261714186/" target="_blank">Porto Alegre</a></li>
- <li> <a href="http://www.flickr.com/photos/60048303@N04/collections/72157628710880067/" target="_blank">Bras?lia</a></li>
- <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157628709492999/" target="_blank">Nordeste do Brasil</a></li>
+## No Brasil
+*   [Maring?](http://www.flickr.com/photos/60048303@N04/collections/72157628709579479/)
+*   [Porto Rico](http://www.flickr.com/photos/60048303@N04/collections/72157628709622281/)        
+*   [Curitiba](http://www.flickr.com/photos/60048303@N04/collections/72157626261745014/)
+*   [Florian?polis](https://www.flickr.com/photos/designregional/collections/72157632757157534/)
+*   [S?o Paulo](http://www.flickr.com/photos/60048303@N04/collections/72157626261716632/)
+*   [Rio de Janeiro](http://www.flickr.com/photos/60048303@N04/collections/72157626547298749/)
+*   [Porto Alegre](http://www.flickr.com/photos/60048303@N04/collections/72157626261714186/)
+*   [Bras?lia](http://www.flickr.com/photos/60048303@N04/collections/72157628710880067/)
+*   [Nordeste do Brasil](http://www.flickr.com/photos/60048303@N04/collections/72157628709492999/)
 
-<h2>No Mundo</h2>
-           <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157629869207539/" target="_blank">Alemanha - Berlim, Potsdam, Dessau, Weimar</a></li>           
-        <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157629493115317/" target="_blank">Canad&aacute; - Sarnia, London, Grand Bend, Toronto, Niagara Falls</a></li>
-          <li><a href="https://www.flickr.com/photos/designregional/collections/72157649690994950/" target="_blank">Espanha - Barcelona, Málaga, Casáres, Granada, Córdoba, Sevilha</a></li>
-         <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157629493110907/" target="_blank">Fran&ccedil;a - Paris</a></li>
-         <li><a href="https://www.flickr.com/photos/designregional/sets/72157650079944561" target="_blank">Gibraltar</a></li>
-          <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157629544817006/" target="_blank">Holanda - Amsterdam</a></li>
-         <li><a href="https://www.flickr.com/photos/designregional/collections/72157641495369494/" target="_blank">Inglaterra - Londres</a></li>
-         <li><a href="#" target="_blank">Portugal - Lisboa, Faro</a></li>
-        <li><a href="https://www.flickr.com/photos/designregional/collections/72157645596311018/" target="_blank">Rep&uacute;blica Tcheca - Praga</a></li>
-        <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157634416602937/" target="_blank">USA - California, San Francisco, Montain View, Yosemite, Carmel by the Sea</a></li>
-        <li><a href="https://www.flickr.com/photos/designregional/collections/72157655609134915/" target="_blank">USA - Fl&oacute;rida - Miami, Key West, Cape Canaveral, St. Petersburg, Naples</a></li>
-        <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157626671897650/" target="_blank">USA - Nevada, Las Vegas; California, San Francisco, Montain View, Palo Alto</a></li>
-        <li><a href="http://www.flickr.com/photos/60048303@N04/collections/72157634418054484/" target="_blank">USA - New York</a></li>
- 
-<h3> O melhor do que eu vi</h3>
-             <li><a href="https://soraianovaes.com.br/postcards/" target="_blank">Cart?es Postais - Paris</a></li>
-             <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/newyork.html">O melhor do que vi em Nova York</a></li>
-             <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/ferias.html">O melhor do que vi nas F?rias</a></li>
-             <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/weimar.html">O melhor do que vi em Weimar, a terra onde come?ou a Bauhaus</a></li>
-             <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/berlin.html">O melhor do que vi em Berlin</a></li>
-             <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/muro.html">O Muro de Berlin</a></li>
-             <li><a href="https://soraianovaes.com.br/photos/galeria/flickr/wirth.html">Fotos by SnWit</a></li>
- 
+## No Mundo
+
+*   [Alemanha - Berlim, Potsdam, Dessau, Weimar](http://www.flickr.com/photos/60048303@N04/collections/72157629869207539/)
+*   [Canad? - Sarnia, London, Grand Bend, Toronto, Niagara Falls](http://www.flickr.com/photos/60048303@N04/collections/72157629493115317/)
+*   [Espanha - Barcelona, Málaga, Casáres, Granada, Córdoba, Sevilha](https://www.flickr.com/photos/designregional/collections/72157649690994950/)
+*   [Fran?a - Paris](http://www.flickr.com/photos/60048303@N04/collections/72157629493110907/)
+*   [Gibraltar](https://www.flickr.com/photos/designregional/sets/72157650079944561)
+*   [Holanda - Amsterdam](http://www.flickr.com/photos/60048303@N04/collections/72157629544817006/)
+*   [Inglaterra - Londres](https://www.flickr.com/photos/designregional/collections/72157641495369494/)
+*   [Rep?blica Tcheca - Praga](https://www.flickr.com/photos/designregional/collections/72157645596311018/)
+*   [USA - California, San Francisco, Montain View, Yosemite, Carmel by the Sea](http://www.flickr.com/photos/60048303@N04/collections/72157634416602937/)
+*   [USA - Fl?rida - Miami, Key West, Cape Canaveral, St. Petersburg, Naples](https://www.flickr.com/photos/designregional/collections/72157655609134915/)
+*   [USA - Nevada, Las Vegas; California, San Francisco, Montain View, Palo Alto](http://www.flickr.com/photos/60048303@N04/collections/72157626671897650/)
+*   [USA - New York](http://www.flickr.com/photos/60048303@N04/collections/72157634418054484/)
+
+### O melhor do que eu vi
+
+*   [Cart?es Postais - Paris](https://soraianovaes.com.br/postcards/)
+*   [O melhor do que vi em Nova York](https://soraianovaes.com.br/photos/galeria/flickr/newyork.html)
+*   [O melhor do que vi nas F?rias](https://soraianovaes.com.br/photos/galeria/flickr/ferias.html)
+*   [O melhor do que vi em Weimar, a terra onde come?ou a Bauhaus](https://soraianovaes.com.br/photos/galeria/flickr/weimar.html)
+*   [O melhor do que vi em Berlin](https://soraianovaes.com.br/photos/galeria/flickr/berlin.html)
+*   [O Muro de Berlin](https://soraianovaes.com.br/photos/galeria/flickr/muro.html)
+*   [Fotos by SnWit](https://soraianovaes.com.br/photos/galeria/flickr/wirth.html)
+
+
  <p> Wherever You Go</p>
 <a href="http://www.soraianovaes.com.br/portfolio2011"><img src="images/portfolio2011.jpg" /></a>
 <p>&nbsp; </p>
@@ -203,19 +205,19 @@ and let us be happy again</em></p>
                                                     Continue dirigindo mas contemple o c&eacute;u<br/>
                                                      <br/>
                                                     De volta ao circo<br/>
-                                                    onde nossos macacos s?o arruaceiros<br/>
-                                                    s? para beber Keep Coolers<br/>
-                                                    mas a natureza ? perfeita<br/>
+                                                    onde nossos macacos s&atilde;o arruaceiros<br/>
+                                                    s&oacute; para beber Keep Coolers<br/>
+                                                    mas a natureza &eacute; perfeita<br/>
                                                     o vento leva tudo embora<br/>
-                                                    ?gua para limpar<br/>
+                                                    &aacute;gua para limpar<br/>
                                                     a alma canta como as ondas<br/>
                                                     natureza nos mostra como crescer<br/>
-                                                    espere pelo pr?ximo v?o<br/>
+                                                    espere pelo pr&oacute;ximo v&ocirc;o<br/>
                                                     quem sabe ele te leva para o Sul<br/>
                                                     para ver cisnes no lago<br/>
                                                     e um lago que chamam de rio<br/>
-                                                    vai fazer voc? se sentir forte<br/>
-                                                    e fot?grafo<br/>
+                                                    vai fazer voc&ecirc; se sentir forte<br/>
+                                                    e fot&oacute;grafo<br/>
                                                     mais um por-do-sol e a gente nem percebe<br/>
                                                     que o mundo girou mais uma vez<br/>
                                                     Agora s? nos resta pedir para Deus<br/>
