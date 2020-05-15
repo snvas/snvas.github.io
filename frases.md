@@ -6,10 +6,10 @@ order: 5
 ---
 <br>
 
-{% assign frases_online = site.data.frases  | where: "Categoria","Design"| sort: 'Frase'  %}
+{% assign frases_online = site.data.frases %}
 
 {% for item in frases_online %}
-<h2 class="post-title">{{ item.Frase }}</h2>
-<h3>{{ item.autor}}</h3>
+<h3 class="post-title">{{ item.Frase }}</h3>
+<h5>{{ item.Autor}}</h5>
  <hr/>
 {% endfor %}
