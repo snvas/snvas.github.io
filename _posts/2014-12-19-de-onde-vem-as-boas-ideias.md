@@ -2,10 +2,16 @@
 layout: post
 title: De onde vem as boas ideias
 tags:
-- inova??o
+- storytelling
 ---
 O acaso favorece as mentes conectadas!
 
 
+<iframe 
+  width="100%" 
+  height="455" 
+  src="http://www.youtube.com/embed/g6tgH2dWx5c?&autoplay=1&autohide=1&modestbranding=0&showinfo=0&ap=%2526fmt%3D22" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 
-[De onde vem as boas ideias](http://www.youtube.com/watch?v=g6tgH2dWx5c) por Steven Johnson

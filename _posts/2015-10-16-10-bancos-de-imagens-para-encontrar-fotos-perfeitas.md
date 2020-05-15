@@ -5,7 +5,7 @@ tags:
 - banco de imagens
 ---
 
-[Corbis Images](http://www.corbisimages.com/) Fotografia comercial e editorial e ilustra├º├Áes.
+[Corbis Images](http://www.corbisimages.com/) Fotografia comercial e editorial e ilustrações.
 
 [Flickr](http://www.flickr.com/) Flickr
 

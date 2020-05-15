@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Da Série: pelo Mundo >>Soluções para o lixo'
+title: 'Da Série: pelo Mundo >> Soluções para o lixo'
 tags:
 - design
 - inovação

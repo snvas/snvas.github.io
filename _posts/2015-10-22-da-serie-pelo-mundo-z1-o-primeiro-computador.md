@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Da Série: pelo Mundo >>Z1, o primeiro computador'
+title: 'Da Série: pelo Mundo >> Z1, o primeiro computador'
 tags:
 - computação
 - inovação

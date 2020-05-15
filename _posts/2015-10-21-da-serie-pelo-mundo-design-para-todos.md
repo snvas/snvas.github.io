@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Da Série: pelo Mundo >>Design para Todos'
+title: 'Da Série: pelo Mundo >> Design para Todos'
 tags:
 - design
 - inovação

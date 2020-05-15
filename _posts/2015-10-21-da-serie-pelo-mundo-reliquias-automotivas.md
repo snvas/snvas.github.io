@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 'Da SÃ©rie: pelo Mundo >>RelÃ­quias Automotivas'
+title: 'Da Série: pelo Mundo >> Relí­quias Automotivas'
 tags:
 - design
 ---
+
+Veja a coleção de carros incríveis que fotografei pelo mundo.
 
 [![Barcelona Sightseeing](https://farm8.staticflickr.com/7544/16189222652_79ec732f6d_z.jpg)](https://www.flickr.com/photos/designregional/16189222652)
 

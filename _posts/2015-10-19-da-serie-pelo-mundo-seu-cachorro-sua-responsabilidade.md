@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Da Série: pelo Mundo >>Seu Cachorro, sua responsabilidade'
+title: 'Da Série: pelo Mundo >> Seu Cachorro, sua responsabilidade'
 tags:
 - design
 - inovação
