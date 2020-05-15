@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mkt News
+title: Marketing News
 permalink: /mktnews/
 order: 4
 ---
