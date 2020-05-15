@@ -11,7 +11,21 @@ order: 3
 <script type="text/javascript">  
 <!-- 
 rssfeed_url = new Array(); 
-rssfeed_url[0]="http://news.mit.edu/rss/feed"; rssfeed_url[1]="https://www.techradar.com/rss"; rssfeed_url[2]="http://news.mit.edu/rss/research"; rssfeed_url[3]="https://www.wired.com/category/design/feed/"; rssfeed_url[4]="http://gadgets.ndtv.com/rss/news"; rssfeed_url[5]="http://www.techrepublic.com/rssfeeds/articles/latest/"; rssfeed_url[6]="http://www.techtimes.com/rss/archives/mostpopular.xml"; rssfeed_url[7]="https://www.cnet.com/rss/news/"; rssfeed_url[8]="https://news.google.com/news?cf=all&hl=pt-BR&pz=1&ned=pt-BR_br&topic=t&output=rss"; rssfeed_url[9]="https://techcrunch.com/feed/"; rssfeed_url[10]="https://www.engadget.com/rss.xml"; rssfeed_url[11]="https://www.theverge.com/rss/index.xml"; rssfeed_url[12]="https://www.pcworld.com/index.rss"; rssfeed_url[13]="https://www.digitaltrends.com/feed/"; rssfeed_url[14]="https://www.reddit.com/r/technology/.rss"; rssfeed_url[15]="https://techviral.net/feed/"
+rssfeed_url[0]="http://news.mit.edu/rss/feed"; 
+rssfeed_url[1]="https://www.techradar.com/rss"; 
+rssfeed_url[2]="http://news.mit.edu/rss/research"; 
+rssfeed_url[3]="https://www.wired.com/category/design/feed/"; 
+rssfeed_url[4]="http://gadgets.ndtv.com/rss/news"; 
+rssfeed_url[5]="http://www.techrepublic.com/rssfeeds/articles/latest/"; 
+rssfeed_url[6]="http://www.techtimes.com/rss/archives/mostpopular.xml"; 
+rssfeed_url[7]="https://www.cnet.com/rss/news/"; 
+rssfeed_url[8]="https://news.google.com/news?cf=all&hl=pt-BR&pz=1&ned=pt-BR_br&topic=t&output=rss"; rssfeed_url[9]="https://techcrunch.com/feed/"; 
+rssfeed_url[10]="https://www.engadget.com/rss.xml"; 
+rssfeed_url[11]="https://www.theverge.com/rss/index.xml"; 
+rssfeed_url[12]="https://www.pcworld.com/index.rss"; 
+rssfeed_url[13]="https://www.digitaltrends.com/feed/"; 
+rssfeed_url[14]="https://www.reddit.com/r/technology/.rss"; 
+rssfeed_url[15]="https://techviral.net/feed/"
 rssfeed_frame_width="100%"; 
 rssfeed_frame_height="4500"; 
 rssfeed_scroll="on"; 
@@ -21,7 +35,7 @@ rssfeed_target="_blank";
 rssfeed_font_size="16"; 
 rssfeed_font_face=""; 
 rssfeed_border="off"; 
-rssfeed_css_url="http://codecamp.com.br/css/main.css";
+rssfeed_css_url="https://codecamp.com.br/css/main.css";
 rssfeed_title="on"; 
 rssfeed_title_name=""; 
 rssfeed_title_bgcolor="#3366ff"; 
