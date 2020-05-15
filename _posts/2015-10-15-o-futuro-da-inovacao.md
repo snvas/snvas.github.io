@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O Futuro da Inova├º├úo
+title: 'O Futuro da Inovação'
 tags:
 - design
 - inovação

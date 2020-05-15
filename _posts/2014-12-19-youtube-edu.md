@@ -3,7 +3,7 @@ layout: post
 title: YouTube Edu
 tags:
 - educação
-- youtube
+- google for education
 ---
 Plataforma YouTube Edu!
 Se você estiver fazendo uma pesquisa para um projeto, precisando de ajuda em sua tarefa escolar ou apenas querendo aprender algo novo, aqui é o seu lugar!

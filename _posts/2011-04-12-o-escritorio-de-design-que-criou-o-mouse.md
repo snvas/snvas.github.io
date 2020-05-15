@@ -3,7 +3,6 @@ layout: post
 title: O escritório de design que criou o mouse
 tags:
 - design
-- ideo
 - inovação
 ---
 
