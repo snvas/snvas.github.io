@@ -1,17 +1,11 @@
----
-layout: page
-title: News
-permalink: /news/
-order: 3
----
+I"­
+<h3 id="rss-via-hubspot-moz-seth-blog-adweek-marketing-profs-buffer-reddit-slacktime-marketo-digital-marketer-search-engine-journal">RSS via Hubspot, Moz, Seth Blog, Adweek, Marketing Profs, Buffer, Reddit, Slacktime, Marketo, Digital Marketer, Search Engine Journal</h3>
 
-### RSS via MIT News, MIT Research, TechRadar, Wired, Gadgets, TechRepublic, Techtimes, Cnet, Google, Techcrunch, Engadget, The Verge, Reddit, PC World e Tech Viral
-
-<!-- start sw-rss-feed code --> 
-<script type="text/javascript">  
+<!-- start sw-rss-feed code -->
+<script type="text/javascript"> 
 <!-- 
 rssfeed_url = new Array(); 
-rssfeed_url[0]="http://news.mit.edu/rss/feed"; rssfeed_url[1]="https://www.techradar.com/rss"; rssfeed_url[2]="http://news.mit.edu/rss/research"; rssfeed_url[3]="https://www.wired.com/category/design/feed/"; rssfeed_url[4]="http://gadgets.ndtv.com/rss/news"; rssfeed_url[5]="http://www.techrepublic.com/rssfeeds/articles/latest/"; rssfeed_url[6]="http://www.techtimes.com/rss/archives/mostpopular.xml"; rssfeed_url[7]="https://www.cnet.com/rss/news/"; rssfeed_url[8]="https://news.google.com/news?cf=all&hl=pt-BR&pz=1&ned=pt-BR_br&topic=t&output=rss"; rssfeed_url[9]="https://techcrunch.com/feed/"; rssfeed_url[10]="https://www.engadget.com/rss.xml"; rssfeed_url[11]="https://www.theverge.com/rss/index.xml"; rssfeed_url[12]="https://www.pcworld.com/index.rss"; rssfeed_url[13]="https://www.digitaltrends.com/feed/"; rssfeed_url[14]="https://www.reddit.com/r/technology/.rss"; rssfeed_url[15]="https://techviral.net/feed/"
+rssfeed_url[0]="https://blog.hubspot.com/marketing/rss.xml"; rssfeed_url[1]="https://moz.com/blog/feed"; rssfeed_url[2]="https://seths.blog/feed/atom/"; rssfeed_url[3]="http://rss.marketingprofs.com/marketingprofs"; rssfeed_url[4]="http://www.adweek.com/feed/"; rssfeed_url[5]="https://blog.bufferapp.com/feed"; rssfeed_url[6]="https://www.reddit.com/r/marketing/.rss?format=xml"; rssfeed_url[7]="https://medium.com/feed/slacktime"; rssfeed_url[8]="http://blog.marketo.com/feed"; rssfeed_url[9]="http://www.digitalmarketer.com/feed/"; rssfeed_url[10]="https://www.searchenginejournal.com/feed"; 
 rssfeed_frame_width="100%"; 
 rssfeed_frame_height="4500"; 
 rssfeed_scroll="on"; 
@@ -45,14 +39,14 @@ rssfeed_item_description_color="#666";
 rssfeed_item_description_link_color="#333"; 
 rssfeed_item_description_tag="off"; 
 rssfeed_no_items="0"; 
-rssfeed_cache = "a9fbf6cf93803a3be7455bd80e8f2701"; 
 //--> 
-</script> 
-<script type="text/javascript" src="js/rss-feed.js"></script> 
+</script>
+
+<script type="text/javascript" src="js/rss-feed.js"></script>
+
 <!-- end sw-rss-feed code -->
 
-
- <div style="width: 100%; margin-bottom: 25px;">
+<div style="width: 100%; margin-bottom: 25px;">
    <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
 <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
@@ -66,6 +60,7 @@ rssfeed_cache = "a9fbf6cf93803a3be7455bd80e8f2701";
 <a class="a2a_button_tumblr"></a>
 <a class="a2a_button_google_classroom"></a>
 </div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 </div>
+:ET

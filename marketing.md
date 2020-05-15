@@ -47,7 +47,7 @@ rssfeed_item_description_tag="off";
 rssfeed_no_items="0"; 
 //--> 
 </script> 
-<script type="text/javascript" src="_data/js/rss-feed.js"></script> 
+<script type="text/javascript" src="js/rss-feed.js"></script> 
 <!-- end sw-rss-feed code -->
 
  <div style="width: 100%; margin-bottom: 25px;">
