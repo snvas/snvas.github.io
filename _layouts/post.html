@@ -20,9 +20,11 @@ layout: default
 	<h1 class="post-title">{{ page.title }}</h1>
     <div class="post-date">
      {% assign author = site.data.people[page.author] %}
-        <p>{{ author.name }}</p>
+        <a class="reading-time" rel="author"
+         href="/about/"
+         title=">{{ author.name }}">
      {{ author.name }}
-        </a> | <time>{{ page.date | date_to_string }}</time>
+        </a> | <time>{{ page.date | date_to_string }}</time><span>{{author.name}}</span>
     	<span class="reading-time"> | {{minutesText}}</span>
    </div>
 
