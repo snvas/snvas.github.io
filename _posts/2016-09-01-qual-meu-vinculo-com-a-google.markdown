@@ -9,7 +9,7 @@ tags:
 
 Sempre me perguntam se eu trabalho para a Google e, muito embora isso pudesse ser uma experiência incrível, não é esse o caso.
 
-A Google oferece certificações para professores que sabem usar as tecnologias deles no contexto educacional. Saiba mais sobre os cursos que preparei como [Google Trainer](http://soraianovaes.com.br/#five).
+A Google oferece certificações para professores que sabem usar as tecnologias deles no contexto educacional. 
 
 <iframe 
   width="100%" 

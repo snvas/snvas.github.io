@@ -10,7 +10,7 @@ O Google Classroom (Sala de aula) está disponível para qualquer usuário do Go
 
 O Classroom permite que os professores criem e recolham tarefas em formato digital, além de incluir recursos que poupam tempo, como a possibilidade de criar uma cópia de um documento do Google para cada aluno. Ele também cria pastas do Google Drive automaticamente para cada tarefa e cada aluno, ajudando na organização.
 
-Os alunos podem ver as tarefas que precisam ser feitas na página "Tarefas" e começar a trabalhar com apenas um clique. Os professores veem rapidamente quem concluiu a tarefa e fornecem comentários e notas diretamente, em tempo real, a partir do Google Sala de aula. Saiba mais com a [professora Google](http://professoragoogle.com.br).
+Os alunos podem ver as tarefas que precisam ser feitas na página "Tarefas" e começar a trabalhar com apenas um clique. Os professores veem rapidamente quem concluiu a tarefa e fornecem comentários e notas diretamente, em tempo real, a partir do Google Sala de aula.
 
 <iframe 
   width="100%" 

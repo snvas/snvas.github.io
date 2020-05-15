@@ -18,7 +18,7 @@ Quando as redes sociais nos conectavam a um mundo sem internet
 Em 1998 quando a Google foi criada, eu já estudava Comunicação na capital e fiquei muita amiga de uma curitibana que depois da faculdade resolveu morar na califórnia.
 ![Ópera de Arame em Curitiba](http://edtecnova.com.br/images/opera.jpg)
 
-Voltei para o Maringá, e depois de 7 anos que ela estava lá, consegui visitá-la pela primeira vez, para enfim conhecer o famoso Vale do Silício. Lá aprendi que quem tem amigo não morre de fome. No mesmo dia, [almoçamos na Google e jantamos no Facebook](http://professoragoogle.com.br/produtos/o-dia-que-almocei-na-google-e-jantei-no-facebook/). E, é sobre o que descobrimos naquele dia que vou compartilhar com vocês hoje.
+Voltei para o Maringá, e depois de 7 anos que ela estava lá, consegui visitá-la pela primeira vez, para enfim conhecer o famoso Vale do Silício. Lá aprendi que quem tem amigo não morre de fome. No mesmo dia, almoçamos na Google e jantamos no Facebook. E, é sobre o que descobrimos naquele dia que vou compartilhar com vocês hoje.
 
 As duas gigantes da internet são bons exemplos de como a gestão de pessoas mudou!
 
@@ -162,5 +162,4 @@ Tudo para você ficar confortável e altamente produtivo.
 
 Mesa do Mark Zuckerberg, o 16o. mais rico do mundo na lista da Forbes, com patrimônio de 46,4 bilhões de dólares e sua Sala de apoio
 
-Você tem uma ideia melhor, dá uma olhada nesse [mapa mental sobre tudo que tem na Google](http://professoragoogle.com.br/produtos/voce-sabe-tudo-que-tem-na-google/).
 

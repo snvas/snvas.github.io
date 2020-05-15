@@ -15,5 +15,3 @@ Vamos trazer mais informações sobre as tecnologias classificadas no ebook [Tec
 
 Quando se fala em tecnologia para educação sempre nos preocupamos com as limitações de recursos enfrentadas no dia a dia das escolas, eles existem e são muitos, mas precisamos fazer o que for possível, sempre. Com o avanço na utilização de smartphones e rede móveis, seria muito útil aproveitar esse acesso em prol da educação. 
 
-Encontre os [Recursos Gratuitos](/work/) e os [Serviços](/servicos/) que oferecemos.
-

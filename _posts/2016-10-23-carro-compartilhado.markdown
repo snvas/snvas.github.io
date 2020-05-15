@@ -14,7 +14,3 @@ tags:
   frameborder="0" 
   allowfullscreen>
 </iframe>
-
-Vaja também o [novo modelo do Tesla](novo-tesla-x).
-
-Descubra mais sobre as [Novidades Tecnológicas](http://inovadores.coursify.me/courses/novidades-tecnologicas-automacao-robotica-impressao-3d-e-inteligencia-artificial) no curso gratuito.

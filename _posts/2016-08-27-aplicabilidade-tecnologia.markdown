@@ -17,5 +17,3 @@ Um debate sobre a aplicação de tecnologia dentro de conteúdos educacionais. P
   frameborder="0" 
   allowfullscreen>
 </iframe>
-
-Saiba mais sobre as [ferramentas Google para educação](http://professoragoogle.com.br/produtos/ferramentas-do-google-for-education/) e veja os cursos publicados na [Academia dos Inovadores](https://academiadosinovadores.com.br).

@@ -13,7 +13,3 @@ tags:
   frameborder="0" 
   allowfullscreen>
 </iframe>
-
-veja também o video sobre o [carro compartilhado Car2Go](carro-compartilhado).
-
-Descubra mais sobre as [Novidades Tecnológicas](http://inovadores.coursify.me/courses/novidades-tecnologicas-automacao-robotica-impressao-3d-e-inteligencia-artificial) no curso gratuito.

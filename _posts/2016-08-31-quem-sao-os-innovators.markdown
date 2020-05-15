@@ -25,7 +25,3 @@ Saiba mais sobre o trabalho dos Innovators assistindo a playlist:
   frameborder="0" 
   allowfullscreen>
 </iframe>
-
-Acompanhe as novidades desses professores inovadores seguindo a [página dos Innovators no Facebook](https://www.facebook.com/innovatorsbr/) e se inscrevendo no [canal dos Innovators no YouTube](https://www.youtube.com/channel/UCC_3J1-F5Jj9t0dikFSS5bw).
-
-Saiba mais sobre as [ferramentas Google para educação](http://professoragoogle.com.br/produtos/ferramentas-do-google-for-education/) e veja os cursos publicados na [Academia dos Inovadores](https://academiadosinovadores.com.br).
