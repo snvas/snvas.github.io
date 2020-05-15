@@ -10,8 +10,8 @@ order: 4
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
 <!-- 
-rssfeed_urla = new Array(); 
-rssfeed_urla[0]="https://blog.hubspot.com/marketing/rss.xml"; rssfeed_urla[1]="https://moz.com/blog/feed"; rssfeed_urla[2]="https://seths.blog/feed/atom/"; rssfeed_urla[3]="http://rss.marketingprofs.com/marketingprofs"; rssfeed_urla[4]="http://www.adweek.com/feed/"; rssfeed_urla[5]="https://blog.bufferapp.com/feed"; rssfeed_urla[6]="https://www.reddit.com/r/marketing/.rss?format=xml"; rssfeed_urla[7]="https://medium.com/feed/slacktime"; rssfeed_urla[8]="http://blog.marketo.com/feed"; rssfeed_urla[9]="http://www.digitalmarketer.com/feed/"; rssfeed_urla[10]="https://www.searchenginejournal.com/feed"; 
+rssfeed_url = new Array(); 
+rssfeed_url[0]="https://blog.hubspot.com/marketing/rss.xml"; rssfeed_url[1]="https://moz.com/blog/feed"; rssfeed_url[2]="https://seths.blog/feed/atom/"; rssfeed_url[3]="http://rss.marketingprofs.com/marketingprofs"; rssfeed_url[4]="http://www.adweek.com/feed/"; rssfeed_url[5]="https://blog.bufferapp.com/feed"; rssfeed_url[6]="https://www.reddit.com/r/marketing/.rss?format=xml"; rssfeed_url[7]="https://medium.com/feed/slacktime"; rssfeed_url[8]="http://blog.marketo.com/feed"; rssfeed_url[9]="http://www.digitalmarketer.com/feed/"; rssfeed_url[10]="https://www.searchenginejournal.com/feed"; 
 rssfeed_frame_width="100%"; 
 rssfeed_frame_height="4500"; 
 rssfeed_scroll="on"; 
