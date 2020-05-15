@@ -2,7 +2,7 @@
 layout: page
 title: Frases
 permalink: /frases/
-order: 5
+order: 6
 ---
 <br>
  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

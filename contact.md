@@ -2,7 +2,7 @@
 layout: page
 title: Contato
 permalink: /contato/
-order: 6
+order: 7
 ---
 
 Vamos adorar [receber sua mensagem](http://edtecnova.com.br/ebook/#contact)!

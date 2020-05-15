@@ -1,13 +1,6 @@
----
-layout: page
-title: News
-permalink: /news/
-order: 3
----
+I"ö	<h3 id="rss-via-mit-news-mit-research-techradar-wired-gadgets-techrepublic-techtimes-cnet-google-techcrunch-engadget-the-verge-reddit-pc-world-e-tech-viral">RSS via MIT News, MIT Research, TechRadar, Wired, Gadgets, TechRepublic, Techtimes, Cnet, Google, Techcrunch, Engadget, The Verge, Reddit, PC World e Tech Viral</h3>
 
-### RSS via MIT News, MIT Research, TechRadar, Wired, Gadgets, TechRepublic, Techtimes, Cnet, Google, Techcrunch, Engadget, The Verge, Reddit, PC World e Tech Viral
-
-<!-- start sw-rss-feed code --> 
+<!-- start sw-rss-feed code -->
 <script type="text/javascript">  
 rssfeed_url = new Array(); 
 rssfeed_url[0]="http://news.mit.edu/rss/feed"; rssfeed_url[1]="https://www.techradar.com/rss"; rssfeed_url[2]="http://news.mit.edu/rss/research"; rssfeed_url[3]="https://www.wired.com/category/design/feed/"; rssfeed_url[4]="http://gadgets.ndtv.com/rss/news"; rssfeed_url[5]="http://www.techrepublic.com/rssfeeds/articles/latest/"; rssfeed_url[6]="http://www.techtimes.com/rss/archives/mostpopular.xml"; rssfeed_url[7]="https://www.cnet.com/rss/news/"; rssfeed_url[8]="https://news.google.com/news?cf=all&hl=pt-BR&pz=1&ned=pt-BR_br&topic=t&output=rss"; rssfeed_url[9]="https://techcrunch.com/feed/"; rssfeed_url[10]="https://www.engadget.com/rss.xml"; rssfeed_url[11]="https://www.theverge.com/rss/index.xml"; rssfeed_url[12]="https://www.pcworld.com/index.rss"; rssfeed_url[13]="https://www.digitaltrends.com/feed/"; rssfeed_url[14]="https://www.reddit.com/r/technology/.rss"; rssfeed_url[15]="https://techviral.net/feed/"
@@ -45,7 +38,10 @@ rssfeed_item_description_link_color="#333";
 rssfeed_item_description_tag="off"; 
 rssfeed_no_items="0"; 
 rssfeed_cache = "a9fbf6cf93803a3be7455bd80e8f2701"; 
-</script> 
-<script type="text/javascript" src="http://feed.surfing-waves.com/js/rss-feed.js"></script> 
+</script>
+
+<script type="text/javascript" src="http://feed.surfing-waves.com/js/rss-feed.js"></script>
+
 <!-- end sw-rss-feed code -->
 
+:ET
