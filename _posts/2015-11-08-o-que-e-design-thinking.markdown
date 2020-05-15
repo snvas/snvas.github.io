@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O que é Design Thinking
+author:  Soraia Novaes
 tags:
 - design thinking
 ---

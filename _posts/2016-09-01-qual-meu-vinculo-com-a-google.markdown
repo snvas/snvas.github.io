@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Qual o meu vínculo com a Google?"
-date:   2016-09-01 20:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - edtech 
  - google for education

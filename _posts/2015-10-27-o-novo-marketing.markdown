@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O novo Marketing
+author:  Soraia Novaes
 tags:
 - marketing
 ---

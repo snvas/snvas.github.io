@@ -1,7 +1,7 @@
 ---
 title: "Google Muda como o Clima"
 layout: post
-author: soraia
+author:  Soraia Novaes
 tags: 
   - tecnologia
 ---

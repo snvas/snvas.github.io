@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O escritório de design que criou o mouse
+author:  Soraia Novaes
 tags:
 - design
 - inovação

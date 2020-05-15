@@ -1,7 +1,7 @@
 ---
 title: "Tudo o que Tem na Google para Programadores ou para Aprender a Programar"
 layout: post
-author: soraia
+author:  Soraia Novaes
 tags: 
  - programação
 ---

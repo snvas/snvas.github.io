@@ -1,6 +1,7 @@
 ---
 layout: post
 title: No começo do Design, a Bauhaus
+author:  Soraia Novaes
 tags:
 - design
 ---

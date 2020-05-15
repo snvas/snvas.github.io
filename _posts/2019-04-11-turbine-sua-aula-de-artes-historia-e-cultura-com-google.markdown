@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Turbine sua Aula de Artes, História e Cultura com Google
+author:  Soraia Novaes
 tags: 
 - professores
 - google for education

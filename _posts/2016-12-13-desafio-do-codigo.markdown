@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "O que é o Desafio do Código"
-date:   2016-12-13 19:25:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - programação
  - edtech

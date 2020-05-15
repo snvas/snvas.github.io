@@ -1,8 +1,7 @@
 ---
 title: "O Jeito Google e Facebook de Trabalhar"
 layout: post
-date: 2016-03-18 17:22:42
-author: soraia
+author:  Soraia Novaes
 tags: 
   - startups
 ---

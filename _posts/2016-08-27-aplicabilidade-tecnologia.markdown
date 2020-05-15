@@ -1,8 +1,7 @@
 ---
 title: "Aplicabilidade e Tendências da Tecnologia"
 layout: post
-date: 2016-08-27 22:34:42
-author: soraia
+author:  Soraia Novaes
 tags: 
  - google for education
 ---

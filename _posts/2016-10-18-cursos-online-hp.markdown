@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "25 Cursos Online Gratuitos da HP"
-date:   2016-10-18 19:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - cursos online
 ---

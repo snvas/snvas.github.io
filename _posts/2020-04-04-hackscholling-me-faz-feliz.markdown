@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hackschooling me faz feliz
+author:  Soraia Novaes
 tags: 
 - educação
 - professores

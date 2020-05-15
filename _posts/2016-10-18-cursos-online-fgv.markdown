@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Mais de 40 Cursos Online Gratuitos da FGV"
-date:   2016-10-18 13:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - cursos online
 ---

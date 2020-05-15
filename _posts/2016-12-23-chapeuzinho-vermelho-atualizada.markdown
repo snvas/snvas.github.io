@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Hist?ria da Chapeuzinho Vermelho Atualizada"
-author: soraia novaes
+author:  Soraia Novaes
 tags: 
  - storytelling
 ---

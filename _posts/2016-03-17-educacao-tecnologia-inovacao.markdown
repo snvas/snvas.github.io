@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Educação + Tecnologia = Inovação"
-date:   2016-03-17 01:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - edtech
 ---

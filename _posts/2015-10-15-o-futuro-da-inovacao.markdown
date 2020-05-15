@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'O Futuro da Inovação'
+author:  Soraia Novaes
 tags:
 - design
 - inovação

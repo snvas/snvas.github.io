@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Da Série: pelo Mundo >> Soluções para o lixo'
+author:  Soraia Novaes
 tags:
 - design
 - inovação

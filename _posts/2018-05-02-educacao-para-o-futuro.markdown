@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Educação para o Futuro
+author:  Soraia Novaes
 tags: 
 - educação
 - professores

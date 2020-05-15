@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Guia de Recursos do Scratch para Educadores
+author:  Soraia Novaes
 tags:
 - programação
 - professores

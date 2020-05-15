@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Por Onde Começar a Programar?"
-date:   2016-10-20 10:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - programação
  - computação

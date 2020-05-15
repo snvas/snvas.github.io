@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Crie facilmente equações matemáticas, fórmulas e questionários
+author:  Soraia Novaes
 tags: 
 - inovação
 - edtech

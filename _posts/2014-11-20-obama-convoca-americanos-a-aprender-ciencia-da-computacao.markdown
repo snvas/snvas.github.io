@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Obama convoca americanos a aprender ciência da computação
+author:  Soraia Novaes
 tags:
 - educação
 - tecnologia

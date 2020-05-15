@@ -1,7 +1,7 @@
 ---
 title: 'Referências Femininas na Tecnologia'
 layout: post
-author: soraia novaes
+author:  Soraia Novaes
 tags: 
   - tecnologia
 ---

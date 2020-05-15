@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Teacher Academy
+author:  Soraia Novaes
 tags:
 - google
 - google for education

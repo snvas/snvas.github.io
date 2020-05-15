@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Tecnologia para Inovação nas Escolas"
-date:   2016-12-12 17:28:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - edtech 
  - professores

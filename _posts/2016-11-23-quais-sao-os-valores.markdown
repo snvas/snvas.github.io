@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Quais s√£o os Valores da sua Empresa"
-date:   2016-11-23 15:55:36 -0300
-author: soraia
+title:  "Quais s„o os Valores da sua Empresa"
+author:  Soraia Novaes
 tags: 
  - startups
 ---

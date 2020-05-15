@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 10 Bancos de Imagens para encontrar fotos perfeitas
+author:  Soraia Novaes
 tags:
 - banco de imagens
 ---

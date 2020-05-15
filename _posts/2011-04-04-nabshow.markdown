@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'NAB Show, a maior feira de telecomunicações do mundo'
+author:  Soraia Novaes
 tags:
 -  design
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Para o que posso usar Design Thinking na escola?
+author:  Soraia Novaes
 tags:
 - design thinking
 - educação

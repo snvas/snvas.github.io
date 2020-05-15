@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  '+40 Temas Responsivos para o Wordpress'
-author: soraia novaes
+author:  Soraia Novaes
 tags: 
  - programação
 ---

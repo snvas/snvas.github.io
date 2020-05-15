@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Carro Compartilhado na Alemanha"
-date:   2016-10-23 14:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - inovação
  - startups

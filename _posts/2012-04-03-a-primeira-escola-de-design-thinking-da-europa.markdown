@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A primeira escola de Design Thinking da Europa
+author:  Soraia Novaes
 tags:
 - design
 - design thinking

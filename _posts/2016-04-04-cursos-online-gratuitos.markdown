@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Encontre mais de 700 Cursos Online Gratuitos"
-date:   2016-04-04 21:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - cursos online 
 ---

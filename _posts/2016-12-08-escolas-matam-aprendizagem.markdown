@@ -1,8 +1,7 @@
 ---
 title: "Escolas Matam a Aprendizagem"
 layout: post
-date: 2016-12-08 09:34:42
-author: soraia
+author:  Soraia Novaes
 tags: 
  - professores
 ---

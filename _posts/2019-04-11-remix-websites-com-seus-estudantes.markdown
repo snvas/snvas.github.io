@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Remix websites com seus estudantes
+author:  Soraia Novaes
 tags: 
 - edtech
 - professores

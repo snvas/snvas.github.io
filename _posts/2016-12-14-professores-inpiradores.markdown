@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "5 Palestras de Professores Inspiradores no TED"
-date:   2016-12-14 15:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags:  
  - professores
 ---

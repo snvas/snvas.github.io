@@ -1,7 +1,7 @@
 ---
 title: "O que Sabemos sobre a Google na Educação"
 layout: post
-author: soraia
+author:  Soraia Novaes
 tags: 
  - google for education
  - professores

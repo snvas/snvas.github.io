@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De onde vem as boas ideias
+author:  Soraia Novaes
 tags:
 - storytelling
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Cursos de Gestão Empresarial Online e Gratuito"
-date:   2019-11-20 18:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - cursos online
  - áreas de cursos

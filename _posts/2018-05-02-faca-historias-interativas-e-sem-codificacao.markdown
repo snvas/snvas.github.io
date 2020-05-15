@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Faça histórias interativas e sem codificação'
+author:  Soraia Novaes
 tags: 
 - edtech
 - inovação

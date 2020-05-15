@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 5 ingredientes para promover um ecossistema de Startups
+author:  Soraia Novaes 
 tags:
 - inovação
 - startups

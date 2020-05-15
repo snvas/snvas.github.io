@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 25 maneiras de usar o Formulários Google na Sala de aula (com exemplos!)
+author:  Soraia Novaes
 tags:
 - inovação
 - edtech

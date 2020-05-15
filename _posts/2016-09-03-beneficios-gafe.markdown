@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Benefícios Google para Escolas"
-date:   2016-09-03 10:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
   - google for education
 ---

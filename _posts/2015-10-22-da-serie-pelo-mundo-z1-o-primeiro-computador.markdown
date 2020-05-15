@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Da Série: pelo Mundo >> Z1, o primeiro computador'
+author:  Soraia Novaes
 tags:
 - computação
 - inovação

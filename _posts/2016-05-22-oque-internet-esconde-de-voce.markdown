@@ -1,8 +1,7 @@
 ---
 title: "O que a Internet Esconde de Você?"
 layout: post
-date: 2016-05-22 09:34:42
-author: soraia
+author:  Soraia Novaes
 tags: 
  - tecnologia
 ---

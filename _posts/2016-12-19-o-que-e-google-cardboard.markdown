@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "O que é o Google Cardboard, Pra que Serve e Como Funciona"
-date:   2016-12-19 19:55:36 -0300
-author: soraia novaes
+author:  Soraia Novaes
 tags: 
  - google for education
  - professores

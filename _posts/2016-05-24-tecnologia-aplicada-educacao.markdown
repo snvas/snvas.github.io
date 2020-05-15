@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Tecnologia Aplicada à Educação"
-date:   2016-05-24 20:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - edtech 
 ---

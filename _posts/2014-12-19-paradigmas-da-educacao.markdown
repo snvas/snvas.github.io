@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Paradigmas da Educação
+author:  Soraia Novaes
 tags:
 - educação
 - inovação

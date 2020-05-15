@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "A Sala de Aula na Nuvem: Google Classroom"
-date:   2016-09-04 14:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
    - google for education
 ---

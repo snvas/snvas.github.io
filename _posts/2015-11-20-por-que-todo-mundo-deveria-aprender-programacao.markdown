@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Por que todo mundo deveria aprender programação
+author:  Soraia Novaes
 tags:
 - computação
 - programação

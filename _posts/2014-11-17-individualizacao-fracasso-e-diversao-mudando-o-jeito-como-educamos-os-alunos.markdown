@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Individualização, fracasso e diversão: mudando o jeito como educamos os alunos'
+author:  Soraia Novaes
 tags:
 - educação
 ---

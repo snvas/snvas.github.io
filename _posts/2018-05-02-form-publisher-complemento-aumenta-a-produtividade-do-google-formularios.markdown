@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Form Publisher complemento aumenta a produtividade do Google Formulários'
+author:  Soraia Novaes
 tags: 
 - inovação
 - google for education

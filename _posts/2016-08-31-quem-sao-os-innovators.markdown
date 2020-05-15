@@ -1,8 +1,7 @@
 ---
 title: "Quem são os Innovators?"
 layout: post
-date: 2016-08-31 20:38:43
-author: soraia
+author:  Soraia Novaes
 tags: 
  - google for education
 ---

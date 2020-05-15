@@ -1,8 +1,7 @@
 ---
 title: "Vamos Reinventar a Educação?"
 layout: post
-date: 2016-05-21 05:34:42
-author: soraia
+author:  Soraia Novaes
 tags: 
   - professores
 ---

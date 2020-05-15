@@ -1,8 +1,7 @@
 ---
 title: "TED! Que Bicho é Esse?"
 layout: post
-date: 2016-09-22 20:34:42
-author: soraia
+author:  Soraia Novaes
 tags: 
  - professores 
 ---

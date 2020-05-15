@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Por Que Inovar na Escola?"
-date:   2016-05-20 02:25:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - edtech
 ---

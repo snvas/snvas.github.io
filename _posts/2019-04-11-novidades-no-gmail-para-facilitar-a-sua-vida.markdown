@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Novidades no Gmail para facilitar a sua vida
+author:  Soraia Novaes
 tags: 
 - google
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Da Série: pelo Mundo >> Seu Cachorro, sua responsabilidade'
+author:  Soraia Novaes
 tags:
 - design
 - inovação

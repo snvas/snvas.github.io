@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Timelapse mostra os Últimos 35 anos do planeta
+author:  Soraia Novaes
 tags: 
 - professores
 - google for education

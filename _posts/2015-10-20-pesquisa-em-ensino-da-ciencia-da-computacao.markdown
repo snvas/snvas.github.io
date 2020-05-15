@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pesquisa em Ensino da Ciência da Computação
+author:  Soraia Novaes
 tags:
 - computação
 - google

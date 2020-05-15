@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stanford University
+author:  Soraia Novaes
 tags:
 - design thinking
 - educação

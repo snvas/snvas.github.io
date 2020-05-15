@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Da Série: pelo Mundo >> Design para Todos'
+author:  Soraia Novaes
 tags:
 - design
 - inovação

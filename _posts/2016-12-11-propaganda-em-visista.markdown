@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Acervo Digital de Propagandas Antigas veiculadas em revistas"
-date:   2016-12-11 15:25:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - edtech 
  - professores

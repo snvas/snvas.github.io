@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '6 Ferramentas Gratuitas para criar modelo 3D'
+author:  Soraia Novaes
 tags: 
 - design
 - inovação

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Design Thinking para Educadores
+author:  Soraia Novaes
 tags:
 - design thinking
 - educação

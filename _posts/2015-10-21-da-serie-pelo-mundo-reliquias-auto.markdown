@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Da Série: pelo Mundo >> Relí­quias Automotivas'
+author:  Soraia Novaes
 tags:
 - design
 ---

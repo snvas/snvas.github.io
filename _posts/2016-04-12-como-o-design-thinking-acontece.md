@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Como o Design Thinking Acontece
+author:  Soraia Novaes
 tags:
 - design thinking
 - inovação

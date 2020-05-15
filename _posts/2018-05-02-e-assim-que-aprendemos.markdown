@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'É Assim que Aprendemos'
+author:  Soraia Novaes
 tags: 
 - educação
 - google

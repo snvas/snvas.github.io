@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Artigos sobre Design Thinking"
-date:   2019-11-29 18:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - artigos 
 ---

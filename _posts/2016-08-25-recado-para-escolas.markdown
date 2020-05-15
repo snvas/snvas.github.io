@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Recado para as Escolas direto do Campus São Paulo"
-date:   2016-08-25 20:55:36 -0300
-author: soraia
+author:  Soraia Novaes
 tags: 
  - google for education
 ---
