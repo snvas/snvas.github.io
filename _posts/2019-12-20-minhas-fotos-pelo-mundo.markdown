@@ -39,7 +39,7 @@ tags:
 *   [Postais - Paris](https://soraianovaes.com.br/postcards/)
 *   [O melhor do que vi em Nova York](https://soraianovaes.com.br/photos/galeria/flickr/newyork.html)
 *   [O melhor do que vi nas Ferias](https://soraianovaes.com.br/photos/galeria/flickr/ferias.html)
-*   [O melhor do que vi em Weimar, a terra onde come?ou a Bauhaus](https://soraianovaes.com.br/photos/galeria/flickr/weimar.html)
+*   [O melhor do que vi em Weimar, a terra onde nasceu a Bauhaus](https://soraianovaes.com.br/photos/galeria/flickr/weimar.html)
 *   [O melhor do que vi em Berlin](https://soraianovaes.com.br/photos/galeria/flickr/berlin.html)
 *   [O Muro de Berlin](https://soraianovaes.com.br/photos/galeria/flickr/muro.html)
 *   [Fotos by SnWit](https://soraianovaes.com.br/photos/galeria/flickr/wirth.html)

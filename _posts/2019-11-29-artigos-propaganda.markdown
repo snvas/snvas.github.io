@@ -7,7 +7,7 @@ tags:
  - artigos 
 ---
 
-<p>ColeÃ§Ã£o de artigos cientÃ­ficos garimpados na web ao longo dos anos de estudo sobre o tema Propaganda.</p>
+<p>Coleç?o de artigos cientí­ficos garimpados na web ao longo dos anos de estudo sobre o tema Propaganda.</p>
 
  {% assign artigo_online = site.data.artigos  | where: "Categoria","Propaganda"| sort: 'Nome'  %}
 
