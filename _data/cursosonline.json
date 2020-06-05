@@ -159,5 +159,13 @@
           "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-dt-conceitos.jpg\"/>",
           "categoria": "Online"
       },
+      {  
+        "id": 20,
+         "nome": "Criando Testes Online com Google Formulários",
+          "descricao": "O Google Formulários, ou Google Forms, é uma poderosa ferramenta de formulários que também podem ser usados para criar provas online. Neste curso vamos aprender a transformar uma atividade de matemática criada em um editor de texto. que obriga o professor a corrigir manualmente os exercícios dos alunos, em um formulário com correção automática. ",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/criando-testes-online-com-google-formularios/?referralCode=1603EF6C96516496B940\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-test-forms.jpg\"/>",
+          "categoria": "Online"
+      }
 ]
         
