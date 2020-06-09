@@ -166,6 +166,14 @@
           "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/criando-testes-online-com-google-formularios/?referralCode=1603EF6C96516496B940\" target=\"_blank\">Inscreva-se</a> <br/>",
           "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-test-forms.jpg\"/>",
           "categoria": "Online"
+      },
+      {  
+        "id": 21,
+         "nome": "Criando e Enviando Certificados Online Automaticamente",
+          "descricao": "Já pensou em gerar seus próprios certificados para seus estudantes? Neste curso vamos aprender a configurar tudo que é necessário para enviar um certificado automaticamente por email. Vamos integrar três ferramentas para fazer a mágica acontecer de um jeito simples, prático e gratuito. Automatize seus processos de criação e envio de arquivos online.",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/enviando-certificados-online/?referralCode=608C4A9DC0B342C79A7C\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-forms-autocrat.jpg\"/>",
+          "categoria": "Online"
       }
 ]
         
