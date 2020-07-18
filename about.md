@@ -20,7 +20,7 @@ Esse blog é resultado do meu esforço permanente para aprender programação de
 
 O conteúdo desse blog está hospedado via GitPages e todo o código fica no GitHub. Ainda estou descobrindo como esse universo funciona, mas já consigo usar.
 
-Minhas habilidades com o [GitHub](http://willianjusten.teachable.com/p/criando-sites-estaticos-com-jekyll) e [Jekyll](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes) foram adquiridas nos cursos do hacker [William Justen](https://willianjusten.com.br/). 
+Minhas habilidades com o [GitHub](https://www.udemy.com/course/git-e-github-para-iniciantes/) e Jekyll foram adquiridas nos cursos do hacker [William Justen](https://willianjusten.com.br/). 
 
 <div style="max-width: 30% !important; float: left;padding: 5%;">
 <img src="https://desafiodocodigo.com.br/images/IMG_3906.jpg" alt="" width="100%" /></div>

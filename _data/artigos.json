@@ -1295,13 +1295,6 @@
       "Formato": "HTML"
     },
     {
-      "id": 206,
-      "Nome": "Learn SQL The Hard Way",
-      "url": "http://sql.learncodethehardway.org/book/",
-      "Categoria": "Programação",
-      "Formato": "HTML"
-    },
-    {
       "id": 207,
       "Nome": "Learning Java",
       "url": "http://chimera.labs.oreilly.com/books/1234000001805/index.html",
