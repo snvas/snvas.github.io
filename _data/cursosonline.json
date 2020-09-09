@@ -174,6 +174,30 @@
           "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/enviando-certificados-online/?referralCode=608C4A9DC0B342C79A7C\" target=\"_blank\">Inscreva-se</a> <br/>",
           "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-forms-autocrat.jpg\"/>",
           "categoria": "Online"
+      },
+      {  
+        "id": 22,
+         "nome": "Ferramentas de Monitoramento de Conteúdo Online",
+          "descricao": "Aprenda o básico para utilizar Google Analytics, Pixel e Tag Manager. Aprenda a usar ferramentas que exibem estatísticas de visitação do seu site.",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/monitoramento-web/?referralCode=E21BE6BF70A1CBB66605\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-monitoramento.jpg\"/>",
+          "categoria": "Online"
+      },
+      {  
+        "id": 23,
+         "nome": "Criando e Gerenciando Anúncios no Facebook Ads",
+          "descricao": "Passo a passo para você começar a anunciar no Instagram ou Facebook. Aprenda a utilizar as ferramentas de anunciante do Facebook para alavancar seus negócios.",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/anuncios-no-facebook-ads/?referralCode=EC6B578356399DB96647\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-facebook-ads.jpg\"/>",
+          "categoria": "Online"
+      },
+      {  
+        "id": 24,
+         "nome": "Passo a Passo para Começar Anunciar no Google Ads Hoje Mesmo",
+          "descricao": "descubra como investir melhor seu orçamento em links patrocinados. Descubra como o Google Ads pode favorecer seus objetivos de negócios.",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/anunciar-no-google-ads/?referralCode=B29779A4F88B184A5C34\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-ads.jpg\"/>",
+          "categoria": "Online"
       }
 ]
         
