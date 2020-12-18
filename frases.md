@@ -18,7 +18,7 @@ order: 6
 
 
 {% assign frases_online_tags = site.data.frases.tags | sort %}
-{% for tag in sorted_tags %}
+{% for tag in frases_online_tags %}
   {% assign t = tag | first %}
   {% assign frases_online = tag | last %}
  
