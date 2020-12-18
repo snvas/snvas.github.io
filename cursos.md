@@ -16,7 +16,14 @@ order: 1
 </script>
 
 ### Confira os cursos online da EmpreendeLab
-
+<div class = "container">
+      {% atribuir linhas = conteúdo | dividir: "@ row"%}
+      {% para linha nas linhas%}
+        <div class ="row" id ="row- {{forloop.index}}">
+  {% atribuir colunas = linha | dividir: "@ coluna"%}
+          {% para a coluna nas colunas%}
+            <div class = "col-sm - {{12 | division_by: forloop.length}}">
+              {{coluna}}
 {% assign curso_online = site.data.cursosonline  | where: "categoria","Online" | sort: 'nome'  %}
 
 {% for curso in curso_online %}
@@ -29,3 +36,11 @@ order: 1
 
 <hr>
  {% endfor %}
+
+   </div>
+          {% endfor%}
+
+        </div>
+      {% endfor%}
+
+    </div>
