@@ -19,7 +19,7 @@ order: 6
 
 ### [Todas as Frases](http://www.codecamp.com.br/frasesdesign){:target="_blank"} 
 
-{% assign frases_online = site.data.frases | where: "categoria","Tecnologia" |%}
+{% assign frases_online = site.data.frases | where: "Categoria","Tecnologia" | sort: 'Autor' %}
 
 {% for item in frases_online %}
 <h3 class="post-title">{{ item.Frase }}</h3>
