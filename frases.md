@@ -17,9 +17,9 @@ order: 6
 </script>
 
 
-### [Todas as Frases](http://www.codecamp.com.br/frasesdesign){:target="_blank"} 
+### [Todas as Frases](/frasestodas/){:target="_blank"} 
 
-{% assign frases_online = site.data.frases | where: "Categoria","Tecnologia" | sort: 'Autor' %}
+{% assign frases_online = site.data.frases | where: "Categoria","Tecnologia" %}
 
 {% for item in frases_online %}
 <h3 class="post-title">{{ item.Frase }}</h3>
