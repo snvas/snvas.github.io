@@ -2,6 +2,7 @@
 layout: page
 title: Cursos Online
 permalink: /cursos/
+entries_layout: grid
 order: 1
 ---
  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -15,15 +16,10 @@ order: 1
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+
 ### Confira os cursos online da EmpreendeLab
-<div class = "container">
-      {% atribuir linhas = conteúdo | dividir: "@ row"%}
-      {% para linha nas linhas%}
-        <div class ="row" id ="row- {{forloop.index}}">
-  {% atribuir colunas = linha | dividir: "@ coluna"%}
-          {% para a coluna nas colunas%}
-            <div class = "col-sm - {{12 | division_by: forloop.length}}">
-              {{coluna}}
+
 {% assign curso_online = site.data.cursosonline  | where: "categoria","Online" | sort: 'nome'  %}
 
 {% for curso in curso_online %}
@@ -36,11 +32,3 @@ order: 1
 
 <hr>
  {% endfor %}
-
-   </div>
-          {% endfor%}
-
-        </div>
-      {% endfor%}
-
-    </div>
