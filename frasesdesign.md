@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frases Coletânia
+title: Coletânia de Frases
 permalink: /frasestodas/
 order: 6
 ---

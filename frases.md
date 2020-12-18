@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frases
+title: Reflexões sobre Tecnologia
 permalink: /frases/
 order: 6
 ---
@@ -17,9 +17,9 @@ order: 6
 </script>
 
 
-### [Todas as Frases](/frasestodas/){:target="_blank"} 
+### [Todas as Frases](/frasestodas/)
 
-{% assign frases_online = site.data.frases | where: "Categoria","Tecnologia" %}
+{% assign frases_online = site.data.frases | where: "Categoria","Tecnologia" | sort: 'Autor' %}
 
 {% for item in frases_online %}
 <h3 class="post-title">{{ item.Frase }}</h3>
