@@ -221,7 +221,7 @@ Computador desenvolvido pela Google com foco em aplicações online
 #### Chromebox for Meetings - [enterprise.google.com/chrome/video-conferencing](https://enterprise.google.com/chrome/video-conferencing/){:target="_blank"}
 Serviço de Webconferência
 
-#### Chromecast - [google.com/chromecast](https://www.google.com/intl/pt-BR_br/chromecast/){:target="_blank"}
+#### Chromecast - [store.google.com/br/product/chromecast](https://store.google.com/br/product/chromecast){:target="_blank"}
 Dispositivo que integra seu smartphone com a tv ou som da casa
 
 #### Chromium - [chromium.org/Home](http://www.chromium.org/Home){:target="_blank"}
@@ -279,23 +279,16 @@ O Google Surveys facilita a obtenção de opiniões rápidas e confiáveis por p
 #### Contacts - [contacts.google.com](https://www.google.com/contacts/){:target="_blank"}
 Contatos integrados na conta Google
 
-#### Correlate - [google.com/trends/correlate](https://www.google.com/trends/correlate){:target="_blank"}
-Encontre correlação entre os termos buscados no Google
-
 #### Course Builder - [code.google.com/p/course-builder](https://www.google.com/edu/openonline/course-builder/index.html){:target="_blank"}
 Plataforma open source para publicação de cursos online
 
 #### Chrome Music Lab: Song Maker - [musiclab.chromeexperiments.com/Song-Maker](https://musiclab.chromeexperiments.com/Song-Maker/){:target="_blank"} 
 Para criar uma música, adicione notas clicando na grade. Então, compartilhe sua música com um link. Você também pode usar um teclado MIDI ou cantar uma nota no seu microfone. Você também pode usar as teclas do seu computador. Pressione as teclas de seta para mover, entrar e retroceder para adicionar e remover notas e barra de espaço para jogar.
 
-#### Crisis Response - [google.com/crisisresponse](https://www.google.org/crisisresponse/){:target="_blank"}
-Tornar a informação crítica mais acessível em tempos de catástrofe
-Quando ocorre uma catástrofe, as pessoas recorrem à Internet para obter informações. Ajudamos a garantir que as informações certas estejam presentes nestes momentos de necessidade, construindo ferramentas para coletar e compartilhar informações de emergência e apoiando os primeiros respondentes no uso da tecnologia para ajudar a melhorar e salvar vidas
-
 #### CS Education - [google.com/edu/cs/](https://www.google.com/edu/cs/){:target="_blank"} 
 A educação em ciência da computação (CS) é um caminho para a inovação, para a criatividade e para oportunidades de carreira emocionantes. Acreditamos que todos os alunos merecem essas oportunidades. É por isso que o Google está comprometido com o desenvolvimento de programas, recursos, ferramentas e parcerias comunitárias que tornam o CS atraente e acessível para todos os alunos.
 
-#### CS First - [cs-first.com](https://www.cs-first.com/){:target="_blank"} 
+#### CS First - [csfirst.withgoogle.com/](https://csfirst.withgoogle.com/){:target="_blank"} 
 Plataforma oferece materiais e tutoriais sobre a Ciência da Computação
 
 #### Cultural Institute - [google.com/culturalinstitute](https://www.google.com/culturalinstitute/beta/){:target="_blank"}
@@ -390,7 +383,7 @@ Google Books (anteriormente conhecido como Google Book Search e GooglePrint) (em
 #### Education On Air - [educationonair.withgoogle.com](https://educationonair.withgoogle.com/){:target="_blank"}
 Uma conferência online gratuita. Compartilhe e aprenda com os educadores de todo o mundo.
 
-#### Environment - [environment.google](https://environment.google/){:target="_blank"}
+#### Environment - [sustainability.google/](https://sustainability.google/){:target="_blank"}
 Na Google, a sustentabilidade é uma parte de tudo o que fazem. Os fundadores do Google têm se unido com estrategistas de energia e política, engenheiros mecânicos e de software, especialistas em sustentabilidade e outros 65.000 criadores de peças criativas, e ainda estão focados em encontrar novas maneiras de fazer mais enquanto usamos menos. Abordam a sustentabilidade ambiental como qualquer outro desafio - com um desprezo saudável pelo impossível na criação de tecnologia que melhore tantas vidas quanto possível.
 
 #### Expeditions - [google.com/edu/expeditions](https://www.google.com/edu/expeditions/){:target="_blank"} 
@@ -772,8 +765,6 @@ O Projeto vinha sendo mantido pelos escritórios do Google X pelo menos desde 20
 
 Desde o dia 13 de maio, o Google Glass é vendido para o público em geral, mas somente para quem mora nos Estados Unidos. O dispositivo custa US$ 1,5 mil e a comercialização faz parte do Glass Explorer Program, que ainda está na versão beta. O Google Glass estava disponível apenas para desenvolvedores ou pessoas que tivessem um projeto com o aparelho. Um mês antes, o Google vendeu os óculos por 24 horas. O número de aparelhos foi limitado e ainda era preciso responder um formulário para participar do Glass Explorer Program. Em 20 horas todo estoque do Google Glass foi comercializado. E em 19 de janeiro de 2015 chega ao fim o 'Glass Explorer Program', consequentemente suspendendo por tempo indeterminado as vendas do atual modelo do dispositivo. [FONTE](https://pt.wikipedia.org/wiki/Project_Glass)
 
-#### Project Tango - [google.com/atap/projecttango](https://get.google.com/tango/){:target="_blank"}
-Project Tango é uma plataforma tecnológica do Google que permite aos desenvolvedores criar experiências que incorporam coisas como navegação interna, mapeamento 3D e realidade aumentada. O projeto usa a visão computacional para permitir que os dispositivos vejam o mundo à sua volta sem depender do GPS.
 
 <iframe 
   width="100%" 
@@ -912,7 +903,7 @@ Google Street View é um recurso do Google Maps e do Google Earth que disponibil
 #### Takeout - [google.com/takeout](https://takeout.google.com/settings/takeout){:target="_blank"}
 Sua conta, seus dados. Exportar uma cópia. Crie um arquivo com seus dados dos produtos do Google.
 
-#### Teacher Academy - [withgoogle.com/certification_innovator](https://edutrainingcenter.withgoogle.com/certification_innovator){:target="_blank"}
+#### Teacher Academy - [teachercenter.withgoogle.com/certification_innovator](https://teachercenter.withgoogle.com/certification_innovator){:target="_blank"}
 A verdadeira mudança é impulsionada por líderes inovadores. Torne-se um inovador certificado e junte-se a uma comunidade de educadores apaixonados projetando soluções criativas para os desafios mais difíceis do mundo na educação.
 
 #### TensorFlow - [tensorflow.org](https://www.tensorflow.org/){:target="_blank"} 
@@ -947,16 +938,16 @@ Dicas e truques que você não sabia que você poderia fazer com o Google para u
 #### Toolbar - [toolbar.google.com](https://www.google.com/toolbar/ie/index.html){:target="_blank"} 
 A Barra de Ferramentas do Google foi projetada para ajudá-lo a encontrar o que você está procurando rapidamente e descobrir novas coisas ao longo do caminho. Já vem integrada no Google Chrome.
 
-#### Top Contributor - [topcontributor.withgoogle.com](https://topcontributor.withgoogle.com/){:target="_blank"}
+#### Top Contributor - [productexperts.withgoogle.com/](https://productexperts.withgoogle.com/){:target="_blank"}
 Programa para colaboradores voluntários
 
 #### Tour Builder - [tourbuilder.withgoogle.com](https://tourbuilder.withgoogle.com/){:target="_blank"} 
 O Google Tour Builder é uma ferramenta baseada na Web para contar histórias que permite criar e descobrir relatos e lugares do mundo inteiro com facilidade. Com o plug-in do Google Earth, você pode criar um passeio de qualquer assunto de sua escolha, aumentando o zoom para mostrar os lugares onde os eventos ocorreram e integrar facilmente o texto, as fotos e os vídeos da história. Seu passeio levará os usuários de um lugar até outro conforme a narrativa de seu passeio, fazendo com que eles mergulhem nos lugares relevantes por meio das imagens do Google Earth e do conteúdo personalizado que você fornecer.
 
-#### Trainer - [withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer)
+#### Trainer - [teachercenter.withgoogle.com/certification_trainer](https://teachercenter.withgoogle.com/certification_trainer)
 Combine sua experiência em ferramentas do Google com o seu amor de ajudar os outros. Torne-se um formador certificado para apoiar os educadores como redefinir o aprendizado com a tecnologia.
 
-#### Training Center - [withgoogle.com/training](https://edutrainingcenter.withgoogle.com/training){:target="_blank"}
+#### Training Center - [teachercenter.withgoogle.com/](https://teachercenter.withgoogle.com/){:target="_blank"}
 Central de treinamento do Google for Education, um site de desenvolvimento profissional criado por e para educadores. A Central de treinamento tem três seções principais. Os cursos estão disponíveis no menu "Treinamentos", as informações sobre certificações ficam nesta guia e também um conjunto de recursos.  
 
 #### Translate - [translate.google.com](https://translate.google.com/){:target="_blank"}

@@ -1628,33 +1628,7 @@
     "Complemento": "EAD SEBRAE <br/><b><a class=\"button\" href=\"https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/analise-de-negocio-pesquisa-de-mercado,f380b8a6a28bb610VgnVCM1000004c00210aRCRD\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Gestão Empresarial"
   },
-  {
-    "id": 182,
-    "nome": "Aprender a Empreender",
-    "tempo": "16",
-    "prerequisito": "Não há pré-requisitos para a realização deste curso.<br/>Fornecer conhecimentos sobre o perfil empreendedor por meio da transmissão de conceitos sobre mercado, finanças e empreendedorismo.",
-    "investimento": "GRATUITO",
-    "Complemento": "EAD SEBRAE <br/><b><a class=\"button\" href=\"https://ead.sebrae.com.br/cursos/aprender-a-empreender\" target=\"_blank\">Inscreva-se</a></b>",
-    "Categoria": "Gestão Empresarial"
-  },
-  {
-    "id": 183,
-    "nome": "Iniciando um Pequeno Grande Negócio",
-    "tempo": "30",
-    "prerequisito": "Não há pré-requisitos para a realização deste curso.<br/>Transmitir princípios, fundamentos e práticas de empreendedorismo úteis para a abertura de pequenos negócios.",
-    "investimento": "GRATUITO",
-    "Complemento": "EAD SEBRAE <br/><b><a class=\"button\" href=\"https://ead.sebrae.com.br/cursos/iniciando-um-pequeno-e-grande-negocio\" target=\"_blank\">Inscreva-se</a></b>",
-    "Categoria": "Gestão Empresarial"
-  },
-  {
-    "id": 184,
-    "nome": "Compras Governamentais",
-    "tempo": "15",
-    "prerequisito": "Não há pré-requisitos para a realização deste curso.<br/>Transmitir informações sobre o fornecimento de produtos e serviços para a administração pública.",
-    "investimento": "GRATUITO",
-    "Complemento": "EAD SEBRAE <br/><b><a class=\"button\" href=\"https://ead.sebrae.com.br/cursos/compras-governamentais\" target=\"_blank\">Inscreva-se</a></b>",
-    "Categoria": "Gestão Empresarial"
-  },
+  
   {
     "id": 185,
     "nome": "MEG na Avaliação da Gestão de Negócios",
@@ -1662,15 +1636,6 @@
     "prerequisito": "Não há pré-requisitos para a realização deste curso.<br/>Disseminar informações sobre os fundamentos e critérios que compõem o modelo de excelência da gestão de negócios.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SEBRAE <br/><b><a class=\"button\" href=\"https://ead.sebrae.com.br/cursos/meg-na-avaliacao-da-gestao-de-negocios\" target=\"_blank\">Inscreva-se</a></b>",
-    "Categoria": "Gestão Empresarial"
-  },
-  {
-    "id": 186,
-    "nome": "Gestão Empresarial Integrada",
-    "tempo": "15",
-    "prerequisito": "Não há pré-requisitos para a realização deste curso.<br/>Sensibilizar empresários para compreender seus negócios como uma organização sistêmica, desenvolver eficácia empresarial com foco na gestão integrada e incorporar princípios da gestão integrada visando à eficácia empresarial.",
-    "investimento": "GRATUITO",
-    "Complemento": "EAD SEBRAE <br/><b><a class=\"button\" href=\"https://ead.sebrae.com.br/cursos/gestao-empresarial-integrada\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Gestão Empresarial"
   },
   {
@@ -2718,15 +2683,6 @@
     "Categoria": "Transportes"
   },
   {
-    "id": 303,
-    "nome": "Logística: Gestão de Estoques e Armazenagem",
-    "tempo": "30",
-    "prerequisito": "Nenhum.<br/>aborda os principais conceitos e práticas da gestão de estoques de mercadorias, além de abordar o planejamento, organização e controle da operação de terminais e de armazéns de cargas.",
-    "investimento": "GRATUITO",
-    "Complemento": "EAD SEST SENAT<br/><b><a class=\"button\" href=\"http://ead.sestsenat.org.br/cursos-disponiveis/cursos-livres/gestao-de-estoques-e-armazenagem\" target=\"_blank\">Inscreva-se</a></b>",
-    "Categoria": "Transportes"
-  },
-  {
     "id": 304,
     "nome": "DST/AIDS - Da Prevenção ao Tratamento",
     "tempo": "12",
@@ -2825,16 +2781,7 @@
     "Complemento": "EAD Educação a Distância do Centro de Computação da Unicamp<br/><b><a class=\"button\" href=\"http://www.ggte.unicamp.br/minicurso/video/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
   },
-  {
-    "id": 315,
-    "nome": "HTML Ilustrado Hypertext Mark-up Language",
-    "tempo": "0",
-    "prerequisito": "Nenhum.<br/>O propósito do documento é relacionar e ilustrar o uso dos marcadores (tags) padronizados da linguagem HTML (Hypertext Mark-up Language) mais freqüentemente empregados.",
-    "investimento": "GRATUITO",
-    "Complemento": "EAD Educação a Distância do Centro de Computação da Unicamp<br/><b><a class=\"button\" href=\"http://www.ggte.unicamp.br/minicurso/html/\" target=\"_blank\">Inscreva-se</a></b>",
-    "Categoria": "Tecnologia da Informação"
-  },
-  {
+    {
     "id": 316,
     "nome": "WebCam",
     "tempo": "0",
@@ -4758,15 +4705,6 @@
     "prerequisito": "Nenhum<br/>A gravidade é a força de atração entre massas. Ela é o que puxa você para baixo na direção da terra. Aqui, você vai aprender os significados precisos das palavras massa e peso, e também vai ver como a gravidade afeta a queda de objetos próximos da Terra e em órbita no espaço.",
     "investimento": "GRATUITO",
     "Complemento": "KHAN ACADEMY<br/><b><a class=\"button\" href=\"https://pt.khanacademy.org/science/physics/newton-gravitation\" target=\"_blank\">Inscreva-se</a></b>",
-    "Categoria": "Física"
-  },
-  {
-    "id": 530,
-    "nome": "Movimento oscilatório",
-    "tempo": "1",
-    "prerequisito": "Nenhum<br/>Pêndulos. Molas slinky. Você, quando precisa usar o banheiro, mas ele está ocupado. Todas essas coisas vão e voltam sem parar. Este tutorial explora esse tipo de movimento.",
-    "investimento": "GRATUITO",
-    "Complemento": "KHAN ACADEMY<br/><b><a class=\"button\" href=\"https://pt.khanacademy.org/science/physics/oscillatory-motion\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Física"
   },
   {

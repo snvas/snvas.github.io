@@ -128,9 +128,6 @@ Cursos online sobre pensamento computacional para educadores
 #### Contacts - [contacts.google.com](https://www.google.com/contacts/){:target="_blank"}
 Contatos integrados na conta Google
 
-#### Correlate - [google.com/trends/correlate](https://www.google.com/trends/correlate){:target="_blank"}
-Encontre correlação entre os termos buscados no Google
-
 #### Course Builder - [code.google.com/p/course-builder](https://www.google.com/edu/openonline/course-builder/index.html){:target="_blank"}
 Plataforma open source para publicação de cursos online
 
@@ -458,7 +455,7 @@ Google Street View é um recurso do Google Maps e do Google Earth que disponibil
 #### Takeout - [google.com/takeout](https://takeout.google.com/settings/takeout){:target="_blank"}
 Sua conta, seus dados. Exportar uma cópia. Crie um arquivo com seus dados dos produtos do Google.
 
-#### Teacher Academy - [withgoogle.com/certification_innovator](https://edutrainingcenter.withgoogle.com/certification_innovator){:target="_blank"}
+#### Teacher Academy - [teachercenter.withgoogle.com/certification_innovator](https://teachercenter.withgoogle.com/certification_innovator){:target="_blank"}
 A verdadeira mudança é impulsionada por líderes inovadores. Torne-se um inovador certificado e junte-se a uma comunidade de educadores apaixonados projetando soluções criativas para os desafios mais difíceis do mundo na educação.
 
 #### Test My Site - [testmysite.thinkwithgoogle.com](https://testmysite.thinkwithgoogle.com/){:target="_blank"} 
@@ -484,10 +481,10 @@ Você vai ter acesso ao histórico de todas as atividades que andou fazendo, den
 #### Tour Builder - [tourbuilder.withgoogle.com](https://tourbuilder.withgoogle.com/){:target="_blank"} 
 O Google Tour Builder é uma ferramenta baseada na Web para contar histórias que permite criar e descobrir relatos e lugares do mundo inteiro com facilidade. Com o plug-in do Google Earth, você pode criar um passeio de qualquer assunto de sua escolha, aumentando o zoom para mostrar os lugares onde os eventos ocorreram e integrar facilmente o texto, as fotos e os vídeos da história. Seu passeio levará os usuários de um lugar até outro conforme a narrativa de seu passeio, fazendo com que eles mergulhem nos lugares relevantes por meio das imagens do Google Earth e do conteúdo personalizado que você fornecer.
 
-#### Trainer - [withgoogle.com/certification_trainer](https://edutrainingcenter.withgoogle.com/certification_trainer){:target="_blank"}
+#### Trainer - [teachercenter.withgoogle.com/certification_trainer](https://teachercenter.withgoogle.com/certification_trainer){:target="_blank"}
 Combine sua experiência em ferramentas do Google com o seu amor de ajudar os outros. Torne-se um formador certificado para apoiar os educadores como redefinir o aprendizado com a tecnologia.
 
-#### Training Center - [withgoogle.com/training](https://edutrainingcenter.withgoogle.com/training){:target="_blank"}
+#### Training Center - [teachercenter.withgoogle.com](https://teachercenter.withgoogle.com/){:target="_blank"}
 Central de treinamento do Google for Education, um site de desenvolvimento profissional criado por e para educadores. A Central de treinamento tem três seções principais. Os cursos estão disponíveis no menu "Treinamentos", as informações sobre certificações ficam nesta guia e também um conjunto de recursos.  
 
 #### Translate - [translate.google.com](https://translate.google.com/){:target="_blank"}
