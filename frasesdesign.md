@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Frases
-permalink: /frases/
+title: Frases Coletânia
+permalink: /frasestodas/
 order: 6
 ---
 <br>
@@ -15,6 +15,7 @@ order: 6
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 
 
 {% assign frases_online = site.data.frases |%}
