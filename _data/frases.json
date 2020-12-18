@@ -1084,5 +1084,17 @@
     "Frase": "Os sapos não foram feitos para serem engolidos.",
     "Autor": "Maria João",
     "Categoria": "Poesia"
-  }
+  },
+{
+  "id": 184,
+  "Frase": "Ainda é mágico, mesmo se você souber como é feito.",
+  "Autor": "Terry Pratchett",
+  "Categoria": "Tecnologia"
+},
+{
+  "id": 185,
+  "Frase": "A tecnologia é a fogueira em torno da qual contamos nossas histórias.",
+  "Autor": "Laurie Anderson",
+  "Categoria": "Tecnologia"
+}
 ]
