@@ -16,6 +16,18 @@ order: 6
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+{% assign frases_online_tags = site.data.frases.tags | sort %}
+{% for tag in sorted_tags %}
+  {% assign t = tag | first %}
+  {% assign frases_online = tag | last %}
+ 
+    <a href onclick="filter('{{ t }}'); return false;" style="font-size: large;">{{ t }}</a>&nbsp;&nbsp;&nbsp;
+ 
+{% endfor %}
+
+
+
 {% assign frases_online = site.data.frases %}
 
 {% for item in frases_online %}

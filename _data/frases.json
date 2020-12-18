@@ -1096,5 +1096,35 @@
   "Frase": "A tecnologia é a fogueira em torno da qual contamos nossas histórias.",
   "Autor": "Laurie Anderson",
   "Categoria": "Tecnologia"
+},
+{
+  "id": 186,
+  "Frase": "Qualquer tecnologia suficientemente avançada é indistinguível da magia.",
+  "Autor": "Arthur C. Clarke",
+  "Categoria": "Tecnologia"
+},
+{
+  "id": 187,
+  "Frase": "Conforme a tecnologia avança em complexidade e escopo, o medo se torna mais primitivo.",
+  "Autor": "Don DeLillo",
+  "Categoria": "Tecnologia"
+},
+{
+  "id": 188,
+  "Frase": "Se a privacidade tivesse uma lápide, poderia ler: 'Não se preocupe. Isso era para o seu próprio bem.",
+  "Autor": "John Twelve Hawks",
+  "Categoria": "Tecnologia"
+},
+{
+  "id": 189,
+  "Frase": "TELEFONE n. Uma invenção do diabo que anula algumas das vantagens de fazer uma pessoa desagradável manter distância.",
+  "Autor": "Ambrose Bierce",
+  "Categoria": "Tecnologia"
+},
+{
+  "id": 190,
+  "Frase": "Pessoas que sorriem sozinhas costumavam ser chamadas de loucas, até que inventamos os smartphones e as mídias sociais.",
+  "Autor": "Mokokoma Mokhonoana",
+  "Categoria": "Tecnologia"
 }
 ]
