@@ -177,18 +177,40 @@
       },
       {  
         "id": 22,
+<<<<<<< HEAD
          "nome": "Introdução à Otimização para Mecanismos de Pesquisa (Google)",
           "descricao": "A otimização de mecanismo de pesquisa é o processo de fazer melhorias dentro e fora do seu site, a fim de ganhar mais exposição nos resultados dos mecanismos de pesquisa.",
           "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/introducao-a-otimizacao-para-mecanismos-de-pesquisa/?referralCode=02060B76CC87FCC5160A\" target=\"_blank\">Inscreva-se</a> <br/>",
           "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-seo-intro.jpg\"/>",
+=======
+         "nome": "Ferramentas de Monitoramento de Conteúdo Online",
+          "descricao": "Aprenda o básico para utilizar Google Analytics, Pixel e Tag Manager. Aprenda a usar ferramentas que exibem estatísticas de visitação do seu site.",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/monitoramento-web/?referralCode=E21BE6BF70A1CBB66605\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-monitoramento.jpg\"/>",
+>>>>>>> 37c223abadee9f869a09db47f2c51ffce14a4205
           "categoria": "Online"
       },
       {  
         "id": 23,
+<<<<<<< HEAD
          "nome": "SEO na Prática Técnicas e Ferramentas para Otimizar seu Site",
           "descricao": "Neste curso veremos coisas simples que você pode fazer para otimizar as páginas do seu website para que os mecanismos de pesquisa possam encontrá-lo com mais facilidade. Porque se puderem, os clientes em potencial também podem.",
           "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/seo-na-pratica/?referralCode=F1369D85E7ACE7086024\" target=\"_blank\">Inscreva-se</a> <br/>",
           "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-seo-intro.jpg\"/>",
+=======
+         "nome": "Criando e Gerenciando Anúncios no Facebook Ads",
+          "descricao": "Passo a passo para você começar a anunciar no Instagram ou Facebook. Aprenda a utilizar as ferramentas de anunciante do Facebook para alavancar seus negócios.",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/anuncios-no-facebook-ads/?referralCode=EC6B578356399DB96647\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-facebook-ads.jpg\"/>",
+          "categoria": "Online"
+      },
+      {  
+        "id": 24,
+         "nome": "Passo a Passo para Começar Anunciar no Google Ads Hoje Mesmo",
+          "descricao": "descubra como investir melhor seu orçamento em links patrocinados. Descubra como o Google Ads pode favorecer seus objetivos de negócios.",
+          "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/anunciar-no-google-ads/?referralCode=B29779A4F88B184A5C34\" target=\"_blank\">Inscreva-se</a> <br/>",
+          "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-ads.jpg\"/>",
+>>>>>>> 37c223abadee9f869a09db47f2c51ffce14a4205
           "categoria": "Online"
       }
 ]
