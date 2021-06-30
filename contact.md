@@ -7,6 +7,6 @@ order: 7
 
 Vamos adorar [receber sua mensagem](http://edtecnova.com.br/ebook/#contact)!
 
-![Direcionamento para email](http://www.racecon.com.br/site2012/wp-content/uploads/2012/04/contato.jpg)
+![Direcionamento para email](https://cdn.iconscout.com/icon/free/png-256/email-1818372-1541480.png)
 
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
