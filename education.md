@@ -5,14 +5,14 @@ permalink: /edunews/
 order: 4
 ---
 
-### RSS via Hubspot, Moz, Seth Blog, Adweek, Marketing Profs, Buffer, Reddit, Slacktime, Marketo, Digital Marketer, Search Engine Journal
+### RSS via Google for Education Blog, Google Cloud Blog
 
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
 <!-- 
 rssfeed_url = new Array(); 
 rssfeed_url[0]="https://blog.google/outreach-initiatives/education/rss/"; 
-rssfeed_url[1]="http://feeds.feedburner.com/OBlogDoGoogleBrasil"; 
+//rssfeed_url[1]="http://feeds.feedburner.com/OBlogDoGoogleBrasil"; 
 rssfeed_url[2]="https://cloudblog.withgoogle.com/topics/education/rss/"; 
 //rssfeed_url[3]="http://rss.marketingprofs.com/marketingprofs"; 
 //rssfeed_url[4]="http://www.adweek.com/feed/"; 
