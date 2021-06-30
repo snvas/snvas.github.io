@@ -1,17 +1,6 @@
 ---
 layout: default
 ---
- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- codecamp -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3011890130990408"
-     data-ad-slot="9846490006"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
   {% assign t = tag | first %}
@@ -47,6 +36,17 @@ layout: default
 {% endfor %}
 
 <div class="content list">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- codecamp -->
+	<ins class="adsbygoogle"
+		 style="display:block"
+		 data-ad-client="ca-pub-3011890130990408"
+		 data-ad-slot="9846490006"
+		 data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+	
   <hr>
   {% if site.posts.size == 0 %}
     <h2>Nenhum post encontrado</h2>
