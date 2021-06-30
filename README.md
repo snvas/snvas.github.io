@@ -2,6 +2,8 @@
 Esse blog é resultado do meu esforço permanente para aprender programação depois dos 30 anos. Sou publicitária de formação. Já fiz site em só com html e css em tabela usando dreamweaver, aprendi o mínimo de php e migrei para o phpdesigner, mas agora consigo publicar escrevendo no Sublime ou no Visual Studio e no prompt, usando Jekill que é um gerador de códigos estáticos.
 
 ## [Cursos Online](/cursos)
+![Cursos Online Soraia Novaes](/images/curso-udemy-ads-ANIMATION.gif)
+
 Confira os cursos online da EmpreendeLab
 
 ## [Recursos Gratuitos](/work)
