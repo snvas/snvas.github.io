@@ -3,6 +3,7 @@ Esse blog é resultado do meu esforço permanente para aprender programação de
 
 ## [Cursos Online](/cursos)
 Confira os meus cursos online e da EmpreendeLab
+
 ![Cursos Online Soraia Novaes](/images/curso-udemy-ads-ANIMATION.gif)
 
 ## [Recursos Gratuitos](/work)
