@@ -7,8 +7,8 @@
 }
 
 .container {
- // max-width: 38rem;
-  max-width: 80%;
+  max-width: 38rem;
+  //max-width: 80%;
   padding: 2rem 1.5rem;
   margin-left:  auto;
   margin-right: auto;
@@ -60,6 +60,7 @@
     a {
       color: #aaa;
       font-weight: 300;
+	  text-decoration: underline;
       text-transform: lowercase;
       -webkit-transition: all .2s ease;
          -moz-transition: all .2s ease;
@@ -68,7 +69,7 @@
       &:hover,
       &:focus {
         color: #333;
-		padding: 5%;
+		padding: 1%;
 		background-color: #FF00FF;
         text-decoration: none;
       }
