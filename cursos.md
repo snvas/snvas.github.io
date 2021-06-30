@@ -23,7 +23,7 @@ order: 1
 {% assign curso_online = site.data.cursosonline  | where: "categoria","Online" | sort: 'nome'  %}
 
 {% for curso in curso_online %}
-<p>{{ curso.imagem}}{: width=50% height=501% style="float:right; padding:16px"}</p>
+<p>{{ curso.imagem}{: width=50% height=50% style="float:right; padding:16px"}}</p>
 <h1 class="post-title">{{ curso.nome }} </h1>
 
 <p>{{ curso.descricao}}</p>
