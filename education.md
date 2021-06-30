@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Educação News
+title: Google Edu News
 permalink: /edunews/
 order: 4
 ---
