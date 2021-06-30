@@ -5,7 +5,7 @@ Esse blog é resultado do meu esforço permanente para aprender programação de
 Confira os cursos online da EmpreendeLab
 
 ## [Recursos Gratuitos](/work)
-Encontre os recursos disponíveis
+Encontre os recursos disponíveis: Desafio do Código, EmpreendeLab, Propaganda em Revista
 
 ## [Notícias de Tecnologia](/news)
 Notícias em tempo real sobre tecnologia.
@@ -21,5 +21,5 @@ RSS via Hubspot, Moz, Seth Blog, Adweek, Marketing Profs, Buffer, Reddit, Slackt
 ### [Coletânia de Frases](/frasestodas)
 
 
-##### 
+#### Codecamper
 Soraia Novaes co-founder e tutora do Desafio do Código. Design Thinker na EmpreendeLab. Professora certificada Google Trainer e Google Innovator.
