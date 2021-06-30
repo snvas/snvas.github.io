@@ -8,9 +8,11 @@ Confira os cursos online da EmpreendeLab
 Encontre os recursos disponíveis
 
 ## [Notícias de Tecnologia](/news)
+Notícias em tempo real sobre tecnologia.
 RSS via MIT News, MIT Research, TechRadar, Wired, Gadgets, TechRepublic, Techtimes, Cnet, Google, Techcrunch, Engadget, The Verge, Reddit, PC World, UOl, AFP e Tech Viral
 
 ## [Notícias de Marketing](/mktnews)
+Notícias em tempo real sobre marketing
 RSS via Hubspot, Moz, Seth Blog, Adweek, Marketing Profs, Buffer, Reddit, Slacktime, Marketo, Digital Marketer, Search Engine Journal
 
 ### [Reflexões sobre Tecnologia](/frases)
@@ -18,4 +20,6 @@ RSS via Hubspot, Moz, Seth Blog, Adweek, Marketing Profs, Buffer, Reddit, Slackt
 
 ### [Coletânia de Frases](/frasestodas)
 
+
+##### 
 Soraia Novaes co-founder e tutora do Desafio do Código. Design Thinker na EmpreendeLab. Professora certificada Google Trainer e Google Innovator.
