@@ -9,10 +9,9 @@ order: 4
 
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
-<!-- 
 rssfeed_url = new Array(); 
 rssfeed_url[0]="https://blog.google/outreach-initiatives/education/rss/"; 
-rssfeed_url[1]="https://cloudblog.withgoogle.com/topics/education/rss/";
+rssfeed_url[1]="https://cloudblog.withgoogle.com/topics/education/rss/"
 rssfeed_frame_width="100%"; 
 rssfeed_frame_height="4500"; 
 rssfeed_scroll="on"; 
@@ -46,8 +45,7 @@ rssfeed_item_description_color="#666";
 rssfeed_item_description_link_color="#333"; 
 rssfeed_item_description_tag="off"; 
 rssfeed_no_items="0"; 
-rssfeed_cache = "226480hbd980"; 
-//--> 
+rssfeed_cache = "226480hbd980";  
 </script> 
 <script type="text/javascript" src="https://codecamp.com.br/js/rss-feed.js"></script> 
 <!-- end sw-rss-feed code -->
