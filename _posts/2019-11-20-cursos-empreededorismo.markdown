@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Empreendedorismo.
+## Confira os cursos garimpados na web da área de Empreendedorismo
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Empreendedorismo" | sort: 'nome'  %}
 

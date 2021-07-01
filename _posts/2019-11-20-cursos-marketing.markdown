@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Marketing.
+## Confira os cursos garimpados na web da área de Marketing
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Marketing" | sort: 'nome'  %}
 

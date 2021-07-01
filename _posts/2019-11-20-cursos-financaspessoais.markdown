@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Finanças Pessoais.
+## Confira os cursos garimpados na web da área de Finanças Pessoais
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Finanças Pessoais" | sort: 'nome'  %}
 

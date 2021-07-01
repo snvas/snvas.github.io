@@ -7,7 +7,7 @@ tags:
  - áreas de cursos
 ---
 
-## Confira os cursos garimpados na web da área de Tecnologia da Informação.
+## Confira os cursos garimpados na web da área de Tecnologia da Informação
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Tecnologia da Informação" | sort: 'nome'  %}
 

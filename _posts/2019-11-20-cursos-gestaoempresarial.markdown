@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Gestão Empresarial.
+## Confira os cursos garimpados na web da área de Gestão Empresarial
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Gestão Empresarial" | sort: 'nome'  %}
 

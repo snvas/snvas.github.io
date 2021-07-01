@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Gestão de Pessoas.
+## Confira os cursos garimpados na web da área de Gestão de Pessoas
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Gestão de Pessoas" | sort: 'nome'  %}
 

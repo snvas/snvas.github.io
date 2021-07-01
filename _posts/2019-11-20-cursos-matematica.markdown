@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Matemática.
+## Confira os cursos garimpados na web da área de Matemática
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Matemática" | sort: 'nome'  %}
 

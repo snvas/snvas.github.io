@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Biologia.
+## Confira os cursos garimpados na web da área de Biologia
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Biologia" | sort: 'nome'  %}
 

@@ -7,7 +7,7 @@ tags:
  - áreas de cursos
 ---
 
-## Confira os cursos garimpados na web da área de Sustentabilidade.
+## Confira os cursos garimpados na web da área de Sustentabilidade
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Sustentabilidade" | sort: 'nome'  %}
 

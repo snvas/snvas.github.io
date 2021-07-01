@@ -7,7 +7,7 @@ tags:
  - áreas de cursos
 ---
 
-## Confira os cursos garimpados na web da área de Química.
+## Confira os cursos garimpados na web da área de Química
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Química" | sort: 'nome'  %}
 

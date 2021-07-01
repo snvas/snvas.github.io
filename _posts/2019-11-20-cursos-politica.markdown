@@ -7,7 +7,7 @@ tags:
  - áreas de cursos
 ---
 
-## Confira os cursos garimpados na web da área de Política.
+## Confira os cursos garimpados na web da área de Políticas Públicas
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Política" | sort: 'nome'  %}
 

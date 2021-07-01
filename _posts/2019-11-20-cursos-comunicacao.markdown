@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Comunicação.
+## Confira os cursos garimpados na web da área de Comunicação
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Comunicação" | sort: 'nome'  %}
 

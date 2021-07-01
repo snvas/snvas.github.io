@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Educação.
+## Confira os cursos garimpados na web da área de Educação
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Educação" | sort: 'nome'  %}
 

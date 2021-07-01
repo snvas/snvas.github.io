@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Direito.
+## Confira os cursos garimpados na web da área de Direito
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Direito" | sort: 'nome'  %}
 

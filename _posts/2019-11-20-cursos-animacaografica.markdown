@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Animação Gráfica.
+## Confira os cursos garimpados na web da área de Animação Gráfica
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Animação Gráfica" | sort: 'nome'  %}
 

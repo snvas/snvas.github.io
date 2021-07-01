@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Confira os cursos garimpados na web da área de Economia.
+## Confira os cursos garimpados na web da área de Economia
 
  {% assign curso_online = site.data.cursosninja | where: "Categoria","Economia" | sort: 'nome'  %}
 
