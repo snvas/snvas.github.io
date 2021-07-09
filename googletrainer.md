@@ -20,6 +20,8 @@ Como [Google Trainer](https://soraianovaes.com.br) tenho desenvolvido formaçõe
 
 #### Quizzes Interativos
 
+#### Ensino Híbrido
+
 #### Formulários Google Avançados
 
 #### Apresentações Interativas no Apresentações Google 
@@ -44,15 +46,11 @@ Como [Google Trainer](https://soraianovaes.com.br) tenho desenvolvido formaçõe
 
 #### Portfólio Digital com Sites Google Earth
 
+#### Dashboard no Data Studio
+
 #### Criação e Edição de vídeos
 
 #### Pesquisa com Formulários Google Earth
-
-#### Dashboard no Data Studio
-
-#### Ensino Híbrido
-
-#### Orientação e mediação de TCC, projetos interdisciplinares com ferramentas Google
 
 #### Certificação Educador Google Nível 1
 
@@ -64,9 +62,10 @@ Como [Google Trainer](https://soraianovaes.com.br) tenho desenvolvido formaçõe
 
 #### Fluência Digital com Ferramentas Google
 
-#### Personalização da aprendizagem no Google Formulários e Rubrica
-
 #### Aulas interativas com Google Classroom e Google Jamboard
 
 #### Aulas remotas (Google Meet, Classroom e Docs)
 
+#### Personalização da aprendizagem no Google Formulários e Rubrica
+
+#### Orientação e mediação de TCC, projetos interdisciplinares com ferramentas Google
