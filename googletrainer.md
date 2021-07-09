@@ -16,7 +16,7 @@ order: 0
 </script>
 
 ## Instrutora Certificada pelo Google
-Desenvolvo formações, workshops, oficinas, palestras e programas educacionais nas seguintes temáticas:
+Como [Google Trainer](https://soraianovaes.com.br) tenho desenvolvido formações, workshops, oficinas, palestras e programas educacionais nas seguintes temáticas:
 
 #### Quizzes Interativos
 
