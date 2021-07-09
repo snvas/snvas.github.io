@@ -13,6 +13,6 @@ O comportamento e as expectativas dos consumidores mudaram, e para sempre. O mot
 
 Esses micro-momentos ocorrem quando as pessoas usam o smartphone para satisfazer uma vontade pontual de aprender, de fazer, de descobrir, de assistir ou comprar algo. São instantes de real intenção em que decisões são tomadas e preferências são moldadas em questão de minutos ou segundos. Isso fica bem claro nos bilhões de buscas, de horas de vídeos assistidos e de interações com vários sites e aplicativos que testemunhamos todos os dias.
 
-<iframe width="100%" height="455" src="https://www.youtube.com/embed/7xGCPAxxi8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Essa aula faz parte do curso [Passo a Passo para Começar Anunciar no Google Ads Hoje Mesmo](https://www.udemy.com/course/anunciar-no-google-ads/?referralCode=B29779A4F88B184A5C34)
+
+<iframe width="100%" height="455" src="https://www.youtube.com/embed/7xGCPAxxi8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
