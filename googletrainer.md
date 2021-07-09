@@ -16,57 +16,57 @@ order: 0
 </script>
 
 ## Instrutora Certificada pelo Google
-Desenvolvo formações, workshops, oficinas, palestras e programas educacionais.
+Desenvolvo formações, workshops, oficinas, palestras e programas educacionais nas seguintes temáticas:
 
-### Quizzes Interativos
+#### Quizzes Interativos
 
-### Formulários Google Avançados
+#### Formulários Google Avançados
 
-### Apresentações Interativas no Apresentações Google 
+#### Apresentações Interativas no Apresentações Google 
 
-### Google Workspace: Colaboração, Drive e formatação de documentos
+#### Google Workspace: Colaboração, Drive e formatação de documentos
 
-### Google Workspace: Portfólio Digital com ferramentas Google
+#### Google Workspace: Portfólio Digital com ferramentas Google
 
-### Hackathon Educacional
+#### Hackathon Educacional
 
-### Google Drive e Documentos Google
+#### Google Drive e Documentos Google
 
-### Visual Thinking com Apresentações GooglePrint
+#### Visual Thinking com Apresentações GooglePrint
 
-### Metodologias Ágeis: Design Sprint
+#### Metodologias Ágeis: Design Sprint
 
-### Lógica de Programação com o Google
+#### Lógica de Programação com o Google
 
-### Roteiro de estudos e de histórias com Google Earth
+#### Roteiro de estudos e de histórias com Google Earth
 
-### Criação de Trilhas de Aprendizagem com a Khan Academy
+#### Criação de Trilhas de Aprendizagem com a Khan Academy
 
-### Portfólio Digital com Sites Google Earth
+#### Portfólio Digital com Sites Google Earth
 
-### Criação e Edição de vídeos
+#### Criação e Edição de vídeos
 
-### Pesquisa com Formulários Google Earth
+#### Pesquisa com Formulários Google Earth
 
-### Dashboard no Data Studio
+#### Dashboard no Data Studio
 
-### Ensino Híbrido
+#### Ensino Híbrido
 
-### Orientação e mediação de TCC, projetos interdisciplinares com ferramentas Google
+#### Orientação e mediação de TCC, projetos interdisciplinares com ferramentas Google
 
-### Certificação Educador Google Nível 1
+#### Certificação Educador Google Nível 1
 
-### Certificação Educador Google Nível 2
+#### Certificação Educador Google Nível 2
 
-### Complementos para Google Formulários e Google Planilhas
+#### Complementos para Google Formulários e Google Planilhas
 
-### Google Trends pesquisa e segmentação
+#### Google Trends pesquisa e segmentação
 
-### Fluência Digital com Ferramentas Google
+#### Fluência Digital com Ferramentas Google
 
-### Personalização da aprendizagem no Google Formulários e Rubrica
+#### Personalização da aprendizagem no Google Formulários e Rubrica
 
-### Aulas interativas com Google Classroom e Google Jamboard
+#### Aulas interativas com Google Classroom e Google Jamboard
 
-### Aulas remotas (Google Meet, Classroom e Docs)
+#### Aulas remotas (Google Meet, Classroom e Docs)
 
