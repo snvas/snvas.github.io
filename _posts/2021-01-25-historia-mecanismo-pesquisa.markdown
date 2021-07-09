@@ -42,7 +42,7 @@ O Google também causou um grande impacto na forma de ganhar dinheiro com public
 
 Para bancar o projeto, Page e Brin tentaram vender sua tecnologia inovadora para diversos concorrentes, entre eles a Excite. A empresa, que já estava no mercado de buscas há algum tempo, pensou em comprar ou licenciar a tecnologia do Google para ganhar a guerra contra o Yahoo!, mas a diretoria da entidade não achou que ela faria tanta diferença e acabou rejeitando a oportunidade de comprar o Google por "apenas" US$ 750 mil – atualmente a empresa vale mais de US$ 739 bilhões (qual será o tamanho do arrependimento?).
 
-Avance rapidamente algumas décadas, e os mecanismos de busca como Google, Bing, Yahoo!, Ask.com, AOL, Baidu e Yandex já percorreram um longo caminho.  Esses mecanismos de busca usam programas de computador incrivelmente sofisticados para classificar um grande número de páginas da web.
+Avance rapidamente algumas décadas, e os mecanismos de busca como Google, Bing, Yahoo!, Ask, AOL, Baidu e Yandex já percorreram um longo caminho.  Esses mecanismos de busca usam programas de computador incrivelmente sofisticados para classificar um grande número de páginas da web.
 
 Essa aula faz parte do curso [Introdução à Otimização para Mecanismos de Pesquisa (Google)](https://www.udemy.com/course/introducao-a-otimizacao-para-mecanismos-de-pesquisa/?referralCode=02060B76CC87FCC5160A)
 
