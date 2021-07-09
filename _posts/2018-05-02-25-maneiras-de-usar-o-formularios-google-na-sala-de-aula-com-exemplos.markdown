@@ -15,7 +15,7 @@ Essas 25 formas de usar o Google Formulários na sua sala de aula foram publicad
 1. 
 [Teste de leitura](https://docs.google.com/forms/d/1Q0upqgAg1R6lDyPpRwHq1yN5Wu825bbGNjocMFYqHfo/edit) - responsabilize os alunos pelas tarefas de leitura fazendo um teste simples. Este exemplo é baseado em Fahrenheit 451 em uma sala de aula de inglês do ensino médio e é configurado para liberar a pontuação do questionário imediatamente após o envio do questionário.
 
-2.
+2. 
 [Teste de Sobrevivência](https://docs.google.com/forms/d/e/1FAIpQLSdic84csTUncQRknrAhVPs4aQvxWNEqo2xFHBriW7Dl3cN0Sw/viewform) - Teste a sorte para sobreviver nesse formulário que aprensenta uma campanha de coscientização incrível.
 
 3. 
