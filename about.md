@@ -24,7 +24,7 @@ Minhas habilidades com o [GitHub](https://www.udemy.com/course/git-e-github-para
 
 <div style="max-width: 30% !important; float: left;padding: 5%;">
 <img src="https://desafiodocodigo.com.br/images/IMG_3906.jpg" alt="" width="100%" /></div>
-**Soraia Novaes** co-founder e tutora do Desafio do Código. Design Thinker na [EmpreendeLab](https://empreendelab.com.br). Professora certificada Google Trainer, Google Certified Innovator, tradutora plena da Khan Academy e autora do livro "Tecnologias para Inovação nas Escolas". Coordenei o Centro de Design do Centro Tecnológico de Maringá, por 11 anos, atuando com a sensibilização, articulação e desenvolvimento de projetos inovadores em empresas e escolas no interior do Paraná.
+**Soraia Novaes** co-founder e tutora do Desafio do Código. Consultora em Tecnologias Educacionais na [EmpreendeLab](https://empreendelab.com.br). Professora certificada Google Trainer, Google Certified Innovator, tradutora plena da Khan Academy e autora do livro "Tecnologias para Inovação nas Escolas". Coordenei o Centro de Design do Centro Tecnológico de Maringá, por 11 anos, atuando com a sensibilização, articulação e desenvolvimento de projetos inovadores em empresas e escolas no interior do Paraná.
 
 <a href="http://www.soraianovaes.com.br" target="_blank">Saiba Mais</a>
 
@@ -32,8 +32,8 @@ Minhas habilidades com o [GitHub](https://www.udemy.com/course/git-e-github-para
 
 <div style="max-width: 30% !important; float: left;">
 <img src="http://edtecnova.com.br/ebook/images/book-mockup.png" alt="" width="100%" /></div>
-Esse livro é um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucionar o seu jeito de aprender, produzir e ensinar. Novas tecnologias que facilitam o aprendizado e liberam o professor para um trabalho mais próximo com seus alunos. Conheça as melhores referências para professores e estudantes de todas as idades.
+Este e-book é um guia para você conhecer ferramentas digitais gratuitas, capazes de revolucionar o seu jeito de aprender, produzir e ensinar. Novas tecnologias que facilitam o aprendizado e liberam o professor para um trabalho mais próximo com seus alunos. Conheça as melhores referências para professores e estudantes de todas as idades.
 
-<a href="http://www.edtecnova.com.br/ebook" target="_blank">Saiba Mais</a>
+<a href="http://www.edtecnova.com.br/" target="_blank">Saiba Mais</a>
 
 
