@@ -1,13 +1,11 @@
 ---
 layout: post
-title: O que são os Micro Momentos
+title: O que são os Micro Momentos?
 author:  Soraia Novaes
 tags: 
 - marketing
 - educação
 ---
-
-# O que são os Micro Momentos?
 
 O comportamento de consumo mudou para sempre. Hoje, a batalha pela conquista de corações, mentes e dinheiro é vencida ou perdida em micro-momentos - minúsculos momentos de intenção de tomada de decisão e formação de preferências que ocorrem durante a jornada do consumidor. 
 
