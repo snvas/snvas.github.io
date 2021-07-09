@@ -7,6 +7,8 @@ tags:
 - educação
 ---
 
+<iframe width="100%" height="455" src="https://www.youtube.com/embed/cnG7PReVoMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 O Google Meu Negócio é um local onde as empresas podem obter uma listagem on-line robusta e rica em recursos gratuitamente. Ao criar uma listagem de empresas no Google Meu Negócio, você terá a oportunidade de fornecer informações sobre sua empresa, fotos e muito mais. Os usuários poderão deixar comentários para você. 
 
 Como administrador, você também verá estatísticas sobre seus visitantes e as pesquisas que eles fizeram para trazê-los para sua página. Mas tudo isso só será visto se os visitantes encontrarem a página. E há essencialmente três fatores que influenciam as classificações nos resultados de pesquisa local, relevância, proximidade e destaque. A relevância diz respeito à adequação da listagem da sua empresa à consulta de pesquisa de um usuário. 
@@ -17,4 +19,3 @@ Por fim, o destaque da listagem afeta a classificação. O destaque é uma medid
 
 Essa aula faz parte do curso [SEO na Prática Técnicas e Ferramentas para Otimizar seu Site](https://www.udemy.com/course/seo-na-pratica/?referralCode=F1369D85E7ACE7086024)
 
-<iframe width="100%" height="455" src="https://www.youtube.com/embed/cnG7PReVoMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
