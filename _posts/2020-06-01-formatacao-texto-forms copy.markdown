@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ALternativa para Formatação de Texto no Formulários Google
+title: Alternativa para Formatação de Texto no Formulários Google
 author:  Soraia Novaes
 tags: 
 - google for education

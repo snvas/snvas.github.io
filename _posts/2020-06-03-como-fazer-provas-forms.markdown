@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como configurar o Formulários para fazer provas
+title: Como Configurar o Formulários para fazer Provas
 author:  Soraia Novaes
 tags: 
 - google for education
