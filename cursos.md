@@ -5,18 +5,6 @@ permalink: /cursos/
 entries_layout: grid
 order: 1
 ---
- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- codecamp -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3011890130990408"
-     data-ad-slot="9846490006"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
 
 ### Confira os cursos online da EmpreendeLab
 

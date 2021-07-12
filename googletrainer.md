@@ -4,16 +4,6 @@ title: Google Trainer
 permalink: /googletrainer/
 order: 0
 ---
- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- codecamp -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3011890130990408"
-     data-ad-slot="9846490006"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## Instrutora Certificada pelo Google
 Como [Google Trainer](https://soraianovaes.com.br) tenho desenvolvido formações, workshops, oficinas, palestras e programas educacionais nas seguintes temáticas:
