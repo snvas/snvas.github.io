@@ -5,6 +5,7 @@ permalink: /googletrainer/
 order: 0
 ---
 
+## Soraia Novaes
 ## Instrutora Certificada pelo Google
 Como [Google Trainer](https://soraianovaes.com.br) tenho desenvolvido formações, workshops, oficinas, palestras e programas educacionais nas seguintes temáticas:
 
