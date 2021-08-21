@@ -26,4 +26,6 @@ Este e-book é um guia para você conhecer ferramentas digitais gratuitas, capaz
 
 <a href="http://www.edtecnova.com.br/" target="_blank">Saiba Mais</a>
 
+A cidade onde eu nasci cresceu muito ao longo dos últimos anos. Não cabe mais, chamar de vila!
 
+<iframe width="100%" height="600" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=-23.42364,-51.96266,11.375,latLng&t=1.01&ps=50&bt=19840101&et=20201231&startDwell=0&endDwell=0" frameborder="0" allowfullscreen></iframe>
