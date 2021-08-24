@@ -25,7 +25,7 @@ Como [Google Trainer](https://soraianovaes.com.br) tenho desenvolvido formaçõe
 
 #### Google Drive e Documentos Google
 
-#### Visual Thinking com Apresentações GooglePrint
+#### Visual Thinking com Apresentações Google
 
 #### Metodologias Ágeis: Design Sprint
 
