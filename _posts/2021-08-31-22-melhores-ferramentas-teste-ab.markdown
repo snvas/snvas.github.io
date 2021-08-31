@@ -13,4 +13,7 @@ As ferramentas de teste A / B (também chamadas de ferramentas de teste de divis
 A seguir está uma lista escolhida a dedo das principais ferramentas de teste A / B, com seus recursos populares e links de sites. A lista contém software de código aberto (gratuito) e comercial (pago).
 
 Acesse para ver a lista completa <a href="https://www.guru99.com/best-a-b-testing-tools.html" target="_blank">
-22 BEST A/B Testing Tool in 2021</a>
+22 BEST A/B Testing Tool in 2021</a>.
+
+Encontre recursos que permitem controlar quantas pessoas podem ver seu experimento, coletar o tempo gasto pelo usuário, histórico do navegador, idade, status de lealdade e muito mais. 
+Acompanhe estatísticas que fornecem resultados para você tomar uma decisão de negócios e reduzir o tempo de teste.
