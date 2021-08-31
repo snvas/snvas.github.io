@@ -6,7 +6,7 @@ tags:
 - marketing
 ---
 
-Conheça as formas de medir os resultados de variações de suas páginas.
+Conheça formas de medir os resultados de variações de suas páginas na web. Na era do marketing orientado a dados, um bom caminho a seguir é testar e medir. 
 
 As ferramentas de teste A / B (também chamadas de ferramentas de teste de divisão) são usadas para criar e comparar duas variantes de página da web, A e B. Essas ferramentas fornecem análise estatística para determinar quais variantes têm melhor desempenho para uma meta de conversão específica.
 
