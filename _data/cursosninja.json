@@ -530,7 +530,46 @@
     "Complemento": "Khan Academy <br/><b><a class=\"button\" href=\"https://pt.khanacademy.org/partner-content/pixar\">Inscreva-se</a></b>",
     "Categoria": "Animação Gráfica"
   },
- 
+  {
+    "id": 61,
+    "nome": "Artificial Intelligence: Distinguishing Between Fact and Fiction",
+    "tempo": "0",
+    "investimento": "GRATUITO",
+    "Complemento": "Future Learn <br/><b><a class=\"button\" href=\"https://www.futurelearn.com/courses/artificial-intelligence-fact-fiction\">Inscreva-se</a></b>",
+    "Categoria": "Inteligência Artificial"
+  },
+  {
+    "id": 62,
+    "nome": "Get Started with a Voice Assistant: Developing Alexa Skills",
+    "tempo": "0",
+    "investimento": "GRATUITO",
+    "Complemento": "Future Learn <br/><b><a class=\"button\" href=\"https://www.futurelearn.com/courses/getting-started-with-voice-assistant\">Inscreva-se</a></b>",
+    "Categoria": "Inteligência Artificial"
+  },
+  {
+    "id": 63,
+    "nome": "MedTech: AI and Medical Robots",
+    "tempo": "0",
+    "investimento": "GRATUITO",
+    "Complemento": "Future Learn <br/><b><a class=\"button\" href=\"https://www.futurelearn.com/courses/medtech-ai-and-medical-robots\">Inscreva-se</a></b>",
+    "Categoria": "Inteligência Artificial"
+  },
+  {
+    "id": 64,
+    "nome": "Digital Skills: Artificial Intelligence",
+    "tempo": "0",
+    "investimento": "GRATUITO",
+    "Complemento": "Future Learn <br/><b><a class=\"button\" href=\"https://www.futurelearn.com/courses/artificial-intelligence\">Inscreva-se</a></b>",
+    "Categoria": "Inteligência Artificial"
+  },
+  {
+    "id": 65,
+    "nome": "Robotics With Raspberry Pi: Build and Program Your First Robot Buggy",
+    "tempo": "0",
+    "investimento": "GRATUITO",
+    "Complemento": "Future Learn <br/><b><a class=\"button\" href=\"https://www.futurelearn.com/courses/robotics-with-raspberry-pi\">Inscreva-se</a></b>",
+    "Categoria": "Inteligência Artificial"
+  },
   {
     "id": 149,
     "nome": "Contrato de trabalho",
