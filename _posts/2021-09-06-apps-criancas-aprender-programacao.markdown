@@ -14,6 +14,8 @@ Habilidades práticas de ciência da computação podem ajudar os alunos a apren
 
 Aqui estão nossas sugestões de aplicativos e dispositivos para conferir, se você estiver em uma sala de aula ou em casa com os alunos.
 
+![Learn to code!](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1646-GDU-Learn_to_Code_Blog_Header_.max-1000x1000.png)	
+
 ### Começando a Programar
 
 **Cloud Stop Motion** [(Play Store)](https://play.google.com/store/apps/details?id=com.cloudstopmotion.app.twa) é um criador de filmes de animação e stop-motion divertido. O Cloud Stop Motion permite que as crianças trabalhem com animações em uma linha do tempo com zoom e rolagem. Efeitos sonoros, músicas, títulos, créditos e balões de fala podem ser adicionados antes da renderização em um filme MP4. Uma extensa biblioteca de áudio, origens e estilos incluídos, este aplicativo é ótimo para alunos e pais.
