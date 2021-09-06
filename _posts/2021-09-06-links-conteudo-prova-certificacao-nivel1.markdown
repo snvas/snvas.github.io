@@ -6,6 +6,7 @@ tags:
 - educação
 - professores
 - google for education
+- certificação Google
 
 ---
 
