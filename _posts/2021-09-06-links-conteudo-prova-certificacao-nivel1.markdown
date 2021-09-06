@@ -45,7 +45,7 @@ Links para os conteúdos que caem na prova de certificação Google for Educatio
 
  ### Slides
  - Aprenda como <a href="https://www.google.com/url?q=https://support.google.com/docs/answer/2763168?hl%3Dpt-BR%26ref_topic%3D9052636&amp;sa=D&amp;source=editors&amp;ust=1630966273944000&amp;usg=AOvVaw3-VUbpp9PZPqt8x70sovF3">criar uma apresentação de slides</a> 
- - Aprenda como melhorar o seu slides com <a href="https://www.google.com/url?q=https://support.google.com/docs/answer/97447&amp;sa=D&amp;source=editors&amp;ust=1630966273945000&amp;usg=AOvVaw3-fCgBsJZbonsFvaDG-Jtj">vídeos</a></span><span class="c1">, <a href="https://www.google.com/url?q=https://support.google.com/docs/answer/1663349?hl%3Dpt-BR&amp;sa=D&amp;source=editors&amp;ust=1630966273945000&amp;usg=AOvVaw2alTaEM4oXxwBJxpSBKr6G">cores e fontes</a> 
+ - Aprenda como melhorar o seu slides com <a href="https://www.google.com/url?q=https://support.google.com/docs/answer/97447&amp;sa=D&amp;source=editors&amp;ust=1630966273945000&amp;usg=AOvVaw3-fCgBsJZbonsFvaDG-Jtj">vídeos</a>, <a href="https://www.google.com/url?q=https://support.google.com/docs/answer/1663349?hl%3Dpt-BR&amp;sa=D&amp;source=editors&amp;ust=1630966273945000&amp;usg=AOvVaw2alTaEM4oXxwBJxpSBKr6G">cores e fontes</a> 
  - Aprenda como <a href="https://www.google.com/url?q=https://support.google.com/docs/answer/65129?hl%3Dpt-BR%26ref_topic%3D9055214&amp;sa=D&amp;source=editors&amp;ust=1630966273946000&amp;usg=AOvVaw31NfmPghyTpr-hy2r5Qxh4">adicionar comentários</a> 
  - Aprenda como <a href="https://www.google.com/url?q=https://support.google.com/docs/answer/2494822&amp;sa=D&amp;source=editors&amp;ust=1630966273946000&amp;usg=AOvVaw37zkZa67laeK7rBRPUdooz">colaborar</a>&nbsp;em uma apresentação de slides ao mesmo tempo
  ### Formulários
