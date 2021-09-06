@@ -10,7 +10,7 @@ tags:
 
 ---
 
-Links para os conteúdos que caem na prova de certificação Google for Education - Educador Nível 1
+Links para os conteúdos que caem na prova de certificação Google for Education - Educador Nível 1. para saber mais sobre as [certificações Google para professores](https://www.udemy.com/course/certificacoes-google-for-education-para-professores/?referralCode=3EF4264EDC40C2F4981B) veja o curso.
 
 ### Drive
 - Aprenda como <a href="https://www.google.com/url?q=https://support.google.com/drive/answer/2375091?hl%3Dpt-BR%26ref_topic%3D7000946%23zippy&amp;sa=D&amp;source=editors&amp;ust=1630966273934000&amp;usg=AOvVaw334NL85vkt5LYiqi9IVdbC">organizar seu Drive</a>
