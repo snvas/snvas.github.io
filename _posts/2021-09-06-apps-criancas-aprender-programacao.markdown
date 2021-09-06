@@ -8,7 +8,7 @@ tags:
 
 ---
 
-Aprender a programar computadores é uma habilidade que agora faz parte de quase todas as disciplinas - e mais, é divertido para as crianças aprenderem e fácil para pais e professores adicionarem às aulas em casa ou na escola.
+Aprender a **programar computadores** é uma habilidade que agora faz parte de quase todas as disciplinas - e mais, é divertido para as crianças aprenderem e fácil para pais e professores adicionarem às aulas em casa ou na escola.
 
 Habilidades práticas de ciência da computação podem ajudar os alunos a aprender e criar, e trazer mais relevância para quase qualquer assunto, desde história até literatura e eventos atuais. 
 
