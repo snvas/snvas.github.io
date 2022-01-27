@@ -15,14 +15,14 @@
         "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-novastech.jpg\"/>",
         "categoria": "Online"
     },
-    {  
+  /*  {  
         "id": 3,
          "nome": "Portfólio Online com Google Photos",
           "descricao": "Como apresentar sua empresa e seu trabalho de forma profissional e gratuita com Google Photos. Aproveite as melhores oportunidades do mercado criando um lindo portfólio online. Aprenda a mostrar seu trabalho com criatividade para qualquer pessoa em qualquer dispositivo.  ",
           "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/portfolio-online-com-google-photos/?referralCode=554EE3CE0F41F4F450C7\" target=\"_blank\">Inscreva-se</a> <br/>",
           "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-photos.jpg\"/>",
           "categoria": "Online"
-      },
+      },*/
       {  
         "id": 4,
          "nome": "Google Drive e Google Documentos para Iniciantes",
@@ -95,14 +95,14 @@
           "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-sites.jpg\"/>",
           "categoria": "Online"
       },
-      {  
+     /* {  
         "id": 13,
          "nome": "Como Usar a Khan Academy para Aprender e Ensinar",
           "descricao": "A Khan Academy é a maior plataforma do mundo para estudar matemática e ciências. Completamente gratuita e com conteúdo para todas as idades.",
           "inscrevase": "<a class=\"button\" href=\"https://www.udemy.com/course/como-usar-a-khan-academy/?referralCode=9CD906F24DD3E44CFDF5\" target=\"_blank\">Inscreva-se</a> <br/>",
           "imagem": "<img src=\"https://codecamp.com.br/images/curso-udemy-khan.jpg\"/>",
           "categoria": "Online"
-      },
+      },*/
       {  
         "id": 14,
          "nome": "Como Implantar Google for Education na sua Escola",
