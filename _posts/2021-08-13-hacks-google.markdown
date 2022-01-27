@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacks Google
+title: Hacks do Google para alterar visualização de documento
 author:  Soraia Novaes
 tags: 
 - google for education
