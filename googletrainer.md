@@ -9,6 +9,8 @@ order: 0
 ## Instrutora Certificada pelo Google
 Como [Google Trainer](https://soraianovaes.com.br) tenho desenvolvido formações, workshops, oficinas, palestras e programas educacionais nas seguintes temáticas:
 
+#### Economia Criativa
+
 #### Quizzes Interativos
 
 #### Ensino Híbrido
