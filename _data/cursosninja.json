@@ -3585,5 +3585,61 @@
     "investimento": "GRATUITO",
     "Complemento": "SENAI SP<br/><b><a class=\"button\" href=\"https://online.sp.senai.br/curso/86817/483/desvendando-a-industria-40\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
+  },{
+    "id": 669,
+    "nome": "Understanding Machine Learning",
+    "tempo": "2",
+    "prerequisito": "O que está por trás do hype do aprendizado de máquina? Neste curso não técnico, você aprenderá tudo o que tem medo de perguntar sobre aprendizado de máquina. Não há codificação necessária. Os exercícios práticos ajudarão você a superar o jargão e aprender como essa tecnologia empolgante alimenta tudo, desde carros autônomos até suas sugestões pessoais de compras na Amazon. Como funciona o aprendizado de máquina, quando você pode usá-lo e qual é a diferença entre IA e aprendizado de máquina? Eles estão todos cobertos. Adquira habilidades neste campo extremamente requisitado e influente e descubra por que o aprendizado de máquina é para todos!",
+    "investimento": "GRATUITO",
+    "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/understanding-machine-learning\" target=\"_blank\">Inscreva-se</a></b>",
+    "Categoria": "Inteligência Artificial"
+  },{
+    "id": 670,
+    "nome": "AI Fundamentals",
+    "tempo": "4",
+    "prerequisito": "Então, sobre o que é todo esse alarido da IA? Machine Learning, Deep Learning, Predictive Analytics -- qual é a realidade por trás do hype? Como as máquinas realmente aprendem e quais são seus limites? Como podemos usar o Machine Learning para reconhecer dígitos escritos, prever rotatividade de clientes e encontrar estrutura nos tweets de Elon Musk? Tudo isso -- e muito mais -- é o tema deste curso, que vai te apresentar ao mundo da IA ​​de forma suave, mas firme e muito prática.",
+    "investimento": "GRATUITO",
+    "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/ai-fundamentals\" target=\"_blank\">Inscreva-se</a></b>",
+    "Categoria": "Inteligência Artificial"
+  },{
+    "id": 671,
+    "nome": "Understanding Data Engineering",
+    "tempo": "2",
+    "prerequisito": "Em 2019, o salário médio dos engenheiros de dados ultrapassou os cientistas de dados. Como isso aconteceu? As empresas que desejam encontrar o ouro em seus dados perceberam que não seria possível se ainda não tivessem construído a mina. Os engenheiros de dados estabelecem as bases que tornam a ciência de dados possível.\nNeste curso, você aprenderá sobre as principais responsabilidades de um engenheiro de dados, como eles diferem dos cientistas de dados e como facilitar o fluxo de dados em uma organização. Por meio de exercícios práticos, você acompanhará a Spotflix, uma empresa fictícia de streaming de música, para entender como seus engenheiros de dados coletam, limpam e catalogam seus dados. Ao final do curso, você entenderá o que os engenheiros de dados da sua empresa fazem, estará pronto para conversar com um engenheiro de dados e terá uma base sólida para iniciar sua própria jornada de engenheiro de dados.",
+    "investimento": "GRATUITO",
+    "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/understanding-data-engineering\" target=\"_blank\">Inscreva-se</a></b>",
+    "Categoria": "Tecnologia da Informação"
+  },{
+    "id": 672,
+    "nome": "Understanding Data Science",
+    "tempo": "2",
+    "prerequisito": "O que é ciência de dados, por que ela é tão popular e por que a Harvard Business Review a considerou o “trabalho mais sexy do século 21”? Neste curso não técnico, você será apresentado a tudo o que sempre teve medo de perguntar sobre esse campo empolgante e em rápido crescimento, sem precisar escrever uma única linha de código. Por meio de exercícios práticos, você aprenderá sobre as diferentes funções do cientista de dados, tópicos fundamentais como teste A/B, análise de séries temporais e aprendizado de máquina, e como os cientistas de dados extraem conhecimento e insights de dados do mundo real. Portanto, não se deixe levar pelos chavões. Comece a aprender, adquira habilidades neste campo extremamente procurado e descubra por que a ciência de dados é para todos!",
+    "investimento": "GRATUITO",
+    "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/understanding-data-science\" target=\"_blank\">Inscreva-se</a></b>",
+    "Categoria": "Tecnologia da Informação"
+  },{
+    "id": 673,
+    "nome": "Introduction to Python",
+    "tempo": "4",
+    "prerequisito": "Python é uma linguagem de programação de propósito geral que está se tornando cada vez mais popular para ciência de dados. Empresas em todo o mundo estão usando o Python para coletar insights de seus dados e obter uma vantagem competitiva. Ao contrário de outros tutoriais do Python, este curso se concentra no Python especificamente para ciência de dados. Em nosso curso Introdução ao Python, você aprenderá sobre maneiras poderosas de armazenar e manipular dados e ferramentas úteis de ciência de dados para começar a conduzir suas próprias análises. Comece o currículo online de Python do DataCamp agora.",
+    "investimento": "GRATUITO",
+    "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/intro-to-python-for-data-science\" target=\"_blank\">Inscreva-se</a></b>",
+    "Categoria": "Tecnologia da Informação"
+  },{
+    "id": 674,
+    "nome": "Introduction to SQL",
+    "tempo": "2",
+    "prerequisito": "Muitos dos dados brutos do mundo – de registros médicos eletrônicos a históricos de transações de clientes – residem em coleções organizadas de tabelas chamadas bancos de dados relacionais. Ser capaz de processar e extrair dados desses bancos de dados usando SQL é uma habilidade essencial no setor de dados e na demanda crescente.\nNesta introdução de duas horas ao SQL, você conhecerá a teoria e a prática por meio de pequenos vídeos e exercícios interativos nos quais poderá testar suas novas habilidades.",
+    "investimento": "GRATUITO",
+    "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/introduction-to-sql\" target=\"_blank\">Inscreva-se</a></b>",
+    "Categoria": "Tecnologia da Informação"
+  },{
+    "id": 675,
+    "nome": "Introduction to R",
+    "tempo": "4",
+    "prerequisito": "R é a linguagem de programação mais popular na indústria de dados graças ao uso de vetores e sua variedade de pacotes pré-processados. É muito procurado por cientistas de dados, analistas e estatísticos e é capaz de lidar com IA, aprendizado de máquina, análise financeira e muito mais.\nEsta introdução ao curso R cobre os fundamentos desta linguagem de código aberto, incluindo vetores, fatores, listas e quadros de dados. Você obterá habilidades úteis de codificação e estará pronto para iniciar sua própria análise de dados em R.",
+    "investimento": "GRATUITO",
+    "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/free-introduction-to-r\" target=\"_blank\">Inscreva-se</a></b>",
+    "Categoria": "Tecnologia da Informação"
   }
  ]
