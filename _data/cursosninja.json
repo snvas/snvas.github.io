@@ -976,7 +976,7 @@
     "id": 187,
     "nome": "PROTEÇÃO DE NASCENTES",
     "tempo": "10",
-    "prerequisito": "Nenhum.<br/>Promover a proteção das nascentes que estão localizadas nas propriedades rurais utilizando cinco passos: identificar, cercar, limpar, controlar e replantar.",
+    "prerequisito": "Nenhum<br/>Promover a proteção das nascentes que estão localizadas nas propriedades rurais utilizando cinco passos: identificar, cercar, limpar, controlar e replantar.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/campo-sustentavel/protecao-de-nascentes/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Sustentabilidade"
@@ -985,7 +985,7 @@
     "id": 188,
     "nome": "PREVENÇÃO E CONTROLE DO FOGO NA AGRICULTURA",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Oferecer informações que possibilitem a substituição do uso do fogo nos principais sistemas de produção agropecuária por novas tecnologias. E, ainda, promover conhecimento para o controle do fogo e a diminuição das queimadas, visando benefícios ambientais e sociais.",
+    "prerequisito": "Nenhum<br/>Oferecer informações que possibilitem a substituição do uso do fogo nos principais sistemas de produção agropecuária por novas tecnologias. E, ainda, promover conhecimento para o controle do fogo e a diminuição das queimadas, visando benefícios ambientais e sociais.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/campo-sustentavel/prevencao-e-controle-do-fogo-na-agricultura/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Sustentabilidade"
@@ -994,7 +994,7 @@
     "id": 189,
     "nome": "CADASTRO AMBIENTAL RURAL",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Orientar e oferecer informações para que você compreenda como inscrever um imóvel rural no Cadastro Ambiental Rural, conforme as exigências legais.",
+    "prerequisito": "Nenhum<br/>Orientar e oferecer informações para que você compreenda como inscrever um imóvel rural no Cadastro Ambiental Rural, conforme as exigências legais.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/campo-sustentavel/cadastro-ambiental-rural/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Sustentabilidade"
@@ -1012,7 +1012,7 @@
     "id": 191,
     "nome": "PASTAGENS",
     "tempo": "40",
-    "prerequisito": "Nenhum.<br/>Oferecer noções amplas sobre o correto manejo do pastejo, de forma a aumentar a produtividade nos sistemas de bovinocultura de corte.",
+    "prerequisito": "Nenhum<br/>Oferecer noções amplas sobre o correto manejo do pastejo, de forma a aumentar a produtividade nos sistemas de bovinocultura de corte.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/bovinocultura-de-corte/pastagens/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1021,7 +1021,7 @@
     "id": 192,
     "nome": "SANIDADE ANIMAL E TECNOLOGIAS GERENCIAIS",
     "tempo": "40",
-    "prerequisito": "Nenhum.<br/>Oferecer noções amplas sobre os procedimentos relativos à manutenção da sanidade animal e também no uso das tecnologias gerenciais ligadas à bovinocultura de corte.",
+    "prerequisito": "Nenhum<br/>Oferecer noções amplas sobre os procedimentos relativos à manutenção da sanidade animal e também no uso das tecnologias gerenciais ligadas à bovinocultura de corte.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/bovinocultura-de-corte/sanidade-animal-e-tecnologias-gerenciais/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1030,7 +1030,7 @@
     "id": 193,
     "nome": "NUTRIÇÃO ANIMAL",
     "tempo": "40",
-    "prerequisito": "Nenhum.<br/>Oferecer noções amplas sobre o manejo alimentar de bovinos de corte.",
+    "prerequisito": "Nenhum<br/>Oferecer noções amplas sobre o manejo alimentar de bovinos de corte.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/bovinocultura-de-corte/nutricao-animal/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1039,7 +1039,7 @@
     "id": 194,
     "nome": "MELHORAMENTO GENÉTICO ANIMAL",
     "tempo": "30",
-    "prerequisito": "Nenhum.<br/>Oferecer noções amplas e importantes sobre genética animal, de forma que o conhecimento adquirido possa ser aplicado no melhoramento dos rebanhos de bovinos de corte.",
+    "prerequisito": "Nenhum<br/>Oferecer noções amplas e importantes sobre genética animal, de forma que o conhecimento adquirido possa ser aplicado no melhoramento dos rebanhos de bovinos de corte.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/bovinocultura-de-corte/melhoramento-genetico-animal/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1048,7 +1048,7 @@
     "id": 195,
     "nome": "REPRODUÇÃO ANIMAL",
     "tempo": "30",
-    "prerequisito": "Nenhum.<br/>Oferecer noções amplas e importantes sobre reprodução animal, de forma que o conhecimento adquirido possa ser aplicado no melhoramento dos rebanhos de bovinos de corte.",
+    "prerequisito": "Nenhum<br/>Oferecer noções amplas e importantes sobre reprodução animal, de forma que o conhecimento adquirido possa ser aplicado no melhoramento dos rebanhos de bovinos de corte.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/bovinocultura-de-corte/reproducao-animal/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1057,7 +1057,7 @@
     "id": 196,
     "nome": "REPRODUÇÃO E GENÉTICA EM BOVINOCULTURA DE LEITE",
     "tempo": "30",
-    "prerequisito": "Nenhum.<br/>Oferecer noções amplas sobre controle reprodutivo de gado de leite, perpassando as temáticas de manejo reprodutivo, doenças e problemas de reprodução, cruzamentos, melhoramento genético e avaliação genética.",
+    "prerequisito": "Nenhum<br/>Oferecer noções amplas sobre controle reprodutivo de gado de leite, perpassando as temáticas de manejo reprodutivo, doenças e problemas de reprodução, cruzamentos, melhoramento genético e avaliação genética.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/bovinocultura-de-leite/reproducao-e-genetica-em-bovinocultura-de-leite/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1066,7 +1066,7 @@
     "id": 197,
     "nome": "SISTEMAS DE PRODUÇÃO E PASTAGEM PARA BOVINOCULTURA DE LEITE",
     "tempo": "30",
-    "prerequisito": "Nenhum.<br/>Oferecer noções amplas sobre manejo de pastagem, pastejo rotacionado, sistemas silvipastoris, sistemas de integração, controle de pragas, entre outras informações relacionadas ao sistema intensivo de produção de leite.",
+    "prerequisito": "Nenhum<br/>Oferecer noções amplas sobre manejo de pastagem, pastejo rotacionado, sistemas silvipastoris, sistemas de integração, controle de pragas, entre outras informações relacionadas ao sistema intensivo de produção de leite.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/bovinocultura-de-leite/sistemas-de-producao-e-pastagem-para-bovinocultura-de-leite/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1075,7 +1075,7 @@
     "id": 198,
     "nome": "NUTRIÇÃO E MANEJO ALIMENTAR EM BOVINOCULTURA DE LEITE",
     "tempo": "30",
-    "prerequisito": "Nenhum.<br/>Oferecer noções amplas sobre sustentabilidade da atividade leiteira perpassando as temáticas da nutrição de gados de leite, criação e recria, e manejo alimentar.",
+    "prerequisito": "Nenhum<br/>Oferecer noções amplas sobre sustentabilidade da atividade leiteira perpassando as temáticas da nutrição de gados de leite, criação e recria, e manejo alimentar.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/bovinocultura-de-leite/nutricao-e-manejo-alimentar-em-bovinocultura-de-leite/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1084,7 +1084,7 @@
     "id": 199,
     "nome": "MANEJO SANITÁRIO E QUALIDADE DO LEITE",
     "tempo": "30",
-    "prerequisito": "Nenhum.<br/>Oferecer noções amplas sobre manejo sanitário, manejo de plantas daninhas e forragens, controle de doenças e parasitas, procedimento de ordenha mecânico e manual, alimentação de novilhas, entre outras informações relacionadas ao sistema intensivo de produção e qualidade do leite.",
+    "prerequisito": "Nenhum<br/>Oferecer noções amplas sobre manejo sanitário, manejo de plantas daninhas e forragens, controle de doenças e parasitas, procedimento de ordenha mecânico e manual, alimentação de novilhas, entre outras informações relacionadas ao sistema intensivo de produção e qualidade do leite.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/bovinocultura-de-leite/manejo-sanitario-e-qualidade-do-leite/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1093,7 +1093,7 @@
     "id": 200,
     "nome": "SISTEMAS PRODUTIVOS E MANEJOS CULTURAIS NA FLORICULTURA",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Produzir e manejar flores e plantas ornamentais.",
+    "prerequisito": "Nenhum<br/>Produzir e manejar flores e plantas ornamentais.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/floricultura/sistemas-produtivos-e-manejos-culturais-na-floricultura/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1102,7 +1102,7 @@
     "id": 201,
     "nome": "PRODUÇÃO DE FLORES DE CORTE, FLORES DE VASO E PLANTAS ORNAMENTAIS",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Apresentar os sistemas de produção de flores de corte, flores de vaso e plantas ornamentais.",
+    "prerequisito": "Nenhum<br/>Apresentar os sistemas de produção de flores de corte, flores de vaso e plantas ornamentais.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/floricultura/producao-de-flores-de-corte-flores-de-vaso-e-plantas-ornamentais/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1111,7 +1111,7 @@
     "id": 202,
     "nome": "LEGISLAÇÃO, PLANEJAMENTO E O MERCADO DE FLORES",
     "tempo": "10",
-    "prerequisito": "Nenhum.<br/>Apresentar os tópicos essenciais relacionados a legislação, planejamento e mercado de flores.",
+    "prerequisito": "Nenhum<br/>Apresentar os tópicos essenciais relacionados a legislação, planejamento e mercado de flores.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/floricultura/legislacao-planejamento-e-o-mercado-de-flores/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1120,7 +1120,7 @@
     "id": 203,
     "nome": "SISTEMAS DE CULTIVO DA SERINGUEIRA E PRODUÇÃO DE LÁTEX",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Apresentar os sistemas de cultivo da seringueira e a produção de látex.",
+    "prerequisito": "Nenhum<br/>Apresentar os sistemas de cultivo da seringueira e a produção de látex.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/heveicultura/sistemas-de-cultivo-da-seringueira-e-producao-de-latex/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1129,7 +1129,7 @@
     "id": 204,
     "nome": "PRODUÇÃO DE MUDAS DE SERINGUEIRA",
     "tempo": "10",
-    "prerequisito": "Nenhum.<br/>Apresentar o processo de produção de mudas de seringueiras.",
+    "prerequisito": "Nenhum<br/>Apresentar o processo de produção de mudas de seringueiras.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/heveicultura/producao-de-mudas-de-seringueira/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1138,7 +1138,7 @@
     "id": 205,
     "nome": "LEGISLAÇÃO, RELAÇÕES DE TRABALHO E COOPERATIVISMO NA HEVEICULTURA",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Apresentar as políticas e leis relativas à heveicultura no Brasil.",
+    "prerequisito": "Nenhum<br/>Apresentar as políticas e leis relativas à heveicultura no Brasil.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/heveicultura/legislacao-relacoes-de-trabalho-e-cooperativismo-na-heveicultura/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1147,7 +1147,7 @@
     "id": 206,
     "nome": "PRODUÇÃO E COMERCIALIZAÇÃO DA CARNE OVINA",
     "tempo": "50",
-    "prerequisito": "Nenhum.<br/>Apresentar uma visão sistêmica sobre o manejo, a produção e a comercialização da carne ovina.",
+    "prerequisito": "Nenhum<br/>Apresentar uma visão sistêmica sobre o manejo, a produção e a comercialização da carne ovina.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/ovinocultura/producao-e-comercializacao-da-carne-ovina/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1156,7 +1156,7 @@
     "id": 207,
     "nome": "PASTAGEM PARA OVINOCULTURA",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Apresentar os processos relacionados ao manejo de pastagens para a ovinocultura.",
+    "prerequisito": "Nenhum<br/>Apresentar os processos relacionados ao manejo de pastagens para a ovinocultura.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/ovinocultura/pastagem-para-ovinocultura/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1165,7 +1165,7 @@
     "id": 208,
     "nome": "MANEJO PRODUTIVO NA PISCICULTURA",
     "tempo": "40",
-    "prerequisito": "Nenhum.<br/>Oferecer uma visão sistêmica sobre os sistemas de manejo na produção de peixes.",
+    "prerequisito": "Nenhum<br/>Oferecer uma visão sistêmica sobre os sistemas de manejo na produção de peixes.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/piscicultura/manejo-produtivo-na-piscicultura/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1174,7 +1174,7 @@
     "id": 209,
     "nome": "ASSUNTOS GERAIS NA PISCICULTURA",
     "tempo": "30",
-    "prerequisito": "Nenhum.<br/>Oferecer uma visão sistêmica sobre os sistemas de produção de peixes e seus aspectos essenciais.",
+    "prerequisito": "Nenhum<br/>Oferecer uma visão sistêmica sobre os sistemas de produção de peixes e seus aspectos essenciais.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/piscicultura/assuntos-gerais-na-piscicultura/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1183,7 +1183,7 @@
     "id": 210,
     "nome": "SISTEMAS DE CULTIVO NA SILVICULTURA E PROJETOS FLORESTAIS",
     "tempo": "40",
-    "prerequisito": "Nenhum.<br/>Apresentar a importância da silvicultura e dos projetos florestais.",
+    "prerequisito": "Nenhum<br/>Apresentar a importância da silvicultura e dos projetos florestais.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/silvicultura/sistemas-de-cultivo-na-silvicultura-e-projetos-florestais/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1192,7 +1192,7 @@
     "id": 211,
     "nome": "PRODUÇÃO DE MUDAS E MANEJO PRODUTIVO NA SILVICULTURA",
     "tempo": "30",
-    "prerequisito": "Nenhum.<br/>Apresentar os sistemas de produção de mudas e manejo produtivo na silvicultura.",
+    "prerequisito": "Nenhum<br/>Apresentar os sistemas de produção de mudas e manejo produtivo na silvicultura.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/silvicultura/producao-de-mudas-e-manejo-produtivo-na-silvicultura/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1201,7 +1201,7 @@
     "id": 212,
     "nome": "LEGISLAÇÃO, RELAÇÕES DE TRABALHO E CERTIFICAÇÃO E GESTÃO DO EMPREENDIMENTO FLORESTAL",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Apresentar informações sobre legislação, normas de segurança de trabalho e gestão de empreendimentos no setor florestal brasileiro.",
+    "prerequisito": "Nenhum<br/>Apresentar informações sobre legislação, normas de segurança de trabalho e gestão de empreendimentos no setor florestal brasileiro.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/silvicultura/legislacao-relacoes-de-trabalho-e-certificacao-e-gestao-do-empreendimento-florestal/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1210,7 +1210,7 @@
     "id": 213,
     "nome": "COM LICENÇA VOU À LUTA",
     "tempo": "40",
-    "prerequisito": "Nenhum.<br/>Capacitar mulheres, produtoras e trabalhadoras rurais, para a gestão de seus negócios agropecuários com maior eficiência com foco em empreendedorismo e liderança.",
+    "prerequisito": "Nenhum<br/>Capacitar mulheres, produtoras e trabalhadoras rurais, para a gestão de seus negócios agropecuários com maior eficiência com foco em empreendedorismo e liderança.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/empreendedorismo-e-gestao-de-negocios/com-licenca-vou-a-luta/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1219,7 +1219,7 @@
     "id": 214,
     "nome": "NEGÓCIO CERTO RURAL",
     "tempo": "40",
-    "prerequisito": "Nenhum.<br/>Contribuir para a melhoria da gestão da propriedade rural por meio da capacitação, tendo como foco principal o empreendedorismo, visando o fortalecimento do agronegócio brasileiro.",
+    "prerequisito": "Nenhum<br/>Contribuir para a melhoria da gestão da propriedade rural por meio da capacitação, tendo como foco principal o empreendedorismo, visando o fortalecimento do agronegócio brasileiro.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/empreendedorismo-e-gestao-de-negocios/curso-negocio-certo-rural-internet/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1228,7 +1228,7 @@
     "id": 215,
     "nome": "TRABALHADOR EMPREENDEDOR",
     "tempo": "40",
-    "prerequisito": "Nenhum.<br/>Identificar as características, competências e habilidades empreendedoras das pessoas do meio rural a fim de otimizarem seus negócios.",
+    "prerequisito": "Nenhum<br/>Identificar as características, competências e habilidades empreendedoras das pessoas do meio rural a fim de otimizarem seus negócios.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/empreendedorismo-e-gestao-de-negocios/curso-trabalhador-empreendedor/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1237,7 +1237,7 @@
     "id": 216,
     "nome": "DIGITAÇÃO",
     "tempo": "10",
-    "prerequisito": "Nenhum.<br/>Dar subsídios para que você possa aprender a digitar corretamente, posicionando todos os dedos no teclado e mantendo uma postura adequada.",
+    "prerequisito": "Nenhum<br/>Dar subsídios para que você possa aprender a digitar corretamente, posicionando todos os dedos no teclado e mantendo uma postura adequada.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/inclusao-digital/curso-digitacao/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1246,7 +1246,7 @@
     "id": 217,
     "nome": "Informática e Internet Intermediário",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Possibilitar a aprendizagem quanto à utilização do computador, de dispositivos móveis e dos recursos da internet de maneira mais aprofundada, indicando como aplicá-los nas tarefas do cotidiano para impulsionar o seu negócio rural.",
+    "prerequisito": "Nenhum<br/>Possibilitar a aprendizagem quanto à utilização do computador, de dispositivos móveis e dos recursos da internet de maneira mais aprofundada, indicando como aplicá-los nas tarefas do cotidiano para impulsionar o seu negócio rural.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/inclusao-digital/informatica-e-internet-intermediario/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1255,7 +1255,7 @@
     "id": 218,
     "nome": "DOENÇAS TRANSMISSÍVEIS E SANEAMENTO BÁSICO",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Oferecer informações que conscientizem a importância da adoção de medidas de saneamento básico no meio rural, promovendo o conhecimento sobre saúde, doença e da transmissão através de hábitos nocivos de higiene pessoal e ambiental.",
+    "prerequisito": "Nenhum<br/>Oferecer informações que conscientizem a importância da adoção de medidas de saneamento básico no meio rural, promovendo o conhecimento sobre saúde, doença e da transmissão através de hábitos nocivos de higiene pessoal e ambiental.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/qualidade-de-vida/doencas-transmissiveis-e-saneamento-basico/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1264,7 +1264,7 @@
     "id": 219,
     "nome": "EDUCAÇÃO POSTURAL NO CAMPO",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>Oferecer informações que possibilitem a realização das atividades diárias no campo com conforto, saúde e segurança, promovendo cuidados para prevenir lesões na coluna.",
+    "prerequisito": "Nenhum<br/>Oferecer informações que possibilitem a realização das atividades diárias no campo com conforto, saúde e segurança, promovendo cuidados para prevenir lesões na coluna.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/qualidade-de-vida/educacao-postural-no-campo/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1273,7 +1273,7 @@
     "id": 220,
     "nome": "SAÚDE RURAL",
     "tempo": "30",
-    "prerequisito": "Nenhum.<br/>Oferecer informações que possibilitem a prevenção e a redução dos acidentes e doenças relacionadas ao trabalho rural.",
+    "prerequisito": "Nenhum<br/>Oferecer informações que possibilitem a prevenção e a redução dos acidentes e doenças relacionadas ao trabalho rural.",
     "investimento": "GRATUITO",
     "Complemento": "EAD SENAR <br/><b><a class=\"button\" href=\"http://ead.senar.org.br/cursos/qualidade-de-vida/saude-rural/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Agropecuária"
@@ -1283,7 +1283,7 @@
     "id": 245,
     "nome": "Desafio do Código",
     "tempo": "800",
-    "prerequisito": "Nenhum.<br/>Aprenda a programar seus próprios jogos e aplicativos.",
+    "prerequisito": "Nenhum<br/>Aprenda a programar seus próprios jogos e aplicativos.",
     "investimento": "GRATUITO",
     "Complemento": "DESAFIO DO CÓDIGO <br/><b><a class=\"button\" href=\"https://desafiodocodigo.com.br/desafio\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1292,7 +1292,7 @@
     "id": 246,
     "nome": "POLÍTICAS PÚBLICAS PARA AGRICULTURA FAMILIAR",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>O Instituto Amazônia, em parceria com a Educoop estão oferecendo o curso online gratuito Políticas Públicas para Agricultura Familiar. O curso aborda desde aspectos ligados à agricultura familiar bem como as políticas públicas PAA e PNAE.",
+    "prerequisito": "Nenhum<br/>O Instituto Amazônia, em parceria com a Educoop estão oferecendo o curso online gratuito Políticas Públicas para Agricultura Familiar. O curso aborda desde aspectos ligados à agricultura familiar bem como as políticas públicas PAA e PNAE.",
     "investimento": "GRATUITO",
     "Complemento": "INSTITUTO AMAZÔNIA <br/><b><a class=\"button\" href=\"http://www.institutoamazonia.org.br/curso-online-gratuito-politicas-publicas-para-agricultura-familiar/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Políticas Públicas"
@@ -1302,7 +1302,7 @@
     "id": 323,
     "nome": "Implantar um site no Azure com o Serviço de Aplicativo do Azure",
     "tempo": "4",
-    "prerequisito": "Nenhum.<br/>Os aplicativos Web no Azure possibilitam que você publique e gerencie seu site com facilidade, sem a necessidade de trabalhar com servidores, armazenamento ou ativos de rede subjacentes. Em vez disso, você pode se concentrar nos recursos de seu site e contar com a robusta plataforma do Azure para fornecer acesso seguro ao site.",
+    "prerequisito": "Nenhum<br/>Os aplicativos Web no Azure possibilitam que você publique e gerencie seu site com facilidade, sem a necessidade de trabalhar com servidores, armazenamento ou ativos de rede subjacentes. Em vez disso, você pode se concentrar nos recursos de seu site e contar com a robusta plataforma do Azure para fornecer acesso seguro ao site.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/deploy-a-website-with-azure-app-service/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1311,7 +1311,7 @@
     "id": 324,
     "nome": "Conceitos básicos do Azure",
     "tempo": "9",
-    "prerequisito": "Nenhum.<br/>Interessado na nuvem, mas não tem certeza do que ela pode fazer por você? Este roteiro é o lugar certo para começar.\n\nNeste roteiro de aprendizagem, você:\n\nAprenderá os conceitos de nuvem, como alta disponibilidade, escalabilidade, elasticidade, agilidade, tolerância a falhas e recuperação de desastre,\nEntenderá os benefícios da computação em nuvem no Azure e como ela pode poupar tempo e dinheiro,\nComparará e contrastará estratégias básicas para a transição para a nuvem do Azure,\nExplorará a variedade de serviços disponíveis no Azure, incluindo computação, rede, armazenamento e segurança",
+    "prerequisito": "Nenhum<br/>Interessado na nuvem, mas não tem certeza do que ela pode fazer por você? Este roteiro é o lugar certo para começar.\n\nNeste roteiro de aprendizagem, você:\n\nAprenderá os conceitos de nuvem, como alta disponibilidade, escalabilidade, elasticidade, agilidade, tolerância a falhas e recuperação de desastre,\nEntenderá os benefícios da computação em nuvem no Azure e como ela pode poupar tempo e dinheiro,\nComparará e contrastará estratégias básicas para a transição para a nuvem do Azure,\nExplorará a variedade de serviços disponíveis no Azure, incluindo computação, rede, armazenamento e segurança",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/deploy-a-website-with-azure-app-service/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1329,7 +1329,7 @@
     "id": 326,
     "nome": "Arquitetar ótimas soluções no Azure",
     "tempo": "4",
-    "prerequisito": "Nenhum.<br/>Saiba como projetar e criar soluções seguras, escalonáveis e de alto desempenho no Azure, examinando os princípios básicos encontrados em todas as boas arquiteturas.",
+    "prerequisito": "Nenhum<br/>Saiba como projetar e criar soluções seguras, escalonáveis e de alto desempenho no Azure, examinando os princípios básicos encontrados em todas as boas arquiteturas.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/architect-great-solutions-in-azure/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1338,7 +1338,7 @@
     "id": 327,
     "nome": "Administrar contêineres no Azure",
     "tempo": "4",
-    "prerequisito": "Nenhum.<br/>As Instâncias de Contêiner do Azure são a maneira mais rápida e fácil de executar contêineres no Azure. Este roteiro de aprendizagem ensinará você a criar e gerenciar seus contêineres e mostrará como o ACI pode ser usado para fornecer escala elástica para o Kubernetes.",
+    "prerequisito": "Nenhum<br/>As Instâncias de Contêiner do Azure são a maneira mais rápida e fácil de executar contêineres no Azure. Este roteiro de aprendizagem ensinará você a criar e gerenciar seus contêineres e mostrará como o ACI pode ser usado para fornecer escala elástica para o Kubernetes.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/administer-containers-in-azure/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1347,7 +1347,7 @@
     "id": 328,
     "nome": "Criar aplicativos sem servidor",
     "tempo": "7",
-    "prerequisito": "Nenhum.<br/>O Azure Functions permite a criação de sistemas de computação sob demanda controlados por eventos que podem ser disparados por vários eventos externos. Saiba como aproveitar as funções para executar a lógica do lado do servidor e criar arquiteturas sem servidor.",
+    "prerequisito": "Nenhum<br/>O Azure Functions permite a criação de sistemas de computação sob demanda controlados por eventos que podem ser disparados por vários eventos externos. Saiba como aproveitar as funções para executar a lógica do lado do servidor e criar arquiteturas sem servidor.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/create-serverless-applications/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1356,7 +1356,7 @@
     "id": 329,
     "nome": "Introdução à tecnologia de IA para líderes de negócios",
     "tempo": "1,5",
-    "prerequisito": "Nenhum.<br/>Neste roteiro de aprendizagem, você terá uma visão geral dos principais conceitos da IA. Você será capaz de descrever o que é IA e quais são as tecnologias que a sustentam. Você será capaz de compartilhar como a Microsoft está transformando os mais recentes avanços em ferramentas, produtos e serviços de IA que podem ser aproveitados por organizações.",
+    "prerequisito": "Nenhum<br/>Neste roteiro de aprendizagem, você terá uma visão geral dos principais conceitos da IA. Você será capaz de descrever o que é IA e quais são as tecnologias que a sustentam. Você será capaz de compartilhar como a Microsoft está transformando os mais recentes avanços em ferramentas, produtos e serviços de IA que podem ser aproveitados por organizações.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/ai-technology-for-business-leaders/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1365,7 +1365,7 @@
     "id": 330,
     "nome": "Identificar os princípios que orientam para IA responsável",
     "tempo": "2",
-    "prerequisito": "Nenhum.<br/>É fundamental refletir sobre as implicações da IA nos negócios. Neste roteiro de aprendizagem, você conhecerá as diretrizes que o ajudarão a definir princípios e um modelo de governança em sua organização. Você também conhecerá recursos, melhores práticas e ferramentas.",
+    "prerequisito": "Nenhum<br/>É fundamental refletir sobre as implicações da IA nos negócios. Neste roteiro de aprendizagem, você conhecerá as diretrizes que o ajudarão a definir princípios e um modelo de governança em sua organização. Você também conhecerá recursos, melhores práticas e ferramentas.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/responsible-ai-business-principles/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Inteligência Artificial"
@@ -1374,7 +1374,7 @@
     "id": 331,
     "nome": "AI business school para educação",
     "tempo": "8",
-    "prerequisito": "Nenhum.<br/>Os tomadores de decisões na educação têm considerações específicas do seu setor para ajudá-los a concretizar o impacto transformador verdadeiro da IA na educação. É essencial entender os componentes de uma estratégia que ajudarão o setor da educação a gerar valor usando IA. Este roteiro de aprendizagem destina-se aos tomadores de decisões sobre educação e tem a finalidade de ilustrar o verdadeiro impacto transformador da IA na educação.",
+    "prerequisito": "Nenhum<br/>Os tomadores de decisões na educação têm considerações específicas do seu setor para ajudá-los a concretizar o impacto transformador verdadeiro da IA na educação. É essencial entender os componentes de uma estratégia que ajudarão o setor da educação a gerar valor usando IA. Este roteiro de aprendizagem destina-se aos tomadores de decisões sobre educação e tem a finalidade de ilustrar o verdadeiro impacto transformador da IA na educação.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-education/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Inteligência Artificial"
@@ -1383,7 +1383,7 @@
     "id": 332,
     "nome": "Descubra maneiras de promover uma cultura pronta para IA em sua empresa",
     "tempo": "3",
-    "prerequisito": "Nenhum.<br/>Neste roteiro de aprendizagem, você aprenderá com os principais executivos da Microsoft sobre uma estrutura usada para gerar as principais mudanças necessárias para se tornar uma organização pronta para IA. Você será capaz de identificar implementações bem-sucedidas de IA e articular cenários relevantes. Além disso, você será capaz de discutir uma linha de negócios específica e casos de uso relevantes em finanças, marketing, vendas e serviço de atendimento ao consumidor. Por fim, você poderá identificar soluções de IA para implementar em sua organização conforme ela amadurece.",
+    "prerequisito": "Nenhum<br/>Neste roteiro de aprendizagem, você aprenderá com os principais executivos da Microsoft sobre uma estrutura usada para gerar as principais mudanças necessárias para se tornar uma organização pronta para IA. Você será capaz de identificar implementações bem-sucedidas de IA e articular cenários relevantes. Além disso, você será capaz de discutir uma linha de negócios específica e casos de uso relevantes em finanças, marketing, vendas e serviço de atendimento ao consumidor. Por fim, você poderá identificar soluções de IA para implementar em sua organização conforme ela amadurece.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/foster-ai-ready-culture/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1392,7 +1392,7 @@
     "id": 333,
     "nome": "AI business school para serviços financeiros",
     "tempo": "8",
-    "prerequisito": "Nenhum.<br/>Os responsáveis pela tomada de decisões no setor financeiro têm aspectos específicos a levar em consideração quanto ao impacto verdadeiramente transformador da IA na empresa. É essencial entender os componentes de uma estratégia que ajudarão o setor de serviços financeiros a gerar valor comercial usando IA.",
+    "prerequisito": "Nenhum<br/>Os responsáveis pela tomada de decisões no setor financeiro têm aspectos específicos a levar em consideração quanto ao impacto verdadeiramente transformador da IA na empresa. É essencial entender os componentes de uma estratégia que ajudarão o setor de serviços financeiros a gerar valor comercial usando IA.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-financial-services/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Inteligência Artificial"
@@ -1401,7 +1401,7 @@
     "id": 334,
     "nome": "AI business school para manufatura",
     "tempo": "8",
-    "prerequisito": "Nenhum.<br/>No setor de manufatura, os responsáveis pelas tomadas de decisões precisam levar em consideração aspectos específicos do setor para que possam perceber o verdadeiro poder de transformação da IA na empresa. Este roteiro de aprendizagem destina-se a esses profissionais do setor de manufatura e tem a finalidade de ilustrar o impacto transformador da IA na empresa.",
+    "prerequisito": "Nenhum<br/>No setor de manufatura, os responsáveis pelas tomadas de decisões precisam levar em consideração aspectos específicos do setor para que possam perceber o verdadeiro poder de transformação da IA na empresa. Este roteiro de aprendizagem destina-se a esses profissionais do setor de manufatura e tem a finalidade de ilustrar o impacto transformador da IA na empresa.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-manufacturing/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Inteligência Artificial"
@@ -1410,7 +1410,7 @@
     "id": 335,
     "nome": "AI business school para atendimento à saúde",
     "tempo": "8",
-    "prerequisito": "Nenhum.<br/>No setor de atendimento à saúde, os responsáveis pelas tomadas de decisões têm aspectos específicos do setor a levar em consideração para que possam perceber o verdadeiro impacto de transformação da IA na empresa. Este roteiro de aprendizagem destina-se a esses profissionais do setor de atendimento à saúde e tem a finalidade de ilustrar o impacto transformador da IA na empresa.",
+    "prerequisito": "Nenhum<br/>No setor de atendimento à saúde, os responsáveis pelas tomadas de decisões têm aspectos específicos do setor a levar em consideração para que possam perceber o verdadeiro impacto de transformação da IA na empresa. Este roteiro de aprendizagem destina-se a esses profissionais do setor de atendimento à saúde e tem a finalidade de ilustrar o impacto transformador da IA na empresa.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-healthcare/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Inteligência Artificial"
@@ -1419,7 +1419,7 @@
     "id": 336,
     "nome": "AI business school para o governo",
     "tempo": "8",
-    "prerequisito": "Nenhum.<br/>Os responsáveis pelas tomadas de decisão no âmbito governamental devem levar em consideração elementos específicos do setor público antes de poderem perceber o verdadeiro poder transformador da IA. É essencial entender os componentes de uma estratégia que ajudarão o setor público a gerar valor usando IA. Este roteiro de aprendizagem destina-se a esses responsáveis pelas tomadas de decisões do governo e tem a finalidade de ilustrar o verdadeiro impacto transformador da IA no setor público.",
+    "prerequisito": "Nenhum<br/>Os responsáveis pelas tomadas de decisão no âmbito governamental devem levar em consideração elementos específicos do setor público antes de poderem perceber o verdadeiro poder transformador da IA. É essencial entender os componentes de uma estratégia que ajudarão o setor público a gerar valor usando IA. Este roteiro de aprendizagem destina-se a esses responsáveis pelas tomadas de decisões do governo e tem a finalidade de ilustrar o verdadeiro impacto transformador da IA no setor público.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-government/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Inteligência Artificial"
@@ -1428,7 +1428,7 @@
     "id": 337,
     "nome": "AI business school para varejo",
     "tempo": "8",
-    "prerequisito": "Nenhum.<br/>Os responsáveis pela tomada de decisões no setor de varejo têm aspectos específicos a levar em consideração quanto ao impacto verdadeiramente transformador da IA na empresa.",
+    "prerequisito": "Nenhum<br/>Os responsáveis pela tomada de decisões no setor de varejo têm aspectos específicos a levar em consideração quanto ao impacto verdadeiramente transformador da IA na empresa.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-retail/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Inteligência Artificial"
@@ -1437,7 +1437,7 @@
     "id": 338,
     "nome": "Definir uma estratégia de IA para gerar valor de negócios",
     "tempo": "5",
-    "prerequisito": "Nenhum.<br/>Neste roteiro de aprendizagem, você aprenderá com Peter Zemsky, professor de Estratégia e Inovação da Eli Lilly na INSEAD, sobre como a IA está gerando valor de negócios em diferentes setores e empresas, bem como para clientes e parceiros da Microsoft. Você poderá discutir como equipes técnicas estão integrando IA a aplicativos de negócios e como líderes de negócios de diferentes setores estão pensando em usar IA para suas próprias empresas.",
+    "prerequisito": "Nenhum<br/>Neste roteiro de aprendizagem, você aprenderá com Peter Zemsky, professor de Estratégia e Inovação da Eli Lilly na INSEAD, sobre como a IA está gerando valor de negócios em diferentes setores e empresas, bem como para clientes e parceiros da Microsoft. Você poderá discutir como equipes técnicas estão integrando IA a aplicativos de negócios e como líderes de negócios de diferentes setores estão pensando em usar IA para suas próprias empresas.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/ai-strategy-for-business-value/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1446,7 +1446,7 @@
     "id": 339,
     "nome": "Identificar os princípios orientadores para IA responsável no governo",
     "tempo": "2",
-    "prerequisito": "Nenhum.<br/>É fundamental refletir sobre as implicações da IA no governo. Neste roteiro de aprendizagem, você conhecerá as diretrizes que o ajudarão a definir princípios e um modelo de governança em sua organização governamental. Você também conhecerá recursos, melhores práticas e ferramentas.",
+    "prerequisito": "Nenhum<br/>É fundamental refletir sobre as implicações da IA no governo. Neste roteiro de aprendizagem, você conhecerá as diretrizes que o ajudarão a definir princípios e um modelo de governança em sua organização governamental. Você também conhecerá recursos, melhores práticas e ferramentas.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/responsible-ai-government-principles/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1455,7 +1455,7 @@
     "id": 340,
     "nome": "Conheça o valor comercial do Microsoft Azure",
     "tempo": "5",
-    "prerequisito": "Nenhum.<br/>Você tem interesse em saber mais sobre a nuvem de uma maneira fácil de entender? Ou talvez não sabe muito bem por onde começar com a tecnologia de nuvem? Esta experiência de aprendizagem levará você em um percurso que começará mostrando como a transformação digital e o poder da nuvem podem transformar sua empresa. Abordaremos como os serviços de nuvem do Microsoft Azure podem impulsionar sua organização em uma plataforma de nuvem confiável. Por fim, concluiremos ilustrando como tornar essa jornada real para a sua organização. Neste roteiro de aprendizagem, você aprenderá a:\n\nPermitir a transformação digital.\nIdentificar maneiras de migrar e modernizar aplicativos.\nObter insights por meio de dados, IA (inteligência artificial) e a IoT (Internet das Coisas)\nAtender a um amplo conjunto de padrões regulatórios e de conformidade em uma plataforma de nuvem confiável.",
+    "prerequisito": "Nenhum<br/>Você tem interesse em saber mais sobre a nuvem de uma maneira fácil de entender? Ou talvez não sabe muito bem por onde começar com a tecnologia de nuvem? Esta experiência de aprendizagem levará você em um percurso que começará mostrando como a transformação digital e o poder da nuvem podem transformar sua empresa. Abordaremos como os serviços de nuvem do Microsoft Azure podem impulsionar sua organização em uma plataforma de nuvem confiável. Por fim, concluiremos ilustrando como tornar essa jornada real para a sua organização. Neste roteiro de aprendizagem, você aprenderá a:\n\nPermitir a transformação digital.\nIdentificar maneiras de migrar e modernizar aplicativos.\nObter insights por meio de dados, IA (inteligência artificial) e a IoT (Internet das Coisas)\nAtender a um amplo conjunto de padrões regulatórios e de conformidade em uma plataforma de nuvem confiável.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/learn-business-value-of-azure/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1464,7 +1464,7 @@
     "id": 341,
     "nome": "Dê seus primeiros passos com o C#",
     "tempo": "4",
-    "prerequisito": "Nenhum.<br/>Você quer aprender uma linguagem de programação, mas não sabe por onde começar? Comece aqui! Aprenda a sintaxe básica e os processos de pensamento necessários para criar aplicativos simples usando o C#.\n\nNeste roteiro de aprendizagem, você:\n\nGravará suas primeiras linhas de código C#,\nArmazenará e manipulará dados para modificar seu tipo e aparência,\nExecutará a funcionalidade interna disponível em bibliotecas de código,\nAdicionará lógica ao seu código para habilitar a funcionalidade empresarial complexa,\nApós concluir este roteiro de aprendizagem, você terá uma excelente base para criar o roteiro de aprendizagem de C#.",
+    "prerequisito": "Nenhum<br/>Você quer aprender uma linguagem de programação, mas não sabe por onde começar? Comece aqui! Aprenda a sintaxe básica e os processos de pensamento necessários para criar aplicativos simples usando o C#.\n\nNeste roteiro de aprendizagem, você:\n\nGravará suas primeiras linhas de código C#,\nArmazenará e manipulará dados para modificar seu tipo e aparência,\nExecutará a funcionalidade interna disponível em bibliotecas de código,\nAdicionará lógica ao seu código para habilitar a funcionalidade empresarial complexa,\nApós concluir este roteiro de aprendizagem, você terá uma excelente base para criar o roteiro de aprendizagem de C#.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/csharp-first-steps/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1482,7 +1482,7 @@
     "id": 343,
     "nome": "Desenvolva suas práticas do DevOps",
     "tempo": "1,2",
-    "prerequisito": "Nenhum.<br/>O DevOps é a união de pessoas, processos e produtos para habilitar a entrega contínua de valor para seus usuários finais. O Azure DevOps é um conjunto de serviços que fornece as ferramentas necessárias para isso. Com o Azure DevOps, você pode criar, testar e implantar qualquer aplicativo, seja na nuvem ou no local. Práticas do DevOps que habilitam transparência, cooperação, entrega e implantação contínuas passam a estar inseridas no ciclo de vida do seu desenvolvimento de software.",
+    "prerequisito": "Nenhum<br/>O DevOps é a união de pessoas, processos e produtos para habilitar a entrega contínua de valor para seus usuários finais. O Azure DevOps é um conjunto de serviços que fornece as ferramentas necessárias para isso. Com o Azure DevOps, você pode criar, testar e implantar qualquer aplicativo, seja na nuvem ou no local. Práticas do DevOps que habilitam transparência, cooperação, entrega e implantação contínuas passam a estar inseridas no ciclo de vida do seu desenvolvimento de software.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/evolve-your-devops-practices/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1500,7 +1500,7 @@
     "id": 345,
     "nome": "Implementar a segurança do gerenciamento de recursos no Azure",
     "tempo": "3",
-    "prerequisito": "Nenhum.<br/>Saiba como proteger recursos usando as políticas, o controle de acesso baseado em função e outros serviços do Azure",
+    "prerequisito": "Nenhum<br/>Saiba como proteger recursos usando as políticas, o controle de acesso baseado em função e outros serviços do Azure",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/create-powerapps/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1509,7 +1509,7 @@
     "id": 346,
     "nome": "Proteger seus dados de nuvem",
     "tempo": "",
-    "prerequisito": "Nenhum.<br/>O Azure foi projetado visando segurança e conformidade. Saiba como aproveitar os serviços internos para armazenar os dados do aplicativo com segurança, a fim de garantir que apenas clientes e serviços autorizados tenham acesso a ele.",
+    "prerequisito": "Nenhum<br/>O Azure foi projetado visando segurança e conformidade. Saiba como aproveitar os serviços internos para armazenar os dados do aplicativo com segurança, a fim de garantir que apenas clientes e serviços autorizados tenham acesso a ele.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/secure-your-cloud-data/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1518,7 +1518,7 @@
     "id": 347,
     "nome": "Azure para o Engenheiro de Dados",
     "tempo": "2",
-    "prerequisito": "Nenhum.<br/>Explore como o mundo dos dados evoluiu e como o surgimento de tecnologias de nuvem está fornecendo novas oportunidades a serem exploradas pelos negócios. Você aprenderá as diversas tecnologias de plataforma de dados que estão disponíveis e como um engenheiro de dados pode aproveitar essa tecnologia para o benefício de uma organização.",
+    "prerequisito": "Nenhum<br/>Explore como o mundo dos dados evoluiu e como o surgimento de tecnologias de nuvem está fornecendo novas oportunidades a serem exploradas pelos negócios. Você aprenderá as diversas tecnologias de plataforma de dados que estão disponíveis e como um engenheiro de dados pode aproveitar essa tecnologia para o benefício de uma organização.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/azure-for-the-data-engineer/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1536,7 +1536,7 @@
     "id": 349,
     "nome": "Gerenciar recursos no Azure",
     "tempo": "4",
-    "prerequisito": "Nenhum.<br/>Saiba como trabalhar com a linha de comando do Azure e o portal da Web para criar, gerenciar e controlar recursos baseados em nuvem.",
+    "prerequisito": "Nenhum<br/>Saiba como trabalhar com a linha de comando do Azure e o portal da Web para criar, gerenciar e controlar recursos baseados em nuvem.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/manage-resources-in-azure/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1545,7 +1545,7 @@
     "id": 350,
     "nome": "Conceitos básicos do Microsoft Power Platform",
     "tempo": "11",
-    "prerequisito": "Nenhum.<br/>Saiba mais sobre o valor de negócios e as funcionalidades de produtos do Power Platform. Crie um PowerApp simples, conecte dados com o CDS (Common Data Service), crie um painel do Power BI e automatize um processo com o Power Automate.",
+    "prerequisito": "Nenhum<br/>Saiba mais sobre o valor de negócios e as funcionalidades de produtos do Power Platform. Crie um PowerApp simples, conecte dados com o CDS (Common Data Service), crie um painel do Power BI e automatize um processo com o Power Automate.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/power-plat-fundamentals/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1563,7 +1563,7 @@
     "id": 352,
     "nome": "Armazenar dados no Azure",
     "tempo": "3",
-    "prerequisito": "Nenhum.<br/>O Azure fornece uma variedade de maneiras para armazenar dados: não estruturados, de arquivamento, relacionais e muito mais. Conheça os conceitos básicos do gerenciamento de armazenamento no Azure, como criar uma Conta de Armazenamento e como escolher o modelo certo para os dados que você deseja armazenar na nuvem.",
+    "prerequisito": "Nenhum<br/>O Azure fornece uma variedade de maneiras para armazenar dados: não estruturados, de arquivamento, relacionais e muito mais. Conheça os conceitos básicos do gerenciamento de armazenamento no Azure, como criar uma Conta de Armazenamento e como escolher o modelo certo para os dados que você deseja armazenar na nuvem.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/store-data-in-azure/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1572,7 +1572,7 @@
     "id": 353,
     "nome": "Explore o desenvolvimento de soluções de IA com serviços de ciência de dados no Azure",
     "tempo": "1,4",
-    "prerequisito": "Nenhum.<br/>Aprenda as ferramentas disponíveis no Azure para os cientistas de dados explorarem, analisarem e processarem dados com o aprendizado de máquina.",
+    "prerequisito": "Nenhum<br/>Aprenda as ferramentas disponíveis no Azure para os cientistas de dados explorarem, analisarem e processarem dados com o aprendizado de máquina.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/explore-data-science-tools-in-azure/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1590,7 +1590,7 @@
     "id": 355,
     "nome": "Gerenciar a identidade e o acesso no Azure",
     "tempo": "4",
-    "prerequisito": "Nenhum.<br/>Saiba como trabalhar com assinaturas, usuários e grupos configurando o Microsoft Azure Active Directory para cargas de trabalho.",
+    "prerequisito": "Nenhum<br/>Saiba como trabalhar com assinaturas, usuários e grupos configurando o Microsoft Azure Active Directory para cargas de trabalho.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/manage-identity-and-access/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1617,7 +1617,7 @@
     "id": 358,
     "nome": "Trabalhar com os dados relacionais no Azure",
     "tempo": "4",
-    "prerequisito": "Nenhum.<br/>O Azure dá suporte a várias soluções populares de banco de dados baseadas em SQL, incluindo SQL Server, PostgreSQL e MySQL. Saiba como usar essas soluções de dados empresariais no Azure para armazenar e recuperar dados de seu aplicativo na nuvem.",
+    "prerequisito": "Nenhum<br/>O Azure dá suporte a várias soluções populares de banco de dados baseadas em SQL, incluindo SQL Server, PostgreSQL e MySQL. Saiba como usar essas soluções de dados empresariais no Azure para armazenar e recuperar dados de seu aplicativo na nuvem.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/work-with-relational-data-in-azure/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1626,7 +1626,7 @@
     "id": 359,
     "nome": "Administrar os recursos de infraestrutura no Azure",
     "tempo": "10",
-    "prerequisito": "Nenhum.<br/>Saiba como criar, gerenciar, proteger e dimensionar os recursos de uma máquina virtual.",
+    "prerequisito": "Nenhum<br/>Saiba como criar, gerenciar, proteger e dimensionar os recursos de uma máquina virtual.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/administer-infrastructure-resources-in-azure/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1635,7 +1635,7 @@
     "id": 360,
     "nome": "Conectar seus serviços",
     "tempo": "3,5",
-    "prerequisito": "Nenhum.<br/>O Azure permite que você crie aplicativos compostos por vários componentes: front-ends de site, serviços back-end e funções disparadas que executam serviços de computação sob demanda. O Azure também inclui várias estratégias de comunicação para permitir que esses diversos componentes passem dados entre si. Saiba como aproveitar esses serviços de comunicação para criar soluções escalonáveis e eficientes com base em componentes testáveis.",
+    "prerequisito": "Nenhum<br/>O Azure permite que você crie aplicativos compostos por vários componentes: front-ends de site, serviços back-end e funções disparadas que executam serviços de computação sob demanda. O Azure também inclui várias estratégias de comunicação para permitir que esses diversos componentes passem dados entre si. Saiba como aproveitar esses serviços de comunicação para criar soluções escalonáveis e eficientes com base em componentes testáveis.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/connect-your-services-together/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1653,7 +1653,7 @@
     "id": 362,
     "nome": "Implantar um site com as máquinas virtuais do Azure",
     "tempo": "4",
-    "prerequisito": "Nenhum.<br/>Se os requisitos de hospedagem na Web não forem diretamente compatíveis com a plataforma de aplicativo Web do Azure, aproveite as máquinas virtuais para personalizar e controlar todos os aspectos do servidor Web. Saiba como criar, configurar e gerenciar máquinas virtuais no Linux e no Windows que hospedam aplicativos Web.",
+    "prerequisito": "Nenhum<br/>Se os requisitos de hospedagem na Web não forem diretamente compatíveis com a plataforma de aplicativo Web do Azure, aproveite as máquinas virtuais para personalizar e controlar todos os aspectos do servidor Web. Saiba como criar, configurar e gerenciar máquinas virtuais no Linux e no Windows que hospedam aplicativos Web.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/deploy-a-website-with-azure-virtual-machines/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1662,7 +1662,7 @@
     "id": 363,
     "nome": "Implementar uma solução de streaming de dados com o Azure Stream Analytics",
     "tempo": "1",
-    "prerequisito": "Nenhum.<br/>Aprenda os conceitos de processamento de eventos e streaming de dados e como isso se aplica ao Azure Stream Analytics. Em seguida, você configurará um trabalho do Stream Analytics para transmitir dados e aprenderá a gerenciar e monitorar um trabalho em execução.",
+    "prerequisito": "Nenhum<br/>Aprenda os conceitos de processamento de eventos e streaming de dados e como isso se aplica ao Azure Stream Analytics. Em seguida, você configurará um trabalho do Stream Analytics para transmitir dados e aprenderá a gerenciar e monitorar um trabalho em execução.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/implement-data-streaming-with-asa/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1689,7 +1689,7 @@
     "id": 366,
     "nome": "Introdução ao aprendizado de máquina com uma Máquina Virtual de Ciência de Dados do Azure",
     "tempo": "1,5",
-    "prerequisito": "Nenhum.<br/>O Azure inclui um serviço de máquina virtual pré-configurada para executar tarefas de ciência de dados. Saiba como usar a Máquina Virtual de Ciência de Dados do Azure para fazer análises de dados comuns e tarefas de machine learning.",
+    "prerequisito": "Nenhum<br/>O Azure inclui um serviço de máquina virtual pré-configurada para executar tarefas de ciência de dados. Saiba como usar a Máquina Virtual de Ciência de Dados do Azure para fazer análises de dados comuns e tarefas de machine learning.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/get-started-with-azure-dsvm/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1734,7 +1734,7 @@
     "id": 371,
     "nome": "Crie aplicativos com o Azure DevOps",
     "tempo": "8",
-    "prerequisito": "O Azure DevOps permite que você crie, teste e implante qualquer aplicativo na nuvem ou no local. Saiba como configurar pipelines de build que criam, testam e verificam seus aplicativos continuamente.\n\nEste roteiro de aprendizagem permitirá que você:\n\nColabore com outras pessoas para criar seus aplicativos usando o Azure Pipelines e o GitHub,\nExecute testes automatizados em seu pipeline para validar a qualidade do código,\nExamine seu código-fonte e componentes de terceiros quanto a possíveis vulnerabilidades,\nDefina vários pipelines que trabalham juntos para criar seu aplicativo,\nCrie aplicativos usando agentes hospedados pela Microsoft e seus próprios agentes de build",
+    "prerequisito": "Nenhum<br/>O Azure DevOps permite que você crie, teste e implante qualquer aplicativo na nuvem ou no local. Saiba como configurar pipelines de build que criam, testam e verificam seus aplicativos continuamente.\n\nEste roteiro de aprendizagem permitirá que você:\n\nColabore com outras pessoas para criar seus aplicativos usando o Azure Pipelines e o GitHub,\nExecute testes automatizados em seu pipeline para validar a qualidade do código,\nExamine seu código-fonte e componentes de terceiros quanto a possíveis vulnerabilidades,\nDefina vários pipelines que trabalham juntos para criar seu aplicativo,\nCrie aplicativos usando agentes hospedados pela Microsoft e seus próprios agentes de build",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/build-applications-with-azure-devops/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1752,10 +1752,10 @@
     "id": 373,
     "nome": "Crie soluções de IA com o serviço do Azure Machine Learning",
     "tempo": "3",
-    "prerequisito": "O Azure inclui uma variedade de serviços para projetar e implantar modelos de machine learning. Saiba como aproveitar esses serviços em sua análise de dados",
+    "prerequisito": "Nenhum<br/>O Azure inclui uma variedade de serviços para projetar e implantar modelos de machine learning. Saiba como aproveitar esses serviços em sua análise de dados",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/build-ai-solutions-with-azure-ml-service/\" target=\"_blank\">Inscreva-se</a></b>",
-    "Categoria": "Tecnologia da Informação"
+    "Categoria": "Inteligência Artificial"
   },
   {
     "id": 374,
@@ -1770,7 +1770,7 @@
     "id": 375,
     "nome": "Arquitetar uma infraestrutura de armazenamento no Azure",
     "tempo": "4,5",
-    "prerequisito": "Nenhum.<br/>Saiba como arquitetar soluções de armazenamento para seus aplicativos no Azure.",
+    "prerequisito": "Nenhum<br/>Saiba como arquitetar soluções de armazenamento para seus aplicativos no Azure.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/architect-storage-infrastructure/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1797,7 +1797,7 @@
     "id": 378,
     "nome": "Implementar a segurança de rede no Azure",
     "tempo": "5",
-    "prerequisito": "Saiba como configurar, proteger e isolar as redes no Azure.",
+    "prerequisito": "Nenhum<br/>Saiba como configurar, proteger e isolar as redes no Azure.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/implement-network-security/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1815,7 +1815,7 @@
     "id": 380,
     "nome": "Gerenciar operações de segurança no Azure",
     "tempo": "6",
-    "prerequisito": "Nenhum.<br/>Saiba como configurar políticas de segurança e gerenciar alertas de segurança com as ferramentas e os serviços do Azure.",
+    "prerequisito": "Nenhum<br/>Saiba como configurar políticas de segurança e gerenciar alertas de segurança com as ferramentas e os serviços do Azure.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/manage-security-operations/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -1824,7 +1824,7 @@
     "id": 381,
     "nome": "Arquitetar aplicativos modernos no Azure",
     "tempo": "6",
-    "prerequisito": "Nenhum.<br/>Saiba como criar aplicativos modernos usando serviços PaaS (plataforma como serviço) para aplicativos, armazenamento em cache, contêineres e Kubernetes no Azure.",
+    "prerequisito": "Nenhum<br/>Saiba como criar aplicativos modernos usando serviços PaaS (plataforma como serviço) para aplicativos, armazenamento em cache, contêineres e Kubernetes no Azure.",
     "investimento": "GRATUITO",
     "Complemento": "MICROSOFT VIRTUAL ACADEMY<br/><b><a class=\"button\" href=\"https://docs.microsoft.com/pt-br/learn/paths/architect-modern-apps/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2058,7 +2058,7 @@
     "id": 407,
     "nome": "Hora do Código Angry Birds",
     "tempo": "1",
-    "prerequisito": "Nenhum.<br/>Escreva seu primeiro programa de computador. Aprenda a programar com Mark Zuckerberg e Angry Birds!(De 4 a 104 anos)",
+    "prerequisito": "Nenhum<br/>Escreva seu primeiro programa de computador. Aprenda a programar com Mark Zuckerberg e Angry Birds!(De 4 a 104 anos)",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/hoc/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2067,7 +2067,7 @@
     "id": 408,
     "nome": "Hora do Código Frozen",
     "tempo": "1",
-    "prerequisito": "Nenhum.<br/>Escreva seu primeiro programa de computador. Use a programação para explorar a mágica e a beleza do gelo com Anna e Elsa. (A partir de 8 anos)\n                          ",
+    "prerequisito": "Nenhum<br/>Escreva seu primeiro programa de computador. Use a programação para explorar a mágica e a beleza do gelo com Anna e Elsa. (A partir de 8 anos)\n                          ",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/s/frozen/stage/1/puzzle/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2076,7 +2076,7 @@
     "id": 409,
     "nome": "Crie um jogo no estilo Flappy",
     "tempo": "1",
-    "prerequisito": "Nenhum.<br/>Escreva seu primeiro programa de computador. Crie seu próprio jogo - Flappy Bird, Shark, ou Submarine. (De 4 a 104 anos)\n                          ",
+    "prerequisito": "Nenhum<br/>Escreva seu primeiro programa de computador. Crie seu próprio jogo - Flappy Bird, Shark, ou Submarine. (De 4 a 104 anos)\n                          ",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/flappy/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2085,7 +2085,7 @@
     "id": 410,
     "nome": "Hora do Código Minecraft",
     "tempo": "1",
-    "prerequisito": "Nenhum.<br/>Escreva seu primeiro programa de computador. Use blocos de código para levar Steve ou Alex a uma aventura pelo mundo do Minecraft. (A partir de 6 anos)",
+    "prerequisito": "Nenhum<br/>Escreva seu primeiro programa de computador. Use blocos de código para levar Steve ou Alex a uma aventura pelo mundo do Minecraft. (A partir de 6 anos)",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/s/mc/stage/1/puzzle/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2094,7 +2094,7 @@
     "id": 411,
     "nome": "Hora do Código Star Wars",
     "tempo": "1",
-    "prerequisito": "Nenhum.<br/>Escreva seu primeiro programa de computador. Aprenda a programar droids, e crie seu próprio jogo do Star Wars em uma galáxia muito, muito distante. (Idade 6+)",
+    "prerequisito": "Nenhum<br/>Escreva seu primeiro programa de computador. Aprenda a programar droids, e crie seu próprio jogo do Star Wars em uma galáxia muito, muito distante. (Idade 6+)",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2103,7 +2103,7 @@
     "id": 412,
     "nome": "Hora do Código Star Wars II ",
     "tempo": "1",
-    "prerequisito": "Nenhum.<br/>Escreva seu primeiro programa de computador. Aprenda a programar droids, e crie seu próprio jogo do Star Wars em uma galáxia muito, muito distante. (Idade 6+)",
+    "prerequisito": "Nenhum<br/>Escreva seu primeiro programa de computador. Aprenda a programar droids, e crie seu próprio jogo do Star Wars em uma galáxia muito, muito distante. (Idade 6+)",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/s/starwars/stage/1/puzzle/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2112,7 +2112,7 @@
     "id": 413,
     "nome": "Introdução a Ciência da Computação",
     "tempo": "20",
-    "prerequisito": "Nenhum.<br/>\nEste curso de 20 horas apresenta o núcleo da computação e conceitos de programação. O curso é projetado para uso em salas de aula para o Ensino Fundamental, mas é divertido de aprender em todas as idades.",
+    "prerequisito": "Nenhum<br/>\nEste curso de 20 horas apresenta o núcleo da computação e conceitos de programação. O curso é projetado para uso em salas de aula para o Ensino Fundamental, mas é divertido de aprender em todas as idades.",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/s/20-hour/stage/2/puzzle/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2121,7 +2121,7 @@
     "id": 414,
     "nome": "Curso 1 Code",
     "tempo": "5",
-    "prerequisito": "Nenhum.<br/>\n\nComece com o Curso 1 para alunos que estão começando a ler. Os alunos vão criar programas de computador, o que os ajudará a aprender a colaborar com outras pessoas, desenvolver habilidades de resolução de problemas e persistir na execução de tarefas difíceis. No final do curso, os estudantes criam seu próprio jogo ou história personalizados que eles podem compartilhar com outras pessoas. Este curso é recomendado para crianças da pré-escola até o 1º ano.",
+    "prerequisito": "Nenhum<br/>\n\nComece com o Curso 1 para alunos que estão começando a ler. Os alunos vão criar programas de computador, o que os ajudará a aprender a colaborar com outras pessoas, desenvolver habilidades de resolução de problemas e persistir na execução de tarefas difíceis. No final do curso, os estudantes criam seu próprio jogo ou história personalizados que eles podem compartilhar com outras pessoas. Este curso é recomendado para crianças da pré-escola até o 1º ano.",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/s/course1/stage/3/puzzle/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2130,7 +2130,7 @@
     "id": 415,
     "nome": "Curso 2 Code",
     "tempo": "5",
-    "prerequisito": "Nenhum.<br/>\nComece com o Curso 2 para alunos que sabem ler e não têm experiência prévia em programação. Neste curso, os alunos vão criar programas para resolver problemas e desenvolver jogos ou histórias interativas que eles podem compartilhar. Este curso é recomendado para alunos do 2° ao 5° ano.",
+    "prerequisito": "Nenhum<br/>\nComece com o Curso 2 para alunos que sabem ler e não têm experiência prévia em programação. Neste curso, os alunos vão criar programas para resolver problemas e desenvolver jogos ou histórias interativas que eles podem compartilhar. Este curso é recomendado para alunos do 2° ao 5° ano.",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/s/course2/stage/3/puzzle/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2139,7 +2139,7 @@
     "id": 416,
     "nome": "Curso 3 Code",
     "tempo": "5",
-    "prerequisito": "Nenhum.<br/>\n\nO Curso 3 foi desenvolvido para estudantes que já fizeram o Curso 2. Os estudantes se aprofundarão nos tópicos de programação introduzidos nos cursos anteriores, buscando soluções flexíveis para problemas mais complexos. No final deste curso, os estudantes criam histórias e jogos interativos que podem compartilhar com qualquer pessoa. Este curso é recomendado para alunos de 4º-5º ano.",
+    "prerequisito": "Nenhum<br/>\n\nO Curso 3 foi desenvolvido para estudantes que já fizeram o Curso 2. Os estudantes se aprofundarão nos tópicos de programação introduzidos nos cursos anteriores, buscando soluções flexíveis para problemas mais complexos. No final deste curso, os estudantes criam histórias e jogos interativos que podem compartilhar com qualquer pessoa. Este curso é recomendado para alunos de 4º-5º ano.",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/s/course3/stage/2/puzzle/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2148,7 +2148,7 @@
     "id": 417,
     "nome": "Curso 4 Code",
     "tempo": "5",
-    "prerequisito": "Nenhum.<br/>O Curso 4 foi elaborado para os alunos que já concluíram os Cursos 2 e 3. Os alunos mergulharão mais fundo nos tópicos da programação apresentados nos cursos anteriores, para obter soluções flexíveis para problemas mais complexos. Ao final deste curso, os alunos vão criar histórias e jogos interativos que poderão ser compartilhados com qualquer pessoa. Recomendado para alunos do 4º ao 8º ano.",
+    "prerequisito": "Nenhum<br/>O Curso 4 foi elaborado para os alunos que já concluíram os Cursos 2 e 3. Os alunos mergulharão mais fundo nos tópicos da programação apresentados nos cursos anteriores, para obter soluções flexíveis para problemas mais complexos. Ao final deste curso, os alunos vão criar histórias e jogos interativos que poderão ser compartilhados com qualquer pessoa. Recomendado para alunos do 4º ao 8º ano.",
     "investimento": "GRATUITO",
     "Complemento": "CODE STUDIO<br/><b><a class=\"button\" href=\"https://studio.code.org/s/course4/stage/2/puzzle/1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2157,7 +2157,7 @@
     "id": 418,
     "nome": "Hora do Código Code Monkey",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "CODE Monkey<br/><b><a class=\"button\" href=\"https://www.playcodemonkey.com/challenges/0\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2166,7 +2166,7 @@
     "id": 419,
     "nome": "Hora do Código Run Marco",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "RUN MARCO<br/><b><a class=\"button\" href=\"https://www.allcancode.com/web/hourofcode\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2175,7 +2175,7 @@
     "id": 420,
     "nome": "Hora do Código Kodable",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "KODABLE<br/><b><a class=\"button\" href=\"https://www.kodable.com/hour-of-code\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2184,7 +2184,7 @@
     "id": 421,
     "nome": "Hora do Código Mistery Island",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "MISTERY ISLAND<br/><b><a class=\"button\" href=\"http://monstercoding.com/#hour_of_code_pt\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2193,7 +2193,7 @@
     "id": 422,
     "nome": "Intro to Game Development ",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "CODE AVENGERS<br/><b><a class=\"button\" href=\"https://www.codeavengers.com/javascript/100#1.1\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2202,7 +2202,7 @@
     "id": 423,
     "nome": "Hora do Código Code Avengers",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "CODE AVENGERS<br/><b><a class=\"button\" href=\"https://www.codeavengers.com/hour-of-code\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2211,7 +2211,7 @@
     "id": 424,
     "nome": "Hora do Código The Foos",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "THE FOOS<br/><b><a class=\"button\" href=\"http://www.thefoos.com/hour-of-code/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2220,7 +2220,7 @@
     "id": 425,
     "nome": "Hora do Código Khan Academy",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "KHAN ACADEMY<br/><b><a class=\"button\" href=\"https://pt.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2229,7 +2229,7 @@
     "id": 426,
     "nome": "Hora do Código Aprenda a Criar Páginas Web Khan Academy",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "KHAN ACADEMY<br/><b><a class=\"button\" href=\"https://pt.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2238,7 +2238,7 @@
     "id": 427,
     "nome": "Hora do Código Banco de Dados Khan Academy",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "KHAN ACADEMY<br/><b><a class=\"button\" href=\"https://pt.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2247,7 +2247,7 @@
     "id": 428,
     "nome": "Hora do Código Make School",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "MAKE SCHOOL<br/><b><a class=\"button\" href=\"https://www.makeschool.com/build-an-iphone-game-in-your-browser\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2256,7 +2256,7 @@
     "id": 429,
     "nome": "Hora do Código Blockly Games",
     "tempo": "1",
-    "prerequisito": "Nenhum.",
+    "prerequisito": "Nenhum",
     "investimento": "GRATUITO",
     "Complemento": "BLOCKLY GAMES<br/><b><a class=\"button\" href=\"https://blockly-games.appspot.com/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -2265,7 +2265,7 @@
     "id": 430,
     "nome": "HTML5 - Introdução ao Front-end",
     "tempo": "1",
-    "prerequisito": "Nenhum.<br/>Este curso é para interessados em compreender e estruturar o código do corpo de uma aplicação web, utilizando os padrões recomendados pelo W3C. São discutidas as aplicações dos principais elementos das linguagens HTML5 e CSS3 e de recursos básicos de interatividade oferecidos pela biblioteca jQuery da linguagem JavaScript.",
+    "prerequisito": "Nenhum<br/>Este curso é para interessados em compreender e estruturar o código do corpo de uma aplicação web, utilizando os padrões recomendados pelo W3C. São discutidas as aplicações dos principais elementos das linguagens HTML5 e CSS3 e de recursos básicos de interatividade oferecidos pela biblioteca jQuery da linguagem JavaScript.",
     "investimento": "GRATUITO",
     "Complemento": "TIM TEC<br/><b><a class=\"button\" href=\"https://cursos.timtec.com.br/course/html5/intro/\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
@@ -3221,7 +3221,7 @@
     "id": 605,
     "nome": "Do Bar ao Mercado",
     "tempo": "1",
-    "prerequisito": "Nenhum.<br/>Apostar em suas próprias ideias, tomar a decisão de focar em um projeto e trilhar o difícil caminho que leva uma nova empresa a dar certo. Essa pode ser a biografia resumida de muitos empreendedores, mas sabemos que na prática há uma série de outros fatores cruciais que contribuem para que um jovem empreendedor tenha sucesso.\n\nEm um momento em que nunca foi tão favorável apostar em um projeto próprio, criamos um curso com 3 diferentes visões de empreendedorismo para você se inspirar e finalmente, tirar aquela boa ideia que teve no bar e colocá-la em prática! \n\nEm nossa plataforma de vídeo você terá acesso a vídeo-aulas com Flavio Pripas, sócio-fundador da Fashion.me, Pedro Meneghetti, sócio-fundador da Have a Nice Beer e Renato Russo, fundador da GreenTee.\n\nRelatamos as trajetórias, ideias e contextos que fizeram com que esses 3 empreendedores abrissem seus próprios negócios.\n\nVocê verá que não há apenas um caminho para empreender, bem como não há um guia exato a ser seguido sobre o que exatamente fazer quando se está no começo de um projeto, a não ser ter coragem e tirar a ideia do papel.\n\nVocê também aprenderá onde os empreendedores buscam inspiração, quais seus medos, inquietações e principalmente quais as motivações que fazem com que se dediquem para colocarem seus negócios em pé.",
+    "prerequisito": "Nenhum<br/>Apostar em suas próprias ideias, tomar a decisão de focar em um projeto e trilhar o difícil caminho que leva uma nova empresa a dar certo. Essa pode ser a biografia resumida de muitos empreendedores, mas sabemos que na prática há uma série de outros fatores cruciais que contribuem para que um jovem empreendedor tenha sucesso.\n\nEm um momento em que nunca foi tão favorável apostar em um projeto próprio, criamos um curso com 3 diferentes visões de empreendedorismo para você se inspirar e finalmente, tirar aquela boa ideia que teve no bar e colocá-la em prática! \n\nEm nossa plataforma de vídeo você terá acesso a vídeo-aulas com Flavio Pripas, sócio-fundador da Fashion.me, Pedro Meneghetti, sócio-fundador da Have a Nice Beer e Renato Russo, fundador da GreenTee.\n\nRelatamos as trajetórias, ideias e contextos que fizeram com que esses 3 empreendedores abrissem seus próprios negócios.\n\nVocê verá que não há apenas um caminho para empreender, bem como não há um guia exato a ser seguido sobre o que exatamente fazer quando se está no começo de um projeto, a não ser ter coragem e tirar a ideia do papel.\n\nVocê também aprenderá onde os empreendedores buscam inspiração, quais seus medos, inquietações e principalmente quais as motivações que fazem com que se dediquem para colocarem seus negócios em pé.",
     "investimento": "GRATUITO",
     "Complemento": "DESCOLA<br/><b><a class=\"button\" href=\"http://www.descola.org/curso/1/do-bar-ao-mercado\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Empreendedorismo"
@@ -3230,7 +3230,7 @@
     "id": 606,
     "nome": "Desconstruindo a Sustentabilidade",
     "tempo": "1",
-    "prerequisito": "Nenhum.<br/>Novos pontos de vista sobre sustentabilidade. Com esse curso, vamos trazer esse tema tão falado para perto de você, mostrando seu passado, porque é tão relevante hoje, como ele influencia o nosso cotidiano e o que esperar dele no futuro.\n\nTambém mostraremos alguns conceitos já consagrados, como o \"Triple Bottom Line\", (Tripé da Sustentabilidade), Economia Verde e demais questões que englobam aspectos que vão além do simples \"conservar a natureza\" e mostram a sustentabilidade sob óticas econômicas e sociais. Você verá que sustentabilidade está na agenda de todos: governos, empresas e ongs.\n\nAo final, esperamos que você tenha um conhecimento mais plural e se inspire com o curso!",
+    "prerequisito": "Nenhum<br/>Novos pontos de vista sobre sustentabilidade. Com esse curso, vamos trazer esse tema tão falado para perto de você, mostrando seu passado, porque é tão relevante hoje, como ele influencia o nosso cotidiano e o que esperar dele no futuro.\n\nTambém mostraremos alguns conceitos já consagrados, como o \"Triple Bottom Line\", (Tripé da Sustentabilidade), Economia Verde e demais questões que englobam aspectos que vão além do simples \"conservar a natureza\" e mostram a sustentabilidade sob óticas econômicas e sociais. Você verá que sustentabilidade está na agenda de todos: governos, empresas e ongs.\n\nAo final, esperamos que você tenha um conhecimento mais plural e se inspire com o curso!",
     "investimento": "GRATUITO",
     "Complemento": "DESCOLA<br/><b><a class=\"button\" href=\"http://www.descola.org/curso/5/desconstruindo-a-sustentabilidade\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Sustentabilidade"
