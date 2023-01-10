@@ -1244,7 +1244,7 @@
   },
   {
     "id": 217,
-    "nome": "INFORMÁTICA E INTERNET INTERMEDIÁRIO",
+    "nome": "Informática e Internet Intermediário",
     "tempo": "20",
     "prerequisito": "Nenhum.<br/>Possibilitar a aprendizagem quanto à utilização do computador, de dispositivos móveis e dos recursos da internet de maneira mais aprofundada, indicando como aplicá-los nas tarefas do cotidiano para impulsionar o seu negócio rural.",
     "investimento": "GRATUITO",
@@ -2533,7 +2533,7 @@
   },
   {
     "id": 494,
-    "nome": "INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO",
+    "nome": "Introdução à Lógica de Programação",
     "tempo": "1",
     "prerequisito": "APRENDA O QUE É A LÓGICA DE PROGRAMAÇÃO SOB DIVERSAS PERSPECTIVAS E EXEMPLOS",
     "investimento": "GRATUITO",
