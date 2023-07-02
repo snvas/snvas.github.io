@@ -3206,9 +3206,8 @@
     "Complemento": "SOFTBLUE<br/><b><a class=\"button\" href=\"http://www.softblue.com.br/site/curso/id/6/CURSO+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
   },
-  
   {
-    "id": 578,
+    "id": 570,
     "nome": "LIBRAS - Língua Brasileira de Sinais",
     "tempo": "10",
     "prerequisito": "Nenhum",
@@ -3216,9 +3215,8 @@
     "Complemento": "EAD USP<br/><b><a class=\"button\" href=\"http://disciplinas.stoa.usp.br/course/view.php?id=5603&section=0\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Educação"
   },
-  
   {
-    "id": 605,
+    "id": 570,
     "nome": "Do Bar ao Mercado",
     "tempo": "1",
     "prerequisito": "Nenhum<br/>Apostar em suas próprias ideias, tomar a decisão de focar em um projeto e trilhar o difícil caminho que leva uma nova empresa a dar certo. Essa pode ser a biografia resumida de muitos empreendedores, mas sabemos que na prática há uma série de outros fatores cruciais que contribuem para que um jovem empreendedor tenha sucesso.\n\nEm um momento em que nunca foi tão favorável apostar em um projeto próprio, criamos um curso com 3 diferentes visões de empreendedorismo para você se inspirar e finalmente, tirar aquela boa ideia que teve no bar e colocá-la em prática! \n\nEm nossa plataforma de vídeo você terá acesso a vídeo-aulas com Flavio Pripas, sócio-fundador da Fashion.me, Pedro Meneghetti, sócio-fundador da Have a Nice Beer e Renato Russo, fundador da GreenTee.\n\nRelatamos as trajetórias, ideias e contextos que fizeram com que esses 3 empreendedores abrissem seus próprios negócios.\n\nVocê verá que não há apenas um caminho para empreender, bem como não há um guia exato a ser seguido sobre o que exatamente fazer quando se está no começo de um projeto, a não ser ter coragem e tirar a ideia do papel.\n\nVocê também aprenderá onde os empreendedores buscam inspiração, quais seus medos, inquietações e principalmente quais as motivações que fazem com que se dediquem para colocarem seus negócios em pé.",
@@ -3227,7 +3225,7 @@
     "Categoria": "Empreendedorismo"
   },
   {
-    "id": 606,
+    "id": 571,
     "nome": "Desconstruindo a Sustentabilidade",
     "tempo": "1",
     "prerequisito": "Nenhum<br/>Novos pontos de vista sobre sustentabilidade. Com esse curso, vamos trazer esse tema tão falado para perto de você, mostrando seu passado, porque é tão relevante hoje, como ele influencia o nosso cotidiano e o que esperar dele no futuro.\n\nTambém mostraremos alguns conceitos já consagrados, como o \"Triple Bottom Line\", (Tripé da Sustentabilidade), Economia Verde e demais questões que englobam aspectos que vão além do simples \"conservar a natureza\" e mostram a sustentabilidade sob óticas econômicas e sociais. Você verá que sustentabilidade está na agenda de todos: governos, empresas e ongs.\n\nAo final, esperamos que você tenha um conhecimento mais plural e se inspire com o curso!",
@@ -3236,7 +3234,7 @@
     "Categoria": "Sustentabilidade"
   },
   {
-    "id": 630,
+    "id": 572,
     "nome": "Otimização de Renderização no Browser",
     "tempo": "6",
     "prerequisito": "Você é um desenvolvedor web que já escreveu aplicativos usando HTML, CSS e JavaScript.\nVocê já usou o Chrome DevTools.\n(Recomendado) Conhecimento prévio sobre o caminho de renderização crítica do curso Otimização de Performance de Website será útil.",
@@ -3245,7 +3243,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 631,
+    "id": 573,
     "nome": "Introdução ao jQuery Manipulando Websites com Facilidade",
     "tempo": "6",
     "prerequisito": "Para ter sucesso neste curso, esperamos que você tenha um pouco de experência em HTML e JavaScript. Você deve, no mínimo, compreender loops, funções e instruções condicionais (if / else).\n\nO curso JavaScript Básico e o curso HTML/CSS são boas preparações para este curso.",
@@ -3254,7 +3252,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 632,
+    "id": 574,
     "nome": "Otimização de Performance de Website\nO Caminho de Renderização Crítico",
     "tempo": "6",
     "prerequisito": "Este curso é para qualquer e todos os desenvolvedores web, se você começou a aprender sobre HTML, CSS e JavaScript recentemente, ou se tem construido sites desde os anos noventa!\n\nFundamentalmente, você deve ser capaz de explicar o propósito geral do HTML, CSS e JavaScript com relação a estrutura do site. Além disso, você deve ter facilidade para ler e escrever documentos HTML e modificar arquivos JavaScript.\n\nEste curso usa o Google Chrome e o Google Chrome Canary.",
@@ -3263,7 +3261,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 633,
+    "id": 575,
     "nome": "Análise de Dados com R Visualmente analisar e sintetizar conjuntos de dados",
     "tempo": "6",
     "prerequisito": "Conhecimento prévio em estatística é útil, mas não é obrigatório. Considere o curso Introdução à Estatística Descritiva e Introdução à Estatística Inferencial antes de fazer este curso. Os tópicos relevantes incluem:\n\nMédia, mediana, moda\nNormal, uniforme, e distribuição heterogênea\nOs histogramas e caixa parcelas\n\nA familiaridade com os seguintes tópicos em ciência da computação e matemática vai ajudar os alunos a:\n\nAtribuição de variável\nComparação e operadores lógicos (<, >, <=, >=, ==, &, |)\nIf else\nRaízes quadradas, logaritmos e exponenciais",
@@ -3272,7 +3270,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 634,
+    "id": 576,
     "nome": "HTML5 Canvas Dos Pixels à Animação!",
     "tempo": "6",
     "prerequisito": "Para ter sucesso neste curso, esperamos que você tenha um pouco de experiência em HTML e JavaScript. Você deve, no mínimo, compreender loops, funções e instruções condicionais (if / else).\n\nO curso JavaScript Básico e o curso Introdução ao HTML e CSS são boas preparações para este curso.",
@@ -3281,7 +3279,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 635,
+    "id": 577,
     "nome": "Linha de Comando Linux Básico Iniciando com a Shell",
     "tempo": "6",
     "prerequisito": "Para fazer este curso, você deve ter experiência de nível iniciante em linguagens de programação como Python ou JavaScript. Embora este curso não envolva programação, fazemos uso de conceitos que são familiares para o programador iniciante como \"funções\", \"expressões\", e \"seqüências\".\n\nNota: Este curso é destinado para iniciantes no ambiente shell. Se você trabalhou com shell script ou já usou trabalhou com shell anteriormente, este curso será, provavelmente, muito introdutório para você. Você pode vefiricar nosso curso Configurando Servidores Web Linux",
@@ -3290,7 +3288,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 636,
+    "id": 578,
     "nome": "Introdução à Análise de Dados Análise de Dados Usando NumPy e Pandas",
     "tempo": "6",
     "prerequisito": "Para fazer este curso, você precisa estar confortável com programação em Python.\n\nVocê deve estar familiarizado com as instruções if, loops, funções, listas, conjuntos e dicionários. Para saber mais sobre qualquer um desses tópicos, faça o curso Introdução à Ciência da Computação.\nVocê também deve estar familiarizado com classes, objetos e módulos. Para saber mais sobre esses tópicos, fazer o curso Fundamentos de Programação com Python.",
@@ -3299,7 +3297,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 637,
+    "id": 579,
     "nome": "Aprendizado de Máquina Supervisionado, Não-Supervisionado e Por Reforço",
     "tempo": "6",
     "prerequisito": "Forte familiaridade com Teoria das Probabilidades, Álgebra Linear e Estatística é necessária. Uma compreensão da Introdução à Estatística, especialmente Lições 8, 9 e 10, seria útil.\n\nOs alunos também devem ter alguma experiência em programação (talvez através do Introdução à Ciência da Computação ) e uma familiaridade com Redes Neurais (abordado no curso Introdução à Inteligência Artificial).",
@@ -3308,7 +3306,7 @@
     "Categoria": "Inteligência Artificial"
   },
   {
-    "id": 638,
+    "id": 580,
     "nome": "Deep Learning Leve o aprendizado de máquina ao próximo nível",
     "tempo": "6",
     "prerequisito": "Este é um curso de nível intermediário a avançado. Antes de fazer este curso, além dos pré-requisitos e requisitos descritos para o programa Nanodegree Engenheiro de Aprendizado de Máquina, você deve possuir a seguinte experiência e habilidades:\n\nMínimo 2 anos de experiência em programação (preferencialmente em Python)\nExperiência com Git e GitHub (código dos exerícios está em um repositório GitHub)\nConhecimento em aprendizado de máquina básica (ensino especial supervisionado)\nAs estatísticas básicas do conhecimento (média, variância, desvio padrão, etc.)\nÁlgebra linear (vetores, matrizes, etc.)\nCálculo (diferenciação, integrais, derivadas parciais, etc.)",
@@ -3317,7 +3315,7 @@
     "Categoria": "Inteligência Artificial"
   },
   {
-    "id": 639,
+    "id": 581,
     "nome": "IA Baseado em Conhecimento: Sistemas Cognitivos O Núcleo da Inteligência Artificial",
     "tempo": "6",
     "prerequisito": "Um bom curso de programação de computadores, tais como o CS1332 ou CS101 da Udacity é benéfica para os alunos. Um curso introdutório sobre Inteligência Artificial, tais como Georgia Tech CS3600 ou CS6601, é recomendável, mas não necessário.\n\nPara ter sucesso neste curso, você deve ser capaz de responder \"sim\" às quatro questões seguintes:\n\nVocê está confortável com programação?\nVocê está familiarizado com os conceitos de estruturas de dados e programação orientada a objetos, tais como herança e polimorfismo?\nVocê está familiarizado com conceitos de algoritmos, como algoritmos de classificação e busca?\nvocê se sente confiante com o Java ou Python?",
@@ -3326,7 +3324,7 @@
     "Categoria": "Inteligência Artificial"
   },
   {
-    "id": 640,
+    "id": 582,
     "nome": "Introdução ao Aprendizado de Máquina Reconhecimento de Padrões para diversão e lucro",
     "tempo": "6",
     "prerequisito": "Para ter sucesso neste curso, você deve ser proficiente em programação em Python e estatísticas básicas. Se você precisar de uma reciclagem sobre qualquer um desses tópicos, você pode verificar esses cursos:\n\nIntrodução à Ciência da Computação (Você deve saber estruturas de dados básicos e instruções de controle, e ser capaz de escrever funções e importá-las.)\n\nEstatística Inferencial\n\nEstatística Descritiva\n\nUm curso adicional que seria bom fazer é a Introdução à Ciência Dados, para familiarizá-lo com a resolução de problemas científicos. No entanto, a conclusão dessa aula não é necessária para ter sucesso. Também vamos usar um pouco de git, que você também pode aprender na Udacity.\n\nUma coisa que não exigem é a exposição prévia ao aprendizado de máquina. Se você é um novato aprendizagem de máquina, você está no lugar certo.",
@@ -3335,7 +3333,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 641,
+    "id": 583,
     "nome": "Introdução ao AJAX\nFazendo requisições Assíncronas com jQuery",
     "tempo": "6",
     "prerequisito": "Proficiência intermediária com JavaScript (equivalente ao curso JavaScript Básico).\nFamiliaridade com HTML/CSS.",
@@ -3344,7 +3342,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 642,
+    "id": 584,
     "nome": "Como Usar o Git e o GitHub Controle de Versão para Código",
     "tempo": "6",
     "prerequisito": "Mesmo que este curso não envolva programação, os alunos devem ter alguma experiência com uma programação ou linguagens de marcação. Além disso, os alunos devem estar familiarizados com navegação na linha de comando. Se precisar revisar o conteúdo, dê uma olhada nestas instruções ou neste curso introdutório.",
@@ -3353,7 +3351,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 643,
+    "id": 585,
     "nome": "JavaScript Básico A Linguagem de Programação da Web",
     "tempo": "6",
     "prerequisito": "Esperamos que você tenha alguma experiência de programação em outra outra linguagem, como Python, e possa descrever conceitos como loops, funções e objetos. Nossa Introdução à Ciência da Computação e Fundamentos de Programação com Python são ótimos lugares para começar.\n\nEmbora descrevamos os princípios subjacentes das técnicas básicas de programação, este curso foca na implementação dos princípios com JavaScript em vez dos próprios princípios.\n\nHTML e CSS não são necessários, no entanto, o conhecimento de CSS irá ajudá-lo a personalizar o seu projeto currículo.",
@@ -3362,7 +3360,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 644,
+    "id": 586,
     "nome": "Teste A/B Design Online de Experiência e Análise",
     "tempo": "6",
     "prerequisito": "Esta disciplina exige conhecimentos introdutórios de estatística descritiva e inferencial. Se você ainda não aprendeu estes temas, ou precisa de uma reciclagem, eles são cobertos nos cursos Udacity Estatística Inferencial e Estatística Descritiva.\n\nA experiência prévia com o teste A/B não é necessária, e nem conhecimento de programação.",
@@ -3371,7 +3369,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 645,
+    "id": 587,
     "nome": "Material Design para Desenvolvedores Android Aplique o Material Design em seus Apps",
     "tempo": "6",
     "prerequisito": "Para tirar o máximo proveito deste curso, você deve ter experiência prévia em desenvolvimento de aplicativos Android. Se você não tem essa experiência, visite Desenvolvendo Aplicativos Android antes de se matricular neste curso. Recomendamos também fazer o curso Desenvolvimento de Aplicativos Android Avançado se você estiver interessado em publicar seu aplicativo no Google Play Store\n\nPara acompanhar as atividades do curso, você deve ter acesso à última versão do Android Studio, e ter acesso a um dispositivo Android para executar e testar seus aplicativos.\n\nNós compartilhamos código por meio Github, então você deve estar familiarizado com o uso Github para acessar código. Faça o nosso curso Usando Git e Github se você não tiver esse conhecimento.",
@@ -3380,7 +3378,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 646,
+    "id": 588,
     "nome": "Testando JavaScript Desenvolvendo Apps com Confiança",
     "tempo": "6",
     "prerequisito": "Você deve ter familiaridade com JavaScript e o uso de seus recursos de programação orientada à objeto. Se você precisar de uma reciclagem sobre estes temas, considere os nossos cursos JavaScript Básico e JavaScript Orientado a Objetos.",
@@ -3389,7 +3387,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 647,
+    "id": 589,
     "nome": "Gradle para Android e Java Construindo Aplicativos Melhores Através da Automação",
     "tempo": "6",
     "prerequisito": "Este é um curso avançado destinado a estudantes com experiência no desenvolvimento de aplicativos Android ou Java.\n\nSe você não tem essa experiência, visite Desenvolvendo Aplicativos Android e Desenvolvendo Aplicativos Android Avançado ante de prosseguir com este curso.\n\nPara acompanhar as atividades do curso, é necessário ter acesso à última versão do Android Studio.\nVocê deve ter acesso a um dispositivo Android para executar e testar seus aplicativos.\nVocê também deve estar familiarizado com Github. Faça o nosso curso Usando Git and Github se você não tiver essa experiência.",
@@ -3398,7 +3396,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 648,
+    "id": 590,
     "nome": "Inteligência Artificial para Robótica Programando um Carro Robótico",
     "tempo": "6",
     "prerequisito": "O sucesso nesta disciplina exige alguma experiência em programação e alguma fluência matemática.\n\nProgramação neste curso é feita em Python. Nós usaremos alguns conceitos básicos de orientação a objetos para modelar o movimento do robô e percepção. Se você não sabe Python, mas tem experiência com outra linguagem, você deve ser capaz de aprender a sintaxe com bastante rapidez. Se você não tem experiência de programação, você deve considerar o curso Introdução a Ciência da Computação da Udacity antes de tentar este.\n\nA matemática utilizada será centrada na probabilidade e álgebra linear. Você não precisa ser um especialista em nenhum deles, mas alguma familiaridade com conceitos de probabilidade (por exemplo probabilidades devem somar um, probabilidade condicional, e a regra de Bayes) serão extremamente úteis. É possível aprender esses conceitos durante o curso, mas vai demandar mais trabalho. Conhecimento de álgebra linear, embora útil, não é necessária.",
@@ -3407,7 +3405,7 @@
     "Categoria": "Inteligência Artificial"
   },
   {
-    "id": 649,
+    "id": 591,
     "nome": "Fundamentos do Design Responsivo para a Web Ótimas experiências em qualquer dispositivo",
     "tempo": "6",
     "prerequisito": "Você deve ter facilidade em ler e escrever HTML e CSS. Você também deve ser capaz de inspecionar e modificar sites usando ferramentas de desenvolvimento do navegador (usamos o Google Chrome, mas você deve ser capaz de realizar todas as tarefas neste curso com ferramentas de desenvolvimento de qualquer navegador).\n\nSe você não estiver familiarizado com HTML e CSS, ou sentir que precisa de uma reciclagem, começe com a nossa Introdução ao HTML e CSS.\n\nVocê não vai precisar escrever JavaScript para este curso.",
@@ -3416,7 +3414,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 650,
+    "id": 592,
     "nome": "Android TV e Desenvolvimento Google Cast\nLeve seu App para a TV",
     "tempo": "6",
     "prerequisito": "Para tirar o máximo proveito deste curso, você deve ter experiência prévia em desenvolvimento de aplicativos Android. Se você não tem essa experiência, visite Desenvolvendo Aplicativos Android antes de se matricular neste curso.\n\nPara acompanhar as atividades do curso, você deve ter acesso à última versão do Android Studio.\n\nNós compartilhamos código por meio Github, então você deve estar familiarizado com o uso Github para acessar os código. Faça o nosso curso sobre Usando Git e Github se você não tiver essa experiência.",
@@ -3425,7 +3423,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 651,
+    "id": 593,
     "nome": "JavaScript Design Patterns Organizando Código em um Mundo Desorganizado",
     "tempo": "6",
     "prerequisito": "Este curso é para desenvolvedores web intermediários com alguma experiência com JavaScript, e alguma experiência prévia com uma biblioteca JavaScript, como jQuery.\n\nOs alunos também devem ser proficientes em HTML e CSS, e devem ter experiência na criação de páginas estáticas.",
@@ -3434,7 +3432,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 652,
+    "id": 594,
     "nome": "JavaScript Orientado a Objetos\nEscrevendo Códigos Reutilizáveis e Fáceis de Manter",
     "tempo": "6",
     "prerequisito": "Este curso é para iniciante para desenvolvedores web intermediários com uma compreensão da sintaxe do JavaScript. Especificamente, você deve saber como escrever estruturas de controle, escrever funções simples, e reconhecer os diferentes tipos de variáveis em JavaScript. Bem como ser capaz de ler o código JavaScript existente com esses recursos e prever o seu resultado. Se você precisar de uma reciclagem sobre esses pré-requisitos, consulte o JavaScript Básico .",
@@ -3443,7 +3441,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 653,
+    "id": 595,
     "nome": "Desenvolvimento Android Wear\nEstenda Seus Apps para Relógios Inteligentes Android",
     "tempo": "6",
     "prerequisito": "Para tirar o máximo proveito deste curso, você deve ter experiência prévia em desenvolvimento de aplicativos Android. Se você não tem essa experiência, visite Desenvolvendo Aplicativos Android antes de se matricular neste curso.\n\nPara acompanhar as atividades do curso, você deve ter acesso à última versão do Android Studio.\n\nNós compartilhamos código por meio Github, então você deve estar familiarizado com o uso Github para acessar os código. Faça o nosso curso sobre Usando Git e Github se você não tiver essa experiência.",
@@ -3452,7 +3450,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 654,
+    "id": 596,
     "nome": "Desenvolvimento Android Auto\nColoque seus Apps No Carro",
     "tempo": "6",
     "prerequisito": "Para tirar o máximo proveito deste curso, você deve ter experiência prévia em desenvolvimento de aplicativos Android. Se você não tem essa experiência, visite Desenvolvendo Aplicativos Android antes de se matricular neste curso. Recomendamos também fazer Desenvolvendo Aplicativos Android Avançado e Serviços Google Play.\n\nPara acompanhar as atividades do curso, você deve ter acesso à última versão do Android Studio.\n\nNós compartilhamos código por meio Github, então você deve estar familiarizado com o uso Github para acessar os códigos. Faça o nosso curso Usando Git e Github se você não estiver fimiliarizado.",
@@ -3461,7 +3459,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 655,
+    "id": 597,
     "nome": "Aprendizado por Reforço\nEstude aprendizado de máquina mais a fundo e torne-se um participante na comunidade de pesquisa de aprendizado por reforço.",
     "tempo": "6",
     "prerequisito": "Antes de fazer este curso, você deveria ter feito um curso de graduação em aprendizado de máquina e deve ter tido alguma exposição ao aprendizado por reforço de um curso anterior ou seminário em ciência da computação (estudantes que tenham concluído o CS 7641 estarão bem preparados para este curso).\n\nAlém disso, você estará programando extensivamente em Java durante este curso. Se você não estiver familiarizado com Java, recomendamos que você reveja a Introdução à Programação Java da Udacity para chegar preparado.",
@@ -3470,7 +3468,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 656,
+    "id": 597,
     "nome": "Desenvolvimento de Apps Android Avançado\nProduza e Publique Seus Apps",
     "tempo": "6",
     "prerequisito": "Para tirar o máximo proveito deste curso, você deve ter pelo menos 1-2 anos de experiência em Java e experiência prévia em desenvolvimento de aplicativos Android. Se você não tem experiência em desenvolvimento Android, visite o curso, Desenvolvendo Aplicativos Android antes de se matricular neste curso.\n\nO acesso a um dispositivo Android é útil, mas você pode usar um emulador, se preferir.\n\nVamos compartilhar o código para este curso no Github, então você deve estar familiarizado com o uso Github para completar as atividades e o projeto final. Faça nosso curso Usando Git and Github se precisar.",
@@ -3479,7 +3477,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 657,
+    "id": 599,
     "nome": "Imagens Responsivas\nMenos Bytes, Carregamento mais rápido",
     "tempo": "6",
     "prerequisito": "Você deve ter facildade para trabalhar com HTML, CSS e JavaScript simples. Experiência com ferramentas de criação e processamento de imagem também irá ajudar.",
@@ -3488,7 +3486,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 658,
+    "id": 600,
     "nome": "Introdução à Estatística Descritiva\nEntendendo Dados através da Matemática",
     "tempo": "6",
     "prerequisito": "Este curso requer compreensão de álgebra básica e aritmética.",
@@ -3497,7 +3495,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 659,
+    "id": 601,
     "nome": "Aprendizado de Máquina para Negociação\nOferecido pela Georgia Tech como CS 7646",
     "tempo": "6",
     "prerequisito": "Os alunos devem ter ótimas habilidades de programação e alguma familiaridade com os mercados de ações. Experiência em finanças ou de aprendizado de máquina não é necessária.\n\nObserve que este curso atende alunos com foco em ciência da computação, bem como os alunos em outros cursos como engenharia de sistemas industriais, gestão, ou de matemática que têm experiências diferentes. Todos os alunos são bem-vindos!\n\nOs tópicos de ML pode ser uma \"revisão\" para estudantes de CS, enquanto a parte de finanças será uma revisão para estudantes de finanças. No entanto, mesmo se você tiver experiência nestes tópicos, você poderá notar que nós os consideramos de forma diferente do que você pode ter visto antes e, particularmente, a implementação de negociação.\n\nA programação será principalmente em Python. Vamos fazer uso pesado de bibliotecas computação numérica como NumPy e Pandas.",
@@ -3506,7 +3504,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 660,
+    "id": 602,
     "nome": "Tratamento de Dados com MongoDB\nManipulação de Dados e Recuperação",
     "tempo": "6",
     "prerequisito": "O estudante ideal deve ter as seguintes habilidades:\n\nExperiência de programação em Python ou uma vontade de ler um pouco documentação para entender exemplos e exercícios ao longo do curso.\nA capacidade de realizar uma administração rudimentar do sistema no Windows ou Unix.\nPelo menos alguma experiência usando um shell UNIX ou Windows PowerShell será útil, mas não é necessário.\n\nNão é necessária qualquer experiência prévia com os bancos de dados.\n\nSobre MongoDB \nEste curso é desenvolvido em conjunto com MongoDB, Inc., o criador e principal contribuinte para o banco de dados open source MongoDB. MongoDB é o principal banco de dados NoSQL. Projetado para a forma como construímos e executamos aplicações de hoje, o MongoDB capacita as organizações a ser mais ágil e escalável. Ele permite que novos tipos de aplicações, melhor experiência ao cliente, tempo mais rápido de entrega e custos mais baixos.",
@@ -3515,7 +3513,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 661,
+    "id": 603,
     "nome": "Fundamentos da Programação com Python\nAprenda Programacao Orientada a Objetos",
     "tempo": "6",
     "prerequisito": "É preciso alguma familiaridade com as seguintes recursos de programação em qualquer linguagem de computador (C++, Java, Python, Inglês etc.):\n\ndeclaração if\nlaços\nfunções\nNão se preocupe se você sente que precisa de uma reciclagem sobre qualquer uma dessas idéias de programação. Isso está ok. Vamos fornecer informações que irão lembrá-lo como usar essas estruturas na construção de programas.",
@@ -3524,7 +3522,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 662,
+    "id": 604,
     "nome": "Desenvolvendo Apps Android Fundamentos do Android",
     "tempo": "6",
     "prerequisito": "Este curso é destinado a estudantes com pelo menos 1 ano de experiência de programação em Java ou outra linguagem de programação orientada a objetos (por exemplo: C ++, Objective C ou Python). A Introdução ao Java será útil se você precisar atualizar suas habilidades com Java.\n\nVocê precisará baixar o Android Studio , a fim de seguir junto com os instrutores ao longo do curso. Além disso, você deve estar confortável para trabalhar com cógido no Github.\n\nO acesso a um dispositivo Android é útil - mas não obrigatório - para concluir o projeto final.",
@@ -3533,7 +3531,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 663,
+    "id": 605,
     "nome": "Introdução à Ciência de Dados \nO Que é Preciso Para Se Tornar Um Cientista de Dados",
     "tempo": "6",
     "prerequisito": "Os estudantes ideais para esta aula são indivíduos preparados que têm:\n\nForte interesse na ciência de dados\nExperiência prévia em estatísticas de nível de introdutório\nExperiência de programação em Python\nOu compreensão de conceitos de programação como variáveis, funções, loops e estruturas de dados Python básicas, como listas e dicionários\nSe você precisa rever alguns conceitos, recomendamos Introdução à Ciência da Computação: Construindo um Search Engine. Se você precisar de uma reciclagem sobre as estatística, inscreva-se no Introdução à Estatística Descritiva e Introdução à Estatística Inferencial. Todos os três estão na Udacity!",
@@ -3542,7 +3540,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 664,
+    "id": 606,
     "nome": "Vizualização de Dados e D3.js \nComunicando-se Através do Dados",
     "tempo": "6",
     "prerequisito": "Independentemente da sua experiência com programação, você pode aprender sobre os princípios de visualização de dados e design na Lição 1a e Lição 2a sem o seguinte contexto recomendado.\n\nPara ter sucesso neste curso, você deve estar familiarizado com princípios básicos de programação, incluindo tipos de dados (strings, arrays, booleans, etc.), if else declarações, e for loops. Você também deve ser capaz de descrever conceitos como funções e objetos. Nossos cursos Introdução à Ciência da Computação e Fundamentos de Programação com Python são ótimos lugares para começar.\n\nO conhecimento básico de HTML e CSS (estruturação e estilos de uma página web) não é necessário, mas altamente recomendado. Sugerimos fazer o Introdução ao HTML e CSS se você não tem experiência com HTML ou CSS.\n\nO projeto final pode ser concluído usando tanto dimple.js ou d3.js. A biblioteca de visualização, dimple.js, é mais fácil de usar do que d3.js e exige menos conhecimento prévio. Além disso, um gráfico pode ser criado com menos linhas de código usando dimple.js em vez do d3.js.\n\nEntão, por que você deve aprender d3.js?\n\nDocumentos dirigidos por dados (d3.js) permitem que você crie gráficos altamente personalizados. Se você quer ganhar mais competências técnicas e saber mais sobre Javascript e padrões web abertos, então você deve completar a Lição 3 e Lição 4, para se preparar para o projeto final.\n\nSe você quiser completar o projeto final utilizando d3.js, você deve ter alguma experiência de leitura e uso de documentação. Por exemplo, você deve ",
@@ -3551,7 +3549,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 665,
+    "id": 607,
     "nome": "ECONOMIA CIRCULAR",
     "tempo": "",
     "prerequisito": "O aluno deverá, no início do curso, ter no mínimo 14 anos de idade.\nO aluno deverá ter completado a 5ª série do Nível Fundamental.\nTer conhecimentos básicos em informática e navegação na internet. <br/> O curso Economia Circular tem como objetivo apresentar o modelo de produção circular, identificando o sistema econômico vigente e compreendendo as formas de transição nas esferas comportamental, empresarial e político-institucional.",
@@ -3560,7 +3558,7 @@
     "Categoria": "Empreendedorismo"
   },
   {
-    "id": 666,
+    "id": 608,
     "nome": "EMPREENDER SENAI",
     "tempo": "20",
     "prerequisito": "O aluno deverá, no início do curso, ter no mínimo 14 anos de idade.\nO aluno deverá ter completado a 6ª série do Nível Fundamental.\nINFORMATICA BÁSICA; - Ter acesso à internet com conexão de, no mínimo, 1 Mbps.<br/> O Curso de Aperfeiçoamento Profissional EMPREENDER SENAI tem por objetivo propiciar ao aluno a obtenção da base conceitual e de ferramentas de gestão que lhe suportem na estruturação de um negócio próprio considerando viabilidade, público-alvo, habilidades pessoais, análise de mercado e aspectos legais.",
@@ -3569,7 +3567,7 @@
     "Categoria": "Empreendedorismo"
   },
   {
-    "id": 667,
+    "id": 609,
     "nome": "DESVENDANDO A BLOCKCHAIN",
     "tempo": "20",
     "prerequisito": "O aluno deverá, no início do curso, ter no mínimo 14 anos de idade.\nO aluno deverá ter completado a 5ª série do Nível Fundamental.\nTer conhecimentos básicos em informática e navegação na internet. <br/> O Curso de Aperfeiçoamento Profissional Desvendando a Blockchain tem por objetivo apresentar a tecnologia da Blockchain, propiciando ao aluno a obtenção da base conceitual desta tecnologia, seu funcionamento e os benefícios que ela proporciona para o mundo dos negócios.",
@@ -3578,7 +3576,7 @@
     "Categoria": "Tecnologia da Informação"
   },
   {
-    "id": 668,
+    "id": 610,
     "nome": "DESVENDANDO A INDÚSTRIA 4.0",
     "tempo": "20",
     "prerequisito": "Nenhum<br/>Apresentar a Indústria 4.0, propiciando ao aluno a introdução ao tema e a obtenção da base conceitual das tecnologias habilitadoras que suportam a Indústria 4.0",
@@ -3586,7 +3584,7 @@
     "Complemento": "SENAI SP<br/><b><a class=\"button\" href=\"https://online.sp.senai.br/curso/86817/483/desvendando-a-industria-40\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
   },{
-    "id": 669,
+    "id": 611,
     "nome": "Understanding Machine Learning",
     "tempo": "2",
     "prerequisito": "Nenhum<br/>O que está por trás do hype do aprendizado de máquina? Neste curso não técnico, você aprenderá tudo o que tem medo de perguntar sobre aprendizado de máquina. Não há codificação necessária. Os exercícios práticos ajudarão você a superar o jargão e aprender como essa tecnologia empolgante alimenta tudo, desde carros autônomos até suas sugestões pessoais de compras na Amazon. Como funciona o aprendizado de máquina, quando você pode usá-lo e qual é a diferença entre IA e aprendizado de máquina? Eles estão todos cobertos. Adquira habilidades neste campo extremamente requisitado e influente e descubra por que o aprendizado de máquina é para todos!",
@@ -3594,7 +3592,7 @@
     "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/understanding-machine-learning\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Inteligência Artificial"
   },{
-    "id": 670,
+    "id": 612,
     "nome": "AI Fundamentals",
     "tempo": "4",
     "prerequisito": "Nenhum<br/>Então, sobre o que é todo esse alarido da IA? Machine Learning, Deep Learning, Predictive Analytics -- qual é a realidade por trás do hype? Como as máquinas realmente aprendem e quais são seus limites? Como podemos usar o Machine Learning para reconhecer dígitos escritos, prever rotatividade de clientes e encontrar estrutura nos tweets de Elon Musk? Tudo isso -- e muito mais -- é o tema deste curso, que vai te apresentar ao mundo da IA ​​de forma suave, mas firme e muito prática.",
@@ -3602,7 +3600,7 @@
     "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/ai-fundamentals\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Inteligência Artificial"
   },{
-    "id": 671,
+    "id": 613,
     "nome": "Understanding Data Engineering",
     "tempo": "2",
     "prerequisito": "Nenhum<br/>Em 2019, o salário médio dos engenheiros de dados ultrapassou os cientistas de dados. Como isso aconteceu? As empresas que desejam encontrar o ouro em seus dados perceberam que não seria possível se ainda não tivessem construído a mina. Os engenheiros de dados estabelecem as bases que tornam a ciência de dados possível.\nNeste curso, você aprenderá sobre as principais responsabilidades de um engenheiro de dados, como eles diferem dos cientistas de dados e como facilitar o fluxo de dados em uma organização. Por meio de exercícios práticos, você acompanhará a Spotflix, uma empresa fictícia de streaming de música, para entender como seus engenheiros de dados coletam, limpam e catalogam seus dados. Ao final do curso, você entenderá o que os engenheiros de dados da sua empresa fazem, estará pronto para conversar com um engenheiro de dados e terá uma base sólida para iniciar sua própria jornada de engenheiro de dados.",
@@ -3610,7 +3608,7 @@
     "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/understanding-data-engineering\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
   },{
-    "id": 672,
+    "id": 614,
     "nome": "Understanding Data Science",
     "tempo": "2",
     "prerequisito": "Nenhum<br/>O que é ciência de dados, por que ela é tão popular e por que a Harvard Business Review a considerou o “trabalho mais sexy do século 21”? Neste curso não técnico, você será apresentado a tudo o que sempre teve medo de perguntar sobre esse campo empolgante e em rápido crescimento, sem precisar escrever uma única linha de código. Por meio de exercícios práticos, você aprenderá sobre as diferentes funções do cientista de dados, tópicos fundamentais como teste A/B, análise de séries temporais e aprendizado de máquina, e como os cientistas de dados extraem conhecimento e insights de dados do mundo real. Portanto, não se deixe levar pelos chavões. Comece a aprender, adquira habilidades neste campo extremamente procurado e descubra por que a ciência de dados é para todos!",
@@ -3618,7 +3616,7 @@
     "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/understanding-data-science\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
   },{
-    "id": 673,
+    "id": 615,
     "nome": "Introduction to Python",
     "tempo": "4",
     "prerequisito": "Nenhum<br/>Python é uma linguagem de programação de propósito geral que está se tornando cada vez mais popular para ciência de dados. Empresas em todo o mundo estão usando o Python para coletar insights de seus dados e obter uma vantagem competitiva. Ao contrário de outros tutoriais do Python, este curso se concentra no Python especificamente para ciência de dados. Em nosso curso Introdução ao Python, você aprenderá sobre maneiras poderosas de armazenar e manipular dados e ferramentas úteis de ciência de dados para começar a conduzir suas próprias análises. Comece o currículo online de Python do DataCamp agora.",
@@ -3626,7 +3624,7 @@
     "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/intro-to-python-for-data-science\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
   },{
-    "id": 674,
+    "id": 616,
     "nome": "Introduction to SQL",
     "tempo": "2",
     "prerequisito": "Nenhum<br/>Muitos dos dados brutos do mundo – de registros médicos eletrônicos a históricos de transações de clientes – residem em coleções organizadas de tabelas chamadas bancos de dados relacionais. Ser capaz de processar e extrair dados desses bancos de dados usando SQL é uma habilidade essencial no setor de dados e na demanda crescente.\nNesta introdução de duas horas ao SQL, você conhecerá a teoria e a prática por meio de pequenos vídeos e exercícios interativos nos quais poderá testar suas novas habilidades.",
@@ -3634,7 +3632,7 @@
     "Complemento": "DATACAMP<br/><b><a class=\"button\" href=\"https://www.datacamp.com/courses/introduction-to-sql\" target=\"_blank\">Inscreva-se</a></b>",
     "Categoria": "Tecnologia da Informação"
   },{
-    "id": 675,
+    "id": 617,
     "nome": "Introduction to R",
     "tempo": "4",
     "prerequisito": "Nenhum<br/>R é a linguagem de programação mais popular na indústria de dados graças ao uso de vetores e sua variedade de pacotes pré-processados. É muito procurado por cientistas de dados, analistas e estatísticos e é capaz de lidar com IA, aprendizado de máquina, análise financeira e muito mais.\nEsta introdução ao curso R cobre os fundamentos desta linguagem de código aberto, incluindo vetores, fatores, listas e quadros de dados. Você obterá habilidades úteis de codificação e estará pronto para iniciar sua própria análise de dados em R.",
